@@ -4,8 +4,96 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Wed, 09 Jul 2025 12:37:01 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 13:31:53 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[Безопасные «дозы» Солнца]]></title>
+        <link>https://habr.com/ru/articles/926306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926306</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926306</guid>
+        <pubDate>Wed, 09 Jul 2025 13:28:44 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/612/a25/622/612a25622ba71aaf433200aaee337a98.jpg" /><p>Не смогу привести точные ссылки на этих врачей, но вот буквально за месяц слушал двух авторитетных спецов и сказал каждый из них следующее:</p><p>В нашей полосе что бы получить витамин Д в достатке, надо очень долго, часами находиться на Солнце.</p><p>Нет, в нашей полосе достаточно даже открытой шеи и рук и 30 минут, что бы получить дозу витамина Д. </p><p>А как реально? Используем снова научный метод, нужны реальные научные работы узких специалистов. Вопрос не праздный, а животрепещущий - только в США фиксируется по 5 400 000 случаев рака кожи в год. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9272582/" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9272582/</a> <em>Sun Exposure, Tanning Behaviors, and Sunburn: Examining Activities Associated With Harmful Ultraviolet Radiation Exposures in College Students</em> - по сути верный путь к раку кожи, это почаще получать солнечные ожоги. </p> <a href="https://habr.com/ru/articles/926306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926306#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Три совета, как не выучить C++ за 21 день (субъективный гайд с дополнениями)]]></title>
+        <link>https://habr.com/ru/companies/ncloudtech/articles/925932/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925932</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ncloudtech/articles/925932/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925932</guid>
+        <pubDate>Wed, 09 Jul 2025 13:28:18 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/9b8/2a6/fec/9b82a6fec432fb467880d47a859845fb.png" /><p>Типичная проблема новичков при изучении языка программирования — они тонут в море учебных материалов. Интернет предлагает тонны статей, курсов и книг по C++, но как выбрать действительно стоящие?</p><p>Меня зовут Владислав Столяров, я руководитель команды анализа безопасности продуктов в «МойОфис». В этой статье расскажу, что делать, если вы вдруг решили залететь в плюсы, но уже чувствуете, как накрывает экзистенциальный кризис от обилия информации.</p><p>Давайте разберёмся, как учить C++, какие ресурсы действительно работают, и как не бросить всё на полпути.</p> <a href="https://habr.com/ru/articles/925932/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925932#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[За год замедления YouTube в России Rutube нарастил просмотры в 7,5 раза]]></title>
+        <link>https://3dnews.ru/1125691</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125691</guid>
+        <pubDate>Wed, 09 Jul 2025 13:26:00 -0000</pubDate>
+        <description><![CDATA[По итогам первой половины 2025 года количество просмотров видео на Rutube составило более 26 млрд &mdash; за аналогичный период прошлого года этот показатель был 3,5 млрд, что соответствует годовому росту в 7,5 раза. Об этом сообщается в пресс-релизе &laquo;Газпром-Медиа Холдинга&raquo; со ссылкой на аналитический центр самой платформы. Источник изображения: rutube.ru]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Флеш-память подорожает на 8–13 % в текущем квартале и потянет за собой цены на SSD]]></title>
+        <link>https://3dnews.ru/1125689</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125689</guid>
+        <pubDate>Wed, 09 Jul 2025 13:20:00 -0000</pubDate>
+        <description><![CDATA[По прогнозам аналитиков TrendForce, контрактные цены на флеш-память NAND во второй половине 2025 года вырастут на 5&ndash;10 %. При этом из-за слабого спроса на смартфоны подорожание микросхем памяти eMMC и UFS будет менее выраженным. Источник изображения: Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Сбор backup с сетевых устройств Cisco и Juniper, с помощью Ansible и GitLab]]></title>
+        <link>https://habr.com/ru/articles/881222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=881222</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/881222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=881222</guid>
+        <pubDate>Wed, 09 Jul 2025 13:07:37 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/cd1/92f/265/cd192f26522eeccc8838c1dd85bb6572.png" /><p>В данное статье рассматривается порядок развертывания системы сбора резервных конфигураций&nbsp;сетевых устройств производства Cisco Systems и Juniper Networks, посредством применения «Ansible» и «GitLab». Подробно описан процесс развертывания данных инструментов с&nbsp;помощью docker‑compose. </p> <a href="https://habr.com/ru/articles/881222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=881222#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Midjourney Video: как превратить картинку в видео в 2025 году?]]></title>
+        <link>https://habr.com/ru/companies/bothub/articles/925818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925818</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/bothub/articles/925818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925818</guid>
+        <pubDate>Wed, 09 Jul 2025 13:01:59 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/cf5/57b/2fd/cf557b2fdb19be3871476e6bc3a93963.jpg" /><p>Казалось бы, только мы отдохнули от разбора второй волны нейросетей для генерации видео, как без объявления войны выходит она. Midjourney, та самая платформа, которая годами оставалась в стороне от видео-движухи, делает свой первый аккуратный, но амбициозный шаг. <strong>Встречайте: Midjourney Video V1</strong>, первая версия анимации, встроенной прямо в интерфейс.</p><p>Сегодня расскажем, как работает новая функция, что там с платформой и ценообразованием, чем отличаются режимы движения, и, конечно, как писать грамотные промпты для этой нейросети.</p><p><strong>Приятно чтения!</strong></p> <a href="https://habr.com/ru/articles/925818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925818#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[[Перевод] Простой веб-сайт]]></title>
+        <link>https://habr.com/ru/companies/ruvds/articles/926030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926030</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ruvds/articles/926030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926030</guid>
+        <pubDate>Wed, 09 Jul 2025 13:01:33 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/269/7a3/dc3/2697a3dc354f8847ccfdcf339b007065.jpg" /><p><em>Мой веб-сайт — это путешествие по волнам памяти. Я не хочу сказать, что нужно прекратить современную веб-разработку. На моём веб-сайте используются технологии, которые в обсуждаемые на нём времена были ещё недоступны. Он работает на мобильных (протестировано в Firefox для Android), отсутствует только фоновое изображение.</em></p><p>Свой первый веб-сайт я создал где-то в начале 2000-х, и как и большинство веб-сайтов того времени, он был очень простым. Это неудивительно, учитывая то, что большинство (включая и меня) писали такие веб-сайты в Блокноте, что накладывало ограничения на сложность. Можно было выбрать или Блокнот, или какой-то из WYSIWYG-редакторов, которые привязывали к себе тем, что сгенерированный ими HTML было бы совершенно невозможно поддерживать без них, а если вносить изменения вручную, то это вполне могло поломать всё в редакторе.</p><p>Тогда не было iPhone, почти не было SEO, а JavaScript, как и CSS, использовать было совсем необязательно.</p><p>Цветопередача первых ЖК-экранов была плохой, поэтому лучше было выбирать цветовую схему с высокой контрастностью.</p><p>Оптимальным разрешением было 1024×768 (или 1280×1024, если вы могли себе это позволить), однако стоило и обеспечить работоспособность размеров окна и панелей в 800×600. Вам же не нужно, чтобы контент выходил за левый или правый край экрана?</p> <a href="https://habr.com/ru/articles/926030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926030#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Глава OpenAI пообещал миру принципиально новый компьютер — современные не подходят для мира с ИИ]]></title>
+        <link>https://3dnews.ru/1125688</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125688</guid>
+        <pubDate>Wed, 09 Jul 2025 13:01:00 -0000</pubDate>
+        <description><![CDATA[С развитием генеративного искусственного интеллекта всё более очевидным становится вопрос о том, насколько современные компьютеры подходят для работы с передовыми и новейшими возможностями ИИ. Возможно, пришла пора сделать шаг вперёд, и человечество с радостью воспримет устройство принципиально нового типа, считает гендиректор OpenAI Сэм Альтман (Sam Altman). Источник изображения: Dima Solomin / unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Сохранение и восстановление версии бакета объектного хранилища MinIO S3 с учетом содержимого и конфигурации]]></title>
+        <link>https://habr.com/ru/companies/magnit/articles/926226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926226</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/magnit/articles/926226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926226</guid>
+        <pubDate>Wed, 09 Jul 2025 12:50:21 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/57a/c00/594/57ac005940fc60859ce1c06f6a5e4f92.jpg" /><p>Меня зовут Михаил, я работаю в Magnit Tech и занимаюсь внедрением 1C платформы на операционную систему Linux. В этой статье я расскажу, как реализовать создание резервных копий бакетов S3-совместимого объектного хранилища MinIO.</p><p><em>(Сразу дам спойлер: нам удалось это сделать с наименьшими затратами места на диске с использованием инкрементальных бэкапов).</em></p> <a href="https://habr.com/ru/articles/926226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926226#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Два американца ответят в суде за хищение $650 млн через криптовалютную пирамиду OmegaPro — они обещали доход до 300 %]]></title>
+        <link>https://3dnews.ru/1125687</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125687</guid>
+        <pubDate>Wed, 09 Jul 2025 12:50:00 -0000</pubDate>
+        <description><![CDATA[Власти США предъявили обвинения двум гражданам страны в использовании мошеннической схемы OmegaPro с обещанием доходов до 300 % на вложения в криптовалюте, в рамках которой они похитили у доверчивых граждан более $650 млн. Обвиняемым грозит наказание в виде тюремного заключения на 20 лет, пишет ресурс CNBC. Источник изображения: Kanchanara/unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Клининг чистых помещений для электроники: патентный анализ]]></title>
+        <link>https://habr.com/ru/companies/onlinepatent/articles/926294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926294</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/onlinepatent/articles/926294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926294</guid>
+        <pubDate>Wed, 09 Jul 2025 12:41:30 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d9f/b8c/1fd/d9fb8c1fd4ee2c1bb6bbb9feed8df3c0.png" /><p>Чистое помещение (cleanroom) – это такое пространство, в котором контролируется концентрация аэрозольных частиц и которое спроектировано, построено и эксплуатируется так, чтобы свести к минимуму поступление, выделение и удержание частиц в нем. Чистая зона (clean zone) – определенное пространство, в котором контролируется концентрация аэрозольных частиц и которое построено и эксплуатируется так, чтобы свести к минимуму поступление, выделение и удержание частиц в нем. О том, где их применяют и, разумеется, патентном аспекте мы и расскажем в нашем материале.&nbsp;</p> <a href="https://habr.com/ru/articles/926294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926294#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[ИИ создал первое в мире лекарство от рака, которое испытают на живых людях]]></title>
@@ -372,7 +460,7 @@
         <link>https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128</link>
         <guid isPermaLink="true">https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128</guid>
         <pubDate>Wed, 09 Jul 2025 09:00:03 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d46/fe7/746/d46fe77461ca645b2d7753ac5c1ab8dc.png" /><p><strong>QapDSLv2: Новый стандарт AST-heavy парсинга</strong> </p><p><strong>QapDSLv2 обеспечивает:</strong></p><p><code>Молниеносное построение AST</code></p><p><code>Полное сохранение структуры исходного кода </code></p><p><code>Простоту интерпретации и модификации грамматик</code></p><p><strong>Забудьте о любы других парсерах!</strong> С помощью QapDSLv2 можно создавать компиляторы/анализаторы/форматировщики кода за минуты/часы. </p><p>Парсеры и генерация абстрактных синтаксических деревьев (<strong>AST</strong>) — это обычно долго, сложно и требует тонны шаблонного кода. Но что если я скажу, что теперь можно <strong>описывать грамматики и структуры данных одновременно</strong> и получать готовый, оптимизированный C++ код автоматически?</p><p><strong>QapDSLv2 — новый стандарт эффективности и удобства в парсинге</strong>. Это язык описания парсеров, который избавляет от синтаксического шума, упрощает интеграцию с C++ и позволяет <strong>создавать сложные анализаторы без боли и ошибок</strong>. Забудьте о бесконечных циклах отладки и непонятных генераторах — теперь всё просто, понятно и эффективно.</p><p>В этой статье вы узнаете, как QapDSL v2 меняет правила игры в мире парсинга и компиляторов, увидите реальные примеры и поймёте, почему <strong>это важно для каждого, кто работает с языками программирования и обработкой текста</strong>.</p><p>Готовы ускорить разработку и вывести свои проекты на новый уровень?</p><p><strong>QapGen — мощный генератор парсеров, построенный на основе QapDSLv2, </strong>который из грамматик <strong>QapDSLv2 </strong>сразу создаёт высокопроизводительный <strong>C++ парсер</strong> <strong>с типизированным AST</strong>, <strong>описанным прямо в грамматике.</strong> </p><p><strong><code>t_sep</code></strong><code>{<br /> </code><strong><code>string</code></strong><code>body =</code><strong><code>any</code></strong><code>(" \t\r\n");<br /> }<br /></code><strong><code>using</code></strong><code>" "</code><strong><code>as</code></strong><code>t_sep;<br /></code><strong><code>t_value{</code></strong><code><br /> </code><strong><code>TAutoPtr&lt;i_value&gt;</code></strong><code> body;<br />   " "?<br /></code><strong><code>}</code></strong><code><br /></code><strong><code>t_comma_value{</code></strong><code><br />   ","<br /> </code><strong><code>t_value</code></strong><code> body;<br />   " "?<br /></code><strong><code>}</code></strong><code><br /></code><strong><code>t_array=&gt;i_value{</code></strong><code><br />   "["<br />   " "?<br />  </code><strong><code>t_value</code></strong><code> first?;<br />  </code><strong><code>vector&lt;t_comma_value&gt;</code></strong><code> arr?;<br />   "]"<br />   " "?<br /></code><strong><code>}</code></strong></p> <a href="https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128#habracut">Читать далее</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d46/fe7/746/d46fe77461ca645b2d7753ac5c1ab8dc.png" /><p><strong>QapDSLv2: Новый стандарт AST-heavy парсинга</strong> </p><p><strong>QapDSLv2 обеспечивает:</strong></p><p><code>Молниеносное построение AST</code></p><p><code>Полное сохранение структуры исходного кода </code></p><p><code>Простоту интерпретации и модификации грамматик</code></p><p><strong>Забудьте о любы других парсерах!</strong> С помощью QapDSLv2 можно создавать компиляторы/анализаторы/форматировщики кода за минуты/часы. </p><p>Парсеры и генерация абстрактных синтаксических деревьев (<strong>AST</strong>) — это обычно долго, сложно и требует тонны шаблонного кода. Но что если я скажу, что теперь можно <strong>описывать грамматики и структуры данных одновременно</strong> и получать готовый, оптимизированный C++ код автоматически?</p><p><strong>QapDSLv2 — новый стандарт эффективности и удобства в парсинге</strong>. Это язык описания парсеров, который избавляет от синтаксического шума, упрощает интеграцию с C++ и позволяет <strong>создавать сложные анализаторы без боли и ошибок</strong>. Забудьте о бесконечных циклах отладки и непонятных генераторах — теперь всё просто, понятно и эффективно.</p><p>В этой статье вы узнаете, как QapDSL v2 меняет правила игры в мире парсинга и компиляторов, увидите реальные примеры и поймёте, почему <strong>это важно для каждого, кто работает с языками программирования и обработкой текста</strong>.</p><p>Готовы ускорить разработку и вывести свои проекты на новый уровень?</p><p><strong>QapGen — мощный генератор парсеров, построенный на основе QapDSLv2, </strong>который из грамматик <strong>QapDSLv2 </strong>сразу создаёт высокопроизводительный <strong>C++ парсер</strong> <strong>с типизированным AST</strong>, <strong>описанным прямо в грамматике.</strong> </p><p><strong><code>t_sep</code></strong><code>{<br /> </code><strong><code>string</code></strong><code>body =</code><strong><code>any</code></strong><code>(" \t\r\n");<br /> }<br /></code><strong><code>using</code></strong><code>" "</code><strong><code>as</code></strong><code>t_sep;<br /></code><strong><code>t_value{</code></strong><code><br /> </code><strong><code>TAutoPtr&lt;i_value&gt;</code></strong><code> body;<br />   " "?<br /></code><strong><code>}</code></strong><code><br /></code><strong><code>t_comma_value{</code></strong><code><br />   ","<br /> </code><strong><code>t_value</code></strong><code> body;<br />   " "?<br /></code><strong><code>}</code></strong><code><br /></code><strong><code>t_array:i_value{</code></strong><code><br />   "["<br />   " "?<br />  </code><strong><code>t_value</code></strong><code> first?;<br />  </code><strong><code>vector&lt;t_comma_value&gt;</code></strong><code> arr?;<br />   "]"<br />   " "?<br /></code><strong><code>}</code></strong></p> <a href="https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -424,43 +512,11 @@
     </item>
 
     <item>
-        <title><![CDATA[Я написал свой VPN-клиент для Android. Зачем, если их сотни, и что скрывается под капотом?]]></title>
-        <link>https://habr.com/ru/articles/926150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926150</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926150</guid>
-        <pubDate>Wed, 09 Jul 2025 08:01:54 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/90d/e1d/954/90de1d9545bd1e76a80da5b2e0e2359c.png" /><p>Каждый раз, нажимая кнопку «Connect» в очередном VPN-приложении, я ловил себя на мысли: а что там, под капотом? Как эта магия на самом деле работает на уровне Android? Вокруг сотни готовых решений, но простое пользовательское любопытство переросло в профессиональное: мне захотелось не просто использовать, а понять. Понять, какие подводные камни скрывает VpnService, как реализовать весь цикл от авторизации до поднятия защищённого туннеля и что на этом пути может пойти не так.  </p><p>Эта статья — мой личный "бортовой журнал". Я не претендую на создание самого безопасного решения, это скорее история о пути, граблях и открытиях для тех, кто тоже решит заглянуть под капот VPN-технологий на Android.  </p><p>Так родилась идея этого проекта — создать свой, пусть и простой, VPN-клиент. Это не попытка сделать коммерческий продукт, а скорее исследовательское погружение, мой личный "челлендж" и способ разложить всё по полочкам.</p> <a href="https://habr.com/ru/articles/926150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926150#habracut">Заглянуть под капот</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Вы не будете в это играть: игровые миры, в которые больше нельзя попасть]]></title>
-        <link>https://habr.com/ru/companies/selectel/articles/926086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926086</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/selectel/articles/926086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926086</guid>
-        <pubDate>Wed, 09 Jul 2025 08:00:13 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/429/57d/6ac/42957d6ac93071b581a80cc0a8fe3962.jpg" /><p>Мы привыкли считать, что в цифровом пространстве ничто не исчезает: фильм можно пересмотреть, фото — восстановить, книгу — переиздать. Но с играми все иначе. Стоит <a href="https://selectel.ru/services/dedicated/?utm_source=habr.com&amp;utm_medium=referral&amp;utm_campaign=dedicated_article_deadgames_090725_content" rel="noopener noreferrer nofollow">серверам</a> замолкнуть, и игра исчезает. Игры умирают как пространство действия. Иногда беззвучно, без прощального сообщения. Виртуальный мир, в который когда-то заходили тысячи игроков, превращается в воспоминание.</p><p>В истории игр существуют не только шедевры и провалы, но и нечто более трагичное — игры, которые исчезли. Серверы отключены, лицензии отозваны, поддержка прекращена, а железо или операционные системы, для которых они были созданы, безвозвратно устарели. В этой статье пройдемся по таким играм-призракам. Уникальным, странным, в чем-то культовым. Тем, которые больше не существует не только в продаже, но и в игровом опыте. И это делает их особенно важными.</p> <a href="https://habr.com/ru/articles/926086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926086#habracut">Вспомнить былое</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Электромобиль Lucid Air проехал на одной зарядке 1205 км — это новый мировой рекорд]]></title>
         <link>https://3dnews.ru/1125663</link>
         <guid isPermaLink="true">https://3dnews.ru/1125663</guid>
         <pubDate>Wed, 09 Jul 2025 07:54:00 -0000</pubDate>
         <description><![CDATA[Автомобиль компании Lucid Motors установил мировой рекорд по самому большому расстоянию, пройденному серийным электромобилем на одной зарядке, и попал в Книгу рекордов Гиннесса. Lucid Air Grand Touring проехал 1205 километров от Санкт-Морица (Швейцария) до Мюнхена (Германия) без остановок для подзарядки. Источник изображений: Lucid Motors]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Гайд на полиморфизм. Rust]]></title>
-        <link>https://habr.com/ru/articles/925576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925576</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925576</guid>
-        <pubDate>Wed, 09 Jul 2025 07:51:48 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/114/c23/945/114c2394515d2a24e37c91cb05f7bee2.jpeg" /><p>В прошлых статьях мы разобрали теорию: что такое полиморфизм и какие существуют способы его реализации. Настало время посмотреть, как это реализуется на практике. В качестве примера был выбран Rust — язык с богатой функциональностью, с одной стороны, и простой, прозрачной реализацией — с другой.</p> <a href="https://habr.com/ru/articles/925576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925576#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[GlobalFoundries укрепляет позиции в RISC-V и приобретает MIPS: разбираемся с патентами компании]]></title>
-        <link>https://habr.com/ru/companies/onlinepatent/articles/926198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926198</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/onlinepatent/articles/926198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926198</guid>
-        <pubDate>Wed, 09 Jul 2025 07:50:19 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d83/cee/928/d83cee9282852d0ba2eb95694558f3d3.jpg" /><p>Компания GlobalFoundries (GF), один из ключевых игроков в сфере контрактного производства полупроводников, объявила о покупке MIPS — разработчика процессорных ядер на архитектуре RISC-V. Сделка позволит MIPS сохранить операционную самостоятельность, но при этом получить доступ к ресурсам GF для ускорения разработки и вывода на рынок новых решений. Разбираемся с патентами MIPS. </p><p><strong>Спойлер</strong>: всё очень круто!</p> <a href="https://habr.com/ru/articles/926198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926198#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -480,22 +536,6 @@
     </item>
 
     <item>
-        <title><![CDATA[RTX 5060 Ti 16 GB: лучшая бюджетная видеокарта для 2К-гейминга в 2025 году?]]></title>
-        <link>https://habr.com/ru/companies/mvideo/articles/926188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926188</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/mvideo/articles/926188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926188</guid>
-        <pubDate>Wed, 09 Jul 2025 07:36:59 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/1d2/59f/39a/1d259f39aba35db9e89de14e353f73f0.png" /><p>Научно-технический прогресс неумолим, и по мере его развития растут и требования к стандартам качества. В последнее время все больше людей приходят к выводу, что новый стандарт разрешения для игр — это QHD (2560x1440). Действительно, при современном уровне графики разрешения Full HD (1920x1080) уже недостаточно, чтобы рассмотреть все детали и красоту видеоигр. </p><p>Но какая видеокарта оптимальна для игр в разрешении QHD? Вместе с редакцией <a href="https://www.mvideo.ru/blog/mgame/igry-cherez-pot-i-slezy-chto-eshhe-poprobovat-esli-nravitsya-elden-ring" rel="noopener noreferrer nofollow">блога «М.Клик»</a> решили отыскать правильный ответ.</p> <a href="https://habr.com/ru/articles/926188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926188#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Миграция с Firebird на PostgreSQL. Что может пойти не так? Часть 2]]></title>
-        <link>https://habr.com/ru/articles/926114/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926114</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926114/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926114</guid>
-        <pubDate>Wed, 09 Jul 2025 07:36:31 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/webt/ym/zd/jq/ymzdjqg1eadadmsxadcdqo_wglc.png" /><p><a href="https://habr.com/ru/articles/926094/" rel="noopener noreferrer nofollow">В первой части </a>обсуждалось как отличие реализации MVCC в Firebird и PostgreSQL может привести к сложностям при миграции информационной системы. Напоминаю девиз этой серии статей – "Ваши ожидания – это Ваши проблемы". Рассмотрим еще некоторые моменты, которые позволят Вам не находится в состоянии "обманутых ожиданий" при миграции с Firebird на PostgreSQL.</p> <a href="https://habr.com/ru/articles/926114/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926114#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[ByteDance ещё не согласилась на сделку с Oracle и лишь раздумывает над созданием чисто американских приложений]]></title>
         <link>https://3dnews.ru/1125660</link>
         <guid isPermaLink="true">https://3dnews.ru/1125660</guid>
@@ -509,14 +549,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125659</guid>
         <pubDate>Wed, 09 Jul 2025 07:16:00 -0000</pubDate>
         <description><![CDATA[Мессенджер Max вышел в лидеры по скачиваниям среди приложений социальных сетей в российском сегменте магазина цифрового контента Apple App Store. В рейтинге всех приложений платформы отечественный IM-клиент расположился на седьмом месте. Источник изображения: Jason Goodman/unsplash.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Research Ops в маленькой команде: как наладить процесс без бюджета и отдельной роли]]></title>
-        <link>https://habr.com/ru/articles/925344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925344</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925344</guid>
-        <pubDate>Wed, 09 Jul 2025 07:15:02 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3d0/811/d31/3d0811d31684a28bd65e794291d87cae.png" /><p>Если в команде каждый делает всё, а пользовательские исследования –  это «когда-нибудь потом», статья для вас. Я делюсь опытом, как мы наладили процесс discovery в маленькой команде без ресерчера и бюджета. Как шаблоны, хранилище знаний и короткие инсайты на ревью спринта изменили культуру команды. И почему для меня Research Ops –  это не должность, а привычка думать вместе с пользователем.  </p> <a href="https://habr.com/ru/articles/925344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925344#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -773,38 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125620</guid>
         <pubDate>Tue, 08 Jul 2025 15:23:00 -0000</pubDate>
         <description><![CDATA[Второго июля два китайских спутника &mdash; SJ-21 и SJ-25 &mdash; сблизились друг с другом на высоте около 36 000 километров, состыковались и с тех пор продолжают полёт вместе. По мнению экспертов, это, скорее всего, первый эксперимент по дозаправке спутников на геостационарной орбите. Китайский спутник. Источник изображения: CNSA]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Слухи: в разработке находится сразу несколько Fallout, включая ту, «что вы все ждёте»]]></title>
-        <link>https://3dnews.ru/1125618</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125618</guid>
-        <pubDate>Tue, 08 Jul 2025 15:21:00 -0000</pubDate>
-        <description><![CDATA[Bethesda Softworks и Bethesda Game Studios не радует фанатов новыми релизами в серии постапокалиптических ролевых игр Fallout уже несколько лет, однако сейчас в производстве якобы находится сразу несколько проектов по франшизе.   Источник изображений: Bethesda Softworks]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Beyerdynamic обновила наушники Aventho — автономность выросла втрое, а Bluetooth стал стабильнее]]></title>
-        <link>https://3dnews.ru/1125619</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125619</guid>
-        <pubDate>Tue, 08 Jul 2025 14:37:00 -0000</pubDate>
-        <description><![CDATA[Компания Beyerdynamic анонсировала второе поколение беспроводных наушников Aventho, впервые вышедших на рынок в 2017 году. Новая модель &mdash; Aventho 100 &mdash; оснащена теми же 45-миллиметровыми динамиками, что и оригинальная версия, но разработчики улучшили модуль Bluetooth и существенно увеличили время автономной работы. Источник изображений: Beyerdynamic]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Threads почти догнала X по аудитории мобильных приложений]]></title>
-        <link>https://3dnews.ru/1125616</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125616</guid>
-        <pubDate>Tue, 08 Jul 2025 14:30:00 -0000</pubDate>
-        <description><![CDATA[Запущенная M**a платформа микроблогов Threads вплотную подобралась к своему крупнейшему конкуренту X по числу пользователей мобильных приложений, сообщает TechCrunch со ссылкой на Similarweb. По итогам июня 2025 года аудитория Android- и iOS-приложений Threads показала годовой рост на 127,8 % до 115,1 млн ежедневно активных пользователей; X же сократила темпы роста на 15,2 %, и аудитория её мобильных приложений достигла 132 млн ежедневно активных пользователей. Источник изображения: Azamat E / unsplash.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Российский суперкомпьютер «Говорун» получил два узла «РСК Экзастрим ИИ» с NVIDIA H100 и фирменной СЖО]]></title>
-        <link>https://3dnews.ru/1125604</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125604</guid>
-        <pubDate>Tue, 08 Jul 2025 14:09:00 -0000</pubDate>
-        <description><![CDATA[ГК РСК продемонстрировала 2U-узел (912 &times; 508 &times; 88 мм) собственной разработки &laquo;РСК Экзастрим ИИ&raquo; на базе восьми ускорителей NVIDIA H100 с прямым жидкостным охлаждением. Два таких узла были установлены в суперкомпьютере &laquo;Говорун&raquo; в Дубне. &laquo;РСК Экзастрим ИИ&raquo; включает:]]></description>
     </item>
 
 </channel>
