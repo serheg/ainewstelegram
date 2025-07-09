@@ -4,8 +4,24 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Wed, 09 Jul 2025 22:17:18 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 23:17:32 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[Flutter + Cursor: настройка background agent]]></title>
+        <link>https://habr.com/ru/articles/926404/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926404</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926404/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926404</guid>
+        <pubDate>Wed, 09 Jul 2025 22:45:51 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/ad7/9c4/58c/ad79c458ce5ee973faa45fa4f359ae8f.png" /><p>Если вы предпочитаете использовать Jules (Google AI Agent ), пожалуйста посмотрите&nbsp;<a href="https://habr.com/ru/articles/919710/" rel="noopener noreferrer nofollow">эту статью</a>.</p><p>Краткая история — недавно Cursor добавил возможность запускать AI Агентов с помощью которых можно работать с задачами на фоне, точно в таком же окружении, как на своем компьютере.</p><p>Поскольку агент запускается в ubuntu контейнере, то лучше всего его настроить заранее.</p><p>Начнем!</p> <a href="https://habr.com/ru/articles/926404/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926404#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Выбираем базу данных правильно! Чек-лист на все случаи жизни]]></title>
+        <link>https://habr.com/ru/articles/926402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926402</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926402</guid>
+        <pubDate>Wed, 09 Jul 2025 22:20:49 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/6a7/9eb/a69/6a79eba6941c56997ff69bdfe1add5be.jpg" /><p>Выбор базы данных — это как выбор инструмента: молотком не закручивают шурупы, а гаечным ключом не забивают гвозди. Чтобы не ошибиться, давайте разберёмся, какие бывают базы данных, чем они отличаются и когда их стоит использовать.</p> <a href="https://habr.com/ru/articles/926402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926402#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Новая статья: Обзор Dreame X50 Ultra Complete: робот-уборщик настоящего техноманьяка]]></title>
@@ -212,7 +228,7 @@
         <link>https://habr.com/ru/companies/datafeel/articles/926338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926338</link>
         <guid isPermaLink="true">https://habr.com/ru/companies/datafeel/articles/926338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926338</guid>
         <pubDate>Wed, 09 Jul 2025 15:27:25 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/44e/a0d/689/44ea0d689bc13a3133b3b2a5f94e9b01.png" /><p>Привет, Хабр!</p><p>Все мы знаем Го — глубокую, медитативную игру на доске 19x19. Камни, пересечения, территории... А что, если <strong>выкинуть саму сетку</strong> и <strong>разрешить ставить камни куда угодно</strong> в пределах доски?</p><p>Мы в команде YSDA (Yandex School of Data Analysis или Школа Анализа Данных, ШАД) задались этим вопросом и решили проверить. Получилось азартно, хаотично и, что самое главное для нас как разработчиков, — чертовски интересно с точки зрения алгоритмов.</p><p>В этой статье я расскажу, как мы реализовали эту идею на Python и Pygame, с какими геометрическими головоломками столкнулись и как Диаграмма Вороного помогает считать очки в реальном времени, превращая статичную доску в живое поле битвы.</p> <a href="https://habr.com/ru/articles/926338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926338#habracut">Погрузиться в игру &rarr;</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/44e/a0d/689/44ea0d689bc13a3133b3b2a5f94e9b01.png" /><p>Привет, Хабр!</p><p>Все мы знаем Го — глубокую, медитативную игру на доске 19x19. Камни, пересечения, территории... А что, если <strong>выкинуть саму сетку</strong> и <strong>разрешить ставить камни куда угодно</strong> в пределах доски?</p><p>Мы в команде YSDA (Yandex School of Data Analysis или Школа Анализа Данных, ШАД) задались этим вопросом и решили проверить. Получилось азартно, хаотично и, что самое главное для нас как разработчиков, — чертовски интересно с точки зрения алгоритмов.</p><p>В этой статье я расскажу, как мы реализовали эту идею на Python и Pygame, с какими геометрическими головоломками столкнулись и как Диаграмма Вороного помогает считать очки в реальном времени, превращая статичную доску в живое поле битвы.</p><p>А в конце встретим <strong>неожиданный твист</strong>! Узнаем, что такое такое Суго.</p> <a href="https://habr.com/ru/articles/926338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926338#habracut">Погрузиться в игру &rarr;</a>]]></description>
     </item>
 
     <item>
@@ -648,14 +664,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Попытка поставить идеи и гипотезы на поток – швейцарский нож для стартапов]]></title>
-        <link>https://habr.com/ru/articles/926228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926228</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926228</guid>
-        <pubDate>Wed, 09 Jul 2025 09:54:37 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/658/553/651/6585536519191cf6d9466f0fa92f484b.jpg" /><p>Привет, меня зовут Кирилл! Мы с друзьями давно увлекаемся идеями и экспериментами «в стол». Знакомо, когда возникает куча интересных мыслей, но потом они теряются, потому что сложно понять — кому это на самом деле нужно?</p> <a href="https://habr.com/ru/articles/926228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926228#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Baidu и CAR запустили первый в мире сервис проката беспилотных автомобилей]]></title>
         <link>https://3dnews.ru/1125675</link>
         <guid isPermaLink="true">https://3dnews.ru/1125675</guid>
@@ -701,14 +709,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125668</guid>
         <pubDate>Wed, 09 Jul 2025 09:40:00 -0000</pubDate>
         <description><![CDATA[Китайская компания Xiaomi едва приступила к продажам своего электрического кроссовера YU7, но внимание к себе уже привлекают шпионские фото таинственных прототипов, замеченных на автовозе где-то в Китае по соседству с уже известными моделями транспортных средств марки. Предполагается, что под чёрными покрывалами скрываются прототипы полноразмерного внедорожника Xiaomi, который фигурирует под именем YU9. Источник изображений: Weibo, CarNewsChina]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Тихая сила: как управлять не через контроль, а через влияние]]></title>
-        <link>https://habr.com/ru/articles/925816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925816</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925816</guid>
-        <pubDate>Wed, 09 Jul 2025 09:38:50 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/2af/55c/d1e/2af55cd1ec3049829bfe78238446c2e2.png" /><p>Иногда тебе кажется, что&nbsp;ты обычный член команды, такой&nbsp;же винтик системы, как&nbsp;и все. Вы так&nbsp;же общаетесь с&nbsp;командой, у&nbsp;вас есть свои приколы, иногда очень&nbsp;жесткие. Ты так&nbsp;же ходишь с&nbsp;ребятами в&nbsp;бар и на&nbsp;квизы, часто скидываете друг другу мемы. Но&nbsp;однажды ты слышишь:<br />&nbsp;— Марина так сказала. Как&nbsp;самый важный довод при&nbsp;споре по&nbsp;рабочим вопросам, истина в&nbsp;последней инстанции. И тебя это пугает, потому что&nbsp;ты тоже человек, ты не&nbsp;хочешь, что&nbsp;бы они делали так, как&nbsp;ты сказала, а&nbsp;что&nbsp;бы сами подумали и нашли правильное решение. И тут до&nbsp;тебя наконец‑то доходит что&nbsp;твоем мнение не&nbsp;одно из&nbsp;равных, а&nbsp;самое значимое. И теперь тебе нужно очень внимательно следить за&nbsp;тем, что&nbsp;ты говоришь и насколько хорошо люди тебя поняли. </p> <a href="https://habr.com/ru/articles/925816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925816#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
