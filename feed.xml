@@ -4,8 +4,64 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Wed, 09 Jul 2025 15:19:40 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 16:20:57 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[Конец эпохи стилусов: Samsung Galaxy Z Fold7 оказался лишён поддержки S Pen]]></title>
+        <link>https://3dnews.ru/1125701</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125701</guid>
+        <pubDate>Wed, 09 Jul 2025 15:51:00 -0000</pubDate>
+        <description><![CDATA[Сегодня компания Samsung провела мероприятие Galaxy Unpacked, в рамках которого были представлены новые складные смартфоны Galaxy Z Fold7 и Galaxy Z Flip7. Оказалось, что Galaxy Z Fold7, в отличие от моделей предыдущих поколений, не поддерживает стилус S Pen &mdash; от этой функции решили отказаться, чтобы сделать смартфон более тонким и долговечным. Стилус S Pen дебютировал в серии Galaxy Note и успел вписать своё имя в историю мобильных устройств Samsung. Смартфоны Galaxy Fold первых поколений не поддерживали его, но с момента выхода Galaxy Z Fold3 в 2021 году поддержка S Pen присутствовала почти во всех моделях. В данном случае &laquo;почти во всех&raquo; означает, что поддержки стилуса не было в прошлогоднем Galaxy Z Fold Special Edition, который во многом послужил образцом для Galaxy Z Fold7.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[ИИ-функция Circle to Search получила AI Mode и теперь может помочь в прохождении игр]]></title>
+        <link>https://3dnews.ru/1125700</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125700</guid>
+        <pubDate>Wed, 09 Jul 2025 15:49:00 -0000</pubDate>
+        <description><![CDATA[Google расширила функциональность ИИ-инструментов Circle to Search (&laquo;Обвести и найти&raquo;) и Gemini Live для Android. Обновление было анонсировано сегодня, одновременно с запуском складных устройств Samsung Galaxy нового поколения. Оно включает новые возможности Gemini Live для устройств Samsung и интеграцию чат-бота Google AI Mode, ориентированного на поиск, непосредственно в Circle to Search. Источник изображений: Google]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Samsung разрабатывает Auto DeX — альтернативу автомобильной платформе Android Auto]]></title>
+        <link>https://3dnews.ru/1125698</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125698</guid>
+        <pubDate>Wed, 09 Jul 2025 15:39:00 -0000</pubDate>
+        <description><![CDATA[Samsung, вероятно, ведёт разработку новой альтернативы Android Auto. Проект получил название Auto DeX &mdash; это оптимизированный для автомобилей пользовательский интерфейс, с которым можно будет работать даже в том случае, если сам автомобиль не поддерживает экосистему программного обеспечения от Samsung. Источник изображения: x.com/GalaxyTechie]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[GlobalFoundries поглотит MIPS — разработчика процессоров на архитектуре RISC-V]]></title>
+        <link>https://3dnews.ru/1125694</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125694</guid>
+        <pubDate>Wed, 09 Jul 2025 15:37:00 -0000</pubDate>
+        <description><![CDATA[GlobalFoundries накануне объявила о достижении договорённости по поводу поглощения компании MIPS &mdash; разработчика процессоров на архитектуре RISC-V. Теперь GlobalFoundries сможет предлагать собственные процессоры и другие продукты на архитектуре RISC-V; MIPS же продолжит работать как самостоятельная единица. Источник изображения: gf.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Чем различаются ОС IBM мейнфрейм и ОС х86]]></title>
+        <link>https://habr.com/ru/articles/926352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926352</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926352</guid>
+        <pubDate>Wed, 09 Jul 2025 15:27:34 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/60f/ccf/d41/60fccfd419407a3ac1a79a1652739c04.jpg" /><p>Это статья в&nbsp;формате вольного пересказа более чем сорокалетнего периода работы с&nbsp;разными ОС, главным образом с&nbsp;ОС мейнфрейм, и размышлениями об&nbsp;их сходстве и различиях (в большей степени о&nbsp;различиях, конечно). </p><p>Многие популярные ОС выполняются на&nbsp;серверах (речь в&nbsp;статье пойдет исключительно про&nbsp;серверные ОС) х86&nbsp;(Intel, AMD). Это&nbsp;Линукс разных мастей и названий, и Windows. В&nbsp;силу уклона российского образования в&nbsp;сторону инфраструктур на&nbsp;основе х86&nbsp;у&nbsp;многих айтишников есть твердое убеждение, что&nbsp;то, как&nbsp;написаны известные ОС, это единственный вариант, как&nbsp;ОС и могут&nbsp;быть написаны. Попытки писать свою, российскую, ОС сводятся к&nbsp;написанию очередного&nbsp;Линукса.</p><p>Но&nbsp;есть и другие, современные ОС, выполняющиеся не на х86&nbsp;платформе. Это одна из&nbsp;ОС IBM мейнфрейм (МФ), называемая z/OS. IBM МФ — тоже весьма современная техническая платформа. В&nbsp;апреле этого года IBM анонсировали новое поколение z17, т.&nbsp;е. семнадцатое поколение, начавшее свою историю в&nbsp;далеком 1964&nbsp;году.</p> <a href="https://habr.com/ru/articles/926352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926352#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[goYSDA: Как мы в ШАДе переизобрели и сделали непрерывную игру Го, выкинув из него сетку]]></title>
+        <link>https://habr.com/ru/companies/datafeel/articles/926338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926338</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/datafeel/articles/926338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926338</guid>
+        <pubDate>Wed, 09 Jul 2025 15:27:25 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/44e/a0d/689/44ea0d689bc13a3133b3b2a5f94e9b01.png" /><p>Привет, Хабр!</p><p>Все мы знаем Го — глубокую, медитативную игру на доске 19x19. Камни, пересечения, территории... А что, если <strong>выкинуть саму сетку</strong> и <strong>разрешить ставить камни куда угодно</strong> в пределах доски?</p><p>Мы в команде YSDA (Yandex School of Data Analysis или Школа Анализа Данных, ШАД) задались этим вопросом и решили проверить. Получилось азартно, хаотично и, что самое главное для нас как разработчиков, — чертовски интересно с точки зрения алгоритмов.</p><p>В этой статье я расскажу, как мы реализовали эту идею на Python и Pygame, с какими геометрическими головоломками столкнулись и как Диаграмма Вороного помогает считать очки в реальном времени, превращая статичную доску в живое поле битвы.</p> <a href="https://habr.com/ru/articles/926338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926338#habracut">Погрузиться в игру &rarr;</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[BYD пообещала оплатить любой ущерб при автономной парковке её автомобилей с автопилотом]]></title>
+        <link>https://3dnews.ru/1125693</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125693</guid>
+        <pubDate>Wed, 09 Jul 2025 15:22:00 -0000</pubDate>
+        <description><![CDATA[Китайский автопроизводитель BYD, основной конкурент Tesla, заявил о готовности компенсировать любой ущерб, вызванный работой собственной системы автономной парковки. Речь идёт о технологии God's Eye, которая уже установлена на более чем миллионе электромобилей этой марки. Компания настолько уверена в её надёжности, что владельцам не придётся оформлять страховые случаи &mdash; все расходы возьмёт на себя производитель. Система God's Eye,Level 4. Источник изображения: BYD]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Представлен электромобиль Rivian R1 с четырьмя двигателями — от $115 990]]></title>
@@ -140,7 +196,7 @@
         <link>https://habr.com/ru/articles/926306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926306</link>
         <guid isPermaLink="true">https://habr.com/ru/articles/926306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926306</guid>
         <pubDate>Wed, 09 Jul 2025 13:28:44 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/612/a25/622/612a25622ba71aaf433200aaee337a98.jpg" /><p>Не смогу привести точные ссылки на этих врачей, но вот буквально за месяц слушал двух авторитетных спецов и сказал каждый из них следующее:</p><p>В нашей полосе что бы получить витамин Д в достатке, надо очень долго, часами находиться на Солнце.</p><p>Нет, в нашей полосе достаточно даже открытой шеи и рук и 30 минут, что бы получить дозу витамина Д. </p><p>А как реально? Используем снова научный метод, нужны реальные научные работы узких специалистов. Вопрос не праздный, а животрепещущий - только в США фиксируется по 5 400 000 случаев рака кожи в год. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9272582/" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9272582/</a> <em>Sun Exposure, Tanning Behaviors, and Sunburn: Examining Activities Associated With Harmful Ultraviolet Radiation Exposures in College Students</em> - по сути верный путь к раку кожи, это почаще получать солнечные ожоги. </p> <a href="https://habr.com/ru/articles/926306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926306#habracut">Читать далее</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/612/a25/622/612a25622ba71aaf433200aaee337a98.jpg" /><p>Не смогу привести точные ссылки на этих врачей, но вот буквально за месяц слушал двух авторитетных спецов и сказал каждый из них следующее:</p><p>В нашей полосе что бы получить витамин Д в достатке, надо очень долго, часами находиться на Солнце.</p><p>Нет, в&nbsp;нашей полосе достаточно даже открытой шеи и рук и 30&nbsp;минут, что&nbsp;бы получить дозу витамина Д. </p><p>А&nbsp;как реально? Используем снова научный метод, нужны реальные научные работы узких специалистов. Вопрос не&nbsp;праздный, а&nbsp;животрепещущий&nbsp;— только в&nbsp;США фиксируется по 5&nbsp;400&nbsp;000&nbsp;случаев рака кожи в&nbsp;год. </p><p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9272582/" rel="noopener noreferrer nofollow"><em>Sun Exposure, Tanning Behaviors, and Sunburn: Examining Activities Associated With Harmful Ultraviolet Radiation Exposures in College Students</em></a>&nbsp;— по&nbsp;сути верный путь к&nbsp;раку кожи, это почаще получать солнечные ожоги. </p> <a href="https://habr.com/ru/articles/926306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926306#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -180,7 +236,7 @@
         <link>https://habr.com/ru/companies/bothub/articles/925818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925818</link>
         <guid isPermaLink="true">https://habr.com/ru/companies/bothub/articles/925818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925818</guid>
         <pubDate>Wed, 09 Jul 2025 13:01:59 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/cf5/57b/2fd/cf557b2fdb19be3871476e6bc3a93963.jpg" /><p>Казалось бы, только мы отдохнули от разбора второй волны нейросетей для генерации видео, как без объявления войны выходит она. Midjourney, та самая платформа, которая годами оставалась в стороне от видео-движухи, делает свой первый аккуратный, но амбициозный шаг. <strong>Встречайте: Midjourney Video V1</strong>, первая версия анимации, встроенной прямо в интерфейс.</p><p>Сегодня расскажем, как работает новая функция, что там с платформой и ценообразованием, чем отличаются режимы движения, и, конечно, как писать грамотные промпты для этой нейросети.</p><p><strong>Приятно чтения!</strong></p> <a href="https://habr.com/ru/articles/925818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925818#habracut">Читать далее</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/cf5/57b/2fd/cf557b2fdb19be3871476e6bc3a93963.jpg" /><p>Казалось бы, только мы отдохнули от разбора второй волны нейросетей для генерации видео, как без объявления войны выходит она. Midjourney, та самая платформа, которая годами оставалась в стороне от видео-движухи, делает свой первый аккуратный, но амбициозный шаг. <strong>Встречайте: Midjourney Video V1</strong>, первая версия анимации, встроенной прямо в интерфейс.</p><p>Сегодня расскажем, как работает новая функция, что там с платформой и ценообразованием, чем отличаются режимы движения, и, конечно, как писать грамотные промпты для этой нейросети.</p><p><strong>Приятного чтения!</strong></p> <a href="https://habr.com/ru/articles/925818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925818#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -236,7 +292,7 @@
         <link>https://habr.com/ru/articles/926278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926278</link>
         <guid isPermaLink="true">https://habr.com/ru/articles/926278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926278</guid>
         <pubDate>Wed, 09 Jul 2025 12:13:47 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/7f5/97a/23c/7f597a23cc9a3303af7ef555ceb5dd33.png" /><p>В связи с очередным "геополитическим обострением" все больше слухов ходит о возможном принятии закона, внесенного группой сенаторов, более известного в медиа как "закон Линдси Грэма". Проект этого закона выложен на сайте конгресса США и доступен для <a href="https://www.congress.gov/bill/119th-congress/senate-bill/1241/text#toc-ida5adb9ec1b294d9cbc384291d7693c56" rel="noopener noreferrer nofollow">ознакомления</a> (но, не для комментирования). </p><p>К сожалению, достаточно часто в прошедшие годы санкционные режимы принимались неизбирательно, "по-площадям", и под прямые санкции попадали люди которые давно не жили в России, обладали двойным гражданством или даже не обладали гражданством РФ вообще. Самые известные случаи были в области авиационного и банковского законодательств ЕС. Поэтому мне было интересно проанализировать "закон Грэма" на предмет подобных  подводных камней.</p><p>В целом, проект закона вызывает ощущение, что его "целевой аудиторией" (то есть целью санкций)  действительно являются высшие должностные лица России, лица оказывающие поддержку армии России и государственные структуры РФ. В законопроект даже введен официальный термин "oligarch" (расшифровка этого термина феерична <em>"as defined and identified by the President").</em>  Однако, одна из формулировок этого законопроекта, вызывает серьезное беспокойство в частности применения данного закона к людям, давно не имеющим никаких связей с РФ. </p> <a href="https://habr.com/ru/articles/926278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926278#habracut">Попасть в список OFAC</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/7f5/97a/23c/7f597a23cc9a3303af7ef555ceb5dd33.png" /><p>В&nbsp;связи с&nbsp;очередным «геополитическим обострением» все больше слухов ходит о&nbsp;возможном принятии закона, внесенного группой сенаторов, более известного в&nbsp;медиа как «закон&nbsp;Линдси Грэма». Проект этого закона выложен на&nbsp;сайте конгресса США и доступен для <a href="https://www.congress.gov/bill/119th-congress/senate-bill/1241/text#toc-ida5adb9ec1b294d9cbc384291d7693c56" rel="noopener noreferrer nofollow">ознакомления</a> (но, не&nbsp;для&nbsp;комментирования). </p><p>К&nbsp;сожалению, достаточно часто в&nbsp;прошедшие годы санкционные режимы принимались неизбирательно, «по‑площадям», и под&nbsp;прямые санкции попадали люди которые давно не&nbsp;жили в&nbsp;России, обладали двойным гражданством или&nbsp;даже не&nbsp;обладали гражданством РФ вообще. Самые известные случаи&nbsp;были в&nbsp;области авиационного и банковского законодательств ЕС. Поэтому мне&nbsp;было интересно проанализировать «закон Грэма» на&nbsp;предмет подобных подводных камней.</p><p>В&nbsp;целом, проект закона вызывает ощущение, что&nbsp;его «целевой аудиторией» (то есть целью санкций) действительно являются высшие должностные&nbsp;лица России,&nbsp;лица оказывающие поддержку армии России и государственные структуры РФ. В&nbsp;законопроект даже введен официальный термин «oligarch» (расшифровка этого термина феерична <em>«as defined and identified by the President»).</em> Однако, одна из&nbsp;формулировок этого законопроекта, вызывает серьезное беспокойство в&nbsp;частности применения данного закона к&nbsp;людям, давно не&nbsp;имеющим никаких связей с&nbsp;РФ. </p> <a href="https://habr.com/ru/articles/926278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926278#habracut">Попасть в список OFAC</a>]]></description>
     </item>
 
     <item>
@@ -568,22 +624,6 @@
     </item>
 
     <item>
-        <title><![CDATA[COBOL в XXI веке: почему банки и госслужбы не могут отказаться от языка 1959 года]]></title>
-        <link>https://habr.com/ru/companies/ruvds/articles/918156/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918156</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/ruvds/articles/918156/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918156</guid>
-        <pubDate>Wed, 09 Jul 2025 09:01:05 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/f88/6e2/626/f886e2626e484ed28e738c083cdcc588.png" /><p>Представьте, что расчёт вашей пенсии или миллионы банковских транзакций обрабатываются кодом, написанным до полёта человека в космос. COBOL живёт в мэйнфреймах банков, страховых и госслужб, и отказаться от него рискованно: один баг — и вся финансовая система может остановиться.&nbsp;</p><p>Как старейший «серверный» язык справляется с XXI веком, где безопасность и гибкость важнее вечной стабильности?</p> <a href="https://habr.com/ru/articles/918156/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918156#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Как создать свой парсер и AST-генератор на C++ с минимальными усилиями: знакомьтесь с QapDSLv2]]></title>
-        <link>https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128</guid>
-        <pubDate>Wed, 09 Jul 2025 09:00:03 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d46/fe7/746/d46fe77461ca645b2d7753ac5c1ab8dc.png" /><p><strong>QapDSLv2: Новый стандарт AST-heavy парсинга</strong> </p><p><strong>QapDSLv2 обеспечивает:</strong></p><p><code>Молниеносное построение AST</code></p><p><code>Полное сохранение структуры исходного кода </code></p><p><code>Простоту интерпретации и модификации грамматик</code></p><p><strong>Забудьте о любы других парсерах!</strong> С помощью QapDSLv2 можно создавать компиляторы/анализаторы/форматировщики кода за минуты/часы. </p><p>Парсеры и генерация абстрактных синтаксических деревьев (<strong>AST</strong>) — это обычно долго, сложно и требует тонны шаблонного кода. Но что если я скажу, что теперь можно <strong>описывать грамматики и структуры данных одновременно</strong> и получать готовый, оптимизированный C++ код автоматически?</p><p><strong>QapDSLv2 — новый стандарт эффективности и удобства в парсинге</strong>. Это язык описания парсеров, который избавляет от синтаксического шума, упрощает интеграцию с C++ и позволяет <strong>создавать сложные анализаторы без боли и ошибок</strong>. Забудьте о бесконечных циклах отладки и непонятных генераторах — теперь всё просто, понятно и эффективно.</p><p>В этой статье вы узнаете, как QapDSL v2 меняет правила игры в мире парсинга и компиляторов, увидите реальные примеры и поймёте, почему <strong>это важно для каждого, кто работает с языками программирования и обработкой текста</strong>.</p><p>Готовы ускорить разработку и вывести свои проекты на новый уровень?</p><p><strong>QapGen — мощный генератор парсеров, построенный на основе QapDSLv2, </strong>который из грамматик <strong>QapDSLv2 </strong>сразу создаёт высокопроизводительный <strong>C++ парсер</strong> <strong>с типизированным AST</strong>, <strong>описанным прямо в грамматике.</strong> </p><p><strong><code>t_sep</code></strong><code>{<br /> </code><strong><code>string</code></strong><code>body =</code><strong><code>any</code></strong><code>(" \t\r\n");<br /> }<br /></code><strong><code>using</code></strong><code>" "</code><strong><code>as</code></strong><code>t_sep;<br /></code><strong><code>t_value{</code></strong><code><br /> </code><strong><code>TAutoPtr&lt;i_value&gt;</code></strong><code> body;<br />   " "?<br /></code><strong><code>}</code></strong><code><br /></code><strong><code>t_comma_value{</code></strong><code><br />   ","<br /> </code><strong><code>t_value</code></strong><code> body;<br />   " "?<br /></code><strong><code>}</code></strong><code><br /></code><strong><code>t_array:i_value{</code></strong><code><br />   "["<br />   " "?<br />  </code><strong><code>t_value</code></strong><code> first?;<br />  </code><strong><code>vector&lt;t_comma_value&gt;</code></strong><code> arr?;<br />   "]"<br />   " "?<br /></code><strong><code>}</code></strong></p> <a href="https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Не просто HD-версия: разработчики ремейка «Готики» рассказали об отличиях от классической игры Piranha Bytes]]></title>
         <link>https://3dnews.ru/1125664</link>
         <guid isPermaLink="true">https://3dnews.ru/1125664</guid>
@@ -765,46 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125636</guid>
         <pubDate>Tue, 08 Jul 2025 19:24:00 -0000</pubDate>
         <description><![CDATA[В рамках июльского &laquo;вторника патчей&raquo; (Patch Tuesday) 2025 года компания Microsoft выпустила обновления своих продуктов, устранив 137 уязвимостей, включая одну уязвимость нулевого дня в Microsoft SQL Server. Эта проблема была связана с некорректной проверкой входных данных и позволяла злоумышленникам получать доступ к неинициализированной памяти сервера, предоставляя, таким образом, возможность удалённого раскрытия информации без аутентификации. Источник изображения: bleepingcomputer.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Apple Lisa воссоздали в браузере до мельчайших деталей — дорогой компьютер 1983 года стал доступен всем]]></title>
-        <link>https://3dnews.ru/1125635</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125635</guid>
-        <pubDate>Tue, 08 Jul 2025 19:17:00 -0000</pubDate>
-        <description><![CDATA[Компьютер Apple Lisa был передовым устройство для 1983 года, когда появился в магазинах. В то время его можно было купить за $9995 &mdash; сегодня с учетом инфляции это эквивалент примерно $33 000. Но платить такие деньги за то, чтобы познакомиться с легендарной моделью, не нужно. Потому что любой желающий теперь может запустить в браузере копию оригинального интерфейса Apple Lisa. Источник изображения: alpha.lisagui.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[В Gmail добавят удобный способ отписаться от ненужных рассылок]]></title>
-        <link>https://3dnews.ru/1125633</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125633</guid>
-        <pubDate>Tue, 08 Jul 2025 19:09:00 -0000</pubDate>
-        <description><![CDATA[Почтовый сервис Gmail представил новую функцию, которая поможет пользователям навести порядок во входящих сообщениях. Речь идёт об инструменте &laquo;Управление подписками&raquo;, позволяющем быстро просматривать и отписываться от рассылок, которые больше не нужны. Источник изображения: Solen Feyissa/Unsplash]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[«Проведите время с пользой, ведь мы все умрём»: экзистенциальная игра о скоротечности жизни Time Flies получила дату выхода и новый трейлер]]></title>
-        <link>https://3dnews.ru/1125632</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125632</guid>
-        <pubDate>Tue, 08 Jul 2025 18:14:00 -0000</pubDate>
-        <description><![CDATA[Издательство Panic (Untitled Goose Game, Firewatch, despelote) и разработчики из швейцарской студии Playables объявили дату выхода своей экзистенциальной игры о скоротечности жизни Time Flies.   Источник изображений: Panic]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Tecno представила серию тонких и доступных смартфонов Spark 40 с ворохом ИИ-функций]]></title>
-        <link>https://3dnews.ru/1125631</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125631</guid>
-        <pubDate>Tue, 08 Jul 2025 18:04:00 -0000</pubDate>
-        <description><![CDATA[Компания Tecno представила новую серию недорогих смартфонов Spark 40. В неё вошли четыре модели: Spark 40 Pro+, Spark 40 Pro, Spark 40 и Spark 40C. Все новинки оснащены продвинутыми технологиями, предлагают премиальный дизайн и поддержку ИИ-функций. Источник изображений: Tecno]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Мощнейший Ryzen Threadripper Pro 9995WX показался в магазинах по цене $12 800]]></title>
-        <link>https://3dnews.ru/1125628</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125628</guid>
-        <pubDate>Tue, 08 Jul 2025 17:59:00 -0000</pubDate>
-        <description><![CDATA[Флагманский процессор AMD для рабочих станций &mdash; Ryzen Threadripper Pro 9995WX &mdash; начал появляться в розничной продаже. Стоимость чипа составляет около &euro;12 300 в Европе и около $12 794 в США. Таким образом, новый 96-ядерный чип примерно на 20 % дороже предшественника &mdash; Ryzen Threadripper Pro 7995WX. Источник изображения: AMD]]></description>
     </item>
 
 </channel>
