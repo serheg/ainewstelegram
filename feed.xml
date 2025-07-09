@@ -4,8 +4,32 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Wed, 09 Jul 2025 17:17:44 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 18:26:06 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[SilverStone выпустила олдскульный корпус Seta H2 с поддержкой 15 жестких дисков]]></title>
+        <link>https://3dnews.ru/1125707</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125707</guid>
+        <pubDate>Wed, 09 Jul 2025 18:23:00 -0000</pubDate>
+        <description><![CDATA[Компания SilverStone выпустила компьютерный корпус Seta H2 формата Full Tower, отсылающий к решениям конца 1990-х годов, когда приоритетом для корпусов подобного типа было наличие большого количества посадочных мест под жёсткие диски. Новинка Seta H2 с внутренним объёмом 70 литров позволяет установить до 15 HDD благодаря семи съёмным корзинам за фронтальной панелью, предназначенным как для 2,5-дюймовых, так и для 3,5-дюймовых накопителей. Источник изображений: SilverStone]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[X осталась без генерального директора — Линда Яккарино уходит в отставку после двух лет руководства соцсетью]]></title>
+        <link>https://3dnews.ru/1125705</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125705</guid>
+        <pubDate>Wed, 09 Jul 2025 17:57:00 -0000</pubDate>
+        <description><![CDATA[Линда Яккарино (Linda Yaccarino) покинет пост генерального директора X после двух лет руководства компанией &mdash; об этом она объявила сегодня на своей странице в социальной сети. Яккарино была назначена на должность через год после того, как Илон Маск (Elon Musk) приобрёл Twitter и переименовал его в X. Пока неизвестно, кто займёт её место. Источник изображения: Линда Яккарино]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Samsung объяснила, почему до сих пор не выпустила трёхстворчатый складной смартфон]]></title>
+        <link>https://3dnews.ru/1125704</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125704</guid>
+        <pubDate>Wed, 09 Jul 2025 17:25:00 -0000</pubDate>
+        <description><![CDATA[Компания Samsung уже некоторое время работает над созданием смартфона с экраном, который может складываться втрое. В ряде публикаций его называют Galaxy G Fold. Производитель намекал на такое устройство при анонсе серии смартфонов Galaxy S25 в январе этого года, однако не сообщил никаких новых подробностей о нём в рамках презентации складных смартфонов Galaxy Z Fold7 и Flip7. Портал Android Authority выяснил, что мешает Samsung выпустить такой смартфон. Источник изображения: Android Authority]]></description>
+    </item>
 
     <item>
         <title><![CDATA[[Перевод] Война за таланты в сфере ИИ]]></title>
@@ -781,30 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125390</guid>
         <pubDate>Tue, 08 Jul 2025 21:00:00 -0000</pubDate>
         <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/03/1125390.jpg" width="120" />У новых видеокарт NVIDIA не отнять одного — они легко и продуктивно разгоняются. Премиальная разновидность GeForce RTX 5060 Ti от GIGABYTE готова к оверклокингу в добавок к изначально повышенным тактовым частотам, да еще и может работать чрезвычайно тихо]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Новая статья: Обзор беспроводной колонки Tronsmart Bang Max: дачный певец]]></title>
-        <link>https://3dnews.ru/1124344</link>
-        <guid isPermaLink="true">https://3dnews.ru/1124344</guid>
-        <pubDate>Tue, 08 Jul 2025 21:00:00 -0000</pubDate>
-        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/06/12/1124344.jpg" width="120" />Компания Tronsmart, с которой мы пока только знакомимся, стремительно расширяет ассортимент беспроводных колонок, заявляя о претензиях на значимую долю рынка. На этот раз речь пойдет о крупной форме – полноразмерной трехполосной колонке Bang Max, предлагающей в условно «портативном» формате очень мощные басы]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[В США появится не только свой TikTok, но и CapCut]]></title>
-        <link>https://3dnews.ru/1125640</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125640</guid>
-        <pubDate>Tue, 08 Jul 2025 19:58:00 -0000</pubDate>
-        <description><![CDATA[В рамках ожидаемой продажи американского бизнеса TikTok китайская компания ByteDance планирует выпустить отдельную версию не только приложения соцсети, но и фирменного видеоредактора CapCut. Оба приложения будут ориентированы исключительно на пользователей из США. Источник изображения: appshunter.io / Unsplash]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Первая национальная ракета Канады «Тайга» стартует в августе — через пару лет полетит «Тундра»]]></title>
-        <link>https://3dnews.ru/1125639</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125639</guid>
-        <pubDate>Tue, 08 Jul 2025 19:48:00 -0000</pubDate>
-        <description><![CDATA[Канадские агентства и компании не раз принимали участие в космических миссиях, но каждый раз на вторых ролях. С территории Канады в космос ни разу не стартовали ракеты, тем более канадской разработки. Но скоро всё изменится, как мечтает пара канадских компаний &mdash; уже в августе должен взлететь первый прототип суверенной ракеты Страны кленового листа и это станет вехой в истории её космонавтики. Источник изображений: NordSpace]]></description>
     </item>
 
 </channel>
