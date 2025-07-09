@@ -4,8 +4,120 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Wed, 09 Jul 2025 11:18:19 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 12:37:01 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[ИИ создал первое в мире лекарство от рака, которое испытают на живых людях]]></title>
+        <link>https://3dnews.ru/1125686</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125686</guid>
+        <pubDate>Wed, 09 Jul 2025 12:36:00 -0000</pubDate>
+        <description><![CDATA[Дочерняя по отношению к Alphabet компания Isomorphic Labs объявила о подготовке первых в мире клинических испытаний на людях лекарства от рака. Препарат разработан с использованием пакета DeepMind AlphaFold 3. Со временем эта разработка обещает превратиться в универсальное средство для поиска лекарств от всех болезней &laquo;одним нажатием кнопки&raquo;. Источник изображения: blog.google]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Реализация полиморфизма без virtual на C++: концепты, трейты и Ref]]></title>
+        <link>https://habr.com/ru/articles/926282/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926282</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926282/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926282</guid>
+        <pubDate>Wed, 09 Jul 2025 12:15:21 -0000</pubDate>
+        <description><![CDATA[<p>Как был переработан подход к полиморфизму в C++‑фреймворке Flox: замена virtual на статически сгенерированные vtable с концептами. В статье описана архитектура, проблемы, решение и метрики прироста производительности.</p> <a href="https://habr.com/ru/articles/926282/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926282#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Закон Грема или как отправить под санкции пару миллионов человек (не только граждан РФ)]]></title>
+        <link>https://habr.com/ru/articles/926278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926278</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926278</guid>
+        <pubDate>Wed, 09 Jul 2025 12:13:47 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/7f5/97a/23c/7f597a23cc9a3303af7ef555ceb5dd33.png" /><p>В связи с очередным "геополитическим обострением" все больше слухов ходит о возможном принятии закона, внесенного группой сенаторов, более известного в медиа как "закон Линдси Грэма". Проект этого закона выложен на сайте конгресса США и доступен для <a href="https://www.congress.gov/bill/119th-congress/senate-bill/1241/text#toc-ida5adb9ec1b294d9cbc384291d7693c56" rel="noopener noreferrer nofollow">ознакомления</a> (но, не для комментирования). </p><p>К сожалению, достаточно часто в прошедшие годы санкционные режимы принимались неизбирательно, "по-площадям", и под прямые санкции попадали люди которые давно не жили в России, обладали двойным гражданством или даже не обладали гражданством РФ вообще. Самые известные случаи были в области авиационного и банковского законодательств ЕС. Поэтому мне было интересно проанализировать "закон Грэма" на предмет подобных  подводных камней.</p><p>В целом, проект закона вызывает ощущение, что его "целевой аудиторией" (то есть целью санкций)  действительно являются высшие должностные лица России, лица оказывающие поддержку армии России и государственные структуры РФ. В законопроект даже введен официальный термин "oligarch" (расшифровка этого термина феерична <em>"as defined and identified by the President").</em>  Однако, одна из формулировок этого законопроекта, вызывает серьезное беспокойство в частности применения данного закона к людям, давно не имеющим никаких связей с РФ. </p> <a href="https://habr.com/ru/articles/926278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926278#habracut">Попасть в список OFAC</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Программно-определяемые радиосистемы SDR Hack RF One и др — что лучше — оригинал, российское изделие или китайский клон?]]></title>
+        <link>https://habr.com/ru/articles/926274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926274</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926274</guid>
+        <pubDate>Wed, 09 Jul 2025 12:06:34 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d4c/61a/46a/d4c61a46aecd4995081ff85c3d9633e6.jpg" /><p>Мир радиосистем довольно сильно изменился после появления такого понятия, как SDR - software defined radio - программно-определяемые радиосистемы (ПОР).</p><p>SDR (ПОР) - это система радиосвязи , в которой компоненты, традиционно реализованные в аналоговых аппаратных средствах (например, микшеры, фильтры, усилители, модуляторы/демодуляторы, детекторы и т.д.) вместо этого реализуются с помощью программного обеспечения на компьютере или встроенной системе. Работы над SDR велись ориентировочно с 1970х годов, существовал ряд проектов по этому направлению. Но все они были дорогими, и далеко не для всех.</p><p>И только в 200х было обнаружено, что USB адаптеры DVB-T с контроллером и тюнером Realtek RTL2832U и Rafael Micro R820T и ценой 10-20$ могут использоваться в качестве широкополосного 3 МГц SDR-приемника.</p> <a href="https://habr.com/ru/articles/926274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926274#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Российский новый университет подключился к «РосНавыку»]]></title>
+        <link>https://habr.com/ru/articles/926272/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926272</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926272/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926272</guid>
+        <pubDate>Wed, 09 Jul 2025 12:01:25 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/dca/3da/4a0/dca3da4a09f12e56ead64e14c2c1216b.jpg" /><p>9 июля для ректората Российского нового университета (РосНОУ) при поддержке Университетского консорциума исследователей больших данных прошёл семинар сервиса «РосНавык». Этот мониторинговый сервис представила Дарья Олеговна Дунаева, менеджер проекта, ведущий аналитик научно-исследовательской лаборатории прикладного анализа больших данных Томского государственного университета.</p> <a href="https://habr.com/ru/articles/926272/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926272#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[The Pegasus GLK-2004: крайне необычный клон NES. Обзор из первых рук в 2025 году]]></title>
+        <link>https://habr.com/ru/companies/ru_mts/articles/926256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926256</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ru_mts/articles/926256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926256</guid>
+        <pubDate>Wed, 09 Jul 2025 12:00:17 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/78a/0f9/64e/78a0f964e41823c455d7012509b6bc42.jpg" /><p>Мое знакомство с игровыми консолями началось с Dendy, конечно же, в 90-х. Как сейчас помню подаренную мне Dendy Junior с логотипом слоненка в бейсболке. В комплекте шло два джойстика и световой пистолет. Консоль не была новой, ее купили с рук. И это было хорошо — целую пачку картриджей дали в подарок. Я был вне себя от радости, когда на экране пузатого телевизора GoldStar появилось меню с играми.</p><p>Лишь спустя много лет я узнал, что Dendy — это аппаратный клон приставки Famicom от Nintendo, причем продававшийся в основном в России и некоторых странах бывшего СССР. Игр для оригинальной консоли я никогда в руках не держал, в моей коллекции были исключительно пиратские сборники. Все бы ничего, но недавно мне в руки попал крайне интересный клон все той же самой игровой приставки под названием The Pegasus GLK-2004. Выполнен он в форм-факторе клавиатуры. Что ж, давайте изучим!</p> <a href="https://habr.com/ru/articles/926256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926256#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Обучение детей программированию, какой инструмент выбрать?]]></title>
+        <link>https://habr.com/ru/articles/926152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926152</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926152</guid>
+        <pubDate>Wed, 09 Jul 2025 12:00:14 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/b47/89f/481/b4789f481af7418aa49253f9c1282204.jpg" /><p>Для детей, изучающих программирование, существует несколько отличных сред, включая визуальные среды для начинающих и текстовые языки для более продвинутых.&nbsp;Scratch, Tynker, Swift Playgrounds&nbsp;подходят для начального уровня.&nbsp;Для детей постарше, Python является популярным выбором из-за простоты синтаксиса.&nbsp;</p><p><strong>Давайте теперь рассмотрим подробнее универсальные &nbsp;среды программирования:</strong></p><p><strong>Scratch:</strong> один из самых популярных инструментов для обучения детей программированию.&nbsp;Он использует блоки, которые можно перетаскивать, чтобы создавать игры и анимацию.&nbsp;Scratch имеет простой и понятный интерфейс, что делает его отличным выбором для детей младшего возраста.&nbsp;</p> <a href="https://habr.com/ru/articles/926152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926152#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Продвинутая защита данных без агентов: расширяем возможности VMmanager с RuBackup]]></title>
+        <link>https://habr.com/ru/companies/ispsystem/articles/926244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926244</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ispsystem/articles/926244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926244</guid>
+        <pubDate>Wed, 09 Jul 2025 11:44:13 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/20d/b04/b43/20db04b430142cc4587125c3f41c6875.png" /><p>При создании VMmanager мы уделяем особое внимание надежности платформы: <a href="https://www.ispsystem.ru/vm-high-availability" rel="noopener noreferrer nofollow">отказоустойчивые кластеры</a>, <a href="https://www.ispsystem.ru/vm-monitoring" rel="noopener noreferrer nofollow">мониторинг состояния</a> — эти и другие фичи платформы обеспечивают бесперебойную работу виртуальной инфраструктуры. Но ни одна, даже самая совершенная система не защищена на 100% от сбоев оборудования, человеческих ошибок или кибератак.</p><p>В этом случае резервное копирование остается последней линией обороны. У VMmanager есть встроенные инструменты для создания бэкапов, однако для предприятий с повышенными требованиями к безопасности мы реализовали интеграцию с профессиональным решением для резервного копирования, восстановления и сохранности данных — RuBackup.</p><p>В этой статье расскажем:</p><p><strong>•</strong>   какие возможности резервного копирования уже есть в VMmanager;</p><p><strong>•</strong>   как интеграция с RuBackup повышает уровень сохранности данных;</p><p><strong>•</strong>   какие сценарии позволяет реализовать интеграция;</p><p><strong>•</strong>   какие преимущества дает совместное использование двух платформ.</p> <a href="https://habr.com/ru/articles/926244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926244#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Need for speed: оценка ошибок измерений в футбольной аналитике. Часть 1]]></title>
+        <link>https://habr.com/ru/articles/925792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925792</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925792</guid>
+        <pubDate>Wed, 09 Jul 2025 11:44:01 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/bb4/f3f/f00/bb4f3ff00526722188e3cb16e757b18d.jpeg" /><p>Привет! Меня зовут Артем, и я занимаюсь разработкой систем компьютерного зрения в сервисе Яндекс Спорттех. Среди основных задач нашей команды — футбольная аналитика и работа со статистическими данными.</p><p>Яндекс Спорттех обеспечил интеграцию технологических решений в РПЛ — все стадионы участников чемпионата были оборудованы камерами 6К, для клубов организована передача в режиме онлайн фитнес-данных и продвинутых данных на стыке технико-тактических действий. С помощью современных методов компьютерного зрения мы осуществляем детекцию игроков и мяча, ведём их трекинг, а также вычисляем различные ключевые спортивные метрики — пройденные дистанции, максимальные скорости, спринты и рывки, а также экстренные торможения и другие фитнес-показатели, важные как для аналитиков, так и для тренеров и поклонников игры.</p><p>В этих двух статьях мы подробно рассмотрим, почему точное измерение скорости движения и пройденной дистанции игроков критически важно для качественного анализа футбольных матчей. Расскажем, почему любые систематические ошибки и неточности могут весьма существенно исказить выводы и рекомендации для тренерского штаба и аналитиков.&nbsp;</p><p>А ещё поделимся нашим опытом, расскажем о типичных источниках ошибок, возникающих при расчёте скорости и пробега, и опишем подходы, которые позволяют уменьшить их влияние.&nbsp;</p> <a href="https://habr.com/ru/articles/925792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925792#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Flare-On 11: Task 7 (2024) – Анализ и криптовзлом]]></title>
+        <link>https://habr.com/ru/articles/926266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926266</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926266</guid>
+        <pubDate>Wed, 09 Jul 2025 11:39:35 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/71f/f12/e3d/71ff12e3d31b0eb34de762dcf5aa3e9e.png" /><p>В этом разборе подробно рассматривается решение седьмого задания, сочетающего  реверс-инжиниринг и анализ .NET Native AOT-приложения, создание FLIRT-сигнатур и криптоанализ эллиптической кривой.<br /> Порядок генераторной точки оказался составным, что позволило применить метод Полига–Хеллмана и восстановить приватные ключи. После расшифровки сетевого трафика был извлечён флаг.<br /> Эта задача удачно объединяет технический анализ исполняемого файла с практическим применением методов криптоанализа.</p> <a href="https://habr.com/ru/articles/926266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926266#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как мы строим антифрод в анонимных крипто-свапалках: опыт и грабли]]></title>
+        <link>https://habr.com/ru/articles/926264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926264</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926264</guid>
+        <pubDate>Wed, 09 Jul 2025 11:30:46 -0000</pubDate>
+        <description><![CDATA[<p>Когда речь заходит о криптовалютных свапалках и анонимных DEX, безопасность становится не просто приоритетом, а настоящим вызовом. Отсутствие централизованной модерации и KYC-процедур ставит перед разработчиками задачу создать эффективные системы, которые могут обнаруживать и предотвращать мошенническую деятельность, обеспечивая при этом минимальное вмешательство в пользовательский опыт. В этом посте я хочу рассказать о подходах и технологиях, которые мы применили для защиты анонимных крипто-платформ, таких как <a href="http://zixcrypto.com" rel="noopener noreferrer nofollow">zixcrypto.com</a>, и поделиться опытом разработки антифрод-системы для таких сервисов.</p> <a href="https://habr.com/ru/articles/926264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926264#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Arm похвалилась успехами в серверном сегменте — рост в 14 раз за четыре года]]></title>
+        <link>https://3dnews.ru/1125685</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125685</guid>
+        <pubDate>Wed, 09 Jul 2025 11:29:00 -0000</pubDate>
+        <description><![CDATA[Долгое время архитектура Arm не могла получить существенного распространения за пределами мобильного рынка и сегмента встраиваемых решений, но в последние годы дело сдвинулось с мёртвой точки. Как отмечает руководство компании, с 2021 года количество использующих её архитектуру клиентов на серверном направлении выросло в 14 раз до 70 000 штук. Источник изображения: Microsoft]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Проектирование контроллера двигателей с GitHub Copilot]]></title>
+        <link>https://habr.com/ru/articles/925660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925660</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925660</guid>
+        <pubDate>Wed, 09 Jul 2025 11:28:46 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/38f/d5c/647/38fd5c64774ec3a630f196487b5539b3.png" /><p>В умном доме всегда найдётся место, где можно применить моторизованные системы. Это регулируемые столы, автоматические двери, окна, электронные замки, лестничные подъёмники, калитки, ворота, жалюзи, маркизы, антенные позиционеры, ротаторы солнечных панелей и т. д.</p> <a href="https://habr.com/ru/articles/925660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925660#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Motorola представила смартфон Moto G96 — 144-Гц OLED, Snapdragon 7s Gen 2 и батарея на 5500 мА·ч за $210]]></title>
+        <link>https://3dnews.ru/1125683</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125683</guid>
+        <pubDate>Wed, 09 Jul 2025 11:25:00 -0000</pubDate>
+        <description><![CDATA[Компания Motorola официально представила смартфон Moto G96, которое пополнит ассортимент доступных моделей. Новинка сочетает качественный дисплей, весьма производительную аппаратную платформу и вполне достойный набор камер. А кроме того новинка защищена от пыли и влаги. Источник изображений: Motorola]]></description>
+    </item>
 
     <item>
         <title><![CDATA[SpaceX собралась подорожать до $400 млрд]]></title>
@@ -424,51 +536,11 @@
     </item>
 
     <item>
-        <title><![CDATA[Как поменять работу, не меняя ее на самом деле. Пересобираем смыслы с джоб-крафтингом]]></title>
-        <link>https://habr.com/ru/companies/ru_mts/articles/926128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926128</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/ru_mts/articles/926128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926128</guid>
-        <pubDate>Wed, 09 Jul 2025 07:00:45 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/e79/43c/751/e7943c751be8a6695df7bc8735a229ca.jpg" /><p>Огромную часть жизни мы проводим на работе — и если она не приносит удовлетворения, чувствовать себя ценным и счастливым просто не получится. И это не только личная проблема. Представьте: ходить на работу больше не интересно, все валится из рук — о какой продуктивности может идти речь? К тому же, если ты недоволен работой, растет риск конфликтов с командой и торможения процесса в целом. Но это далеко не всегда значит, что работу нужно менять. Можно попробовать «пересобрать» ее под себя, чтобы она снова стала в радость.</p><p>Меня зовут Асия Морозова, я руковожу направлением по обучению и адаптации персонала в MWS и часто выступаю с докладами — например, о том, как бороться с выгоранием, выстроить карьерный трек или пройти программу ротации. Моя любимая тема в последнее время — джоб-крафтинг. Могу говорить об этом часами, практикую сама и другим советую. Сегодняшняя публикация как раз об этом. Давайте вместе разбираться, как взглянуть на рутинные задачи под новым углом и заново (ну или впервые) влюбиться в свою работу.</p> <a href="https://habr.com/ru/articles/926128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926128#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Пять причин полюбить HONOR 400]]></title>
         <link>https://3dnews.ru/1125510</link>
         <guid isPermaLink="true">https://3dnews.ru/1125510</guid>
         <pubDate>Wed, 09 Jul 2025 07:00:20 -0000</pubDate>
         <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/06/1125510.jpg" width="120" />HONOR 400 — современный смартфон среднего ценового сегмента, в котором особое внимание разработчики уделили фотографическим возможностям. Помимо 200-Мп основной камеры, новинка может предложить интересный набор инструментов для творческой фотографии, а также для обработки снимков]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Как мы создавали первую портативную умную колонку Яндекса]]></title>
-        <link>https://habr.com/ru/companies/yandex/articles/925610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925610</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/yandex/articles/925610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925610</guid>
-        <pubDate>Wed, 09 Jul 2025 07:00:18 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/a69/14e/f50/a6914ef5099b1e33a8312c8ce5ddb42d.png" /><p>Меня зовут Александр Батин, я инженер‑схемотехник. Уже больше трёх лет я работаю в&nbsp;Яндексе в&nbsp;команде, которая занимается разработкой умных экранов и новых продуктов. Отвечаю за&nbsp;проектирование материнских плат (разрабатывал материнскую плату для&nbsp;Станции Дуо Макс), а&nbsp;в&nbsp;последних проектах участвую уже в&nbsp;качестве техлида. </p><p>Сегодня я хочу посвятить свой рассказ ключевым аспектам разработки первой портативной колонки с&nbsp;Алисой&nbsp;— Станции Стрит:</p><p>— рассмотрим интересные моменты на&nbsp;этапе проектирования, </p><p>— поговорим о&nbsp;технических решениях, принятые в&nbsp;процессе работы, </p><p>— обратим внимание на&nbsp;сложности, с&nbsp;которыми столкнулась команда разработчиков. </p><p>Особое внимание уделю подходам к&nbsp;преодолению технических и инженерных вызовов: оптимизацию работы AI‑ассистента в&nbsp;условиях ограниченных вычислительных ресурсов и обеспечения стабильного взаимодействия при&nbsp;мобильном использовании без&nbsp;доступа к&nbsp;интернету.</p> <a href="https://habr.com/ru/articles/925610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925610#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Свет без источника: компактный датчик обнаружения молекул]]></title>
-        <link>https://habr.com/ru/companies/ua-hosting/articles/925838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925838</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/ua-hosting/articles/925838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925838</guid>
-        <pubDate>Wed, 09 Jul 2025 07:00:14 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/eca/dd8/6af/ecadd86af85cfb4be5e51f04829b5876.jpg" /><p>Практически любой аспект жизни человека в той или иной степени связан с измерением чего-либо: масса, расстояние, длина, температура и т.&nbsp;д. Часто от точности проведенных измерений зависит точность и успешность выполнения того или иного процесса. Когда речь идет об измерении крайне малых объектов, таких как молекулы используются оптические биосенсоры. Они чрезвычайно точны, но нуждаются в громоздком и дорогом оборудовании для генерации и обнаружения света. Ученые из Федеральной политехнической школы Лозанны (Швейцария) разработали систему, которая использует квантовую физику для обнаружения присутствия биомолекул без необходимости использования внешнего источника света. Как именно работает эта система, какие аспекты квантовой физики позволили ее реализовать, и что именно она может измерять? Ответы на эти вопросы мы найдем в докладе ученых.</p> <a href="https://habr.com/ru/articles/925838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925838#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[О ненависти к российским дистрибутивам Linux]]></title>
-        <link>https://habr.com/ru/articles/926180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926180</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926180</guid>
-        <pubDate>Wed, 09 Jul 2025 06:44:31 -0000</pubDate>
-        <description><![CDATA[<p>Каждый второй комментарий к новостям о российских дистрибутивах Linux можно сформулировать как "опять перерисовали шильдики".</p><p>Причем объяснить с чего перерисовали шильдики, комментаторы зачастую не могут. "Чувствую бесовщину, но доказать не могу!".</p><p>Конечно, иногда эти претензии не безосновательны - когда взяли пакет, заменили логотипы, не выложили исходники и презентуют как великое достижение <s>рисования нескучных обоев</s> русской инженерной школы. Бывает смешно, но скорее - <em>это печально</em>.</p><p>Но давайте поговорим про дистрибутивы.</p> <a href="https://habr.com/ru/articles/926180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926180#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Рекламные факапы: как ошибка становится вирусным кейсом, а не мемом на посмешище]]></title>
-        <link>https://habr.com/ru/articles/923930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923930</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/923930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923930</guid>
-        <pubDate>Wed, 09 Jul 2025 06:42:40 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/085/6ea/d9a/0856ead9a3367db7bd7e8f0aeaaa1ac9.png" /><p>Иногда реклама - это шахматная партия с потребителем. А иногда цирк на колёсах, где клоуном становится сам бренд. Но вот что интересно: даже самые громкие фейлы могут обернуться мощным ростом узнаваемости и лояльности. Главное  уметь правильно обработать удар. Ниже два кейса: один  провал на миллиард, второй случайный успех, сгенерированный голосом диктора.</p> <a href="https://habr.com/ru/articles/923930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923930#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -480,59 +552,11 @@
     </item>
 
     <item>
-        <title><![CDATA[«Да мы и без проектной документации справимся!»]]></title>
-        <link>https://habr.com/ru/articles/926172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926172</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926172</guid>
-        <pubDate>Wed, 09 Jul 2025 06:27:54 -0000</pubDate>
-        <description><![CDATA[<p>— И это после всего, что я вам рассказал? — я, конечно, уже слышал подобные заявления от потенциальных клиентов, но каждый раз удивлялся.<br /> — Ну да. Зачем нам эти прототипы и функциональные спецификации? Я уже несколько проектов запустил со своей командой и точно могу сказать: никто документацию не читает.<br /> — А как же вы ставите задачу на разработку?<br /> — Пишу небольшую вводную — и всё. В основном, на словах объясняю. Я же каждый день с разрабами общаюсь. Да и сам немного программист. Мы же с вами оба понимаем, что этап проектирования — это просто способ для вас заработать дополнительных денег.</p><p>Внутри меня аж передёрнуло от этой фразы. Но виду я не подал и ненадолго задумался. На самом деле до сих пор не знаю объективного способа проверить, помогает ли проектная документация в разработке. Что не мешает мне искренне в это верить.</p><p>— Ну что ж, понимаю. Тогда давайте попробую вам рассказать одну небольшую историю…</p> <a href="https://habr.com/ru/articles/926172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926172#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Как работает база данных Firebird, часть 1]]></title>
-        <link>https://habr.com/ru/articles/918552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918552</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/918552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918552</guid>
-        <pubDate>Wed, 09 Jul 2025 06:19:48 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/da1/e34/b24/da1e34b2428e258b3ff2bd3d685d85f7.png" /><p>В этой серии статей я залезу внутрь реляционной базы данных Firebird. Я не буду рисовать архитектуру в виде прямоугольников, соединённых стрелками. Вместо этого я буду показывать куски кода, описывать, что они делают и как вызывают друг друга, чтобы выполнить конкретную работу. </p> <a href="https://habr.com/ru/articles/918552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918552#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[На пути к эмоциональному искусственному интеллекту]]></title>
-        <link>https://habr.com/ru/companies/sberbank/articles/926050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926050</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/sberbank/articles/926050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926050</guid>
-        <pubDate>Wed, 09 Jul 2025 05:53:30 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/371/6f8/663/3716f8663b0b7bc940a0ff94fc48aaeb.jpg" /><p>Привет, Хабр. Меня зовут Андрей Савченко, я научный директор Sber AI Lab. Когда речь заходит про эмоциональность и принятие решений у ИИ, нужно задать себе вопрос: «А как это устроено у людей?» Наверняка почти каждый из вас ответил бы, что он принимает решение рационально, а остальные, зачастую, иррационально.&nbsp;</p><p>Нейропсихологи проводили <a href="https://briefly.ru/damasio/oshibka_dekarta/" rel="noopener noreferrer nofollow">исследования</a> и выяснили, что <strong>большинство решений люди принимают эмоционально</strong>. С одной стороны, это экономит ресурсы мозга, а с другой — позволяет быстрее принимать решения. И поэтому очень важно учитывать нашу эмоциональность при взаимодействии с другими и при создании имитации людей или сообществ с помощью современных генеративных моделей. Условно это можно назвать эмоциональным искусственным интеллектом.</p> <a href="https://habr.com/ru/articles/926050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926050#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Как «Гипроводстрой», внедрив nanoCAD GeoniCS, справился с растущим объемом заказов]]></title>
-        <link>https://habr.com/ru/companies/nanosoft/articles/922838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922838</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/nanosoft/articles/922838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922838</guid>
-        <pubDate>Wed, 09 Jul 2025 05:53:29 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/32e/322/4e1/32e3224e11bcdf43a27849110efef602.jpg" /><p>Институт «Гипроводстрой» выбрал <a href="https://www.nanocad.ru/products/geonics/?utm_source=nanocad&amp;utm_medium=habr&amp;utm_campaign=otzyv" rel="noopener noreferrer nofollow">nanoCAD GeoniCS</a> для автоматизации проектирования генпланов, вертикальной планировки и картограмм, что позволило значительно оптимизировать затраты и рабочие процессы в связи с ростом количества заказов. Удалось сократить время выполнения проектных задач, повысить качество проектных решений и снизить количество ошибок.<strong> </strong></p> <a href="https://habr.com/ru/articles/922838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922838#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Госдума РФ не приняла закон о легализации «белых» хакеров]]></title>
         <link>https://3dnews.ru/1125653</link>
         <guid isPermaLink="true">https://3dnews.ru/1125653</guid>
         <pubDate>Wed, 09 Jul 2025 05:46:00 -0000</pubDate>
         <description><![CDATA[На этой неделе Госдума РФ отклонила законопроект, в рамках которого предлагалось легализовать деятельность &laquo;белых&raquo; хакеров. Это решение было принято после получения соответствующих рекомендаций от профильного комитета Госдумы по государственному строительству и законодательству. Источник изображения: Kevin Ku / Unsplash]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Введение в обслуживание АСУ ТП на примере эффективных предприятий]]></title>
-        <link>https://habr.com/ru/articles/926088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926088</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926088</guid>
-        <pubDate>Wed, 09 Jul 2025 05:31:26 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3f7/2cb/14f/3f72cb14f2d1c23c5e34c13e9aa045ea.png" /><p>Сегодня автоматизированные системы управления технологическими процессами (АСУ ТП) являются неотъемлемой частью любого современного производства. Однако сама установка и пусконаладка системы — лишь половина дела. Настоящее испытание начинается в момент, когда оборудование переходит в эксплуатацию. Именно тогда становится очевидной роль обслуживания АСУ ТП — комплекса действий и организационных мер, позволяющих поддерживать системы в работоспособном состоянии, минимизировать простои и обеспечить надёжную работу всего предприятия.</p><p>Опыт эффективных предприятий в этой сфере показывает, что качественное обслуживание АСУ ТП напрямую влияет на экономические показатели компании, а также на гибкость и безопасность производства. В данной статье рассматриваются ключевые аспекты обслуживания АСУ ТП, опираясь на опыт компаний-лидеров отрасли, избегающих кризисных ситуаций и добивающихся устойчивого успеха за счёт выверенных стандартов и технологий.</p> <a href="https://habr.com/ru/articles/926088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926088#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Сейчас открою вкладку с ИИ и стану программистом]]></title>
-        <link>https://habr.com/ru/articles/926164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926164</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926164</guid>
-        <pubDate>Wed, 09 Jul 2025 05:23:15 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/8d7/65d/40a/8d765d40a7e0fb20638127ed437e2a39.png" /><p>Прочитал я <a href="https://habr.com/en/companies/ruvds/articles/924616/" rel="noopener noreferrer nofollow">эту статью</a> тут и решил поделиться <a href="https://t.me/papath_blog/541" rel="noopener noreferrer nofollow">своей статьёй</a>, недавно написанной для друзей, чтобы уберечь от глупостей, что программистом может стать каждый, просто используя ИИ. Сразу оговорюсь, что статья написана для людей, далёких от программирования.</p> <a href="https://habr.com/ru/articles/926164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926164#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -781,30 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125604</guid>
         <pubDate>Tue, 08 Jul 2025 14:09:00 -0000</pubDate>
         <description><![CDATA[ГК РСК продемонстрировала 2U-узел (912 &times; 508 &times; 88 мм) собственной разработки &laquo;РСК Экзастрим ИИ&raquo; на базе восьми ускорителей NVIDIA H100 с прямым жидкостным охлаждением. Два таких узла были установлены в суперкомпьютере &laquo;Говорун&raquo; в Дубне. &laquo;РСК Экзастрим ИИ&raquo; включает:]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Минцифры РФ заплатит до миллиона рублей за обнаружение уязвимостей в государственных сервисах]]></title>
-        <link>https://3dnews.ru/1125614</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125614</guid>
-        <pubDate>Tue, 08 Jul 2025 13:35:00 -0000</pubDate>
-        <description><![CDATA[Минцифры России инициировало третий этап программы, посвящённой проверке безопасности девяти государственных информационных систем. Обнаружившим в них уязвимости участникам обещаны выплаты в размере до 1 млн руб. за каждую выявленную ошибку &mdash; точный размер будет зависеть от её степени критичности. Источник изображения: Arif Riyanto / unsplash.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Phone (3) стал последним смартфоном Nothing текущего поколения — версий Pro или Ultra не будет]]></title>
-        <link>https://3dnews.ru/1125610</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125610</guid>
-        <pubDate>Tue, 08 Jul 2025 13:09:00 -0000</pubDate>
-        <description><![CDATA[Nothing Phone (3) стал последней моделью в серии смартфонов Phone (3), сообщил в соцсети X гендиректор компании Nothing Карл Пей (Carl Pei). Это значит, что производитель не намерен выпускать улучшенную и более дорогую версию флагмана со словом Pro или любым другим в названии. Источник изображения: nothing.tech]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Учёные нашли неожиданный способ втрое удешевить удаление CO₂ из воздуха — помогут терминалы СПГ и уголь]]></title>
-        <link>https://3dnews.ru/1125609</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125609</guid>
-        <pubDate>Tue, 08 Jul 2025 12:59:00 -0000</pubDate>
-        <description><![CDATA[Исследователи из США совместно с коллегами из Южной Кореи разработали менее затратный способ удаления углекислого газа из атмосферы. Традиционные системы прямого захвата CO₂ из воздуха неэффективны в тёплом и влажном климате, что препятствует повсеместному размещению таких установок. Новая разработка кардинально меняет подход, позволяя одинаково эффективно удалять углекислый газ практически в любом климате и в три раза дешевле, чем это возможно сегодня. Источник изображения: ИИ-генерация Grok 3/3DNews]]></description>
     </item>
 
 </channel>
