@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Моя объединенная RSS-лента</title>
+    <link>https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/</link>
+    <description>Все лучшие новости в одном месте</description>
+    <lastBuildDate>Wed, 09 Jul 2025 11:06:12 -0000</lastBuildDate>
+    <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[Белорусский «Горизонт» наладит выпуск 10-дюймовых планшетов разных цветов]]></title>
+        <link>https://3dnews.ru/1125679</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125679</guid>
+        <pubDate>Wed, 09 Jul 2025 11:04:00 -0000</pubDate>
+        <description><![CDATA[Белорусский холдинг &laquo;Горизонт&raquo; готовится к запуску производства планшетов, сообщает &laquo;БелТА&raquo; со ссылкой на заявление представителя компании, сделанное на выставке &laquo;Иннопром&raquo; в Екатеринбурге. Источник изображения: belta.by]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Подключение Spring AI к локальным AI-моделям с помощью Foundry Local]]></title>
+        <link>https://habr.com/ru/companies/spring_aio/articles/925074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925074</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/spring_aio/articles/925074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925074</guid>
+        <pubDate>Wed, 09 Jul 2025 11:02:47 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/28b/246/3c1/28b2463c1b3547ff008d537b0dfefc63.png" /><p>Команда&nbsp;<a href="https://t.me/+QmrKn0wA8CdkNjAy" rel="noopener noreferrer nofollow">Spring АйО</a>&nbsp;перевела статью, которая покажет, как интегрировать Spring AI с Foundry Local — десктопным приложением от Microsoft, совместимым с OpenAI API. Вы узнаете, как настроить локальную AI-модель, подключить её к Spring Boot и создать REST-эндпоинты для чат-бота и суммаризации текста. Всё это — с акцентом на производительность, безопасность и автономность.</p> <a href="https://habr.com/ru/articles/925074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925074#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как мы строили KidFolio — цифровую платформу для родителей и детских садов]]></title>
+        <link>https://habr.com/ru/articles/924782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=924782</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/924782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=924782</guid>
+        <pubDate>Wed, 09 Jul 2025 11:00:05 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/b0d/aac/9ef/b0daac9ef6aabcd05ecd46fd7feba5d1.png" /><p>Массовые фото из детского сада в родительских чатах редко бывают персональными: на десятках снимков сложно найти именно своего ребенка. Выпускники онлайн-магистратуры «Науки о данных» Центра «Пуск» МФТИ предложили решение — платформу KidFolio, которая с помощью технологий компьютерного зрения и мультимодальных моделей автоматически формирует и отправляет родителям персонализированные фото- и видеоотчеты. </p><p>В статье — подробности разработки: от сбора датасета детских лиц до создания собственного бенчмарка и дообучения моделей для генерации текстов.</p> <a href="https://habr.com/ru/articles/924782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924782#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[В России намерены запретить майнинг в ЦОД]]></title>
+        <link>https://3dnews.ru/1125678</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125678</guid>
+        <pubDate>Wed, 09 Jul 2025 10:59:00 -0000</pubDate>
+        <description><![CDATA[Вскоре в Госдуме во втором чтении будет рассматриваться законопроект о ЦОД, в который правительство и депутаты внесли поправки о создании реестра дата-центров, их правовом определении и запрете на майнинг. Предполагается, что запрет на майнинг в ЦОД исключит возможность получения майнерами льгот в качестве участников рынка дата-центров, пишет РБК. Источник изображения: Dmytro Demidko/unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[IBM представила серверы Power11 с поддержкой до 2048 потоков и памятью DDIMM]]></title>
+        <link>https://3dnews.ru/1125677</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125677</guid>
+        <pubDate>Wed, 09 Jul 2025 10:52:00 -0000</pubDate>
+        <description><![CDATA[IBM представила серверы нового поколения Power11 на одноимённой процессорной архитектуре. Вместо того, чтобы выпускать несколько моделей в разных сегментах, компания предложила комплексный стек, включающий как недорогие однопроцессорные конфигурации, так и предназначенные для работы в стойке 16-сокетные версии с поддержкой 2048 потоков. Источник изображений: ibm.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Шаблон ТЗ для AI]]></title>
+        <link>https://habr.com/ru/articles/926254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926254</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926254</guid>
+        <pubDate>Wed, 09 Jul 2025 10:50:36 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/671/8a3/57c/6718a357c4ba0d5b8f82ff2d46321fa2.png" /><p>Привет! Я Ярослав Шмулев, датасаентист, выпускник МФТИ и технический директор топ-10 интегратора ИИ&nbsp;R77 AI.&nbsp;Сделал для нас AI ТЗ потому что обычно заказчики приходят и не знают чего хотят, как это описать и какие эффекты ждут.</p> <a href="https://habr.com/ru/articles/926254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926254#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как мы улучшили режим ночной съемки в планшетах KVADRA_T]]></title>
+        <link>https://habr.com/ru/companies/yadro/articles/926216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926216</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/yadro/articles/926216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926216</guid>
+        <pubDate>Wed, 09 Jul 2025 10:43:26 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/849/dd8/fc7/849dd8fc7826e08cf8b69c978ecde8eb.jpg" /><p>Привет, Хабр! На связи Полина Лукичева, инженер команды AI ML Kit в компании YADRO. <a href="https://habr.com/ru/companies/yadro/articles/921980/" rel="noopener noreferrer nofollow">В первой статье</a> я рассказала о проблемах режима ночной съемки и методах их решения. Сегодня перехожу к практике — проведу предметное сравнение алгоритмов, выберу наиболее подходящие и покажу, как они работают в реальных условиях на планшетах <a href="https://xn--80aaej1a3b.xn--p1ai/product/kvadra_t/?utm_source=habr&amp;utm_medium=referral&amp;utm_campaign=night_photo_p2_090725" rel="noopener noreferrer nofollow">KVADRA_T</a>.</p><p>Для наших заказчиков качественные снимки в условиях низкой освещенности — рабочая необходимость. Планшет поможет снять показания со счетчика в темном подвале или сфотографировать паспорт клиента в коридоре с минимальными шумами и максимальной четкостью.</p> <a href="https://habr.com/ru/articles/926216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926216#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[AI-first backend: опыт реального вайб-кодинг проекта]]></title>
+        <link>https://habr.com/ru/articles/926238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926238</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926238</guid>
+        <pubDate>Wed, 09 Jul 2025 10:31:35 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/82b/670/c10/82b670c10ae060103aa1749ea6b5e8da.jpg" /><p>В 2025 году вопрос полноценной генерации продуктового кода с помощью LLM («вайб-кодинг») становится все более актуальным, но при этом остается и достаточно дискуссионным: насколько такие подходы вообще применимы в реальных проектах, действительно ли они сокращают время и стоимость разработки, и что происходит с тестируемостью и поддержкой такого кода в долгосрочной перспективе?</p><p>Сложность этого вопроса не только в качестве самой генерации, но и в том, как интегрировать LLM в инженерные процессы, чтобы получить управляемый, масштабируемый и архитектурно устойчивый код.</p><p>Моя мотивация была проста: попробовать выстроить полноценный продуктовый backend для нетривиального телеграм-бота с функциями агента (планированием, напоминаниями, памятью и проактивным поведением, возможностью дальнейшей расширяемости и интеграции сторонних сервисов), при этом — не писать руками ни строчки кода. Чтобы человек участвовал только как архитектор и асессор, а все проектирование и реализация шли через промпты в специализированные IDE (Cursor, Copilot, Zed) и LLM (как доступные через API, так и в «пользовательской» продуктовой обвязке).</p> <a href="https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[«Мы не занимаемся модернизацией Mass Effect»: Owlcat отреагировала на сравнения The Expanse: Osiris Reborn с культовой серией BioWare]]></title>
+        <link>https://3dnews.ru/1125676</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125676</guid>
+        <pubDate>Wed, 09 Jul 2025 10:29:00 -0000</pubDate>
+        <description><![CDATA[Творческий руководитель Owlcat Games Александр Мишулин в интервью Polygon прокомментировал сравнения анонсированного недавно научно-фантастического ролевого экшена The Expanse: Osiris Reborn с играми Mass Effect.   Источник изображений: Owlcat Games]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Эмпатичный ИИ: как трансформеры учатся распознавать эмоции в разговорах]]></title>
+        <link>https://habr.com/ru/articles/926240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926240</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926240</guid>
+        <pubDate>Wed, 09 Jul 2025 10:24:52 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/ad6/f2f/ada/ad6f2fadaa2777db4f1b536e5cfe0f39.png" /><p>В эпоху чат-ботов и голосовых помощников ИИ всё чаще становится собеседником человека. Но чтобы стать по-настоящему полезным в коммуникации, он должен не только понимать слова — но и улавливать эмоции, интонации, паузы и даже жесты. Именно это и пытается решить задача <strong>Emotion Recognition in Conversations (ERC)</strong>.</p><p>В недавней работе <em>“</em><a href="https://arxiv.org/abs/2310.20494" rel="noopener noreferrer nofollow"><em>A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations</em></a><em>”</em> исследователи предложили архитектуру, которая объединяет мультимодальные сигналы (текст, аудио, видео) в единую модель, способную «читать между строк» в прямом смысле. Рассказываем, как это устроено и почему это важно.</p> <a href="https://habr.com/ru/articles/926240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926240#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[[Перевод] Как стать кем угодно: DIY маска с изменяющимися проекциями]]></title>
+        <link>https://habr.com/ru/companies/otus/articles/926236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926236</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/otus/articles/926236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926236</guid>
+        <pubDate>Wed, 09 Jul 2025 10:18:57 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/203/9ee/b23/2039eeb236acedf75753c47bb440fe8b.jpg" /><p>Подробный гайд по созданию маски с проекциями, которая использует Raspberry Pi и мини-проектор для отображения изображений на лице. Мы пройдем все этапы — от 3D-печати деталей до настройки системы для воспроизведения видео, включая пайку и работу с электроникой. Этот проект подойдет для разработчиков, заинтересованных в создании встраиваемых систем и экспериментировании с носимой техникой.</p> <a href="https://habr.com/ru/articles/926236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926236#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Умеет ли вы продавать код?]]></title>
+        <link>https://habr.com/ru/articles/926234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926234</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926234</guid>
+        <pubDate>Wed, 09 Jul 2025 10:09:01 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/c47/41c/5a8/c4741c5a8f1febd79dc91e03c3a92a15.png" /><p>В сфере IT есть сильное профессиональное искажение. Айтишникам кажется, что продукт, который они продают это код. Но в головах их клиентов мир выглядит иначе. Заказчики покупают у айтишников не репозиторий на гитхабе или докер-образ, поднятый на VPS-ке. Они покупают решение своих бизнес-задач. Причём, заметьте, что в этой покупке весь риск лежит на стороне того, кто платит за работу. Потому что гарантия айтишника, что он качественно справится со своей задачей вовсе не гарантирует клиенту, что его бюджет будет потрачен эффективно и его проблема будет решена. Решена именно как бизнес-задача, а не как какая-то другая. То есть, что на выходе от всех затеянных телодвижений будет получен ощутимый положительный финансовый результат.<br /></p><p>И этот риск уменьшается только одним способом - коммуникацией. Поэтому я много лет повторяю мысль про то, что продажи и коммуникации это по сути одно и тоже. Продажа это коммуникация. Коммуникация это продажа. Даже, если вы просто разработчик в какой-то компании и общаетесь со вселенной через тикеты в джире и живёте в мире код-ревью и комитов. Возможно, вам кажется, что вы коммуницируете лишь с кодом и абстракциями... Нет, вы коммуницируете с людьми. Кто-то у вас покупает решение каких-то задач, даже, если эти задачи сформулированы техническим языком. </p><p><br />В мире IT-услуг, будь то фриланс или студийная разработка приложений, ключевым моментом является не только уровень технических навыков, но и коммуникационные способности. Как опытный менеджер по продажам SaaS-продуктов и разработки программного обеспечения, я хочу поделиться некоторыми рекомендациями о том, как успешно продавать свои услуги и становиться более запоминающимся и востребованным профессионалом.</p> <a href="https://habr.com/ru/articles/926234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926234#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Попытка поставить идеи и гипотезы на поток – швейцарский нож для стартапов]]></title>
+        <link>https://habr.com/ru/articles/926228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926228</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926228</guid>
+        <pubDate>Wed, 09 Jul 2025 09:54:37 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/658/553/651/6585536519191cf6d9466f0fa92f484b.jpg" /><p>Привет, меня зовут Кирилл! Мы с друзьями давно увлекаемся идеями и экспериментами «в стол». Знакомо, когда возникает куча интересных мыслей, но потом они теряются, потому что сложно понять — кому это на самом деле нужно?</p> <a href="https://habr.com/ru/articles/926228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926228#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Baidu и CAR запустили первый в мире сервис проката беспилотных автомобилей]]></title>
+        <link>https://3dnews.ru/1125675</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125675</guid>
+        <pubDate>Wed, 09 Jul 2025 09:52:00 -0000</pubDate>
+        <description><![CDATA[Илон Маск (Elon Musk), с переменным успехом ведущий Tesla к светлому беспилотному будущему, не раз отмечал, что распространение такого типа транспорта существенно изменит не только уклад жизни людей, но и бизнес-модели участников рынка. Китайские компании Baidu и CAR претендуют на первенство в развитии услуг по аренде беспилотных автомобилей. Источник изображения: CAR]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Команда дизайнеров Apple перейдёт в непосредственное подчинение Тиму Куку]]></title>
+        <link>https://3dnews.ru/1125670</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125670</guid>
+        <pubDate>Wed, 09 Jul 2025 09:50:00 -0000</pubDate>
+        <description><![CDATA[Генеральный директор Apple Тим Кук (Tim Cook) возглавит одно из важнейших подразделений компании: команду дизайнеров. В настоящее время она подчиняется главному операционному директору Джеффу Уильямсу (Jeff Williams), но в конце года Уильямс уйдёт на пенсию, и команда дизайнеров &laquo;перейдёт в непосредственное подчинение Куку&raquo;, сообщает Apple. Источник изображения: Apple]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Kioxia начала тестировать быструю и эффективную память UFS 4.1 для смартфонов будущего]]></title>
+        <link>https://3dnews.ru/1125669</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125669</guid>
+        <pubDate>Wed, 09 Jul 2025 09:47:00 -0000</pubDate>
+        <description><![CDATA[Kioxia объявила о начале испытаний флеш-накопителей Universal Flash Storage (UFS) версии 4.1. Память предназначена для работы на мобильных устройствах нового поколения, в том числе современных смартфонах с искусственным интеллектом &mdash; компоненты предлагают высокие производительность и энергоэффективность в упаковке BGA. Источник изображения: Kioxia]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[VK опубликовала рейтинг самых популярных игр и приложений в RuStore]]></title>
+        <link>https://3dnews.ru/1125674</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125674</guid>
+        <pubDate>Wed, 09 Jul 2025 09:44:00 -0000</pubDate>
+        <description><![CDATA[Российский магазин цифрового контента RuStore представил рейтинг наиболее популярный приложений и игр по итогам первого полугодия 2025 года. Статистика показала, что россияне активно скачивают программные продукты для решения повседневных задач, а также игры для развлечения. Источник изображения: RuStore]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[ИИ неделями дурачил пользователей музыкального сервиса, выдавая себя за рок-группу из живых людей]]></title>
+        <link>https://3dnews.ru/1125673</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125673</guid>
+        <pubDate>Wed, 09 Jul 2025 09:43:00 -0000</pubDate>
+        <description><![CDATA[Как сообщает информагентство Agence France-Presse, произведения и другой мультимедийный контент молодой инди-рок-группы &laquo;Бархатный закат&raquo; (Velvet Sundown) целиком оказались делом рук искусственного интеллекта. Об этом стало известно после обновления профиля исполнителя в музыкальном сервисе Spotify. В социальных сетях ИИ неделями дурачил поклонников, дразня фейковыми фотографиями исполнителей и не признавая искусственное происхождение композиций. Источник изображений: Velvet Sundown]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Прототипы большого флагманского внедорожника Xiaomi YU9 замечены в Китае]]></title>
+        <link>https://3dnews.ru/1125668</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125668</guid>
+        <pubDate>Wed, 09 Jul 2025 09:40:00 -0000</pubDate>
+        <description><![CDATA[Китайская компания Xiaomi едва приступила к продажам своего электрического кроссовера YU7, но внимание к себе уже привлекают шпионские фото таинственных прототипов, замеченных на автовозе где-то в Китае по соседству с уже известными моделями транспортных средств марки. Предполагается, что под чёрными покрывалами скрываются прототипы полноразмерного внедорожника Xiaomi, который фигурирует под именем YU9. Источник изображений: Weibo, CarNewsChina]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Тихая сила: как управлять не через контроль, а через влияние]]></title>
+        <link>https://habr.com/ru/articles/925816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925816</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925816</guid>
+        <pubDate>Wed, 09 Jul 2025 09:38:50 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/2af/55c/d1e/2af55cd1ec3049829bfe78238446c2e2.png" /><p>Иногда тебе кажется, что ты обычный член команды, такой же винтик системы, как и все. Вы так же общаетесь с командой, у вас есть свои приколы, иногда очень жесткие. Ты так же ходишь с ребятами в бар и на квизы, часто скидываете друг другу мемы. Но однажды ты слышишь:<br /> — Марина так сказала. Как самый важный довод при споре по рабочим вопросам, истина в последней инстанции. И тебя это пугает, потому что ты тоже человек, ты не хочешь, что бы они делали так, как ты сказала, а что бы сами подумали и нашли правильное решение. И тут до тебя наконец-то доходит что твоем мнение не одно из равных, а самое значимое. И теперь тебе нужно очень внимательно следить за тем, что ты говоришь и насколько хорошо люди тебя поняли.&nbsp;</p> <a href="https://habr.com/ru/articles/925816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925816#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Суд США заблокировал правило FTC о простой отмене подписок «в один клик»]]></title>
+        <link>https://3dnews.ru/1125672</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125672</guid>
+        <pubDate>Wed, 09 Jul 2025 09:36:00 -0000</pubDate>
+        <description><![CDATA[Суд в США аннулировал правило Федеральной торговой комиссии (FTC), согласно которому компании должны были обеспечивать возможность отмены подписок так же просто, как их оформление. Правило должно было начать действовать с 14 июля, но в настоящее время соответствующее решение отозвано судом. Источник изображения: Aleksandrs Karevs / Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Обновление Кибер Файлов — обзор новинок в версии 9.3]]></title>
+        <link>https://habr.com/ru/companies/cyberprotect/articles/926224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926224</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/cyberprotect/articles/926224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926224</guid>
+        <pubDate>Wed, 09 Jul 2025 09:35:41 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/fca/85b/437/fca85b4377704215cab9beabd137e6b7.png" /><p>В&nbsp;этом обзоре мы познакомимся с&nbsp;новой версией нашего решения класса EFSS, предназначенного для&nbsp;безопасного обмена файлами и организации совместной работы с&nbsp;документами&nbsp;— <strong>Кибер Файлы.</strong></p> <a href="https://habr.com/ru/articles/926224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926224#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как подготовиться к собеседованию в IT-компанию: полное руководство]]></title>
+        <link>https://habr.com/ru/companies/inpglobal/articles/926064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926064</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/inpglobal/articles/926064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926064</guid>
+        <pubDate>Wed, 09 Jul 2025 09:33:08 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/142/fea/4c3/142fea4c3b7731c13fc912a3872892b1.png" /><p>Собеседование в IT-компании — это не просто формальность, а многоэтапный процесс, который проверяет не только ваши технические навыки, но и soft skills, умение решать задачи и вписываться в команду. Чтобы пройти его успешно, важно тщательно подготовиться по всем ключевым направлениям. Расскажу подробно как это сделать.</p> <a href="https://habr.com/ru/articles/926064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926064#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Шестидесятилетний заключённый и лабораторная крыса. F# на Godot. Часть 8. Запоминающий поиск пути]]></title>
+        <link>https://habr.com/ru/companies/first/articles/926138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926138</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/first/articles/926138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926138</guid>
+        <pubDate>Wed, 09 Jul 2025 09:20:14 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/333/e09/ff8/333e09ff80670a118d4e038d1635fc7e.png" /><p>Мы ковыряли поиск пути через <code>A*</code> на протяжении <a href="https://habr.com/ru/companies/first/articles/919448/" rel="noopener noreferrer nofollow">двух глав</a> и при этом были сосредоточены на синтаксических изысках F#. В этой главе мы отдохнём от синтаксиса и посмотрим на то, как этот алгоритм мог бы развиваться в более функциональном стиле.</p> <a href="https://habr.com/ru/articles/926138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926138#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Представлен планшет OnePlus Pad Lite — 11-дюймовый 90-Гц дисплей, чип Helio G100 и батарея на 9340 мА·ч за $268]]></title>
+        <link>https://3dnews.ru/1125667</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125667</guid>
+        <pubDate>Wed, 09 Jul 2025 09:17:00 -0000</pubDate>
+        <description><![CDATA[На этой неделе компания OnePlus представила смартфоны Nord 5 и Nord CE5. Вместе с этим вендор анонсировал доступный планшетный компьютер OnePlus Pad Lite, который имеет те же характеристики, что и представленный недавно Oppo Pad SE. Источник изображений: OnePlus]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Выпущена обновлённая версия AMOS — распространённый вирус для macOS стал ещё опаснее]]></title>
+        <link>https://3dnews.ru/1125665</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125665</guid>
+        <pubDate>Wed, 09 Jul 2025 09:12:00 -0000</pubDate>
+        <description><![CDATA[Atomic Stealer (AMOS) &mdash; одна из самых опасных вредоносных программ для кражи информации с компьютеров под управлением Apple macOS &mdash; только что получила крупное обновление, сделавшее её ещё опаснее. Источник изображения: apple.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Сбор событий Linux: есть цель – ищем путь]]></title>
+        <link>https://habr.com/ru/companies/pt/articles/925894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925894</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/pt/articles/925894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925894</guid>
+        <pubDate>Wed, 09 Jul 2025 09:01:49 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/cae/795/45f/cae79545f4ba52d863620a8080c7ea83.jpg" /><p>Приветствую всех, кто заглянул на огонек! Меня зовут Роман, и я занимаюсь исследованием безопасности Linux (и всякого другого, связанного с ним) в экспертном центре безопасности в Positive Technologies.</p><p>Мне периодически приходится сталкиваться с вопросами клиентов или коллег из смежных отделов по поводу оптимизации работы различных компонентов журналирования внутри Linux. Поэтому в какой-то момент возникла идея обрисовать как минимум для самого себя целостную картину их взаимодействия и влияния друг на друга. Результатом работы стала довольно компактная схема, которая помогает оперативнее и эффективнее отвечать на возникающие вопросы для решения проблем. В статье я постараюсь вкратце описать каждый ее блок. Не ручаюсь за то, что будут затронуты все тонкости, известные лишь узкому кругу специалистов. Но на большую часть вопросов я отвечу.</p> <a href="https://habr.com/ru/articles/925894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925894#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[QapGen: Создаём мощные парсеры на C++]]></title>
+        <link>https://habr.com/ru/articles/925420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925420</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925420</guid>
+        <pubDate>Wed, 09 Jul 2025 09:01:07 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/09b/ede/092/09bede092b7c809900799056540dc53b.png" /><p><strong>QapDSLv2 </strong>— это язык который транслируется в обычный C++ код. Он позволяет удобно и компактно задавать грамматики/правила разбора кода программ, значительно упрощая разработку компиляторов/анализаторов/трансляторов.</p><p><strong>QapGen </strong>— это <strong>генератор дерева_лексеров</strong>/парсеров описанных на <strong>QapDSLv2. </strong>Сама грамматика <strong>QapDSLv2 описана на QapDSLv2 на 100%. Поэтому QapGen как основной читатель этой грамматики сам генерирует часть своего кода(весь парсер QapDSLv2).</strong></p><p>Основные фишки <strong>QapDSLv2 + QapGen</strong> — это:</p><p>1) Отсутствие этапа токенизации — <strong>дерево лексеров разбивает входной поток на лексемы и сохраняет их в строго типизированных древовидных С++ структурах пропуская этап токенизации.</strong></p><p>2)<strong> Генерация оптимизированного кода полиморфных лексеров</strong>.</p><p>3) Полное сохранение всех лексем(даже разделители сохраняются, такие как пробелы/переходы на новую строку и комментарии) в результирующем дереве.</p><p>4)<strong> Возможность сохранить</strong> как оригинальное <strong>дерево</strong>, так и модифицированное <strong>обратно в код/текст без потери разделителей/комментариев</strong>.</p><p>5) Автоматическая <strong>генерация кода посетителей</strong>(это такой паттерн проектирования).</p><p>А теперь пример самой сочной части(рекурсивно самоописывающийся код):</p><p><strong><code>struct</code></strong><code>t_target_struct:i_target_item{<br /> </code><strong><code>struct</code></strong><code>t_keyword{<br />   </code><strong><code>string</code></strong><code>kw=any_str_from_vec(split("struct,class",","));<br />    " "? // optional separator<br />  };<br /> </code><strong><code>struct</code></strong><code>t_body_semicolon:i_struct_impl{";"};<br /> </code><strong><code>struct</code></strong><code>t_body_impl:i_struct_impl{<br />    "{" // жрём скобочку<br />   </code><strong><code>vector&lt;TAutoPtr&lt;i_target_item&gt;&gt;</code></strong><code>nested?; //</code><strong><code>рекурсия!</code></strong><code><br />    " "? <br />   </code><strong><code>vector&lt;TAutoPtr&lt;i_struct_field&gt;&gt;</code></strong><code>arr?; // парсим поля<br />    " "?<br />   </code><strong><code>TAutoPtr&lt;t_cpp_code&gt;</code></strong><code>c?; // остальной С++ код<br />    " "?<br />    "}"<br />  };<br /> </code><strong><code>struct</code></strong><code>t_parent{<br />   </code><strong><code>string</code></strong><code>a_or_c=any_str_from_vec(split("=&gt;,:",","));<br />    " "?<br />   </code><strong><code>t_name</code></strong><code>name;<br />  };<br />  //точка входа в парсер:<br /> </code><strong><code>TAutoPtr&lt;t_keyword&gt;</code></strong><code>kw?; //парсим</code><strong><code>struct/class</code></strong><code><br /> </code><strong><code>t_name</code></strong><code>name; //парсим имя<br />  " "?<br /> </code><strong><code>TAutoPtr&lt;t_parent&gt;</code></strong><code>parent?;<br />  " "?<br /> </code><strong><code>TAutoPtr&lt;i_struct_impl&gt;</code></strong><code>body;<br /> };</code></p> <a href="https://habr.com/ru/articles/925420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925420#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[COBOL в XXI веке: почему банки и госслужбы не могут отказаться от языка 1959 года]]></title>
+        <link>https://habr.com/ru/companies/ruvds/articles/918156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918156</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ruvds/articles/918156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918156</guid>
+        <pubDate>Wed, 09 Jul 2025 09:01:05 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/f88/6e2/626/f886e2626e484ed28e738c083cdcc588.png" /><p>Представьте, что расчёт вашей пенсии или миллионы банковских транзакций обрабатываются кодом, написанным до полёта человека в космос. COBOL живёт в мэйнфреймах банков, страховых и госслужб, и отказаться от него рискованно: один баг — и вся финансовая система может остановиться.&nbsp;</p><p>Как старейший «серверный» язык справляется с XXI веком, где безопасность и гибкость важнее вечной стабильности?</p> <a href="https://habr.com/ru/articles/918156/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918156#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как создать свой парсер и AST-генератор на C++ с минимальными усилиями: знакомьтесь с QapDSLv2]]></title>
+        <link>https://habr.com/ru/articles/922128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=922128</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/922128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=922128</guid>
+        <pubDate>Wed, 09 Jul 2025 09:00:03 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d46/fe7/746/d46fe77461ca645b2d7753ac5c1ab8dc.png" /><p><strong>QapDSLv2: Новый стандарт AST-heavy парсинга</strong> </p><p><strong>QapDSLv2 обеспечивает:</strong></p><p><code>Молниеносное построение AST</code></p><p><code>Полное сохранение структуры исходного кода </code></p><p><code>Простоту интерпретации и модификации грамматик</code></p><p><strong>Забудьте о любы других парсерах!</strong> С помощью QapDSLv2 можно создавать компиляторы/анализаторы/форматировщики кода за минуты/часы. </p><p>Парсеры и генерация абстрактных синтаксических деревьев (<strong>AST</strong>) — это обычно долго, сложно и требует тонны шаблонного кода. Но что если я скажу, что теперь можно <strong>описывать грамматики и структуры данных одновременно</strong> и получать готовый, оптимизированный C++ код автоматически?</p><p><strong>QapDSLv2 — новый стандарт эффективности и удобства в парсинге</strong>. Это язык описания парсеров, который избавляет от синтаксического шума, упрощает интеграцию с C++ и позволяет <strong>создавать сложные анализаторы без боли и ошибок</strong>. Забудьте о бесконечных циклах отладки и непонятных генераторах — теперь всё просто, понятно и эффективно.</p><p>В этой статье вы узнаете, как QapDSL v2 меняет правила игры в мире парсинга и компиляторов, увидите реальные примеры и поймёте, почему <strong>это важно для каждого, кто работает с языками программирования и обработкой текста</strong>.</p><p>Готовы ускорить разработку и вывести свои проекты на новый уровень?</p><p><strong>QapGen — мощный генератор парсеров, построенный на основе QapDSLv2, </strong>который из грамматик <strong>QapDSLv2 </strong>сразу создаёт высокопроизводительный <strong>C++ парсер</strong> <strong>с типизированным AST</strong>, <strong>описанным прямо в грамматике.</strong> </p><p><strong><code>t_sep</code></strong><code>{<br /> </code><strong><code>string</code></strong><code>body =</code><strong><code>any</code></strong><code>(" \t\r\n");<br /> }<br /></code><strong><code>using</code></strong><code>" "</code><strong><code>as</code></strong><code>t_sep;<br /></code><strong><code>t_value{</code></strong><code><br /> </code><strong><code>TAutoPtr&lt;i_value&gt;</code></strong><code> body;<br />   " "?<br /></code><strong><code>}</code></strong><code><br /></code><strong><code>t_comma_value{</code></strong><code><br />   ","<br /> </code><strong><code>t_value</code></strong><code> body;<br />   " "?<br /></code><strong><code>}</code></strong><code><br /></code><strong><code>t_array=&gt;i_value{</code></strong><code><br />   "["<br />   " "?<br />  </code><strong><code>t_value</code></strong><code> first?;<br />  </code><strong><code>vector&lt;t_comma_value&gt;</code></strong><code> arr?;<br />   "]"<br />   " "?<br /></code><strong><code>}</code></strong></p> <a href="https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как я собеседовался в Ozon, Т-Банк, Mindbox и другие крупные компании]]></title>
+        <link>https://habr.com/ru/articles/926214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926214</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926214</guid>
+        <pubDate>Wed, 09 Jul 2025 08:39:18 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/427/3b0/8ce/4273b08cecd6dc89837b41cfe76f70d4.png" /><p>Всем привет. Я сеньор и тимлид на .NET (C#). До недавнего времени работал в Росатоме, пока там внезапно не сократили целую дирекцию по цифровизации. Так что пришлось срочно выходить на рынок, причём, впервые в моей жизни (до этого работа находила меня сама). По результатам нескольких циклов собеседований получился неплохой дневник, который я здесь привожу.</p> <a href="https://habr.com/ru/articles/926214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926214#habracut">История длинная, но интересная</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Уведомление в Роскомнадзор. Что делать?]]></title>
+        <link>https://habr.com/ru/articles/926212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926212</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926212</guid>
+        <pubDate>Wed, 09 Jul 2025 08:32:29 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/968/e91/2af/968e912aff7dade06c61bc2b2a73f8bd.png" /><p>Самозанятые и ИП в большинстве своем являются операторами персональных данных. Да, даже в том случае, если нет сайта, нет рассылки. Мы по умолчанию становимся операторами просто оказывая услуги своим клиентам и так или иначе обрабатывая персональные данные клиентов.</p><p>Операторы обязаны подавать уведомление в РКН до начала обработки персональных данных. Это старая норма, нет, она не появилась только в этом году. Просто до 30 мая действовали старые штрафы (около 500 рублей), а с 30 мая появилась отдельная статья за неподачу уведомления и стали действовать новые:</p> <a href="https://habr.com/ru/articles/926212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926212#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Зумерам стало сложнее находить работу в IT. Во всем виноват AI?]]></title>
+        <link>https://habr.com/ru/articles/926210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926210</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926210</guid>
+        <pubDate>Wed, 09 Jul 2025 08:20:06 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/7e1/b70/0c5/7e1b700c57493d10ab5e088644506e30.png" /><p>Раньше у тех, кто только начинает карьеру, была понятная стратегия входа в IT: отучиться в универе, сделать пару пет-проектов, пойти на стажировку и дорасти до мидла. Это казалось логичным: компании растут, специалистов не хватает, джунов охотно берут.&nbsp;</p><p>Но рынок изменился — зумерам находить первую работу стало гораздо сложнее. Раньше новички учились на рутине — багфиксы, простая верстка, юнит-тесты, ручная аналитика. Сегодня эти задачи отдают AI. Компании реже вкладываются в рост молодых, предпочитая оптимизацию процессов: здесь меньше рисков и затрат, выше скорость. Это удобно бизнесу, но для тех, кто только начинает карьеру, вход стал намного сложнее.&nbsp;</p><p>Меня зовут Татьяна Горбацевич, я тимлид рекрутинга в KODE. В статье расскажу о том, как меняется рынок, за что ценят зумеров и что делать, если вы только начинаете карьеру.</p> <a href="https://habr.com/ru/articles/926210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926210#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Не просто HD-версия: разработчики ремейка «Готики» рассказали об отличиях от классической игры Piranha Bytes]]></title>
+        <link>https://3dnews.ru/1125664</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125664</guid>
+        <pubDate>Wed, 09 Jul 2025 08:17:00 -0000</pubDate>
+        <description><![CDATA[Издательство THQ Nordic и барселонская студия Alkimia Interactive представили новый дневник разработки ремейка культовой ролевой игры &laquo;Готика&raquo; (Gothic) от Piranha Bytes. Выпуск посвящён художественному видению проекта.   Источник изображений: THQ Nordic]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Разворачивая свой WAF: открытые инструменты]]></title>
+        <link>https://habr.com/ru/companies/beeline_cloud/articles/926196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926196</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/beeline_cloud/articles/926196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926196</guid>
+        <pubDate>Wed, 09 Jul 2025 08:12:04 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/b52/c8c/9b1/b52c8c9b1234500ebaad1f0cb8fc6342.jpg" /><p>Ранее в блоге <a href="https://cloud.beeline.ru/?utm_source=habr&amp;utm_campaign=waf&amp;utm_term=post-07-25" rel="noopener noreferrer nofollow">beeline cloud</a> мы рассказывали про веб-приложения компаний: почему они часто становятся целями злоумышленников и что <a href="https://habr.com/ru/companies/beeline_cloud/articles/878624/" rel="noopener noreferrer nofollow">способны</a> им противопоставить решения <a href="https://cloud.beeline.ru/information-security-services/waf/?utm_source=habr&amp;utm_campaign=waf&amp;utm_term=post-07-25" rel="noopener noreferrer nofollow">WAF</a> — Web Application Firewall. Сегодня рассмотрим несколько инструментов такого класса от разработчиков из Китая, Франции и Италии.</p> <a href="https://habr.com/ru/articles/926196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926196#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Запускаем MIPI DSI экраны от смартфонов. Разработка схемы основной платы. Часть 3. Завершаем схему]]></title>
+        <link>https://habr.com/ru/companies/timeweb/articles/919988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=919988</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/timeweb/articles/919988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=919988</guid>
+        <pubDate>Wed, 09 Jul 2025 08:05:56 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/997/7c3/47e/9977c347e421665d52933c74a02834f6.jpeg" /><p>Выбрать подходящий разъём – это просто или сложно? В любом случае это важно.</p><p>Как быть с передачей дифференциальных пар на другую плату?</p><p>Сколько нужно контактов земли?</p><p>Стоит ли применять дифференциальные (common mode) фильтры и защиту от ESD?</p><p>Какой разъём лучше выбрать для питания?</p><p>В данной части рассмотрим эти и другие вопросы. Подберём разъёмы, добавим фильтры и защиты и завершим разработку схемы нашей платы.</p> <a href="https://habr.com/ru/articles/919988/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=919988#habracut">Полетели! :)</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Я написал свой VPN-клиент для Android. Зачем, если их сотни, и что скрывается под капотом?]]></title>
+        <link>https://habr.com/ru/articles/926150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926150</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926150</guid>
+        <pubDate>Wed, 09 Jul 2025 08:01:54 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/90d/e1d/954/90de1d9545bd1e76a80da5b2e0e2359c.png" /><p>Каждый раз, нажимая кнопку «Connect» в очередном VPN-приложении, я ловил себя на мысли: а что там, под капотом? Как эта магия на самом деле работает на уровне Android? Вокруг сотни готовых решений, но простое пользовательское любопытство переросло в профессиональное: мне захотелось не просто использовать, а понять. Понять, какие подводные камни скрывает VpnService, как реализовать весь цикл от авторизации до поднятия защищённого туннеля и что на этом пути может пойти не так.  </p><p>Эта статья — мой личный "бортовой журнал". Я не претендую на создание самого безопасного решения, это скорее история о пути, граблях и открытиях для тех, кто тоже решит заглянуть под капот VPN-технологий на Android.  </p><p>Так родилась идея этого проекта — создать свой, пусть и простой, VPN-клиент. Это не попытка сделать коммерческий продукт, а скорее исследовательское погружение, мой личный "челлендж" и способ разложить всё по полочкам.</p> <a href="https://habr.com/ru/articles/926150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926150#habracut">Заглянуть под капот</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Вы не будете в это играть: игровые миры, в которые больше нельзя попасть]]></title>
+        <link>https://habr.com/ru/companies/selectel/articles/926086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926086</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/selectel/articles/926086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926086</guid>
+        <pubDate>Wed, 09 Jul 2025 08:00:13 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/429/57d/6ac/42957d6ac93071b581a80cc0a8fe3962.jpg" /><p>Мы привыкли считать, что в цифровом пространстве ничто не исчезает: фильм можно пересмотреть, фото — восстановить, книгу — переиздать. Но с играми все иначе. Стоит <a href="https://selectel.ru/services/dedicated/?utm_source=habr.com&amp;utm_medium=referral&amp;utm_campaign=dedicated_article_deadgames_090725_content" rel="noopener noreferrer nofollow">серверам</a> замолкнуть, и игра исчезает. Игры умирают как пространство действия. Иногда беззвучно, без прощального сообщения. Виртуальный мир, в который когда-то заходили тысячи игроков, превращается в воспоминание.</p><p>В истории игр существуют не только шедевры и провалы, но и нечто более трагичное — игры, которые исчезли. Серверы отключены, лицензии отозваны, поддержка прекращена, а железо или операционные системы, для которых они были созданы, безвозвратно устарели. В этой статье пройдемся по таким играм-призракам. Уникальным, странным, в чем-то культовым. Тем, которые больше не существует не только в продаже, но и в игровом опыте. И это делает их особенно важными.</p> <a href="https://habr.com/ru/articles/926086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926086#habracut">Вспомнить былое</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Электромобиль Lucid Air проехал на одной зарядке 1205 км — это новый мировой рекорд]]></title>
+        <link>https://3dnews.ru/1125663</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125663</guid>
+        <pubDate>Wed, 09 Jul 2025 07:54:00 -0000</pubDate>
+        <description><![CDATA[Автомобиль компании Lucid Motors установил мировой рекорд по самому большому расстоянию, пройденному серийным электромобилем на одной зарядке, и попал в Книгу рекордов Гиннесса. Lucid Air Grand Touring проехал 1205 километров от Санкт-Морица (Швейцария) до Мюнхена (Германия) без остановок для подзарядки. Источник изображений: Lucid Motors]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Гайд на полиморфизм. Rust]]></title>
+        <link>https://habr.com/ru/articles/925576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925576</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925576</guid>
+        <pubDate>Wed, 09 Jul 2025 07:51:48 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/114/c23/945/114c2394515d2a24e37c91cb05f7bee2.jpeg" /><p>В прошлых статьях мы разобрали теорию: что такое полиморфизм и какие существуют способы его реализации. Настало время посмотреть, как это реализуется на практике. В качестве примера был выбран Rust — язык с богатой функциональностью, с одной стороны, и простой, прозрачной реализацией — с другой.</p> <a href="https://habr.com/ru/articles/925576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925576#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[GlobalFoundries укрепляет позиции в RISC-V и приобретает MIPS: разбираемся с патентами компании]]></title>
+        <link>https://habr.com/ru/companies/onlinepatent/articles/926198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926198</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/onlinepatent/articles/926198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926198</guid>
+        <pubDate>Wed, 09 Jul 2025 07:50:19 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d83/cee/928/d83cee9282852d0ba2eb95694558f3d3.jpg" /><p>Компания GlobalFoundries (GF), один из ключевых игроков в сфере контрактного производства полупроводников, объявила о покупке MIPS — разработчика процессорных ядер на архитектуре RISC-V. Сделка позволит MIPS сохранить операционную самостоятельность, но при этом получить доступ к ресурсам GF для ускорения разработки и вывода на рынок новых решений. Разбираемся с патентами MIPS. </p><p><strong>Спойлер</strong>: всё очень круто!</p> <a href="https://habr.com/ru/articles/926198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926198#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[G.Skill начала продажи комплектов DDR5-6000 256 Гбайт и DDR5-6400 128 Гбайт с низкими задержками для платформ AMD и Intel]]></title>
+        <link>https://3dnews.ru/1125662</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125662</guid>
+        <pubDate>Wed, 09 Jul 2025 07:48:00 -0000</pubDate>
+        <description><![CDATA[Компания G.Skill сообщила о доступности комплектов разогнанной оперативной памяти большой ёмкости: DDR5-6000 объёмом 256 Гбайт (4 &times; 64 Гбайт) и DDR5-6400 объёмом 128 Гбайт (2 &times; 64 Гбайт). Новые комплекты разработаны для высокопроизводительных вычислений, создания контента, приложений искусственного интеллекта и профессиональных рабочих станций. Однако ничто не мешает использовать их и в составе мощных игровых ПК. Источник изображений: G.Skill]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Razer выпустила компактную механическую клавиатуру BlackWidow V4 Tenkeyless HyperSpeed с заменяемыми переключателями]]></title>
+        <link>https://3dnews.ru/1125661</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125661</guid>
+        <pubDate>Wed, 09 Jul 2025 07:43:00 -0000</pubDate>
+        <description><![CDATA[Компания Razer представила игровую механическую клавиатуру BlackWidow V4 Tenkeyless HyperSpeed. У неё нет отдельного цифрового блока, но есть стандартный блок курсорных клавиш: Insert, Delete, Home, End, PageUp, PageDown и четыре клавиши-стрелки. Новинка оснащена быстросъёмными переключателями, шумоизоляцией, а также дополнительными настраиваемыми кнопками и фирменной RGB-подсветкой Razer Chroma. Источник изображений: Razer]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[RTX 5060 Ti 16 GB: лучшая бюджетная видеокарта для 2К-гейминга в 2025 году?]]></title>
+        <link>https://habr.com/ru/companies/mvideo/articles/926188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926188</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/mvideo/articles/926188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926188</guid>
+        <pubDate>Wed, 09 Jul 2025 07:36:59 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/1d2/59f/39a/1d259f39aba35db9e89de14e353f73f0.png" /><p>Научно-технический прогресс неумолим, и по мере его развития растут и требования к стандартам качества. В последнее время все больше людей приходят к выводу, что новый стандарт разрешения для игр — это QHD (2560x1440). Действительно, при современном уровне графики разрешения Full HD (1920x1080) уже недостаточно, чтобы рассмотреть все детали и красоту видеоигр. </p><p>Но какая видеокарта оптимальна для игр в разрешении QHD? Вместе с редакцией <a href="https://www.mvideo.ru/blog/mgame/igry-cherez-pot-i-slezy-chto-eshhe-poprobovat-esli-nravitsya-elden-ring" rel="noopener noreferrer nofollow">блога «М.Клик»</a> решили отыскать правильный ответ.</p> <a href="https://habr.com/ru/articles/926188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926188#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Миграция с Firebird на PostgreSQL. Что может пойти не так? Часть 2]]></title>
+        <link>https://habr.com/ru/articles/926114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926114</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926114</guid>
+        <pubDate>Wed, 09 Jul 2025 07:36:31 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/webt/ym/zd/jq/ymzdjqg1eadadmsxadcdqo_wglc.png" /><p><a href="https://habr.com/ru/articles/926094/" rel="noopener noreferrer nofollow">В первой части </a>обсуждалось как отличие реализации MVCC в Firebird и PostgreSQL может привести к сложностям при миграции информационной системы. Напоминаю девиз этой серии статей – "Ваши ожидания – это Ваши проблемы". Рассмотрим еще некоторые моменты, которые позволят Вам не находится в состоянии "обманутых ожиданий" при миграции с Firebird на PostgreSQL.</p> <a href="https://habr.com/ru/articles/926114/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926114#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[ByteDance ещё не согласилась на сделку с Oracle и лишь раздумывает над созданием чисто американских приложений]]></title>
+        <link>https://3dnews.ru/1125660</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125660</guid>
+        <pubDate>Wed, 09 Jul 2025 07:17:00 -0000</pubDate>
+        <description><![CDATA[Накануне появилась информация о том, что китайская компания ByteDance, работу социальной сети TikTok которой в США пытаются запретить на законодательном уровне, приняла решение создать для рынка этого региона обособленные приложения, включая видеоредактор CapCut. Китайские источники утверждают, что подобные заявления преждевременны. Источник изображения: Unsplash, Olivier Bergeron]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Мессенджер Max выбился в лидеры по скачиваниям в российском App Store среди соцсетей]]></title>
+        <link>https://3dnews.ru/1125659</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125659</guid>
+        <pubDate>Wed, 09 Jul 2025 07:16:00 -0000</pubDate>
+        <description><![CDATA[Мессенджер Max вышел в лидеры по скачиваниям среди приложений социальных сетей в российском сегменте магазина цифрового контента Apple App Store. В рейтинге всех приложений платформы отечественный IM-клиент расположился на седьмом месте. Источник изображения: Jason Goodman/unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Research Ops в маленькой команде: как наладить процесс без бюджета и отдельной роли]]></title>
+        <link>https://habr.com/ru/articles/925344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925344</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925344</guid>
+        <pubDate>Wed, 09 Jul 2025 07:15:02 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3d0/811/d31/3d0811d31684a28bd65e794291d87cae.png" /><p>Если в команде каждый делает всё, а пользовательские исследования –  это «когда-нибудь потом», статья для вас. Я делюсь опытом, как мы наладили процесс discovery в маленькой команде без ресерчера и бюджета. Как шаблоны, хранилище знаний и короткие инсайты на ревью спринта изменили культуру команды. И почему для меня Research Ops –  это не должность, а привычка думать вместе с пользователем.  </p> <a href="https://habr.com/ru/articles/925344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925344#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Тёмную материю нужно искать в тёмных карликах, показало моделирование]]></title>
+        <link>https://3dnews.ru/1125658</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125658</guid>
+        <pubDate>Wed, 09 Jul 2025 07:14:00 -0000</pubDate>
+        <description><![CDATA[Группа учёных из Великобритании и США провела моделирование ранее неизвестного класса космических объектов, получивших название &laquo;тёмные карлики&raquo;. В определённых условиях несостоявшиеся звёзды &mdash; коричневые карлики &mdash; могут вобрать в себя достаточное количество тёмной материи, чтобы поддерживать бесконечный процесс тления, оставаясь тусклыми, но при этом довольно горячими. Моделирование подсказало, где следует искать этих таинственных объектов. Источник изображения: Durham University]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Роскомнадзор заявил, что каждый день выявляет 1,2 млн звонков с подменой номера]]></title>
+        <link>https://3dnews.ru/1125655</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125655</guid>
+        <pubDate>Wed, 09 Jul 2025 07:07:00 -0000</pubDate>
+        <description><![CDATA[Роскомнадзор ежедневно выявляет среди 455 млн звонков 1,2 млн вызовов с подменой номера, используемых мошенниками. Об этом сообщил зампредседателя правительства, руководитель аппарата правительства Дмитрий Григоренко. Источник изображения: NordWood Themes / Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как поменять работу, не меняя ее на самом деле. Пересобираем смыслы с джоб-крафтингом]]></title>
+        <link>https://habr.com/ru/companies/ru_mts/articles/926128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926128</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ru_mts/articles/926128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926128</guid>
+        <pubDate>Wed, 09 Jul 2025 07:00:45 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/e79/43c/751/e7943c751be8a6695df7bc8735a229ca.jpg" /><p>Огромную часть жизни мы проводим на работе — и если она не приносит удовлетворения, чувствовать себя ценным и счастливым просто не получится. И это не только личная проблема. Представьте: ходить на работу больше не интересно, все валится из рук — о какой продуктивности может идти речь? К тому же, если ты недоволен работой, растет риск конфликтов с командой и торможения процесса в целом. Но это далеко не всегда значит, что работу нужно менять. Можно попробовать «пересобрать» ее под себя, чтобы она снова стала в радость.</p><p>Меня зовут Асия Морозова, я руковожу направлением по обучению и адаптации персонала в MWS и часто выступаю с докладами — например, о том, как бороться с выгоранием, выстроить карьерный трек или пройти программу ротации. Моя любимая тема в последнее время — джоб-крафтинг. Могу говорить об этом часами, практикую сама и другим советую. Сегодняшняя публикация как раз об этом. Давайте вместе разбираться, как взглянуть на рутинные задачи под новым углом и заново (ну или впервые) влюбиться в свою работу.</p> <a href="https://habr.com/ru/articles/926128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926128#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Пять причин полюбить HONOR 400]]></title>
+        <link>https://3dnews.ru/1125510</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125510</guid>
+        <pubDate>Wed, 09 Jul 2025 07:00:20 -0000</pubDate>
+        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/06/1125510.jpg" width="120" />HONOR 400 — современный смартфон среднего ценового сегмента, в котором особое внимание разработчики уделили фотографическим возможностям. Помимо 200-Мп основной камеры, новинка может предложить интересный набор инструментов для творческой фотографии, а также для обработки снимков]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как мы создавали первую портативную умную колонку Яндекса]]></title>
+        <link>https://habr.com/ru/companies/yandex/articles/925610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925610</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/yandex/articles/925610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925610</guid>
+        <pubDate>Wed, 09 Jul 2025 07:00:18 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/a69/14e/f50/a6914ef5099b1e33a8312c8ce5ddb42d.png" /><p>Меня зовут Александр Батин, я инженер‑схемотехник. Уже больше трёх лет я работаю в&nbsp;Яндексе в&nbsp;команде, которая занимается разработкой умных экранов и новых продуктов. Отвечаю за&nbsp;проектирование материнских плат (разрабатывал материнскую плату для&nbsp;Станции Дуо Макс), а&nbsp;в&nbsp;последних проектах участвую уже в&nbsp;качестве техлида. </p><p>Сегодня я хочу посвятить свой рассказ ключевым аспектам разработки первой портативной колонки с&nbsp;Алисой&nbsp;— Станции Стрит:</p><p>— рассмотрим интересные моменты на&nbsp;этапе проектирования, </p><p>— поговорим о&nbsp;технических решениях, принятые в&nbsp;процессе работы, </p><p>— обратим внимание на&nbsp;сложности, с&nbsp;которыми столкнулась команда разработчиков. </p><p>Особое внимание уделю подходам к&nbsp;преодолению технических и инженерных вызовов: оптимизацию работы AI‑ассистента в&nbsp;условиях ограниченных вычислительных ресурсов и обеспечения стабильного взаимодействия при&nbsp;мобильном использовании без&nbsp;доступа к&nbsp;интернету.</p> <a href="https://habr.com/ru/articles/925610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925610#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Свет без источника: компактный датчик обнаружения молекул]]></title>
+        <link>https://habr.com/ru/companies/ua-hosting/articles/925838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925838</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ua-hosting/articles/925838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925838</guid>
+        <pubDate>Wed, 09 Jul 2025 07:00:14 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/eca/dd8/6af/ecadd86af85cfb4be5e51f04829b5876.jpg" /><p>Практически любой аспект жизни человека в той или иной степени связан с измерением чего-либо: масса, расстояние, длина, температура и т.&nbsp;д. Часто от точности проведенных измерений зависит точность и успешность выполнения того или иного процесса. Когда речь идет об измерении крайне малых объектов, таких как молекулы используются оптические биосенсоры. Они чрезвычайно точны, но нуждаются в громоздком и дорогом оборудовании для генерации и обнаружения света. Ученые из Федеральной политехнической школы Лозанны (Швейцария) разработали систему, которая использует квантовую физику для обнаружения присутствия биомолекул без необходимости использования внешнего источника света. Как именно работает эта система, какие аспекты квантовой физики позволили ее реализовать, и что именно она может измерять? Ответы на эти вопросы мы найдем в докладе ученых.</p> <a href="https://habr.com/ru/articles/925838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925838#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[О ненависти к российским дистрибутивам Linux]]></title>
+        <link>https://habr.com/ru/articles/926180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926180</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926180</guid>
+        <pubDate>Wed, 09 Jul 2025 06:44:31 -0000</pubDate>
+        <description><![CDATA[<p>Каждый второй комментарий к новостям о российских дистрибутивах Linux можно сформулировать как "опять перерисовали шильдики".</p><p>Причем объяснить с чего перерисовали шильдики, комментаторы зачастую не могут. "Чувствую бесовщину, но доказать не могу!".</p><p>Конечно, иногда эти претензии не безосновательны - когда взяли пакет, заменили логотипы, не выложили исходники и презентуют как великое достижение <s>рисования нескучных обоев</s> русской инженерной школы. Бывает смешно, но скорее - <em>это печально</em>.</p><p>Но давайте поговорим про дистрибутивы.</p> <a href="https://habr.com/ru/articles/926180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926180#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Рекламные факапы: как ошибка становится вирусным кейсом, а не мемом на посмешище]]></title>
+        <link>https://habr.com/ru/articles/923930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=923930</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/923930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=923930</guid>
+        <pubDate>Wed, 09 Jul 2025 06:42:40 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/085/6ea/d9a/0856ead9a3367db7bd7e8f0aeaaa1ac9.png" /><p>Иногда реклама - это шахматная партия с потребителем. А иногда цирк на колёсах, где клоуном становится сам бренд. Но вот что интересно: даже самые громкие фейлы могут обернуться мощным ростом узнаваемости и лояльности. Главное  уметь правильно обработать удар. Ниже два кейса: один  провал на миллиард, второй случайный успех, сгенерированный голосом диктора.</p> <a href="https://habr.com/ru/articles/923930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923930#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Научно-фантастический хоррор Routine вернулся из небытия второй раз за 13 лет и наконец взял курс на релиз]]></title>
+        <link>https://3dnews.ru/1125654</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125654</guid>
+        <pubDate>Wed, 09 Jul 2025 06:34:27 -0000</pubDate>
+        <description><![CDATA[Анонсированный в 2012 году научно-фантастический хоррор Routine от небольшой (три человека) британской студии Lunar Software спустя 13 лет и два возвращения из небытия наконец взял курс на релиз.   Источник изображений: Lunar Software]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[«Да мы и без проектной документации справимся!»]]></title>
+        <link>https://habr.com/ru/articles/926172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926172</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926172</guid>
+        <pubDate>Wed, 09 Jul 2025 06:27:54 -0000</pubDate>
+        <description><![CDATA[<p>— И это после всего, что я вам рассказал? — я, конечно, уже слышал подобные заявления от потенциальных клиентов, но каждый раз удивлялся.<br /> — Ну да. Зачем нам эти прототипы и функциональные спецификации? Я уже несколько проектов запустил со своей командой и точно могу сказать: никто документацию не читает.<br /> — А как же вы ставите задачу на разработку?<br /> — Пишу небольшую вводную — и всё. В основном, на словах объясняю. Я же каждый день с разрабами общаюсь. Да и сам немного программист. Мы же с вами оба понимаем, что этап проектирования — это просто способ для вас заработать дополнительных денег.</p><p>Внутри меня аж передёрнуло от этой фразы. Но виду я не подал и ненадолго задумался. На самом деле до сих пор не знаю объективного способа проверить, помогает ли проектная документация в разработке. Что не мешает мне искренне в это верить.</p><p>— Ну что ж, понимаю. Тогда давайте попробую вам рассказать одну небольшую историю…</p> <a href="https://habr.com/ru/articles/926172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926172#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как работает база данных Firebird, часть 1]]></title>
+        <link>https://habr.com/ru/articles/918552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918552</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/918552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918552</guid>
+        <pubDate>Wed, 09 Jul 2025 06:19:48 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/da1/e34/b24/da1e34b2428e258b3ff2bd3d685d85f7.png" /><p>В этой серии статей я залезу внутрь реляционной базы данных Firebird. Я не буду рисовать архитектуру в виде прямоугольников, соединённых стрелками. Вместо этого я буду показывать куски кода, описывать, что они делают и как вызывают друг друга, чтобы выполнить конкретную работу. </p> <a href="https://habr.com/ru/articles/918552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918552#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[На пути к эмоциональному искусственному интеллекту]]></title>
+        <link>https://habr.com/ru/companies/sberbank/articles/926050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926050</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/sberbank/articles/926050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926050</guid>
+        <pubDate>Wed, 09 Jul 2025 05:53:30 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/371/6f8/663/3716f8663b0b7bc940a0ff94fc48aaeb.jpg" /><p>Привет, Хабр. Меня зовут Андрей Савченко, я научный директор Sber AI Lab. Когда речь заходит про эмоциональность и принятие решений у ИИ, нужно задать себе вопрос: «А как это устроено у людей?» Наверняка почти каждый из вас ответил бы, что он принимает решение рационально, а остальные, зачастую, иррационально.&nbsp;</p><p>Нейропсихологи проводили <a href="https://briefly.ru/damasio/oshibka_dekarta/" rel="noopener noreferrer nofollow">исследования</a> и выяснили, что <strong>большинство решений люди принимают эмоционально</strong>. С одной стороны, это экономит ресурсы мозга, а с другой — позволяет быстрее принимать решения. И поэтому очень важно учитывать нашу эмоциональность при взаимодействии с другими и при создании имитации людей или сообществ с помощью современных генеративных моделей. Условно это можно назвать эмоциональным искусственным интеллектом.</p> <a href="https://habr.com/ru/articles/926050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926050#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как «Гипроводстрой», внедрив nanoCAD GeoniCS, справился с растущим объемом заказов]]></title>
+        <link>https://habr.com/ru/companies/nanosoft/articles/922838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=922838</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/nanosoft/articles/922838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=922838</guid>
+        <pubDate>Wed, 09 Jul 2025 05:53:29 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/32e/322/4e1/32e3224e11bcdf43a27849110efef602.jpg" /><p>Институт «Гипроводстрой» выбрал <a href="https://www.nanocad.ru/products/geonics/?utm_source=nanocad&amp;utm_medium=habr&amp;utm_campaign=otzyv" rel="noopener noreferrer nofollow">nanoCAD GeoniCS</a> для автоматизации проектирования генпланов, вертикальной планировки и картограмм, что позволило значительно оптимизировать затраты и рабочие процессы в связи с ростом количества заказов. Удалось сократить время выполнения проектных задач, повысить качество проектных решений и снизить количество ошибок.<strong> </strong></p> <a href="https://habr.com/ru/articles/922838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922838#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Госдума РФ не приняла закон о легализации «белых» хакеров]]></title>
+        <link>https://3dnews.ru/1125653</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125653</guid>
+        <pubDate>Wed, 09 Jul 2025 05:46:00 -0000</pubDate>
+        <description><![CDATA[На этой неделе Госдума РФ отклонила законопроект, в рамках которого предлагалось легализовать деятельность &laquo;белых&raquo; хакеров. Это решение было принято после получения соответствующих рекомендаций от профильного комитета Госдумы по государственному строительству и законодательству. Источник изображения: Kevin Ku / Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Введение в обслуживание АСУ ТП на примере эффективных предприятий]]></title>
+        <link>https://habr.com/ru/articles/926088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926088</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926088</guid>
+        <pubDate>Wed, 09 Jul 2025 05:31:26 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3f7/2cb/14f/3f72cb14f2d1c23c5e34c13e9aa045ea.png" /><p>Сегодня автоматизированные системы управления технологическими процессами (АСУ ТП) являются неотъемлемой частью любого современного производства. Однако сама установка и пусконаладка системы — лишь половина дела. Настоящее испытание начинается в момент, когда оборудование переходит в эксплуатацию. Именно тогда становится очевидной роль обслуживания АСУ ТП — комплекса действий и организационных мер, позволяющих поддерживать системы в работоспособном состоянии, минимизировать простои и обеспечить надёжную работу всего предприятия.</p><p>Опыт эффективных предприятий в этой сфере показывает, что качественное обслуживание АСУ ТП напрямую влияет на экономические показатели компании, а также на гибкость и безопасность производства. В данной статье рассматриваются ключевые аспекты обслуживания АСУ ТП, опираясь на опыт компаний-лидеров отрасли, избегающих кризисных ситуаций и добивающихся устойчивого успеха за счёт выверенных стандартов и технологий.</p> <a href="https://habr.com/ru/articles/926088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926088#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Сейчас открою вкладку с ИИ и стану программистом]]></title>
+        <link>https://habr.com/ru/articles/926164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926164</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926164</guid>
+        <pubDate>Wed, 09 Jul 2025 05:23:15 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/8d7/65d/40a/8d765d40a7e0fb20638127ed437e2a39.png" /><p>Прочитал я <a href="https://habr.com/en/companies/ruvds/articles/924616/" rel="noopener noreferrer nofollow">эту статью</a> тут и решил поделиться <a href="https://t.me/papath_blog/541" rel="noopener noreferrer nofollow">своей статьёй</a>, недавно написанной для друзей, чтобы уберечь от глупостей, что программистом может стать каждый, просто используя ИИ. Сразу оговорюсь, что статья написана для людей, далёких от программирования.</p> <a href="https://habr.com/ru/articles/926164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926164#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Продажи Tesla упали даже в Китае, где до этого росли три квартала подряд]]></title>
+        <link>https://3dnews.ru/1125650</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125650</guid>
+        <pubDate>Wed, 09 Jul 2025 04:46:00 -0000</pubDate>
+        <description><![CDATA[Китай остаётся крупнейшим рынком электромобилей, и влияние его запросов прослеживается в дизайне и оснащении рестайлинговых Model 3 и Model Y. Так или иначе, китайский рынок до недавних пор обеспечивал Tesla не только существенную долю продаж, но и их рост, однако второй квартал продемонстрировал прекращение данной тенденции. Источник изображения: Tesla]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Поставки ПК во втором квартале выросли на 6,5 % под влиянием угрозы таможенных тарифов в США]]></title>
+        <link>https://3dnews.ru/1125648</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125648</guid>
+        <pubDate>Wed, 09 Jul 2025 03:53:00 -0000</pubDate>
+        <description><![CDATA[По меркам большинства участников рынка ПК, второй квартал только завершился, но это не мешает аналитикам IDC подвести его предварительные итоги. По данным источника, объёмы поставок ПК за период выросли год к году на 6,5 % до 68,4 млн штук. Рост импортных тарифов в США ограничит спрос на новые ПК в регионе, но на прочих географических направлениях он сохранится в текущем году, как считают эксперты. Источник изображения: HP Inc.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[В Windows 11 появится официальный способ избавиться от предустановленных программ]]></title>
+        <link>https://3dnews.ru/1125646</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125646</guid>
+        <pubDate>Wed, 09 Jul 2025 02:17:00 -0000</pubDate>
+        <description><![CDATA[В следующем крупном обновлении Windows 11 версии 25H2 появится официальный инструмент для удаления предустановленных приложений на основе встроенного механизма под названием &laquo;Удаление стандартных пакетов Microsoft Store&raquo;, сообщает TechSpot. Это упростит работу с системой как для обычных пользователей, так и для IT-администраторов. Источник изображения: Tadas Sar/Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[В Apple сменился операционный директор, который может в будущем заменить Тима Кука]]></title>
+        <link>https://3dnews.ru/1125645</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125645</guid>
+        <pubDate>Wed, 09 Jul 2025 02:15:00 -0000</pubDate>
+        <description><![CDATA[В Apple произошли кадровые перестановки: Джефф Уильямс (Jeff Williams), долгое время считавшийся наиболее вероятным преемником Тима Кука (Tim Cook), покидает компанию. Его место займёт Сабих Хан (Sabih Khan), проработавший в Apple более 30 лет, сообщает 9to5mac. Хан станет новым операционным директором, что формально приближает его к позиции гендиректора. Однако эксперты сомневаются, что этот сценарий реализуется в ближайшие годы. Источник изображения: apple.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Исследователи обнаружили опасный метод взлома Android через невидимый интерфейс]]></title>
+        <link>https://3dnews.ru/1125644</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125644</guid>
+        <pubDate>Wed, 09 Jul 2025 02:11:00 -0000</pubDate>
+        <description><![CDATA[Исследователи в области кибербезопасности обнаружили новый метод взлома Android, который позволяет злоумышленникам получать доступ к конфиденциальным данным, обходя систему аутентификации. Атака, получившая название TapTrap, использует нестандартную анимацию интерфейса, создавая расхождение между тем, что видит пользователь, и тем, что на самом деле происходит на экране. Источник изображения: IndiaBlue Photos/Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[OpenAI удалось заполучить четырёх классных специалистов из Tesla, xAI и M**a]]></title>
+        <link>https://3dnews.ru/1125647</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125647</guid>
+        <pubDate>Wed, 09 Jul 2025 02:05:00 -0000</pubDate>
+        <description><![CDATA[В последнее время нам чаще приходилось слышать о попытках M**a переманивать востребованных специалистов из других компаний, занятых разработкой систем искусственного интеллекта. Тем не менее, один из пионеров отрасли, стартап OpenAI, также преуспел в &laquo;охоте за головами&raquo;. Источник изображения: Unsplash, Zac Wolff]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Новая статья: Обзор видеокарты GIGABYTE AORUS GeForce RTX 5060 Ti ELITE 16G: цена тишины]]></title>
+        <link>https://3dnews.ru/1125390</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125390</guid>
+        <pubDate>Tue, 08 Jul 2025 21:00:00 -0000</pubDate>
+        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/03/1125390.jpg" width="120" />У новых видеокарт NVIDIA не отнять одного — они легко и продуктивно разгоняются. Премиальная разновидность GeForce RTX 5060 Ti от GIGABYTE готова к оверклокингу в добавок к изначально повышенным тактовым частотам, да еще и может работать чрезвычайно тихо]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Новая статья: Обзор беспроводной колонки Tronsmart Bang Max: дачный певец]]></title>
+        <link>https://3dnews.ru/1124344</link>
+        <guid isPermaLink="true">https://3dnews.ru/1124344</guid>
+        <pubDate>Tue, 08 Jul 2025 21:00:00 -0000</pubDate>
+        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/06/12/1124344.jpg" width="120" />Компания Tronsmart, с которой мы пока только знакомимся, стремительно расширяет ассортимент беспроводных колонок, заявляя о претензиях на значимую долю рынка. На этот раз речь пойдет о крупной форме – полноразмерной трехполосной колонке Bang Max, предлагающей в условно «портативном» формате очень мощные басы]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[В США появится не только свой TikTok, но и CapCut]]></title>
+        <link>https://3dnews.ru/1125640</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125640</guid>
+        <pubDate>Tue, 08 Jul 2025 19:58:00 -0000</pubDate>
+        <description><![CDATA[В рамках ожидаемой продажи американского бизнеса TikTok китайская компания ByteDance планирует выпустить отдельную версию не только приложения соцсети, но и фирменного видеоредактора CapCut. Оба приложения будут ориентированы исключительно на пользователей из США. Источник изображения: appshunter.io / Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Первая национальная ракета Канады «Тайга» стартует в августе — через пару лет полетит «Тундра»]]></title>
+        <link>https://3dnews.ru/1125639</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125639</guid>
+        <pubDate>Tue, 08 Jul 2025 19:48:00 -0000</pubDate>
+        <description><![CDATA[Канадские агентства и компании не раз принимали участие в космических миссиях, но каждый раз на вторых ролях. С территории Канады в космос ни разу не стартовали ракеты, тем более канадской разработки. Но скоро всё изменится, как мечтает пара канадских компаний &mdash; уже в августе должен взлететь первый прототип суверенной ракеты Страны кленового листа и это станет вехой в истории её космонавтики. Источник изображений: NordSpace]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Microsoft наконец добавила в Teams цепочки обсуждений — треды]]></title>
+        <link>https://3dnews.ru/1125638</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125638</guid>
+        <pubDate>Tue, 08 Jul 2025 19:28:00 -0000</pubDate>
+        <description><![CDATA[Microsoft выполнила своё обещание и добавила в Teams долгожданную функцию &mdash; цепочки обсуждений или треды (threads). Функция, которую пользователи ждали несколько лет, теперь доступна в публичном превью. Треды работают в каналах, позволяя участникам отслеживать последовательность ответов на конкретное сообщение, не перегружая основной чат. Источник изображения: Microsoft]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Microsoft устранила 137 уязвимостей, включая 14 критических и одну нулевого дня]]></title>
+        <link>https://3dnews.ru/1125636</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125636</guid>
+        <pubDate>Tue, 08 Jul 2025 19:24:00 -0000</pubDate>
+        <description><![CDATA[В рамках июльского &laquo;вторника патчей&raquo; (Patch Tuesday) 2025 года компания Microsoft выпустила обновления своих продуктов, устранив 137 уязвимостей, включая одну уязвимость нулевого дня в Microsoft SQL Server. Эта проблема была связана с некорректной проверкой входных данных и позволяла злоумышленникам получать доступ к неинициализированной памяти сервера, предоставляя, таким образом, возможность удалённого раскрытия информации без аутентификации. Источник изображения: bleepingcomputer.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Apple Lisa воссоздали в браузере до мельчайших деталей — дорогой компьютер 1983 года стал доступен всем]]></title>
+        <link>https://3dnews.ru/1125635</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125635</guid>
+        <pubDate>Tue, 08 Jul 2025 19:17:00 -0000</pubDate>
+        <description><![CDATA[Компьютер Apple Lisa был передовым устройство для 1983 года, когда появился в магазинах. В то время его можно было купить за $9995 &mdash; сегодня с учетом инфляции это эквивалент примерно $33 000. Но платить такие деньги за то, чтобы познакомиться с легендарной моделью, не нужно. Потому что любой желающий теперь может запустить в браузере копию оригинального интерфейса Apple Lisa. Источник изображения: alpha.lisagui.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[В Gmail добавят удобный способ отписаться от ненужных рассылок]]></title>
+        <link>https://3dnews.ru/1125633</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125633</guid>
+        <pubDate>Tue, 08 Jul 2025 19:09:00 -0000</pubDate>
+        <description><![CDATA[Почтовый сервис Gmail представил новую функцию, которая поможет пользователям навести порядок во входящих сообщениях. Речь идёт об инструменте &laquo;Управление подписками&raquo;, позволяющем быстро просматривать и отписываться от рассылок, которые больше не нужны. Источник изображения: Solen Feyissa/Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[«Проведите время с пользой, ведь мы все умрём»: экзистенциальная игра о скоротечности жизни Time Flies получила дату выхода и новый трейлер]]></title>
+        <link>https://3dnews.ru/1125632</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125632</guid>
+        <pubDate>Tue, 08 Jul 2025 18:14:00 -0000</pubDate>
+        <description><![CDATA[Издательство Panic (Untitled Goose Game, Firewatch, despelote) и разработчики из швейцарской студии Playables объявили дату выхода своей экзистенциальной игры о скоротечности жизни Time Flies.   Источник изображений: Panic]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Tecno представила серию тонких и доступных смартфонов Spark 40 с ворохом ИИ-функций]]></title>
+        <link>https://3dnews.ru/1125631</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125631</guid>
+        <pubDate>Tue, 08 Jul 2025 18:04:00 -0000</pubDate>
+        <description><![CDATA[Компания Tecno представила новую серию недорогих смартфонов Spark 40. В неё вошли четыре модели: Spark 40 Pro+, Spark 40 Pro, Spark 40 и Spark 40C. Все новинки оснащены продвинутыми технологиями, предлагают премиальный дизайн и поддержку ИИ-функций. Источник изображений: Tecno]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Мощнейший Ryzen Threadripper Pro 9995WX показался в магазинах по цене $12 800]]></title>
+        <link>https://3dnews.ru/1125628</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125628</guid>
+        <pubDate>Tue, 08 Jul 2025 17:59:00 -0000</pubDate>
+        <description><![CDATA[Флагманский процессор AMD для рабочих станций &mdash; Ryzen Threadripper Pro 9995WX &mdash; начал появляться в розничной продаже. Стоимость чипа составляет около &euro;12 300 в Европе и около $12 794 в США. Таким образом, новый 96-ядерный чип примерно на 20 % дороже предшественника &mdash; Ryzen Threadripper Pro 7995WX. Источник изображения: AMD]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[С новым патчем в The Last of Us Part II Remastered появился хронологический режим — он позволит по-иному взглянуть на сюжет игры]]></title>
+        <link>https://3dnews.ru/1125629</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125629</guid>
+        <pubDate>Tue, 08 Jul 2025 17:22:00 -0000</pubDate>
+        <description><![CDATA[Издательство Sony Interactive Entertainment и разработчики из студии Naughty Dog анонсировали новый способ ознакомиться с нашумевшей историей приключенческого экшена The Last of Us Part II.   Источник изображений: PlayStation]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[«Не передать словами, что это значит для нас»: создатели философского выживания The Alters похвастались продажами игры]]></title>
+        <link>https://3dnews.ru/1125626</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125626</guid>
+        <pubDate>Tue, 08 Jul 2025 16:42:00 -0000</pubDate>
+        <description><![CDATA[Польский издатель и разработчик 11 bit studios (This War of Mine, Frostpunk) поделился информацией о первых пострелизных успехах своего научно-фантастического философского выживания The Alters.   Источник изображений: 11 bit studios]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Российский суд оштрафовал Twitch, TikTok и Pinterest — каждую на 7 млн рублей]]></title>
+        <link>https://3dnews.ru/1125627</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125627</guid>
+        <pubDate>Tue, 08 Jul 2025 16:28:00 -0000</pubDate>
+        <description><![CDATA[Московский суд назначил административные штрафы в размере 7 млн рублей иностранным компаниям Twitch, TikTok и Pinterest. Причиной стало неисполнение обязанностей владельцев социальных сетей, о чём сообщается в Telegram-канале &laquo;Суды общей юрисдикции города Москвы&raquo; со ссылкой на соответствующее постановление Таганского районного суда. Источник изображения: Wesley Tingey / Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[SSD и оперативная память подорожают — Трамп анонсировал 25-% пошлину на все товары из Японии и Южной Кореи]]></title>
+        <link>https://3dnews.ru/1125625</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125625</guid>
+        <pubDate>Tue, 08 Jul 2025 16:23:00 -0000</pubDate>
+        <description><![CDATA[Президент США Дональд Трамп (Donald Trump) в понедельник сообщил лидерам Японии и Южной Кореи о введении с 1 августа импортных пошлин в размере 25 % на все товары из этих стран, поставляемые в США. Этот шаг затронет все отрасли и сильнее всего ударит по ИТ-сектору, поскольку подавляющее большинство чипов памяти в мире производится именно в Японии и Южной Корее. Источник изображения: Micron]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Британская полиция выделит £75 млн на оцифровку своих архивов VHS-видеокассет]]></title>
+        <link>https://3dnews.ru/1125613</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125613</guid>
+        <pubDate>Tue, 08 Jul 2025 15:49:00 -0000</pubDate>
+        <description><![CDATA[Полиция Великобритании намерена закупить технологии и услуги для оцифровки своего архива видеокассет VHS. На эти цели планируется потратить &pound;75 млн ($102 млн), сообщает The Register. Полиции нужны или собственные технологии для оцифровки VHS-контента, или возможность отдать соответствующие задачи на аутсорсинг. Органы правопорядка хотят не только преобразовать в &laquo;цифру&raquo; записи с аналоговых носителей, но и, что немаловажно, перенести метаданные в цифровую систему управления уликами. Формат VHS появился в 1970-х годах и стал очень популярным по всему миру не только у коммерческих и домашних пользователей, но и у полицейских разных стран, например, для проведения оперативной съёмки. В 1990-х годах на смену видеокассетам пришли DVD, но переносить видео с VHS на новые носители спешили не все.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[«Билайн» модернизировал транспортную сеть, добавив ВОЛС на 1,6 Тбит/с.]]></title>
+        <link>https://3dnews.ru/1125612</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125612</guid>
+        <pubDate>Tue, 08 Jul 2025 15:45:45 -0000</pubDate>
+        <description><![CDATA[Оператор &laquo;Билайн&raquo; сообщил о завершении работ по модернизации транспортной сети с целью расширения её транзитных и трансграничных ёмкостей. В рамках модернизации в I полугодии 2025 года по двум ключевым маршрутам транзита международного трафика &mdash; южному и восточному &mdash; ввели магистральные каналы волоконно-оптической линии связи (ВОЛС) суммарной ёмкостью 1,6 Тбит/с. Маршрут &laquo;Южного транзита&raquo; проходит через Европу, Россию, Грузию, Армению, Турцию вплоть до границ со странами Ближнего Востока, маршрут по направлению &laquo;Европа-Азия&raquo; проходит через Казахстан в сторону Китая. Модернизация обеспечит клиентам Билайна на юге и востоке России доступ на высокой скорости и с минимальными задержками к сервисам с подключением к зарубежным серверам: игровым и стриминговым, мессенджерам, системам видеоконференций и т.д.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Магазин Chrome заполонили опасные расширения для браузера — их скачали уже 1,7 млн раз]]></title>
+        <link>https://3dnews.ru/1125622</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125622</guid>
+        <pubDate>Tue, 08 Jul 2025 15:39:00 -0000</pubDate>
+        <description><![CDATA[Одиннадцать вредоносных расширений для браузера, скачанных более 1,7 млн раз из магазина Chrome, могли следить за пользователями, перехватывать историю браузера и перенаправлять на небезопасные сайты, выяснили эксперты по кибербезопасности. Источник изображения: BleepingComputer]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Sony скоро покажет 20 минут геймплея Ghost of Yotei — подробности специального выпуска State of Play]]></title>
+        <link>https://3dnews.ru/1125623</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125623</guid>
+        <pubDate>Tue, 08 Jul 2025 15:36:00 -0000</pubDate>
+        <description><![CDATA[Подтверждённый в июне специальный выпуск передачи State of Play, посвящённый приключенческому экшену с открытым миром Ghost of Yotei от Sucker Punch Productions, обзавёлся новыми подробностями, включая дату проведения.   Источник изображений: Sony Interactive Entertainment]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[В Android появятся ИИ-сводки уведомлений, но с оглядкой на провал схожей функции на iPhone]]></title>
+        <link>https://3dnews.ru/1125621</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125621</guid>
+        <pubDate>Tue, 08 Jul 2025 15:32:00 -0000</pubDate>
+        <description><![CDATA[Google намеревается развернуть в Android 16 создания с помощью искусственного интеллекта сводок уведомлений от различных приложений, например, предлагая ключевые детали из новых сообщений или писем прямо в панели уведомлений. При этом будет учтён отрицательный опыт Apple, которая была вынуждена отключить аналогичную функцию в iOS 18. Как стало известно ещё в марте, Google работает над функцией показа ИИ-сводок в уведомлениях, но для этого будет использоваться подход, отличающийся от опыта Apple Intelligence. Вместо того, чтобы составлять сводки для всех приложений, Android ограничится только &laquo;уведомлениями о разговорах&raquo; &mdash; из личной переписки и групповых чатов, а не новостей и рекламы. Это позволит избежать повторения скандала, который произошёл с Apple, чей ИИ начал перевирать содержимое новостных материалов.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Китай впервые в истории дозаправил спутник на высоте 36 000 км — это не точно, но США обеспокоены]]></title>
+        <link>https://3dnews.ru/1125620</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125620</guid>
+        <pubDate>Tue, 08 Jul 2025 15:23:00 -0000</pubDate>
+        <description><![CDATA[Второго июля два китайских спутника &mdash; SJ-21 и SJ-25 &mdash; сблизились друг с другом на высоте около 36 000 километров, состыковались и с тех пор продолжают полёт вместе. По мнению экспертов, это, скорее всего, первый эксперимент по дозаправке спутников на геостационарной орбите. Китайский спутник. Источник изображения: CNSA]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Слухи: в разработке находится сразу несколько Fallout, включая ту, «что вы все ждёте»]]></title>
+        <link>https://3dnews.ru/1125618</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125618</guid>
+        <pubDate>Tue, 08 Jul 2025 15:21:00 -0000</pubDate>
+        <description><![CDATA[Bethesda Softworks и Bethesda Game Studios не радует фанатов новыми релизами в серии постапокалиптических ролевых игр Fallout уже несколько лет, однако сейчас в производстве якобы находится сразу несколько проектов по франшизе.   Источник изображений: Bethesda Softworks]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Beyerdynamic обновила наушники Aventho — автономность выросла втрое, а Bluetooth стал стабильнее]]></title>
+        <link>https://3dnews.ru/1125619</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125619</guid>
+        <pubDate>Tue, 08 Jul 2025 14:37:00 -0000</pubDate>
+        <description><![CDATA[Компания Beyerdynamic анонсировала второе поколение беспроводных наушников Aventho, впервые вышедших на рынок в 2017 году. Новая модель &mdash; Aventho 100 &mdash; оснащена теми же 45-миллиметровыми динамиками, что и оригинальная версия, но разработчики улучшили модуль Bluetooth и существенно увеличили время автономной работы. Источник изображений: Beyerdynamic]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Threads почти догнала X по аудитории мобильных приложений]]></title>
+        <link>https://3dnews.ru/1125616</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125616</guid>
+        <pubDate>Tue, 08 Jul 2025 14:30:00 -0000</pubDate>
+        <description><![CDATA[Запущенная M**a платформа микроблогов Threads вплотную подобралась к своему крупнейшему конкуренту X по числу пользователей мобильных приложений, сообщает TechCrunch со ссылкой на Similarweb. По итогам июня 2025 года аудитория Android- и iOS-приложений Threads показала годовой рост на 127,8 % до 115,1 млн ежедневно активных пользователей; X же сократила темпы роста на 15,2 %, и аудитория её мобильных приложений достигла 132 млн ежедневно активных пользователей. Источник изображения: Azamat E / unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Российский суперкомпьютер «Говорун» получил два узла «РСК Экзастрим ИИ» с NVIDIA H100 и фирменной СЖО]]></title>
+        <link>https://3dnews.ru/1125604</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125604</guid>
+        <pubDate>Tue, 08 Jul 2025 14:09:00 -0000</pubDate>
+        <description><![CDATA[ГК РСК продемонстрировала 2U-узел (912 &times; 508 &times; 88 мм) собственной разработки &laquo;РСК Экзастрим ИИ&raquo; на базе восьми ускорителей NVIDIA H100 с прямым жидкостным охлаждением. Два таких узла были установлены в суперкомпьютере &laquo;Говорун&raquo; в Дубне. &laquo;РСК Экзастрим ИИ&raquo; включает:]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Минцифры РФ заплатит до миллиона рублей за обнаружение уязвимостей в государственных сервисах]]></title>
+        <link>https://3dnews.ru/1125614</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125614</guid>
+        <pubDate>Tue, 08 Jul 2025 13:35:00 -0000</pubDate>
+        <description><![CDATA[Минцифры России инициировало третий этап программы, посвящённой проверке безопасности девяти государственных информационных систем. Обнаружившим в них уязвимости участникам обещаны выплаты в размере до 1 млн руб. за каждую выявленную ошибку &mdash; точный размер будет зависеть от её степени критичности. Источник изображения: Arif Riyanto / unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Phone (3) стал последним смартфоном Nothing текущего поколения — версий Pro или Ultra не будет]]></title>
+        <link>https://3dnews.ru/1125610</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125610</guid>
+        <pubDate>Tue, 08 Jul 2025 13:09:00 -0000</pubDate>
+        <description><![CDATA[Nothing Phone (3) стал последней моделью в серии смартфонов Phone (3), сообщил в соцсети X гендиректор компании Nothing Карл Пей (Carl Pei). Это значит, что производитель не намерен выпускать улучшенную и более дорогую версию флагмана со словом Pro или любым другим в названии. Источник изображения: nothing.tech]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Учёные нашли неожиданный способ втрое удешевить удаление CO₂ из воздуха — помогут терминалы СПГ и уголь]]></title>
+        <link>https://3dnews.ru/1125609</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125609</guid>
+        <pubDate>Tue, 08 Jul 2025 12:59:00 -0000</pubDate>
+        <description><![CDATA[Исследователи из США совместно с коллегами из Южной Кореи разработали менее затратный способ удаления углекислого газа из атмосферы. Традиционные системы прямого захвата CO₂ из воздуха неэффективны в тёплом и влажном климате, что препятствует повсеместному размещению таких установок. Новая разработка кардинально меняет подход, позволяя одинаково эффективно удалять углекислый газ практически в любом климате и в три раза дешевле, чем это возможно сегодня. Источник изображения: ИИ-генерация Grok 3/3DNews]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[OnePlus выпустила уменьшенную версию часов Watch 3 за $299 и наушники Buds 4 за $129]]></title>
+        <link>https://3dnews.ru/1125607</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125607</guid>
+        <pubDate>Tue, 08 Jul 2025 12:48:00 -0000</pubDate>
+        <description><![CDATA[OnePlus представила два новинки: уменьшенную версию умных часов OnePlus Watch 3 диаметром 43 мм, а также беспроводные наушники OnePlus Buds 4. Часы по сути повторяют анонсированные ранее Watch 3, но выполнены в более компактном и лёгком корпусе. Источник изображений: OnePlus]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[OnePlus представила смартфоны Nord 5 и Nord CE5 на чипах Qualcomm и MediaTek и ценой от €299]]></title>
+        <link>https://3dnews.ru/1125608</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125608</guid>
+        <pubDate>Tue, 08 Jul 2025 12:34:00 -0000</pubDate>
+        <description><![CDATA[OnePlus представила новые смартфоны семейства Nord, которое играет важную роль в расширении аудитории бренда. Аппараты пятого поколения &mdash; Nord 5 и Nord CE5 &mdash; получили немало улучшений по сравнению с моделями предыдущего поколения, а Nord CE5 оснастили самой ёмкой аккумуляторной батареей, когда-либо использовавшейся в смартфонах OnePlus. Источник изображений: OnePlus]]></description>
+    </item>
+
+</channel>
+</rss>
