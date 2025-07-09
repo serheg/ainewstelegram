@@ -2,10 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title>Моя объединенная RSS-лента</title>
-    <link>https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/</link>
+    <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Wed, 09 Jul 2025 11:06:12 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 11:15:56 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[SpaceX собралась подорожать до $400 млрд]]></title>
+        <link>https://3dnews.ru/1125681</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125681</guid>
+        <pubDate>Wed, 09 Jul 2025 11:10:00 -0000</pubDate>
+        <description><![CDATA[Компания SpaceX планирует привлечь новый капитал, непублично разместив дополнительные акции, передаёт агентство Bloomberg. Это повысит её оценочную стоимость примерно до $400 миллиардов. Согласно предыдущей оценке активов, рыночная стоимость компании составляла около $350 млрд. Новый раунд финансирования значительно увеличит капитализацию SpaceX &mdash; компании, которой ещё предстоит покорить Луну и колонизировать Марс. Источник изображения: SpaceX]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[«Роскосмос» передумал строить собственный аналог Starlink для экономии бюджета]]></title>
+        <link>https://3dnews.ru/1125680</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125680</guid>
+        <pubDate>Wed, 09 Jul 2025 11:08:00 -0000</pubDate>
+        <description><![CDATA[&laquo;Роскосмос&raquo; отказался от создания спутниковых группировок интернета вещей &laquo;Марафон IoT&raquo; и широкополосного доступа в интернет &laquo;Скиф&raquo; для экономии федерального бюджета, рассказал &laquo;РИА Новости&raquo; гендиректор госкорпорации Дмитрий Баканов. Источник изображения: Donald Giannatti / Unsplash]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Белорусский «Горизонт» наладит выпуск 10-дюймовых планшетов разных цветов]]></title>
@@ -17,16 +33,16 @@
 
     <item>
         <title><![CDATA[Подключение Spring AI к локальным AI-моделям с помощью Foundry Local]]></title>
-        <link>https://habr.com/ru/companies/spring_aio/articles/925074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925074</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/spring_aio/articles/925074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925074</guid>
+        <link>https://habr.com/ru/companies/spring_aio/articles/925074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925074</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/spring_aio/articles/925074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925074</guid>
         <pubDate>Wed, 09 Jul 2025 11:02:47 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/28b/246/3c1/28b2463c1b3547ff008d537b0dfefc63.png" /><p>Команда&nbsp;<a href="https://t.me/+QmrKn0wA8CdkNjAy" rel="noopener noreferrer nofollow">Spring АйО</a>&nbsp;перевела статью, которая покажет, как интегрировать Spring AI с Foundry Local — десктопным приложением от Microsoft, совместимым с OpenAI API. Вы узнаете, как настроить локальную AI-модель, подключить её к Spring Boot и создать REST-эндпоинты для чат-бота и суммаризации текста. Всё это — с акцентом на производительность, безопасность и автономность.</p> <a href="https://habr.com/ru/articles/925074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925074#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Как мы строили KidFolio — цифровую платформу для родителей и детских садов]]></title>
-        <link>https://habr.com/ru/articles/924782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=924782</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/924782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=924782</guid>
+        <link>https://habr.com/ru/articles/924782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924782</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/924782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924782</guid>
         <pubDate>Wed, 09 Jul 2025 11:00:05 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/b0d/aac/9ef/b0daac9ef6aabcd05ecd46fd7feba5d1.png" /><p>Массовые фото из детского сада в родительских чатах редко бывают персональными: на десятках снимков сложно найти именно своего ребенка. Выпускники онлайн-магистратуры «Науки о данных» Центра «Пуск» МФТИ предложили решение — платформу KidFolio, которая с помощью технологий компьютерного зрения и мультимодальных моделей автоматически формирует и отправляет родителям персонализированные фото- и видеоотчеты. </p><p>В статье — подробности разработки: от сбора датасета детских лиц до создания собственного бенчмарка и дообучения моделей для генерации текстов.</p> <a href="https://habr.com/ru/articles/924782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924782#habracut">Читать далее</a>]]></description>
     </item>
@@ -49,24 +65,24 @@
 
     <item>
         <title><![CDATA[Шаблон ТЗ для AI]]></title>
-        <link>https://habr.com/ru/articles/926254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926254</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926254</guid>
+        <link>https://habr.com/ru/articles/926254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926254</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926254</guid>
         <pubDate>Wed, 09 Jul 2025 10:50:36 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/671/8a3/57c/6718a357c4ba0d5b8f82ff2d46321fa2.png" /><p>Привет! Я Ярослав Шмулев, датасаентист, выпускник МФТИ и технический директор топ-10 интегратора ИИ&nbsp;R77 AI.&nbsp;Сделал для нас AI ТЗ потому что обычно заказчики приходят и не знают чего хотят, как это описать и какие эффекты ждут.</p> <a href="https://habr.com/ru/articles/926254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926254#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Как мы улучшили режим ночной съемки в планшетах KVADRA_T]]></title>
-        <link>https://habr.com/ru/companies/yadro/articles/926216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926216</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/yadro/articles/926216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926216</guid>
+        <link>https://habr.com/ru/companies/yadro/articles/926216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926216</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/yadro/articles/926216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926216</guid>
         <pubDate>Wed, 09 Jul 2025 10:43:26 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/849/dd8/fc7/849dd8fc7826e08cf8b69c978ecde8eb.jpg" /><p>Привет, Хабр! На связи Полина Лукичева, инженер команды AI ML Kit в компании YADRO. <a href="https://habr.com/ru/companies/yadro/articles/921980/" rel="noopener noreferrer nofollow">В первой статье</a> я рассказала о проблемах режима ночной съемки и методах их решения. Сегодня перехожу к практике — проведу предметное сравнение алгоритмов, выберу наиболее подходящие и покажу, как они работают в реальных условиях на планшетах <a href="https://xn--80aaej1a3b.xn--p1ai/product/kvadra_t/?utm_source=habr&amp;utm_medium=referral&amp;utm_campaign=night_photo_p2_090725" rel="noopener noreferrer nofollow">KVADRA_T</a>.</p><p>Для наших заказчиков качественные снимки в условиях низкой освещенности — рабочая необходимость. Планшет поможет снять показания со счетчика в темном подвале или сфотографировать паспорт клиента в коридоре с минимальными шумами и максимальной четкостью.</p> <a href="https://habr.com/ru/articles/926216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926216#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[AI-first backend: опыт реального вайб-кодинг проекта]]></title>
-        <link>https://habr.com/ru/articles/926238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926238</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926238</guid>
+        <link>https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238</guid>
         <pubDate>Wed, 09 Jul 2025 10:31:35 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/82b/670/c10/82b670c10ae060103aa1749ea6b5e8da.jpg" /><p>В 2025 году вопрос полноценной генерации продуктового кода с помощью LLM («вайб-кодинг») становится все более актуальным, но при этом остается и достаточно дискуссионным: насколько такие подходы вообще применимы в реальных проектах, действительно ли они сокращают время и стоимость разработки, и что происходит с тестируемостью и поддержкой такого кода в долгосрочной перспективе?</p><p>Сложность этого вопроса не только в качестве самой генерации, но и в том, как интегрировать LLM в инженерные процессы, чтобы получить управляемый, масштабируемый и архитектурно устойчивый код.</p><p>Моя мотивация была проста: попробовать выстроить полноценный продуктовый backend для нетривиального телеграм-бота с функциями агента (планированием, напоминаниями, памятью и проактивным поведением, возможностью дальнейшей расширяемости и интеграции сторонних сервисов), при этом — не писать руками ни строчки кода. Чтобы человек участвовал только как архитектор и асессор, а все проектирование и реализация шли через промпты в специализированные IDE (Cursor, Copilot, Zed) и LLM (как доступные через API, так и в «пользовательской» продуктовой обвязке).</p> <a href="https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238#habracut">Читать далее</a>]]></description>
     </item>
@@ -81,32 +97,32 @@
 
     <item>
         <title><![CDATA[Эмпатичный ИИ: как трансформеры учатся распознавать эмоции в разговорах]]></title>
-        <link>https://habr.com/ru/articles/926240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926240</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926240</guid>
+        <link>https://habr.com/ru/articles/926240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926240</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926240</guid>
         <pubDate>Wed, 09 Jul 2025 10:24:52 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/ad6/f2f/ada/ad6f2fadaa2777db4f1b536e5cfe0f39.png" /><p>В эпоху чат-ботов и голосовых помощников ИИ всё чаще становится собеседником человека. Но чтобы стать по-настоящему полезным в коммуникации, он должен не только понимать слова — но и улавливать эмоции, интонации, паузы и даже жесты. Именно это и пытается решить задача <strong>Emotion Recognition in Conversations (ERC)</strong>.</p><p>В недавней работе <em>“</em><a href="https://arxiv.org/abs/2310.20494" rel="noopener noreferrer nofollow"><em>A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations</em></a><em>”</em> исследователи предложили архитектуру, которая объединяет мультимодальные сигналы (текст, аудио, видео) в единую модель, способную «читать между строк» в прямом смысле. Рассказываем, как это устроено и почему это важно.</p> <a href="https://habr.com/ru/articles/926240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926240#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[[Перевод] Как стать кем угодно: DIY маска с изменяющимися проекциями]]></title>
-        <link>https://habr.com/ru/companies/otus/articles/926236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926236</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/otus/articles/926236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926236</guid>
+        <link>https://habr.com/ru/companies/otus/articles/926236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926236</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/otus/articles/926236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926236</guid>
         <pubDate>Wed, 09 Jul 2025 10:18:57 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/203/9ee/b23/2039eeb236acedf75753c47bb440fe8b.jpg" /><p>Подробный гайд по созданию маски с проекциями, которая использует Raspberry Pi и мини-проектор для отображения изображений на лице. Мы пройдем все этапы — от 3D-печати деталей до настройки системы для воспроизведения видео, включая пайку и работу с электроникой. Этот проект подойдет для разработчиков, заинтересованных в создании встраиваемых систем и экспериментировании с носимой техникой.</p> <a href="https://habr.com/ru/articles/926236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926236#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Умеет ли вы продавать код?]]></title>
-        <link>https://habr.com/ru/articles/926234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926234</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926234</guid>
+        <link>https://habr.com/ru/articles/926234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926234</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926234</guid>
         <pubDate>Wed, 09 Jul 2025 10:09:01 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/c47/41c/5a8/c4741c5a8f1febd79dc91e03c3a92a15.png" /><p>В сфере IT есть сильное профессиональное искажение. Айтишникам кажется, что продукт, который они продают это код. Но в головах их клиентов мир выглядит иначе. Заказчики покупают у айтишников не репозиторий на гитхабе или докер-образ, поднятый на VPS-ке. Они покупают решение своих бизнес-задач. Причём, заметьте, что в этой покупке весь риск лежит на стороне того, кто платит за работу. Потому что гарантия айтишника, что он качественно справится со своей задачей вовсе не гарантирует клиенту, что его бюджет будет потрачен эффективно и его проблема будет решена. Решена именно как бизнес-задача, а не как какая-то другая. То есть, что на выходе от всех затеянных телодвижений будет получен ощутимый положительный финансовый результат.<br /></p><p>И этот риск уменьшается только одним способом - коммуникацией. Поэтому я много лет повторяю мысль про то, что продажи и коммуникации это по сути одно и тоже. Продажа это коммуникация. Коммуникация это продажа. Даже, если вы просто разработчик в какой-то компании и общаетесь со вселенной через тикеты в джире и живёте в мире код-ревью и комитов. Возможно, вам кажется, что вы коммуницируете лишь с кодом и абстракциями... Нет, вы коммуницируете с людьми. Кто-то у вас покупает решение каких-то задач, даже, если эти задачи сформулированы техническим языком. </p><p><br />В мире IT-услуг, будь то фриланс или студийная разработка приложений, ключевым моментом является не только уровень технических навыков, но и коммуникационные способности. Как опытный менеджер по продажам SaaS-продуктов и разработки программного обеспечения, я хочу поделиться некоторыми рекомендациями о том, как успешно продавать свои услуги и становиться более запоминающимся и востребованным профессионалом.</p> <a href="https://habr.com/ru/articles/926234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926234#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Попытка поставить идеи и гипотезы на поток – швейцарский нож для стартапов]]></title>
-        <link>https://habr.com/ru/articles/926228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926228</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926228</guid>
+        <link>https://habr.com/ru/articles/926228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926228</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926228</guid>
         <pubDate>Wed, 09 Jul 2025 09:54:37 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/658/553/651/6585536519191cf6d9466f0fa92f484b.jpg" /><p>Привет, меня зовут Кирилл! Мы с друзьями давно увлекаемся идеями и экспериментами «в стол». Знакомо, когда возникает куча интересных мыслей, но потом они теряются, потому что сложно понять — кому это на самом деле нужно?</p> <a href="https://habr.com/ru/articles/926228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926228#habracut">Читать далее</a>]]></description>
     </item>
@@ -161,8 +177,8 @@
 
     <item>
         <title><![CDATA[Тихая сила: как управлять не через контроль, а через влияние]]></title>
-        <link>https://habr.com/ru/articles/925816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925816</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925816</guid>
+        <link>https://habr.com/ru/articles/925816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925816</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925816</guid>
         <pubDate>Wed, 09 Jul 2025 09:38:50 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/2af/55c/d1e/2af55cd1ec3049829bfe78238446c2e2.png" /><p>Иногда тебе кажется, что ты обычный член команды, такой же винтик системы, как и все. Вы так же общаетесь с командой, у вас есть свои приколы, иногда очень жесткие. Ты так же ходишь с ребятами в бар и на квизы, часто скидываете друг другу мемы. Но однажды ты слышишь:<br /> — Марина так сказала. Как самый важный довод при споре по рабочим вопросам, истина в последней инстанции. И тебя это пугает, потому что ты тоже человек, ты не хочешь, что бы они делали так, как ты сказала, а что бы сами подумали и нашли правильное решение. И тут до тебя наконец-то доходит что твоем мнение не одно из равных, а самое значимое. И теперь тебе нужно очень внимательно следить за тем, что ты говоришь и насколько хорошо люди тебя поняли.&nbsp;</p> <a href="https://habr.com/ru/articles/925816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925816#habracut">Читать далее</a>]]></description>
     </item>
@@ -177,24 +193,24 @@
 
     <item>
         <title><![CDATA[Обновление Кибер Файлов — обзор новинок в версии 9.3]]></title>
-        <link>https://habr.com/ru/companies/cyberprotect/articles/926224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926224</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/cyberprotect/articles/926224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926224</guid>
+        <link>https://habr.com/ru/companies/cyberprotect/articles/926224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926224</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/cyberprotect/articles/926224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926224</guid>
         <pubDate>Wed, 09 Jul 2025 09:35:41 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/fca/85b/437/fca85b4377704215cab9beabd137e6b7.png" /><p>В&nbsp;этом обзоре мы познакомимся с&nbsp;новой версией нашего решения класса EFSS, предназначенного для&nbsp;безопасного обмена файлами и организации совместной работы с&nbsp;документами&nbsp;— <strong>Кибер Файлы.</strong></p> <a href="https://habr.com/ru/articles/926224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926224#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Как подготовиться к собеседованию в IT-компанию: полное руководство]]></title>
-        <link>https://habr.com/ru/companies/inpglobal/articles/926064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926064</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/inpglobal/articles/926064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926064</guid>
+        <link>https://habr.com/ru/companies/inpglobal/articles/926064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926064</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/inpglobal/articles/926064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926064</guid>
         <pubDate>Wed, 09 Jul 2025 09:33:08 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/142/fea/4c3/142fea4c3b7731c13fc912a3872892b1.png" /><p>Собеседование в IT-компании — это не просто формальность, а многоэтапный процесс, который проверяет не только ваши технические навыки, но и soft skills, умение решать задачи и вписываться в команду. Чтобы пройти его успешно, важно тщательно подготовиться по всем ключевым направлениям. Расскажу подробно как это сделать.</p> <a href="https://habr.com/ru/articles/926064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926064#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Шестидесятилетний заключённый и лабораторная крыса. F# на Godot. Часть 8. Запоминающий поиск пути]]></title>
-        <link>https://habr.com/ru/companies/first/articles/926138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926138</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/first/articles/926138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926138</guid>
+        <link>https://habr.com/ru/companies/first/articles/926138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926138</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/first/articles/926138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926138</guid>
         <pubDate>Wed, 09 Jul 2025 09:20:14 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/333/e09/ff8/333e09ff80670a118d4e038d1635fc7e.png" /><p>Мы ковыряли поиск пути через <code>A*</code> на протяжении <a href="https://habr.com/ru/companies/first/articles/919448/" rel="noopener noreferrer nofollow">двух глав</a> и при этом были сосредоточены на синтаксических изысках F#. В этой главе мы отдохнём от синтаксиса и посмотрим на то, как этот алгоритм мог бы развиваться в более функциональном стиле.</p> <a href="https://habr.com/ru/articles/926138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926138#habracut">Читать далее</a>]]></description>
     </item>
@@ -217,56 +233,56 @@
 
     <item>
         <title><![CDATA[Сбор событий Linux: есть цель – ищем путь]]></title>
-        <link>https://habr.com/ru/companies/pt/articles/925894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925894</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/pt/articles/925894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925894</guid>
+        <link>https://habr.com/ru/companies/pt/articles/925894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925894</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/pt/articles/925894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925894</guid>
         <pubDate>Wed, 09 Jul 2025 09:01:49 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/cae/795/45f/cae79545f4ba52d863620a8080c7ea83.jpg" /><p>Приветствую всех, кто заглянул на огонек! Меня зовут Роман, и я занимаюсь исследованием безопасности Linux (и всякого другого, связанного с ним) в экспертном центре безопасности в Positive Technologies.</p><p>Мне периодически приходится сталкиваться с вопросами клиентов или коллег из смежных отделов по поводу оптимизации работы различных компонентов журналирования внутри Linux. Поэтому в какой-то момент возникла идея обрисовать как минимум для самого себя целостную картину их взаимодействия и влияния друг на друга. Результатом работы стала довольно компактная схема, которая помогает оперативнее и эффективнее отвечать на возникающие вопросы для решения проблем. В статье я постараюсь вкратце описать каждый ее блок. Не ручаюсь за то, что будут затронуты все тонкости, известные лишь узкому кругу специалистов. Но на большую часть вопросов я отвечу.</p> <a href="https://habr.com/ru/articles/925894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925894#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[QapGen: Создаём мощные парсеры на C++]]></title>
-        <link>https://habr.com/ru/articles/925420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925420</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925420</guid>
+        <link>https://habr.com/ru/articles/925420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925420</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925420</guid>
         <pubDate>Wed, 09 Jul 2025 09:01:07 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/09b/ede/092/09bede092b7c809900799056540dc53b.png" /><p><strong>QapDSLv2 </strong>— это язык который транслируется в обычный C++ код. Он позволяет удобно и компактно задавать грамматики/правила разбора кода программ, значительно упрощая разработку компиляторов/анализаторов/трансляторов.</p><p><strong>QapGen </strong>— это <strong>генератор дерева_лексеров</strong>/парсеров описанных на <strong>QapDSLv2. </strong>Сама грамматика <strong>QapDSLv2 описана на QapDSLv2 на 100%. Поэтому QapGen как основной читатель этой грамматики сам генерирует часть своего кода(весь парсер QapDSLv2).</strong></p><p>Основные фишки <strong>QapDSLv2 + QapGen</strong> — это:</p><p>1) Отсутствие этапа токенизации — <strong>дерево лексеров разбивает входной поток на лексемы и сохраняет их в строго типизированных древовидных С++ структурах пропуская этап токенизации.</strong></p><p>2)<strong> Генерация оптимизированного кода полиморфных лексеров</strong>.</p><p>3) Полное сохранение всех лексем(даже разделители сохраняются, такие как пробелы/переходы на новую строку и комментарии) в результирующем дереве.</p><p>4)<strong> Возможность сохранить</strong> как оригинальное <strong>дерево</strong>, так и модифицированное <strong>обратно в код/текст без потери разделителей/комментариев</strong>.</p><p>5) Автоматическая <strong>генерация кода посетителей</strong>(это такой паттерн проектирования).</p><p>А теперь пример самой сочной части(рекурсивно самоописывающийся код):</p><p><strong><code>struct</code></strong><code>t_target_struct:i_target_item{<br /> </code><strong><code>struct</code></strong><code>t_keyword{<br />   </code><strong><code>string</code></strong><code>kw=any_str_from_vec(split("struct,class",","));<br />    " "? // optional separator<br />  };<br /> </code><strong><code>struct</code></strong><code>t_body_semicolon:i_struct_impl{";"};<br /> </code><strong><code>struct</code></strong><code>t_body_impl:i_struct_impl{<br />    "{" // жрём скобочку<br />   </code><strong><code>vector&lt;TAutoPtr&lt;i_target_item&gt;&gt;</code></strong><code>nested?; //</code><strong><code>рекурсия!</code></strong><code><br />    " "? <br />   </code><strong><code>vector&lt;TAutoPtr&lt;i_struct_field&gt;&gt;</code></strong><code>arr?; // парсим поля<br />    " "?<br />   </code><strong><code>TAutoPtr&lt;t_cpp_code&gt;</code></strong><code>c?; // остальной С++ код<br />    " "?<br />    "}"<br />  };<br /> </code><strong><code>struct</code></strong><code>t_parent{<br />   </code><strong><code>string</code></strong><code>a_or_c=any_str_from_vec(split("=&gt;,:",","));<br />    " "?<br />   </code><strong><code>t_name</code></strong><code>name;<br />  };<br />  //точка входа в парсер:<br /> </code><strong><code>TAutoPtr&lt;t_keyword&gt;</code></strong><code>kw?; //парсим</code><strong><code>struct/class</code></strong><code><br /> </code><strong><code>t_name</code></strong><code>name; //парсим имя<br />  " "?<br /> </code><strong><code>TAutoPtr&lt;t_parent&gt;</code></strong><code>parent?;<br />  " "?<br /> </code><strong><code>TAutoPtr&lt;i_struct_impl&gt;</code></strong><code>body;<br /> };</code></p> <a href="https://habr.com/ru/articles/925420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925420#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[COBOL в XXI веке: почему банки и госслужбы не могут отказаться от языка 1959 года]]></title>
-        <link>https://habr.com/ru/companies/ruvds/articles/918156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918156</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/ruvds/articles/918156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918156</guid>
+        <link>https://habr.com/ru/companies/ruvds/articles/918156/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918156</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ruvds/articles/918156/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918156</guid>
         <pubDate>Wed, 09 Jul 2025 09:01:05 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/f88/6e2/626/f886e2626e484ed28e738c083cdcc588.png" /><p>Представьте, что расчёт вашей пенсии или миллионы банковских транзакций обрабатываются кодом, написанным до полёта человека в космос. COBOL живёт в мэйнфреймах банков, страховых и госслужб, и отказаться от него рискованно: один баг — и вся финансовая система может остановиться.&nbsp;</p><p>Как старейший «серверный» язык справляется с XXI веком, где безопасность и гибкость важнее вечной стабильности?</p> <a href="https://habr.com/ru/articles/918156/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918156#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Как создать свой парсер и AST-генератор на C++ с минимальными усилиями: знакомьтесь с QapDSLv2]]></title>
-        <link>https://habr.com/ru/articles/922128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=922128</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/922128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=922128</guid>
+        <link>https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128</guid>
         <pubDate>Wed, 09 Jul 2025 09:00:03 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d46/fe7/746/d46fe77461ca645b2d7753ac5c1ab8dc.png" /><p><strong>QapDSLv2: Новый стандарт AST-heavy парсинга</strong> </p><p><strong>QapDSLv2 обеспечивает:</strong></p><p><code>Молниеносное построение AST</code></p><p><code>Полное сохранение структуры исходного кода </code></p><p><code>Простоту интерпретации и модификации грамматик</code></p><p><strong>Забудьте о любы других парсерах!</strong> С помощью QapDSLv2 можно создавать компиляторы/анализаторы/форматировщики кода за минуты/часы. </p><p>Парсеры и генерация абстрактных синтаксических деревьев (<strong>AST</strong>) — это обычно долго, сложно и требует тонны шаблонного кода. Но что если я скажу, что теперь можно <strong>описывать грамматики и структуры данных одновременно</strong> и получать готовый, оптимизированный C++ код автоматически?</p><p><strong>QapDSLv2 — новый стандарт эффективности и удобства в парсинге</strong>. Это язык описания парсеров, который избавляет от синтаксического шума, упрощает интеграцию с C++ и позволяет <strong>создавать сложные анализаторы без боли и ошибок</strong>. Забудьте о бесконечных циклах отладки и непонятных генераторах — теперь всё просто, понятно и эффективно.</p><p>В этой статье вы узнаете, как QapDSL v2 меняет правила игры в мире парсинга и компиляторов, увидите реальные примеры и поймёте, почему <strong>это важно для каждого, кто работает с языками программирования и обработкой текста</strong>.</p><p>Готовы ускорить разработку и вывести свои проекты на новый уровень?</p><p><strong>QapGen — мощный генератор парсеров, построенный на основе QapDSLv2, </strong>который из грамматик <strong>QapDSLv2 </strong>сразу создаёт высокопроизводительный <strong>C++ парсер</strong> <strong>с типизированным AST</strong>, <strong>описанным прямо в грамматике.</strong> </p><p><strong><code>t_sep</code></strong><code>{<br /> </code><strong><code>string</code></strong><code>body =</code><strong><code>any</code></strong><code>(" \t\r\n");<br /> }<br /></code><strong><code>using</code></strong><code>" "</code><strong><code>as</code></strong><code>t_sep;<br /></code><strong><code>t_value{</code></strong><code><br /> </code><strong><code>TAutoPtr&lt;i_value&gt;</code></strong><code> body;<br />   " "?<br /></code><strong><code>}</code></strong><code><br /></code><strong><code>t_comma_value{</code></strong><code><br />   ","<br /> </code><strong><code>t_value</code></strong><code> body;<br />   " "?<br /></code><strong><code>}</code></strong><code><br /></code><strong><code>t_array=&gt;i_value{</code></strong><code><br />   "["<br />   " "?<br />  </code><strong><code>t_value</code></strong><code> first?;<br />  </code><strong><code>vector&lt;t_comma_value&gt;</code></strong><code> arr?;<br />   "]"<br />   " "?<br /></code><strong><code>}</code></strong></p> <a href="https://habr.com/ru/articles/922128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922128#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Как я собеседовался в Ozon, Т-Банк, Mindbox и другие крупные компании]]></title>
-        <link>https://habr.com/ru/articles/926214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926214</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926214</guid>
+        <link>https://habr.com/ru/articles/926214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926214</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926214</guid>
         <pubDate>Wed, 09 Jul 2025 08:39:18 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/427/3b0/8ce/4273b08cecd6dc89837b41cfe76f70d4.png" /><p>Всем привет. Я сеньор и тимлид на .NET (C#). До недавнего времени работал в Росатоме, пока там внезапно не сократили целую дирекцию по цифровизации. Так что пришлось срочно выходить на рынок, причём, впервые в моей жизни (до этого работа находила меня сама). По результатам нескольких циклов собеседований получился неплохой дневник, который я здесь привожу.</p> <a href="https://habr.com/ru/articles/926214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926214#habracut">История длинная, но интересная</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Уведомление в Роскомнадзор. Что делать?]]></title>
-        <link>https://habr.com/ru/articles/926212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926212</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926212</guid>
+        <link>https://habr.com/ru/articles/926212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926212</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926212</guid>
         <pubDate>Wed, 09 Jul 2025 08:32:29 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/968/e91/2af/968e912aff7dade06c61bc2b2a73f8bd.png" /><p>Самозанятые и ИП в большинстве своем являются операторами персональных данных. Да, даже в том случае, если нет сайта, нет рассылки. Мы по умолчанию становимся операторами просто оказывая услуги своим клиентам и так или иначе обрабатывая персональные данные клиентов.</p><p>Операторы обязаны подавать уведомление в РКН до начала обработки персональных данных. Это старая норма, нет, она не появилась только в этом году. Просто до 30 мая действовали старые штрафы (около 500 рублей), а с 30 мая появилась отдельная статья за неподачу уведомления и стали действовать новые:</p> <a href="https://habr.com/ru/articles/926212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926212#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Зумерам стало сложнее находить работу в IT. Во всем виноват AI?]]></title>
-        <link>https://habr.com/ru/articles/926210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926210</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926210</guid>
+        <link>https://habr.com/ru/articles/926210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926210</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926210</guid>
         <pubDate>Wed, 09 Jul 2025 08:20:06 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/7e1/b70/0c5/7e1b700c57493d10ab5e088644506e30.png" /><p>Раньше у тех, кто только начинает карьеру, была понятная стратегия входа в IT: отучиться в универе, сделать пару пет-проектов, пойти на стажировку и дорасти до мидла. Это казалось логичным: компании растут, специалистов не хватает, джунов охотно берут.&nbsp;</p><p>Но рынок изменился — зумерам находить первую работу стало гораздо сложнее. Раньше новички учились на рутине — багфиксы, простая верстка, юнит-тесты, ручная аналитика. Сегодня эти задачи отдают AI. Компании реже вкладываются в рост молодых, предпочитая оптимизацию процессов: здесь меньше рисков и затрат, выше скорость. Это удобно бизнесу, но для тех, кто только начинает карьеру, вход стал намного сложнее.&nbsp;</p><p>Меня зовут Татьяна Горбацевич, я тимлид рекрутинга в KODE. В статье расскажу о том, как меняется рынок, за что ценят зумеров и что делать, если вы только начинаете карьеру.</p> <a href="https://habr.com/ru/articles/926210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926210#habracut">Читать далее</a>]]></description>
     </item>
@@ -281,32 +297,32 @@
 
     <item>
         <title><![CDATA[Разворачивая свой WAF: открытые инструменты]]></title>
-        <link>https://habr.com/ru/companies/beeline_cloud/articles/926196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926196</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/beeline_cloud/articles/926196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926196</guid>
+        <link>https://habr.com/ru/companies/beeline_cloud/articles/926196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926196</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/beeline_cloud/articles/926196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926196</guid>
         <pubDate>Wed, 09 Jul 2025 08:12:04 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/b52/c8c/9b1/b52c8c9b1234500ebaad1f0cb8fc6342.jpg" /><p>Ранее в блоге <a href="https://cloud.beeline.ru/?utm_source=habr&amp;utm_campaign=waf&amp;utm_term=post-07-25" rel="noopener noreferrer nofollow">beeline cloud</a> мы рассказывали про веб-приложения компаний: почему они часто становятся целями злоумышленников и что <a href="https://habr.com/ru/companies/beeline_cloud/articles/878624/" rel="noopener noreferrer nofollow">способны</a> им противопоставить решения <a href="https://cloud.beeline.ru/information-security-services/waf/?utm_source=habr&amp;utm_campaign=waf&amp;utm_term=post-07-25" rel="noopener noreferrer nofollow">WAF</a> — Web Application Firewall. Сегодня рассмотрим несколько инструментов такого класса от разработчиков из Китая, Франции и Италии.</p> <a href="https://habr.com/ru/articles/926196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926196#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Запускаем MIPI DSI экраны от смартфонов. Разработка схемы основной платы. Часть 3. Завершаем схему]]></title>
-        <link>https://habr.com/ru/companies/timeweb/articles/919988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=919988</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/timeweb/articles/919988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=919988</guid>
+        <link>https://habr.com/ru/companies/timeweb/articles/919988/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=919988</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/timeweb/articles/919988/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=919988</guid>
         <pubDate>Wed, 09 Jul 2025 08:05:56 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/997/7c3/47e/9977c347e421665d52933c74a02834f6.jpeg" /><p>Выбрать подходящий разъём – это просто или сложно? В любом случае это важно.</p><p>Как быть с передачей дифференциальных пар на другую плату?</p><p>Сколько нужно контактов земли?</p><p>Стоит ли применять дифференциальные (common mode) фильтры и защиту от ESD?</p><p>Какой разъём лучше выбрать для питания?</p><p>В данной части рассмотрим эти и другие вопросы. Подберём разъёмы, добавим фильтры и защиты и завершим разработку схемы нашей платы.</p> <a href="https://habr.com/ru/articles/919988/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=919988#habracut">Полетели! :)</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Я написал свой VPN-клиент для Android. Зачем, если их сотни, и что скрывается под капотом?]]></title>
-        <link>https://habr.com/ru/articles/926150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926150</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926150</guid>
+        <link>https://habr.com/ru/articles/926150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926150</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926150</guid>
         <pubDate>Wed, 09 Jul 2025 08:01:54 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/90d/e1d/954/90de1d9545bd1e76a80da5b2e0e2359c.png" /><p>Каждый раз, нажимая кнопку «Connect» в очередном VPN-приложении, я ловил себя на мысли: а что там, под капотом? Как эта магия на самом деле работает на уровне Android? Вокруг сотни готовых решений, но простое пользовательское любопытство переросло в профессиональное: мне захотелось не просто использовать, а понять. Понять, какие подводные камни скрывает VpnService, как реализовать весь цикл от авторизации до поднятия защищённого туннеля и что на этом пути может пойти не так.  </p><p>Эта статья — мой личный "бортовой журнал". Я не претендую на создание самого безопасного решения, это скорее история о пути, граблях и открытиях для тех, кто тоже решит заглянуть под капот VPN-технологий на Android.  </p><p>Так родилась идея этого проекта — создать свой, пусть и простой, VPN-клиент. Это не попытка сделать коммерческий продукт, а скорее исследовательское погружение, мой личный "челлендж" и способ разложить всё по полочкам.</p> <a href="https://habr.com/ru/articles/926150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926150#habracut">Заглянуть под капот</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Вы не будете в это играть: игровые миры, в которые больше нельзя попасть]]></title>
-        <link>https://habr.com/ru/companies/selectel/articles/926086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926086</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/selectel/articles/926086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926086</guid>
+        <link>https://habr.com/ru/companies/selectel/articles/926086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926086</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/selectel/articles/926086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926086</guid>
         <pubDate>Wed, 09 Jul 2025 08:00:13 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/429/57d/6ac/42957d6ac93071b581a80cc0a8fe3962.jpg" /><p>Мы привыкли считать, что в цифровом пространстве ничто не исчезает: фильм можно пересмотреть, фото — восстановить, книгу — переиздать. Но с играми все иначе. Стоит <a href="https://selectel.ru/services/dedicated/?utm_source=habr.com&amp;utm_medium=referral&amp;utm_campaign=dedicated_article_deadgames_090725_content" rel="noopener noreferrer nofollow">серверам</a> замолкнуть, и игра исчезает. Игры умирают как пространство действия. Иногда беззвучно, без прощального сообщения. Виртуальный мир, в который когда-то заходили тысячи игроков, превращается в воспоминание.</p><p>В истории игр существуют не только шедевры и провалы, но и нечто более трагичное — игры, которые исчезли. Серверы отключены, лицензии отозваны, поддержка прекращена, а железо или операционные системы, для которых они были созданы, безвозвратно устарели. В этой статье пройдемся по таким играм-призракам. Уникальным, странным, в чем-то культовым. Тем, которые больше не существует не только в продаже, но и в игровом опыте. И это делает их особенно важными.</p> <a href="https://habr.com/ru/articles/926086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926086#habracut">Вспомнить былое</a>]]></description>
     </item>
@@ -321,16 +337,16 @@
 
     <item>
         <title><![CDATA[Гайд на полиморфизм. Rust]]></title>
-        <link>https://habr.com/ru/articles/925576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925576</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925576</guid>
+        <link>https://habr.com/ru/articles/925576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925576</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925576</guid>
         <pubDate>Wed, 09 Jul 2025 07:51:48 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/114/c23/945/114c2394515d2a24e37c91cb05f7bee2.jpeg" /><p>В прошлых статьях мы разобрали теорию: что такое полиморфизм и какие существуют способы его реализации. Настало время посмотреть, как это реализуется на практике. В качестве примера был выбран Rust — язык с богатой функциональностью, с одной стороны, и простой, прозрачной реализацией — с другой.</p> <a href="https://habr.com/ru/articles/925576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925576#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[GlobalFoundries укрепляет позиции в RISC-V и приобретает MIPS: разбираемся с патентами компании]]></title>
-        <link>https://habr.com/ru/companies/onlinepatent/articles/926198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926198</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/onlinepatent/articles/926198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926198</guid>
+        <link>https://habr.com/ru/companies/onlinepatent/articles/926198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926198</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/onlinepatent/articles/926198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926198</guid>
         <pubDate>Wed, 09 Jul 2025 07:50:19 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d83/cee/928/d83cee9282852d0ba2eb95694558f3d3.jpg" /><p>Компания GlobalFoundries (GF), один из ключевых игроков в сфере контрактного производства полупроводников, объявила о покупке MIPS — разработчика процессорных ядер на архитектуре RISC-V. Сделка позволит MIPS сохранить операционную самостоятельность, но при этом получить доступ к ресурсам GF для ускорения разработки и вывода на рынок новых решений. Разбираемся с патентами MIPS. </p><p><strong>Спойлер</strong>: всё очень круто!</p> <a href="https://habr.com/ru/articles/926198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926198#habracut">Читать далее</a>]]></description>
     </item>
@@ -353,16 +369,16 @@
 
     <item>
         <title><![CDATA[RTX 5060 Ti 16 GB: лучшая бюджетная видеокарта для 2К-гейминга в 2025 году?]]></title>
-        <link>https://habr.com/ru/companies/mvideo/articles/926188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926188</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/mvideo/articles/926188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926188</guid>
+        <link>https://habr.com/ru/companies/mvideo/articles/926188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926188</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/mvideo/articles/926188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926188</guid>
         <pubDate>Wed, 09 Jul 2025 07:36:59 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/1d2/59f/39a/1d259f39aba35db9e89de14e353f73f0.png" /><p>Научно-технический прогресс неумолим, и по мере его развития растут и требования к стандартам качества. В последнее время все больше людей приходят к выводу, что новый стандарт разрешения для игр — это QHD (2560x1440). Действительно, при современном уровне графики разрешения Full HD (1920x1080) уже недостаточно, чтобы рассмотреть все детали и красоту видеоигр. </p><p>Но какая видеокарта оптимальна для игр в разрешении QHD? Вместе с редакцией <a href="https://www.mvideo.ru/blog/mgame/igry-cherez-pot-i-slezy-chto-eshhe-poprobovat-esli-nravitsya-elden-ring" rel="noopener noreferrer nofollow">блога «М.Клик»</a> решили отыскать правильный ответ.</p> <a href="https://habr.com/ru/articles/926188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926188#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Миграция с Firebird на PostgreSQL. Что может пойти не так? Часть 2]]></title>
-        <link>https://habr.com/ru/articles/926114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926114</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926114</guid>
+        <link>https://habr.com/ru/articles/926114/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926114</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926114/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926114</guid>
         <pubDate>Wed, 09 Jul 2025 07:36:31 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/webt/ym/zd/jq/ymzdjqg1eadadmsxadcdqo_wglc.png" /><p><a href="https://habr.com/ru/articles/926094/" rel="noopener noreferrer nofollow">В первой части </a>обсуждалось как отличие реализации MVCC в Firebird и PostgreSQL может привести к сложностям при миграции информационной системы. Напоминаю девиз этой серии статей – "Ваши ожидания – это Ваши проблемы". Рассмотрим еще некоторые моменты, которые позволят Вам не находится в состоянии "обманутых ожиданий" при миграции с Firebird на PostgreSQL.</p> <a href="https://habr.com/ru/articles/926114/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926114#habracut">Читать далее</a>]]></description>
     </item>
@@ -385,8 +401,8 @@
 
     <item>
         <title><![CDATA[Research Ops в маленькой команде: как наладить процесс без бюджета и отдельной роли]]></title>
-        <link>https://habr.com/ru/articles/925344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925344</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925344</guid>
+        <link>https://habr.com/ru/articles/925344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925344</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925344</guid>
         <pubDate>Wed, 09 Jul 2025 07:15:02 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3d0/811/d31/3d0811d31684a28bd65e794291d87cae.png" /><p>Если в команде каждый делает всё, а пользовательские исследования –  это «когда-нибудь потом», статья для вас. Я делюсь опытом, как мы наладили процесс discovery в маленькой команде без ресерчера и бюджета. Как шаблоны, хранилище знаний и короткие инсайты на ревью спринта изменили культуру команды. И почему для меня Research Ops –  это не должность, а привычка думать вместе с пользователем.  </p> <a href="https://habr.com/ru/articles/925344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925344#habracut">Читать далее</a>]]></description>
     </item>
@@ -409,8 +425,8 @@
 
     <item>
         <title><![CDATA[Как поменять работу, не меняя ее на самом деле. Пересобираем смыслы с джоб-крафтингом]]></title>
-        <link>https://habr.com/ru/companies/ru_mts/articles/926128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926128</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/ru_mts/articles/926128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926128</guid>
+        <link>https://habr.com/ru/companies/ru_mts/articles/926128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926128</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ru_mts/articles/926128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926128</guid>
         <pubDate>Wed, 09 Jul 2025 07:00:45 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/e79/43c/751/e7943c751be8a6695df7bc8735a229ca.jpg" /><p>Огромную часть жизни мы проводим на работе — и если она не приносит удовлетворения, чувствовать себя ценным и счастливым просто не получится. И это не только личная проблема. Представьте: ходить на работу больше не интересно, все валится из рук — о какой продуктивности может идти речь? К тому же, если ты недоволен работой, растет риск конфликтов с командой и торможения процесса в целом. Но это далеко не всегда значит, что работу нужно менять. Можно попробовать «пересобрать» ее под себя, чтобы она снова стала в радость.</p><p>Меня зовут Асия Морозова, я руковожу направлением по обучению и адаптации персонала в MWS и часто выступаю с докладами — например, о том, как бороться с выгоранием, выстроить карьерный трек или пройти программу ротации. Моя любимая тема в последнее время — джоб-крафтинг. Могу говорить об этом часами, практикую сама и другим советую. Сегодняшняя публикация как раз об этом. Давайте вместе разбираться, как взглянуть на рутинные задачи под новым углом и заново (ну или впервые) влюбиться в свою работу.</p> <a href="https://habr.com/ru/articles/926128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926128#habracut">Читать далее</a>]]></description>
     </item>
@@ -425,32 +441,32 @@
 
     <item>
         <title><![CDATA[Как мы создавали первую портативную умную колонку Яндекса]]></title>
-        <link>https://habr.com/ru/companies/yandex/articles/925610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925610</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/yandex/articles/925610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925610</guid>
+        <link>https://habr.com/ru/companies/yandex/articles/925610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925610</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/yandex/articles/925610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925610</guid>
         <pubDate>Wed, 09 Jul 2025 07:00:18 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/a69/14e/f50/a6914ef5099b1e33a8312c8ce5ddb42d.png" /><p>Меня зовут Александр Батин, я инженер‑схемотехник. Уже больше трёх лет я работаю в&nbsp;Яндексе в&nbsp;команде, которая занимается разработкой умных экранов и новых продуктов. Отвечаю за&nbsp;проектирование материнских плат (разрабатывал материнскую плату для&nbsp;Станции Дуо Макс), а&nbsp;в&nbsp;последних проектах участвую уже в&nbsp;качестве техлида. </p><p>Сегодня я хочу посвятить свой рассказ ключевым аспектам разработки первой портативной колонки с&nbsp;Алисой&nbsp;— Станции Стрит:</p><p>— рассмотрим интересные моменты на&nbsp;этапе проектирования, </p><p>— поговорим о&nbsp;технических решениях, принятые в&nbsp;процессе работы, </p><p>— обратим внимание на&nbsp;сложности, с&nbsp;которыми столкнулась команда разработчиков. </p><p>Особое внимание уделю подходам к&nbsp;преодолению технических и инженерных вызовов: оптимизацию работы AI‑ассистента в&nbsp;условиях ограниченных вычислительных ресурсов и обеспечения стабильного взаимодействия при&nbsp;мобильном использовании без&nbsp;доступа к&nbsp;интернету.</p> <a href="https://habr.com/ru/articles/925610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925610#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Свет без источника: компактный датчик обнаружения молекул]]></title>
-        <link>https://habr.com/ru/companies/ua-hosting/articles/925838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925838</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/ua-hosting/articles/925838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925838</guid>
+        <link>https://habr.com/ru/companies/ua-hosting/articles/925838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925838</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ua-hosting/articles/925838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925838</guid>
         <pubDate>Wed, 09 Jul 2025 07:00:14 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/eca/dd8/6af/ecadd86af85cfb4be5e51f04829b5876.jpg" /><p>Практически любой аспект жизни человека в той или иной степени связан с измерением чего-либо: масса, расстояние, длина, температура и т.&nbsp;д. Часто от точности проведенных измерений зависит точность и успешность выполнения того или иного процесса. Когда речь идет об измерении крайне малых объектов, таких как молекулы используются оптические биосенсоры. Они чрезвычайно точны, но нуждаются в громоздком и дорогом оборудовании для генерации и обнаружения света. Ученые из Федеральной политехнической школы Лозанны (Швейцария) разработали систему, которая использует квантовую физику для обнаружения присутствия биомолекул без необходимости использования внешнего источника света. Как именно работает эта система, какие аспекты квантовой физики позволили ее реализовать, и что именно она может измерять? Ответы на эти вопросы мы найдем в докладе ученых.</p> <a href="https://habr.com/ru/articles/925838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925838#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[О ненависти к российским дистрибутивам Linux]]></title>
-        <link>https://habr.com/ru/articles/926180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926180</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926180</guid>
+        <link>https://habr.com/ru/articles/926180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926180</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926180</guid>
         <pubDate>Wed, 09 Jul 2025 06:44:31 -0000</pubDate>
         <description><![CDATA[<p>Каждый второй комментарий к новостям о российских дистрибутивах Linux можно сформулировать как "опять перерисовали шильдики".</p><p>Причем объяснить с чего перерисовали шильдики, комментаторы зачастую не могут. "Чувствую бесовщину, но доказать не могу!".</p><p>Конечно, иногда эти претензии не безосновательны - когда взяли пакет, заменили логотипы, не выложили исходники и презентуют как великое достижение <s>рисования нескучных обоев</s> русской инженерной школы. Бывает смешно, но скорее - <em>это печально</em>.</p><p>Но давайте поговорим про дистрибутивы.</p> <a href="https://habr.com/ru/articles/926180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926180#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Рекламные факапы: как ошибка становится вирусным кейсом, а не мемом на посмешище]]></title>
-        <link>https://habr.com/ru/articles/923930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=923930</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/923930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=923930</guid>
+        <link>https://habr.com/ru/articles/923930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923930</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/923930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923930</guid>
         <pubDate>Wed, 09 Jul 2025 06:42:40 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/085/6ea/d9a/0856ead9a3367db7bd7e8f0aeaaa1ac9.png" /><p>Иногда реклама - это шахматная партия с потребителем. А иногда цирк на колёсах, где клоуном становится сам бренд. Но вот что интересно: даже самые громкие фейлы могут обернуться мощным ростом узнаваемости и лояльности. Главное  уметь правильно обработать удар. Ниже два кейса: один  провал на миллиард, второй случайный успех, сгенерированный голосом диктора.</p> <a href="https://habr.com/ru/articles/923930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923930#habracut">Читать далее</a>]]></description>
     </item>
@@ -465,32 +481,32 @@
 
     <item>
         <title><![CDATA[«Да мы и без проектной документации справимся!»]]></title>
-        <link>https://habr.com/ru/articles/926172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926172</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926172</guid>
+        <link>https://habr.com/ru/articles/926172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926172</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926172</guid>
         <pubDate>Wed, 09 Jul 2025 06:27:54 -0000</pubDate>
         <description><![CDATA[<p>— И это после всего, что я вам рассказал? — я, конечно, уже слышал подобные заявления от потенциальных клиентов, но каждый раз удивлялся.<br /> — Ну да. Зачем нам эти прототипы и функциональные спецификации? Я уже несколько проектов запустил со своей командой и точно могу сказать: никто документацию не читает.<br /> — А как же вы ставите задачу на разработку?<br /> — Пишу небольшую вводную — и всё. В основном, на словах объясняю. Я же каждый день с разрабами общаюсь. Да и сам немного программист. Мы же с вами оба понимаем, что этап проектирования — это просто способ для вас заработать дополнительных денег.</p><p>Внутри меня аж передёрнуло от этой фразы. Но виду я не подал и ненадолго задумался. На самом деле до сих пор не знаю объективного способа проверить, помогает ли проектная документация в разработке. Что не мешает мне искренне в это верить.</p><p>— Ну что ж, понимаю. Тогда давайте попробую вам рассказать одну небольшую историю…</p> <a href="https://habr.com/ru/articles/926172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926172#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Как работает база данных Firebird, часть 1]]></title>
-        <link>https://habr.com/ru/articles/918552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918552</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/918552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918552</guid>
+        <link>https://habr.com/ru/articles/918552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918552</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/918552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918552</guid>
         <pubDate>Wed, 09 Jul 2025 06:19:48 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/da1/e34/b24/da1e34b2428e258b3ff2bd3d685d85f7.png" /><p>В этой серии статей я залезу внутрь реляционной базы данных Firebird. Я не буду рисовать архитектуру в виде прямоугольников, соединённых стрелками. Вместо этого я буду показывать куски кода, описывать, что они делают и как вызывают друг друга, чтобы выполнить конкретную работу. </p> <a href="https://habr.com/ru/articles/918552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=918552#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[На пути к эмоциональному искусственному интеллекту]]></title>
-        <link>https://habr.com/ru/companies/sberbank/articles/926050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926050</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/sberbank/articles/926050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926050</guid>
+        <link>https://habr.com/ru/companies/sberbank/articles/926050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926050</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/sberbank/articles/926050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926050</guid>
         <pubDate>Wed, 09 Jul 2025 05:53:30 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/371/6f8/663/3716f8663b0b7bc940a0ff94fc48aaeb.jpg" /><p>Привет, Хабр. Меня зовут Андрей Савченко, я научный директор Sber AI Lab. Когда речь заходит про эмоциональность и принятие решений у ИИ, нужно задать себе вопрос: «А как это устроено у людей?» Наверняка почти каждый из вас ответил бы, что он принимает решение рационально, а остальные, зачастую, иррационально.&nbsp;</p><p>Нейропсихологи проводили <a href="https://briefly.ru/damasio/oshibka_dekarta/" rel="noopener noreferrer nofollow">исследования</a> и выяснили, что <strong>большинство решений люди принимают эмоционально</strong>. С одной стороны, это экономит ресурсы мозга, а с другой — позволяет быстрее принимать решения. И поэтому очень важно учитывать нашу эмоциональность при взаимодействии с другими и при создании имитации людей или сообществ с помощью современных генеративных моделей. Условно это можно назвать эмоциональным искусственным интеллектом.</p> <a href="https://habr.com/ru/articles/926050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926050#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Как «Гипроводстрой», внедрив nanoCAD GeoniCS, справился с растущим объемом заказов]]></title>
-        <link>https://habr.com/ru/companies/nanosoft/articles/922838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=922838</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/nanosoft/articles/922838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=922838</guid>
+        <link>https://habr.com/ru/companies/nanosoft/articles/922838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922838</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/nanosoft/articles/922838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922838</guid>
         <pubDate>Wed, 09 Jul 2025 05:53:29 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/32e/322/4e1/32e3224e11bcdf43a27849110efef602.jpg" /><p>Институт «Гипроводстрой» выбрал <a href="https://www.nanocad.ru/products/geonics/?utm_source=nanocad&amp;utm_medium=habr&amp;utm_campaign=otzyv" rel="noopener noreferrer nofollow">nanoCAD GeoniCS</a> для автоматизации проектирования генпланов, вертикальной планировки и картограмм, что позволило значительно оптимизировать затраты и рабочие процессы в связи с ростом количества заказов. Удалось сократить время выполнения проектных задач, повысить качество проектных решений и снизить количество ошибок.<strong> </strong></p> <a href="https://habr.com/ru/articles/922838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922838#habracut">Читать далее</a>]]></description>
     </item>
@@ -505,16 +521,16 @@
 
     <item>
         <title><![CDATA[Введение в обслуживание АСУ ТП на примере эффективных предприятий]]></title>
-        <link>https://habr.com/ru/articles/926088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926088</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926088</guid>
+        <link>https://habr.com/ru/articles/926088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926088</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926088</guid>
         <pubDate>Wed, 09 Jul 2025 05:31:26 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3f7/2cb/14f/3f72cb14f2d1c23c5e34c13e9aa045ea.png" /><p>Сегодня автоматизированные системы управления технологическими процессами (АСУ ТП) являются неотъемлемой частью любого современного производства. Однако сама установка и пусконаладка системы — лишь половина дела. Настоящее испытание начинается в момент, когда оборудование переходит в эксплуатацию. Именно тогда становится очевидной роль обслуживания АСУ ТП — комплекса действий и организационных мер, позволяющих поддерживать системы в работоспособном состоянии, минимизировать простои и обеспечить надёжную работу всего предприятия.</p><p>Опыт эффективных предприятий в этой сфере показывает, что качественное обслуживание АСУ ТП напрямую влияет на экономические показатели компании, а также на гибкость и безопасность производства. В данной статье рассматриваются ключевые аспекты обслуживания АСУ ТП, опираясь на опыт компаний-лидеров отрасли, избегающих кризисных ситуаций и добивающихся устойчивого успеха за счёт выверенных стандартов и технологий.</p> <a href="https://habr.com/ru/articles/926088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926088#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
         <title><![CDATA[Сейчас открою вкладку с ИИ и стану программистом]]></title>
-        <link>https://habr.com/ru/articles/926164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926164</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=926164</guid>
+        <link>https://habr.com/ru/articles/926164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926164</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926164</guid>
         <pubDate>Wed, 09 Jul 2025 05:23:15 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/8d7/65d/40a/8d765d40a7e0fb20638127ed437e2a39.png" /><p>Прочитал я <a href="https://habr.com/en/companies/ruvds/articles/924616/" rel="noopener noreferrer nofollow">эту статью</a> тут и решил поделиться <a href="https://t.me/papath_blog/541" rel="noopener noreferrer nofollow">своей статьёй</a>, недавно написанной для друзей, чтобы уберечь от глупостей, что программистом может стать каждый, просто используя ИИ. Сразу оговорюсь, что статья написана для людей, далёких от программирования.</p> <a href="https://habr.com/ru/articles/926164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926164#habracut">Читать далее</a>]]></description>
     </item>
@@ -789,22 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125609</guid>
         <pubDate>Tue, 08 Jul 2025 12:59:00 -0000</pubDate>
         <description><![CDATA[Исследователи из США совместно с коллегами из Южной Кореи разработали менее затратный способ удаления углекислого газа из атмосферы. Традиционные системы прямого захвата CO₂ из воздуха неэффективны в тёплом и влажном климате, что препятствует повсеместному размещению таких установок. Новая разработка кардинально меняет подход, позволяя одинаково эффективно удалять углекислый газ практически в любом климате и в три раза дешевле, чем это возможно сегодня. Источник изображения: ИИ-генерация Grok 3/3DNews]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[OnePlus выпустила уменьшенную версию часов Watch 3 за $299 и наушники Buds 4 за $129]]></title>
-        <link>https://3dnews.ru/1125607</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125607</guid>
-        <pubDate>Tue, 08 Jul 2025 12:48:00 -0000</pubDate>
-        <description><![CDATA[OnePlus представила два новинки: уменьшенную версию умных часов OnePlus Watch 3 диаметром 43 мм, а также беспроводные наушники OnePlus Buds 4. Часы по сути повторяют анонсированные ранее Watch 3, но выполнены в более компактном и лёгком корпусе. Источник изображений: OnePlus]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[OnePlus представила смартфоны Nord 5 и Nord CE5 на чипах Qualcomm и MediaTek и ценой от €299]]></title>
-        <link>https://3dnews.ru/1125608</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125608</guid>
-        <pubDate>Tue, 08 Jul 2025 12:34:00 -0000</pubDate>
-        <description><![CDATA[OnePlus представила новые смартфоны семейства Nord, которое играет важную роль в расширении аудитории бренда. Аппараты пятого поколения &mdash; Nord 5 и Nord CE5 &mdash; получили немало улучшений по сравнению с моделями предыдущего поколения, а Nord CE5 оснастили самой ёмкой аккумуляторной батареей, когда-либо использовавшейся в смартфонах OnePlus. Источник изображений: OnePlus]]></description>
     </item>
 
 </channel>
