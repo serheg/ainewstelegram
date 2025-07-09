@@ -4,11 +4,43 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Wed, 09 Jul 2025 14:17:32 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 15:19:40 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
 
     <item>
-        <title><![CDATA[Nvidia первой компанией в истории с капитализацией $4 триллиона]]></title>
+        <title><![CDATA[Представлен электромобиль Rivian R1 с четырьмя двигателями — от $115 990]]></title>
+        <link>https://3dnews.ru/1125692</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125692</guid>
+        <pubDate>Wed, 09 Jul 2025 15:16:00 -0000</pubDate>
+        <description><![CDATA[На этой неделе компания Rivian представила высокопроизводительную версию собственного электромобиля R1 второго поколения. Главная особенность новинки &mdash; высокая мощность, но назвать её разумной покупкой для человека, которому нужен внедорожник, вряд ли можно из-за высокой стоимости. Источник изображений: Rivian]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Мониторим ONU/ONT с помощью Python/Flask и snmpwalk]]></title>
+        <link>https://habr.com/ru/articles/926334/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926334</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926334/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926334</guid>
+        <pubDate>Wed, 09 Jul 2025 15:07:31 -0000</pubDate>
+        <description><![CDATA[<p>Всем привет. Я сетевой инженер в интернет провайдере. В данном посте я расскажу, как я сделал для техподдержки инструмент, для мониторинга абонентских ONU на Python. И избавился от кучи ручной работы.</p> <a href="https://habr.com/ru/articles/926334/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926334#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[UzePhone — как UzeBox, но только телефон]]></title>
+        <link>https://habr.com/ru/articles/926328/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926328</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926328/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926328</guid>
+        <pubDate>Wed, 09 Jul 2025 14:49:18 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/200/1a3/1aa/2001a31aa85c35a9a528f70f5e9b091f.gif" /><p>Я очень надеюсь, что&nbsp;не&nbsp;довёл ещё <a class="mention" href="https://habr.com/users/bodyawm">@bodyawm</a>до&nbsp;белого каления постоянными упоминаниями&nbsp;— но&nbsp;мимо <a href="https://habr.com/ru/companies/timeweb/articles/915028/comments/#comment_28408828" rel="noopener noreferrer nofollow">этого</a> я пройти, конечно, не&nbsp;мог. Как&nbsp;вы все помните, я сам что‑то пытался изобразить на&nbsp;тему «кастомизируемого телефона‑звонилки». Я давно обещал выложить свои наработки, но&nbsp;даже просто вспомнить, на&nbsp;чём я там сломался N лет назад&nbsp;— уже труд немалый, и если&nbsp;бы не&nbsp;активность единомышленника в&nbsp;этом направлении, которая меня стронула, сподвигла и стриггерила&nbsp;— стронуться, наверное, так&nbsp;бы и не&nbsp;смог. Особенно учитывая тот прискорбный факт, что&nbsp;я открываю свои собственные записки на&nbsp;эту тему и не&nbsp;понимаю там ни слова&nbsp;— положите на&nbsp;могилку Элджернона, что&nbsp;на&nbsp;заднем дворе, хотя&nbsp;бы пару цветочков...</p> <a href="https://habr.com/ru/articles/926328/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926328#habracut">ПЩЩЩЩЩЩ! (контакт белого каления и клавиш)</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Зона расширяется: GSC Game World наконец подтвердила релиз S.T.A.L.K.E.R. 2: Heart of Chornobyl на PS5]]></title>
+        <link>https://3dnews.ru/1125695</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125695</guid>
+        <pubDate>Wed, 09 Jul 2025 14:31:00 -0000</pubDate>
+        <description><![CDATA[Вопреки прошлогодним опровержениям руководства студии GSC Game World, постапокалиптический шутер с открытым миром S.T.A.L.K.E.R. 2: Heart of Chornobyl всё-таки собирается на новую целевую платформу.   Источник изображений: GSC Game World]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Nvidia стала первой компанией в истории с капитализацией $4 триллиона]]></title>
         <link>https://3dnews.ru/1125697</link>
         <guid isPermaLink="true">https://3dnews.ru/1125697</guid>
         <pubDate>Wed, 09 Jul 2025 14:16:00 -0000</pubDate>
@@ -552,22 +584,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Как я собеседовался в Ozon, Т-Банк, Mindbox и другие крупные компании]]></title>
-        <link>https://habr.com/ru/articles/926214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926214</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926214</guid>
-        <pubDate>Wed, 09 Jul 2025 08:39:18 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/427/3b0/8ce/4273b08cecd6dc89837b41cfe76f70d4.png" /><p>Всем привет. Я сеньор и тимлид на .NET (C#). До недавнего времени работал в Росатоме, пока там внезапно не сократили целую дирекцию по цифровизации. Так что пришлось срочно выходить на рынок, причём, впервые в моей жизни (до этого работа находила меня сама). По результатам нескольких циклов собеседований получился неплохой дневник, который я здесь привожу.</p> <a href="https://habr.com/ru/articles/926214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926214#habracut">История длинная, но интересная</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Уведомление в Роскомнадзор. Что делать?]]></title>
-        <link>https://habr.com/ru/articles/926212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926212</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926212</guid>
-        <pubDate>Wed, 09 Jul 2025 08:32:29 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/968/e91/2af/968e912aff7dade06c61bc2b2a73f8bd.png" /><p>Самозанятые и ИП в большинстве своем являются операторами персональных данных. Да, даже в том случае, если нет сайта, нет рассылки. Мы по умолчанию становимся операторами просто оказывая услуги своим клиентам и так или иначе обрабатывая персональные данные клиентов.</p><p>Операторы обязаны подавать уведомление в РКН до начала обработки персональных данных. Это старая норма, нет, она не появилась только в этом году. Просто до 30 мая действовали старые штрафы (около 500 рублей), а с 30 мая появилась отдельная статья за неподачу уведомления и стали действовать новые:</p> <a href="https://habr.com/ru/articles/926212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926212#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Не просто HD-версия: разработчики ремейка «Готики» рассказали об отличиях от классической игры Piranha Bytes]]></title>
         <link>https://3dnews.ru/1125664</link>
         <guid isPermaLink="true">https://3dnews.ru/1125664</guid>
@@ -789,22 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125628</guid>
         <pubDate>Tue, 08 Jul 2025 17:59:00 -0000</pubDate>
         <description><![CDATA[Флагманский процессор AMD для рабочих станций &mdash; Ryzen Threadripper Pro 9995WX &mdash; начал появляться в розничной продаже. Стоимость чипа составляет около &euro;12 300 в Европе и около $12 794 в США. Таким образом, новый 96-ядерный чип примерно на 20 % дороже предшественника &mdash; Ryzen Threadripper Pro 7995WX. Источник изображения: AMD]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[С новым патчем в The Last of Us Part II Remastered появился хронологический режим — он позволит по-иному взглянуть на сюжет игры]]></title>
-        <link>https://3dnews.ru/1125629</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125629</guid>
-        <pubDate>Tue, 08 Jul 2025 17:22:00 -0000</pubDate>
-        <description><![CDATA[Издательство Sony Interactive Entertainment и разработчики из студии Naughty Dog анонсировали новый способ ознакомиться с нашумевшей историей приключенческого экшена The Last of Us Part II.   Источник изображений: PlayStation]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[«Не передать словами, что это значит для нас»: создатели философского выживания The Alters похвастались продажами игры]]></title>
-        <link>https://3dnews.ru/1125626</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125626</guid>
-        <pubDate>Tue, 08 Jul 2025 16:42:00 -0000</pubDate>
-        <description><![CDATA[Польский издатель и разработчик 11 bit studios (This War of Mine, Frostpunk) поделился информацией о первых пострелизных успехах своего научно-фантастического философского выживания The Alters.   Источник изображений: 11 bit studios]]></description>
     </item>
 
 </channel>
