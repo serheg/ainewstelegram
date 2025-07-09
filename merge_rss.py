@@ -2,6 +2,7 @@ import feedparser
 import time
 from datetime import datetime
 from email.utils import format_datetime
+from html import escape
 
 # Список ваших RSS-лент
 FEED_URLS = [
@@ -19,38 +20,42 @@ def fetch_and_merge():
     for url in FEED_URLS:
         try:
             feed = feedparser.parse(url)
-            if feed.bozo: # bozo - признак того, что лента не распарсилась корректно
+            if feed.bozo:
                 print(f"⚠️ Предупреждение: лента {url} может быть некорректной. {feed.bozo_exception}")
             all_entries.extend(feed.entries)
             print(f"✅ Загружено {len(feed.entries)} записей из {url}")
         except Exception as e:
             print(f"❌ Не удалось загрузить ленту {url}: {e}")
 
-    # Сортируем все посты по дате публикации
     all_entries.sort(key=lambda x: x.get('published_parsed', time.gmtime()), reverse=True)
 
-    # Генерируем новый RSS 2.0 фид
+    # ЗАМЕНИТЕ YOUR_USERNAME и YOUR_REPO_NAME
+    repo_url = "https://serheg.github.io/ainewstelegram"
+    
     rss_header = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title>Моя объединенная RSS-лента</title>
-    <link>https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/</link>
+    <link>{repo_url}/</link>
     <description>Все лучшие новости в одном месте</description>
     <lastBuildDate>{format_datetime(datetime.now())}</lastBuildDate>
-    <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="{repo_url}/{OUTPUT_FILE}" rel="self" type="application/rss+xml" />
 """
     
     rss_items = ""
-    for entry in all_entries[:100]: # Ограничим 100 последними постами
-        title = entry.title.replace(']]>', ']]>') # Экранирование для CDATA
+    for entry in all_entries[:100]:
+        title = entry.title.replace(']]>', ']]>')
         summary = entry.get('summary', 'Нет описания').replace(']]>', ']]>')
         pub_date = format_datetime(datetime.fromtimestamp(time.mktime(entry.published_parsed))) if 'published_parsed' in entry else ''
+        
+        # Экранируем ссылку, чтобы она была валидной в XML
+        link = escape(entry.link)
         
         rss_items += f"""
     <item>
         <title><![CDATA[{title}]]></title>
-        <link>{entry.link}</link>
-        <guid isPermaLink="true">{entry.link}</guid>
+        <link>{link}</link>
+        <guid isPermaLink="true">{link}</guid>
         <pubDate>{pub_date}</pubDate>
         <description><![CDATA[{summary}]]></description>
     </item>
