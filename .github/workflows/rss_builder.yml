@@ -1,14 +1,16 @@
 name: Build RSS Feed
 
 on:
-  # Запускать по расписанию (каждый час)
   schedule:
     - cron: '0 * * * *'
-  # А также запускать вручную через интерфейс GitHub
   workflow_dispatch:
 
 jobs:
   build:
+    # Разрешаем этому Action записывать изменения в репозиторий
+    permissions:
+      contents: write
+      
     runs-on: ubuntu-latest
     steps:
       # 1. Скачиваем код из репозитория
