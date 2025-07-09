@@ -1,0 +1,40 @@
+name: Build RSS Feed
+
+on:
+  # Запускать по расписанию (каждый час)
+  schedule:
+    - cron: '0 * * * *'
+  # А также запускать вручную через интерфейс GitHub
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Скачиваем код из репозитория
+      - name: Check out repo
+        uses: actions/checkout@v3
+
+      # 2. Устанавливаем Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # 3. Устанавливаем зависимости (feedparser)
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 4. Запускаем наш скрипт для сборки ленты
+      - name: Run script to build feed
+        run: python merge_rss.py
+
+      # 5. Коммитим и пушим обновленный feed.xml в репозиторий
+      - name: Commit and push if it changed
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add feed.xml
+          # Коммитим только если есть изменения
+          git diff --staged --quiet || git commit -m "Update RSS feed"
+          git push
