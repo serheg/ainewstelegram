@@ -4,8 +4,56 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Wed, 09 Jul 2025 16:20:57 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 17:17:44 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[[Перевод] Война за таланты в сфере ИИ]]></title>
+        <link>https://habr.com/ru/articles/926376/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926376</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926376/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926376</guid>
+        <pubDate>Wed, 09 Jul 2025 17:07:05 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/630/c77/a67/630c77a673e5c0cc8a69e867d96d618e.webp" /><p>    Покойного Стива Джобса нельзя назвать «man of letters»(литератор), но он определенно любил писать резкие электронные письма. </p> <a href="https://habr.com/ru/articles/926376/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926376#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[JEDEC утвердила стандарт LPDDR6 — быстрее, эффективнее и с улучшениями для ИИ]]></title>
+        <link>https://3dnews.ru/1125703</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125703</guid>
+        <pubDate>Wed, 09 Jul 2025 16:57:00 -0000</pubDate>
+        <description><![CDATA[Ассоциация JEDEC Solid State Technology объявила о публикации стандарта памяти LPDDR6 (JESD209-6). По словам представителей ассоциации, стандарт JESD209-6 LPDDR6 представляет собой значительный шаг вперёд в технологиях памяти, обеспечивая повышенную производительность, энергоэффективность и безопасность. Источник изображения: VideoCardz / JEDEC]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Samsung не будет взимать плату за ИИ-функции Galaxy AI — как минимум до конца 2025 года]]></title>
+        <link>https://3dnews.ru/1125702</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125702</guid>
+        <pubDate>Wed, 09 Jul 2025 16:50:00 -0000</pubDate>
+        <description><![CDATA[Компания Samsung в ходе мероприятия Galaxy Unpacked опровергла слухи о переводе пакета ИИ-инструментов Galaxy AI на подписную модель с платной основой. По словам руководства Samsung, таких планов нет &mdash; по крайней мере до конца 2025 года. То, что Samsung когда-нибудь начнёт взимать плату за использование функций Galaxy AI, сомнений не вызывает, поскольку для работы ИИ-моделей требуются значительные затраты энергии и средств. Другие компании уже давно предлагают платные тарифы на использование нейросетей, поэтому это лишь вопрос времени, когда Samsung последует их примеру, пишет ресурс 9to5Google.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Готовимся к собесу: positional encodings в 2025 году]]></title>
+        <link>https://habr.com/ru/articles/926368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926368</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926368</guid>
+        <pubDate>Wed, 09 Jul 2025 16:44:22 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/f36/d3c/010/f36d3c010d23c2b35ec3e052fb09d18e.png" /><p>Если вы до сих пор считаете, что positional encoding в трансформерах — это знаменитые sin/cos из статьи 2017 года, то боюсь, что собеседование для вас закончится автоматическим реджектом.</p><p>Позиционное кодирование заметно эволюционировало с момента появления оригинальной статьи о трансформерах. В современных LLM и моделях компьютерного зрения, таких как FLUX, уже давно не используется классическое sin/cos-кодирование.</p> <a href="https://habr.com/ru/articles/926368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926368#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Hibernate. Оптимизму здесь (не) место. Блокировки в БД]]></title>
+        <link>https://habr.com/ru/companies/reksoft/articles/926366/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926366</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/reksoft/articles/926366/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926366</guid>
+        <pubDate>Wed, 09 Jul 2025 16:42:16 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/925/f90/731/925f90731809af99b33069c241269949.png" /><p>Привет, Хабр!&nbsp;</p><p>Сегодня мы рассмотрим работу блокировок в базах данных, уделив особое внимание оптимистичному подходу и его реализации во фреймворке Hibernate. &nbsp;</p><p>Сначала я решил сделать схему, которая покажет, как происходит блокировка в базе данных при запросе на обновление внутри какой-либо транзакции. Но в разных базах это происходит по-разному. И чем глубже изучаешь этот вопрос, тем больше находишь отличий. Поэтому я для начала просто приведу красивую картинку, как ИИ видит оптимистичные блокировки. А чтобы совсем не оторваться от реальности, расскажу, как это происходит на примере Postgres. </p> <a href="https://habr.com/ru/articles/926366/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926366#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как строить карьеру в UX-дизайне без суеты и хаоса: книга Артема Дащинского]]></title>
+        <link>https://habr.com/ru/companies/ssp-soft/articles/925126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925126</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ssp-soft/articles/925126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925126</guid>
+        <pubDate>Wed, 09 Jul 2025 16:20:36 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/e6c/edd/18d/e6cedd18d0e3cafb1fbbce0b441580b2.jpg" /><p>В нашем предыдущем обзоре переводной <a href="https://habr.com/ru/companies/ssp-soft/articles/917846/" rel="noopener noreferrer nofollow">книги по UX</a> мы обсуждали фундаментальные принципы и законы проектирования, которые помогают создать удобные и интуитивно понятные интерфейсы. Но дизайн — это не только теория и принципы: за каждой успешной карьерой стоят навыки, опыт и правильно выбранный путь развития. Именно этой теме посвящается новая книга Артема Дащинского «Как стать успешным UX-дизайнером: практический план развития карьеры». Рецензия продолжает тему обучения и карьеры в UX, дополняя предыдущий материал практическими рекомендациями и стратегиями для профессионального роста в этой динамичной области.</p> <a href="https://habr.com/ru/articles/925126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925126#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Конец эпохи стилусов: Samsung Galaxy Z Fold7 оказался лишён поддержки S Pen]]></title>
@@ -149,14 +197,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125600</guid>
         <pubDate>Wed, 09 Jul 2025 14:00:01 -0000</pubDate>
         <description><![CDATA[На очередной презентации Galaxy Unpacked компания Samsung официально представила флагманские умные часы нового поколения: Galaxy Watch8 и Galaxy Watch8 Classic. Устройства работают на одной программной и аппаратной платформе, но имеют некоторые отличия и предлагают множество новых функций.   Смарт-часы Samsung Galaxy Watch8 и Watch8 Classic могут похвастаться интеграцией с пакетом функций искусственного интеллекта Galaxy AI+, основанных на интеллектуальном помощнике Google Gemini. Для быстрого запуска умного ассистента достаточно повернуть запястье или нажать кнопку на корпусе устройства. Чат-бот работает в режиме полноценного собеседника, позволяя вести диалог и получать рекомендации в реальном времени. ИИ также отвечает за голосовой ввод сообщений &mdash; они оформляются и отправляются адресатам. Учитывая контекст, система предлагает наиболее подходящие варианты ответов в переписке. Приложение &laquo;Яндекс Музыка&raquo; для Galaxy Watch позволяет сохранять любимые композиции прямо в памяти часов, чтобы потом слушать музыку, не подключаясь к сети или смартфону.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Samsung представила обновлённые смарт-часы Galaxy Watch Ultra с титановым корпусом за 44 990 рублей]]></title>
-        <link>https://3dnews.ru/1125602</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125602</guid>
-        <pubDate>Wed, 09 Jul 2025 14:00:00 -0000</pubDate>
-        <description><![CDATA[Вслед за основными моделями смарт-часов Galaxy Watch8 и Watch8 Classic компания Samsung на мероприятии Galaxy Unpacked представила обновлённую версию своих флагманских смарт-часов Galaxy Watch Ultra. Их отличает более крупный и более прочный титановый корпус.   Функционально Samsung Galaxy Watch Ultra минимально отличаются от двух других флагманских моделей умных часов восьмого поколения. Пакет Galaxy AI+ открывает доступ к помощнику с искусственным интеллектом &mdash; с ним можно вести полноценные беседы, задавать вопросы и в реальном времени получать на них ответы. Поддерживается голосовой ввод сообщений с помощью ИИ &mdash; он же их надлежащим образом оформит и предложит варианты ответов в контексте переписки. Приложение &laquo;Яндекс Музыка&raquo; поддерживает сохранение треков в память устройства и их последующее воспроизведение прямо со смарт-часов без подключения к смартфону и сети.]]></description>
     </item>
 
     <item>
@@ -576,19 +616,11 @@
     </item>
 
     <item>
-        <title><![CDATA[Как подготовиться к собеседованию в IT-компанию: полное руководство]]></title>
-        <link>https://habr.com/ru/companies/inpglobal/articles/926064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926064</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/inpglobal/articles/926064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926064</guid>
-        <pubDate>Wed, 09 Jul 2025 09:33:08 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/142/fea/4c3/142fea4c3b7731c13fc912a3872892b1.png" /><p>Собеседование в IT-компании — это не просто формальность, а многоэтапный процесс, который проверяет не только ваши технические навыки, но и soft skills, умение решать задачи и вписываться в команду. Чтобы пройти его успешно, важно тщательно подготовиться по всем ключевым направлениям. Расскажу подробно как это сделать.</p> <a href="https://habr.com/ru/articles/926064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926064#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Шестидесятилетний заключённый и лабораторная крыса. F# на Godot. Часть 8. Запоминающий поиск пути]]></title>
-        <link>https://habr.com/ru/companies/first/articles/926138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926138</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/first/articles/926138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926138</guid>
-        <pubDate>Wed, 09 Jul 2025 09:20:14 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/333/e09/ff8/333e09ff80670a118d4e038d1635fc7e.png" /><p>Мы ковыряли поиск пути через <code>A*</code> на протяжении <a href="https://habr.com/ru/companies/first/articles/919448/" rel="noopener noreferrer nofollow">двух глав</a> и при этом были сосредоточены на синтаксических изысках F#. В этой главе мы отдохнём от синтаксиса и посмотрим на то, как этот алгоритм мог бы развиваться в более функциональном стиле.</p> <a href="https://habr.com/ru/articles/926138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926138#habracut">Читать далее</a>]]></description>
+        <title><![CDATA[Новая игра от авторов World of Tanks с треском провалилась — мультиплеерный экшен Steel Hunters закроют всего через полгода с выхода в ранний доступ Steam]]></title>
+        <link>https://3dnews.ru/1125671</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125671</guid>
+        <pubDate>Wed, 09 Jul 2025 09:20:00 -0000</pubDate>
+        <description><![CDATA[Условно-бесплатный PvPvE-экшен про боевых роботов Steel Hunters от Wargaming (World of Tanks, World of Warships, World of Warplanes) не выйдет из раннего доступа Steam и не доживёт до полноценного релиза.   Источник изображений: Wargaming]]></description>
     </item>
 
     <item>
@@ -605,22 +637,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125665</guid>
         <pubDate>Wed, 09 Jul 2025 09:12:00 -0000</pubDate>
         <description><![CDATA[Atomic Stealer (AMOS) &mdash; одна из самых опасных вредоносных программ для кражи информации с компьютеров под управлением Apple macOS &mdash; только что получила крупное обновление, сделавшее её ещё опаснее. Источник изображения: apple.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Сбор событий Linux: есть цель – ищем путь]]></title>
-        <link>https://habr.com/ru/companies/pt/articles/925894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925894</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/pt/articles/925894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925894</guid>
-        <pubDate>Wed, 09 Jul 2025 09:01:49 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/cae/795/45f/cae79545f4ba52d863620a8080c7ea83.jpg" /><p>Приветствую всех, кто заглянул на огонек! Меня зовут Роман, и я занимаюсь исследованием безопасности Linux (и всякого другого, связанного с ним) в экспертном центре безопасности в Positive Technologies.</p><p>Мне периодически приходится сталкиваться с вопросами клиентов или коллег из смежных отделов по поводу оптимизации работы различных компонентов журналирования внутри Linux. Поэтому в какой-то момент возникла идея обрисовать как минимум для самого себя целостную картину их взаимодействия и влияния друг на друга. Результатом работы стала довольно компактная схема, которая помогает оперативнее и эффективнее отвечать на возникающие вопросы для решения проблем. В статье я постараюсь вкратце описать каждый ее блок. Не ручаюсь за то, что будут затронуты все тонкости, известные лишь узкому кругу специалистов. Но на большую часть вопросов я отвечу.</p> <a href="https://habr.com/ru/articles/925894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925894#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[QapGen: Создаём мощные парсеры на C++]]></title>
-        <link>https://habr.com/ru/articles/925420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925420</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925420</guid>
-        <pubDate>Wed, 09 Jul 2025 09:01:07 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/09b/ede/092/09bede092b7c809900799056540dc53b.png" /><p><strong>QapDSLv2 </strong>— это язык который транслируется в обычный C++ код. Он позволяет удобно и компактно задавать грамматики/правила разбора кода программ, значительно упрощая разработку компиляторов/анализаторов/трансляторов.</p><p><strong>QapGen </strong>— это <strong>генератор дерева_лексеров</strong>/парсеров описанных на <strong>QapDSLv2. </strong>Сама грамматика <strong>QapDSLv2 описана на QapDSLv2 на 100%. Поэтому QapGen как основной читатель этой грамматики сам генерирует часть своего кода(весь парсер QapDSLv2).</strong></p><p>Основные фишки <strong>QapDSLv2 + QapGen</strong> — это:</p><p>1) Отсутствие этапа токенизации — <strong>дерево лексеров разбивает входной поток на лексемы и сохраняет их в строго типизированных древовидных С++ структурах пропуская этап токенизации.</strong></p><p>2)<strong> Генерация оптимизированного кода полиморфных лексеров</strong>.</p><p>3) Полное сохранение всех лексем(даже разделители сохраняются, такие как пробелы/переходы на новую строку и комментарии) в результирующем дереве.</p><p>4)<strong> Возможность сохранить</strong> как оригинальное <strong>дерево</strong>, так и модифицированное <strong>обратно в код/текст без потери разделителей/комментариев</strong>.</p><p>5) Автоматическая <strong>генерация кода посетителей</strong>(это такой паттерн проектирования).</p><p>А теперь пример самой сочной части(рекурсивно самоописывающийся код):</p><p><strong><code>struct</code></strong><code>t_target_struct:i_target_item{<br /> </code><strong><code>struct</code></strong><code>t_keyword{<br />   </code><strong><code>string</code></strong><code>kw=any_str_from_vec(split("struct,class",","));<br />    " "? // optional separator<br />  };<br /> </code><strong><code>struct</code></strong><code>t_body_semicolon:i_struct_impl{";"};<br /> </code><strong><code>struct</code></strong><code>t_body_impl:i_struct_impl{<br />    "{" // жрём скобочку<br />   </code><strong><code>vector&lt;TAutoPtr&lt;i_target_item&gt;&gt;</code></strong><code>nested?; //</code><strong><code>рекурсия!</code></strong><code><br />    " "? <br />   </code><strong><code>vector&lt;TAutoPtr&lt;i_struct_field&gt;&gt;</code></strong><code>arr?; // парсим поля<br />    " "?<br />   </code><strong><code>TAutoPtr&lt;t_cpp_code&gt;</code></strong><code>c?; // остальной С++ код<br />    " "?<br />    "}"<br />  };<br /> </code><strong><code>struct</code></strong><code>t_parent{<br />   </code><strong><code>string</code></strong><code>a_or_c=any_str_from_vec(split("=&gt;,:",","));<br />    " "?<br />   </code><strong><code>t_name</code></strong><code>name;<br />  };<br />  //точка входа в парсер:<br /> </code><strong><code>TAutoPtr&lt;t_keyword&gt;</code></strong><code>kw?; //парсим</code><strong><code>struct/class</code></strong><code><br /> </code><strong><code>t_name</code></strong><code>name; //парсим имя<br />  " "?<br /> </code><strong><code>TAutoPtr&lt;t_parent&gt;</code></strong><code>parent?;<br />  " "?<br /> </code><strong><code>TAutoPtr&lt;i_struct_impl&gt;</code></strong><code>body;<br /> };</code></p> <a href="https://habr.com/ru/articles/925420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925420#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -789,22 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125639</guid>
         <pubDate>Tue, 08 Jul 2025 19:48:00 -0000</pubDate>
         <description><![CDATA[Канадские агентства и компании не раз принимали участие в космических миссиях, но каждый раз на вторых ролях. С территории Канады в космос ни разу не стартовали ракеты, тем более канадской разработки. Но скоро всё изменится, как мечтает пара канадских компаний &mdash; уже в августе должен взлететь первый прототип суверенной ракеты Страны кленового листа и это станет вехой в истории её космонавтики. Источник изображений: NordSpace]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Microsoft наконец добавила в Teams цепочки обсуждений — треды]]></title>
-        <link>https://3dnews.ru/1125638</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125638</guid>
-        <pubDate>Tue, 08 Jul 2025 19:28:00 -0000</pubDate>
-        <description><![CDATA[Microsoft выполнила своё обещание и добавила в Teams долгожданную функцию &mdash; цепочки обсуждений или треды (threads). Функция, которую пользователи ждали несколько лет, теперь доступна в публичном превью. Треды работают в каналах, позволяя участникам отслеживать последовательность ответов на конкретное сообщение, не перегружая основной чат. Источник изображения: Microsoft]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Microsoft устранила 137 уязвимостей, включая 14 критических и одну нулевого дня]]></title>
-        <link>https://3dnews.ru/1125636</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125636</guid>
-        <pubDate>Tue, 08 Jul 2025 19:24:00 -0000</pubDate>
-        <description><![CDATA[В рамках июльского &laquo;вторника патчей&raquo; (Patch Tuesday) 2025 года компания Microsoft выпустила обновления своих продуктов, устранив 137 уязвимостей, включая одну уязвимость нулевого дня в Microsoft SQL Server. Эта проблема была связана с некорректной проверкой входных данных и позволяла злоумышленникам получать доступ к неинициализированной памяти сервера, предоставляя, таким образом, возможность удалённого раскрытия информации без аутентификации. Источник изображения: bleepingcomputer.com]]></description>
     </item>
 
 </channel>
