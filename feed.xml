@@ -4,8 +4,24 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Wed, 09 Jul 2025 19:14:55 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 20:19:42 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[В Escape from Tarkov прошёл самый хардкорный вайп за всю историю игры — последний перед релизом]]></title>
+        <link>https://3dnews.ru/1125716</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125716</guid>
+        <pubDate>Wed, 09 Jul 2025 20:17:00 -0000</pubDate>
+        <description><![CDATA[Разработчики из российской студии Battlestate Games сообщили об установке обновления 0.16.8, которое принесло в популярный эвакуационный шутер Escape from Tarkov самый хардкорный вайп за всю историю игры.   Источник изображений: Battlestate Games]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[ElBear ACE-Uno — первый запуск в Mac OS]]></title>
+        <link>https://habr.com/ru/articles/926396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926396</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926396</guid>
+        <pubDate>Wed, 09 Jul 2025 19:48:12 -0000</pubDate>
+        <description><![CDATA[<p>В статье рассмотрим, как начать работу с ElBear ACE-UNO в Mac OS. Постарался для вас сделать выжимку, чтобы можно было скорее приступить к работе с платой и потратить на это на пару-тройку суток меньше)</p><p>P.S. Для пользователей Windows статья также может быть полезной.</p> <a href="https://habr.com/ru/articles/926396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926396#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Анализ уязвимости CVE-2025-27736 в Power Dependency Coordinator]]></title>
@@ -648,14 +664,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Тихая сила: как управлять не через контроль, а через влияние]]></title>
-        <link>https://habr.com/ru/articles/925816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925816</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925816</guid>
-        <pubDate>Wed, 09 Jul 2025 09:38:50 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/2af/55c/d1e/2af55cd1ec3049829bfe78238446c2e2.png" /><p>Иногда тебе кажется, что ты обычный член команды, такой же винтик системы, как и все. Вы так же общаетесь с командой, у вас есть свои приколы, иногда очень жесткие. Ты так же ходишь с ребятами в бар и на квизы, часто скидываете друг другу мемы. Но однажды ты слышишь:<br /> — Марина так сказала. Как самый важный довод при споре по рабочим вопросам, истина в последней инстанции. И тебя это пугает, потому что ты тоже человек, ты не хочешь, что бы они делали так, как ты сказала, а что бы сами подумали и нашли правильное решение. И тут до тебя наконец-то доходит что твоем мнение не одно из равных, а самое значимое. И теперь тебе нужно очень внимательно следить за тем, что ты говоришь и насколько хорошо люди тебя поняли.&nbsp;</p> <a href="https://habr.com/ru/articles/925816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925816#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Суд США заблокировал правило FTC о простой отмене подписок «в один клик»]]></title>
         <link>https://3dnews.ru/1125672</link>
         <guid isPermaLink="true">https://3dnews.ru/1125672</guid>
@@ -797,14 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125646</guid>
         <pubDate>Wed, 09 Jul 2025 02:17:00 -0000</pubDate>
         <description><![CDATA[В следующем крупном обновлении Windows 11 версии 25H2 появится официальный инструмент для удаления предустановленных приложений на основе встроенного механизма под названием &laquo;Удаление стандартных пакетов Microsoft Store&raquo;, сообщает TechSpot. Это упростит работу с системой как для обычных пользователей, так и для IT-администраторов. Источник изображения: Tadas Sar/Unsplash]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[В Apple сменился операционный директор, который может в будущем заменить Тима Кука]]></title>
-        <link>https://3dnews.ru/1125645</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125645</guid>
-        <pubDate>Wed, 09 Jul 2025 02:15:00 -0000</pubDate>
-        <description><![CDATA[В Apple произошли кадровые перестановки: Джефф Уильямс (Jeff Williams), долгое время считавшийся наиболее вероятным преемником Тима Кука (Tim Cook), покидает компанию. Его место займёт Сабих Хан (Sabih Khan), проработавший в Apple более 30 лет, сообщает 9to5mac. Хан станет новым операционным директором, что формально приближает его к позиции гендиректора. Однако эксперты сомневаются, что этот сценарий реализуется в ближайшие годы. Источник изображения: apple.com]]></description>
     </item>
 
 </channel>
