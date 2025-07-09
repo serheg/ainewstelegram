@@ -4,8 +4,40 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Wed, 09 Jul 2025 18:26:06 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 19:14:55 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[Анализ уязвимости CVE-2025-27736 в Power Dependency Coordinator]]></title>
+        <link>https://habr.com/ru/articles/926390/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926390</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926390/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926390</guid>
+        <pubDate>Wed, 09 Jul 2025 18:41:26 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/97b/a2e/e25/97ba2ee25caa1bec4e663fdcf77c4b4a.PNG" /><p>Данная статья посвящена багу в Power Dependency Coordinator (CVE-2025-27736), запатченному Microsoft в апреле этого года.</p><p><a href="https://nvd.nist.gov/vuln/detail/CVE-2025-27736" rel="noopener noreferrer nofollow">В описании CVE</a> сказано, что баг связан с раскрытием информации (адресов ядра).</p><p><em>Exposure of sensitive information to an unauthorized actor in Windows Power Dependency Coordinator allows an authorized attacker to disclose information locally.</em></p><p><a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-27736" rel="noopener noreferrer nofollow">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-27736</a></p><p><em>Exploiting this vulnerability could allow the disclosure of </em><strong><em>certain memory address within kernel space</em></strong><em>. Knowing the exact location of kernel memory could be potentially leveraged by an attacker for other malicious activities.</em></p><p>В контексте изменений Windows 11 24H2 с ограничением NtQuerySystemInformation для определения адресов объектов, баги такого типа становятся еще более актуальны, поэтому мне стало интересно посмотреть пример такой уязвимости.</p><p>Из инструментов потребуются IDA Pro, BinDiff, WinDbg, для тестирования - Windows 11 или Windows 10 x64 с обновления до апреля 2025 (для тестирования работоспособности PoC) и актуальными обновлениями (для тестирования PoC после обновления).</p> <a href="https://habr.com/ru/articles/926390/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926390#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Apple выпустит AR-гарнитуру Vision Pro 2 в этом году — она станет комфортнее и получит процессор M4]]></title>
+        <link>https://3dnews.ru/1125710</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125710</guid>
+        <pubDate>Wed, 09 Jul 2025 18:40:00 -0000</pubDate>
+        <description><![CDATA[Компания Apple готовится к запуску обновлённой гарнитуры смешанной реальности Vision Pro 2, которая будет более производительной по сравнению с оригинальной моделью, а также получит слегка изменённый дизайн ремешка. Об этом сообщил журналист Bloomberg Марк Гурман (Mark Gurman) со ссылкой на собственные источники. По его данным, разработчики оснастят Vision Pro 2 фирменным процессором Apple M4, что значительно повысит производительность устройства &mdash; в оригинальной Vision Pro используется чип M2. Не менее важно, что гарнитура получит крепление с обновлённым дизайном, благодаря которому её будет удобнее носить в течение длительного времени.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[В MIT создали робота-лаборанта с навыками эксперта в материаловедении]]></title>
+        <link>https://3dnews.ru/1125708</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125708</guid>
+        <pubDate>Wed, 09 Jul 2025 18:34:00 -0000</pubDate>
+        <description><![CDATA[В процессе поиска новых материалов для определённых задач приходится производить множество замеров. Автоматизация этого процесса значительно ускорила бы исследования, а внедрение ИИ помогло бы с выбором наилучших точек измерения. Всё вместе обещает привести к созданию полностью автоматических лабораторий любого профиля. В Массачусетском технологическом институте сделали выбор в пользу исследования материалов для солнечных панелей. Источник изображения: MIT]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Найт-Сити встречает новых гостей: Sony без предупреждения добавила Cyberpunk 2077 в каталог PS Plus]]></title>
+        <link>https://3dnews.ru/1125709</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125709</guid>
+        <pubDate>Wed, 09 Jul 2025 18:26:00 -0000</pubDate>
+        <description><![CDATA[Разработчики из польской студии CD Projekt Red сообщили, что киберпанковый ролевой боевик от первого лица Cyberpunk 2077 стал частью премиального каталога сервиса PlayStation Plus.   Источник изображения: Steam]]></description>
+    </item>
 
     <item>
         <title><![CDATA[SilverStone выпустила олдскульный корпус Seta H2 с поддержкой 15 жестких дисков]]></title>
@@ -524,7 +556,7 @@
         <link>https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238</link>
         <guid isPermaLink="true">https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238</guid>
         <pubDate>Wed, 09 Jul 2025 10:31:35 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/82b/670/c10/82b670c10ae060103aa1749ea6b5e8da.jpg" /><p>В 2025 году вопрос полноценной генерации продуктового кода с помощью LLM («вайб-кодинг») становится все более актуальным, но при этом остается и достаточно дискуссионным: насколько такие подходы вообще применимы в реальных проектах, действительно ли они сокращают время и стоимость разработки, и что происходит с тестируемостью и поддержкой такого кода в долгосрочной перспективе?</p><p>Сложность этого вопроса не только в качестве самой генерации, но и в том, как интегрировать LLM в инженерные процессы, чтобы получить управляемый, масштабируемый и архитектурно устойчивый код.</p><p>Моя мотивация была проста: попробовать выстроить полноценный продуктовый backend для нетривиального телеграм-бота с функциями агента (планированием, напоминаниями, памятью и проактивным поведением, возможностью дальнейшей расширяемости и интеграции сторонних сервисов), при этом — не писать руками ни строчки кода. Чтобы человек участвовал только как архитектор и асессор, а все проектирование и реализация шли через промпты в специализированные IDE (Cursor, Copilot, Zed) и LLM (как доступные через API, так и в «пользовательской» продуктовой обвязке).</p> <a href="https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238#habracut">Читать далее</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/82b/670/c10/82b670c10ae060103aa1749ea6b5e8da.jpg" /><p>В 2025 году вопрос полноценной генерации продуктового кода с помощью LLM («вайб-кодинг») становится все более актуальным, но при этом остается и достаточно дискуссионным: насколько такие подходы вообще применимы в реальных проектах, действительно ли они сокращают время и стоимость разработки, и что происходит с тестируемостью и поддержкой такого кода в долгосрочной перспективе?</p><p>Сложность этого вопроса не только в качестве самой генерации, но и в том, как интегрировать LLM в инженерные процессы, чтобы получить управляемый, масштабируемый и архитектурно устойчивый код.</p><p>Моя мотивация была проста: попробовать выстроить полноценный продуктовый backend для нетривиального телеграм-бота с функциями агента (планированием, напоминаниями, памятью и проактивным поведением, возможностью дальнейшей расширяемости и интеграции сторонних сервисов), при этом — не писать руками ни строчки кода. Чтобы человек участвовал только как архитектор и асессор, а все проектирование и реализация шли через промпты в специализированные IDE-агенты (Cursor, Copilot, Codex, Zed) и LLM (как доступные через API/CLI, так и в «пользовательской» продуктовой обвязке).</p> <a href="https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -629,14 +661,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125672</guid>
         <pubDate>Wed, 09 Jul 2025 09:36:00 -0000</pubDate>
         <description><![CDATA[Суд в США аннулировал правило Федеральной торговой комиссии (FTC), согласно которому компании должны были обеспечивать возможность отмены подписок так же просто, как их оформление. Правило должно было начать действовать с 14 июля, но в настоящее время соответствующее решение отозвано судом. Источник изображения: Aleksandrs Karevs / Unsplash]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Обновление Кибер Файлов — обзор новинок в версии 9.3]]></title>
-        <link>https://habr.com/ru/companies/cyberprotect/articles/926224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926224</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/cyberprotect/articles/926224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926224</guid>
-        <pubDate>Wed, 09 Jul 2025 09:35:41 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/fca/85b/437/fca85b4377704215cab9beabd137e6b7.png" /><p>В&nbsp;этом обзоре мы познакомимся с&nbsp;новой версией нашего решения класса EFSS, предназначенного для&nbsp;безопасного обмена файлами и организации совместной работы с&nbsp;документами&nbsp;— <strong>Кибер Файлы.</strong></p> <a href="https://habr.com/ru/articles/926224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926224#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -781,30 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125645</guid>
         <pubDate>Wed, 09 Jul 2025 02:15:00 -0000</pubDate>
         <description><![CDATA[В Apple произошли кадровые перестановки: Джефф Уильямс (Jeff Williams), долгое время считавшийся наиболее вероятным преемником Тима Кука (Tim Cook), покидает компанию. Его место займёт Сабих Хан (Sabih Khan), проработавший в Apple более 30 лет, сообщает 9to5mac. Хан станет новым операционным директором, что формально приближает его к позиции гендиректора. Однако эксперты сомневаются, что этот сценарий реализуется в ближайшие годы. Источник изображения: apple.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Исследователи обнаружили опасный метод взлома Android через невидимый интерфейс]]></title>
-        <link>https://3dnews.ru/1125644</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125644</guid>
-        <pubDate>Wed, 09 Jul 2025 02:11:00 -0000</pubDate>
-        <description><![CDATA[Исследователи в области кибербезопасности обнаружили новый метод взлома Android, который позволяет злоумышленникам получать доступ к конфиденциальным данным, обходя систему аутентификации. Атака, получившая название TapTrap, использует нестандартную анимацию интерфейса, создавая расхождение между тем, что видит пользователь, и тем, что на самом деле происходит на экране. Источник изображения: IndiaBlue Photos/Unsplash]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[OpenAI удалось заполучить четырёх классных специалистов из Tesla, xAI и M**a]]></title>
-        <link>https://3dnews.ru/1125647</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125647</guid>
-        <pubDate>Wed, 09 Jul 2025 02:05:00 -0000</pubDate>
-        <description><![CDATA[В последнее время нам чаще приходилось слышать о попытках M**a переманивать востребованных специалистов из других компаний, занятых разработкой систем искусственного интеллекта. Тем не менее, один из пионеров отрасли, стартап OpenAI, также преуспел в &laquo;охоте за головами&raquo;. Источник изображения: Unsplash, Zac Wolff]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Новая статья: Обзор видеокарты GIGABYTE AORUS GeForce RTX 5060 Ti ELITE 16G: цена тишины]]></title>
-        <link>https://3dnews.ru/1125390</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125390</guid>
-        <pubDate>Tue, 08 Jul 2025 21:00:00 -0000</pubDate>
-        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/03/1125390.jpg" width="120" />У новых видеокарт NVIDIA не отнять одного — они легко и продуктивно разгоняются. Премиальная разновидность GeForce RTX 5060 Ti от GIGABYTE готова к оверклокингу в добавок к изначально повышенным тактовым частотам, да еще и может работать чрезвычайно тихо]]></description>
     </item>
 
 </channel>
