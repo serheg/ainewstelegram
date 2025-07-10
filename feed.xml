@@ -4,8 +4,56 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Thu, 10 Jul 2025 04:30:23 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 05:20:52 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[В два раза лучше ChatGPT o3. Представлен Grok 4]]></title>
+        <link>https://habr.com/ru/articles/926434/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926434</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926434/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926434</guid>
+        <pubDate>Thu, 10 Jul 2025 05:17:49 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/960/5ee/7f9/9605ee7f961d94cf6100e5c42db649d6.jpeg" /><p>Компания xAI представила свои новые ИИ-модели - Grok 4 и Grok 4 Heavy, в котором несколько агентов работают над проблемой параллельно. По утверждениям xAI, это позволило добиться значительного роста в производительности.</p> <a href="https://habr.com/ru/articles/926434/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926434#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Веб-агенты, которые действительно понимают веб-сайты: как слой восприятия Notte решает проблему DOM]]></title>
+        <link>https://habr.com/ru/articles/926432/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926432</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926432/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926432</guid>
+        <pubDate>Thu, 10 Jul 2025 05:11:52 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/28e/434/727/28e4347278c5d292532e786c2c654e0e.png" /><p>Фундаментальная проблема веб-агентов заключается не в автоматизации — а в восприятии. Как позволить LLM навигировать и действовать на веб-сайтах, погребённых в слоях HTML?</p> <a href="https://habr.com/ru/articles/926432/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926432#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Эхо Большого взрыва указывает на возможное расположение Млечного Пути внутри космической пустоты]]></title>
+        <link>https://3dnews.ru/1125726</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125726</guid>
+        <pubDate>Thu, 10 Jul 2025 04:57:00 -0000</pubDate>
+        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/10/1125726.jpg" width="120" />Галактика Млечный Путь может находиться внутри гигантской космической пустоты диаметром около 2 млрд световых лет. Об этом свидетельствуют барионные акустические колебания &mdash; остаточные следы звуковых волн, которые перестали распространяться спустя 380 тыс. лет после Большого взрыва, но сохранились в крупномасштабной структуре вещества во Вселенной. Эта гипотеза может объяснить расхождение между локальными и космологическими оценками скорости её расширения. Источник изображения: Moritz Haslbauer, Zarija Lukic / Royal Astronomical Society, CC BY 4.0]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Электромобили теперь обходят по экологичности машины с ДВС уже после 17 000 км пробега]]></title>
+        <link>https://3dnews.ru/1125728</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125728</guid>
+        <pubDate>Thu, 10 Jul 2025 04:52:00 -0000</pubDate>
+        <description><![CDATA[Бытовало мнение, что электромобили обеспечивают снижение углеродных выбросов на этапе эксплуатации, но демонстрируют серьёзный уровень загрязнения атмосферы на этапе производства тяговых батарей. Кроме того, работающие на ископаемых видах топлива электростанции тоже не добавляют электромобилям привлекательности в глазах защитников природы. Однако, новое исследование гласит, что современные электромобили гораздо быстрее обходят машины с ДВС по снижению вреда экологии, чем четыре года назад. Источник изображения: Tesla]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Struct IEnumerator]]></title>
+        <link>https://habr.com/ru/companies/skbkontur/articles/917068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=917068</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/skbkontur/articles/917068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=917068</guid>
+        <pubDate>Thu, 10 Jul 2025 04:49:37 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/65a/a99/3e6/65aa993e666c432622dd4bea9b3af7d3.jpg" /><p>Как-то было свободных полчаса перед встречей. Ни туда, ни сюда. Дай, думаю, сниму трейс с приложения. Вдруг что-то интересное найдётся.</p><p>А в качестве бонуса: использование <code>var</code> может привести к багам? Узнаем в самом конце ;)</p> <a href="https://habr.com/ru/articles/917068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=917068#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[[Перевод] «Денежный автомат» Джейн Стрит внезапно останавливается]]></title>
+        <link>https://habr.com/ru/articles/926422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926422</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926422</guid>
+        <pubDate>Thu, 10 Jul 2025 04:44:54 -0000</pubDate>
+        <description><![CDATA[<p>   В здании из синего стекла с вертолетной площадкой на крыше и бронзовой скульптурой быка на площади расположено по меньшей мере полдюжины компаний, занимающихся высокоскоростной торговлей.</p> <a href="https://habr.com/ru/articles/926422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926422#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[[Перевод] Permutation neuron или как решить MNIST на 77% с помощью 3 нейронов]]></title>
@@ -656,43 +704,11 @@
     </item>
 
     <item>
-        <title><![CDATA[Шаблон ТЗ для AI]]></title>
-        <link>https://habr.com/ru/articles/926254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926254</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926254</guid>
-        <pubDate>Wed, 09 Jul 2025 10:50:36 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/671/8a3/57c/6718a357c4ba0d5b8f82ff2d46321fa2.png" /><p>Привет! Я Ярослав Шмулев, датасаентист, выпускник МФТИ и технический директор топ-10 интегратора ИИ&nbsp;R77 AI.&nbsp;Сделал для нас AI ТЗ потому что обычно заказчики приходят и не знают чего хотят, как это описать и какие эффекты ждут.</p> <a href="https://habr.com/ru/articles/926254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926254#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Как мы улучшили режим ночной съемки в планшетах KVADRA_T]]></title>
-        <link>https://habr.com/ru/companies/yadro/articles/926216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926216</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/yadro/articles/926216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926216</guid>
-        <pubDate>Wed, 09 Jul 2025 10:43:26 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/849/dd8/fc7/849dd8fc7826e08cf8b69c978ecde8eb.jpg" /><p>Привет, Хабр! На связи Полина Лукичева, инженер команды AI ML Kit в компании YADRO. <a href="https://habr.com/ru/companies/yadro/articles/921980/" rel="noopener noreferrer nofollow">В первой статье</a> я рассказала о проблемах режима ночной съемки и методах их решения. Сегодня перехожу к практике — проведу предметное сравнение алгоритмов, выберу наиболее подходящие и покажу, как они работают в реальных условиях на планшетах <a href="https://xn--80aaej1a3b.xn--p1ai/product/kvadra_t/?utm_source=habr&amp;utm_medium=referral&amp;utm_campaign=night_photo_p2_090725" rel="noopener noreferrer nofollow">KVADRA_T</a>.</p><p>Для наших заказчиков качественные снимки в условиях низкой освещенности — рабочая необходимость. Планшет поможет снять показания со счетчика в темном подвале или сфотографировать паспорт клиента в коридоре с минимальными шумами и максимальной четкостью.</p> <a href="https://habr.com/ru/articles/926216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926216#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[AI-first backend: опыт реального вайб-кодинг проекта]]></title>
-        <link>https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238</guid>
-        <pubDate>Wed, 09 Jul 2025 10:31:35 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/82b/670/c10/82b670c10ae060103aa1749ea6b5e8da.jpg" /><p>В 2025 году вопрос полноценной генерации продуктового кода с помощью LLM («вайб-кодинг») становится все более актуальным, но при этом остается и достаточно дискуссионным: насколько такие подходы вообще применимы в реальных проектах, действительно ли они сокращают время и стоимость разработки, и что происходит с тестируемостью и поддержкой такого кода в долгосрочной перспективе?</p><p>Сложность этого вопроса не только в качестве самой генерации, но и в том, как интегрировать LLM в инженерные процессы, чтобы получить управляемый, масштабируемый и архитектурно устойчивый код.</p><p>Моя мотивация была проста: попробовать выстроить полноценный продуктовый backend для нетривиального телеграм-бота с функциями агента (планированием, напоминаниями, памятью и проактивным поведением, возможностью дальнейшей расширяемости и интеграции сторонних сервисов), при этом — не писать руками ни строчки кода. Чтобы человек участвовал только как архитектор и асессор, а все проектирование и реализация шли через промпты в специализированные IDE-агенты (Cursor, Copilot, Codex, Zed) и LLM (как доступные через API/CLI, так и в «пользовательской» продуктовой обвязке).</p> <a href="https://habr.com/ru/articles/926238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926238#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[«Мы не занимаемся модернизацией Mass Effect»: Owlcat отреагировала на сравнения The Expanse: Osiris Reborn с культовой серией BioWare]]></title>
         <link>https://3dnews.ru/1125676</link>
         <guid isPermaLink="true">https://3dnews.ru/1125676</guid>
         <pubDate>Wed, 09 Jul 2025 10:29:00 -0000</pubDate>
         <description><![CDATA[Творческий руководитель Owlcat Games Александр Мишулин в интервью Polygon прокомментировал сравнения анонсированного недавно научно-фантастического ролевого экшена The Expanse: Osiris Reborn с играми Mass Effect.   Источник изображений: Owlcat Games]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Эмпатичный ИИ: как трансформеры учатся распознавать эмоции в разговорах]]></title>
-        <link>https://habr.com/ru/articles/926240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926240</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926240</guid>
-        <pubDate>Wed, 09 Jul 2025 10:24:52 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/ad6/f2f/ada/ad6f2fadaa2777db4f1b536e5cfe0f39.png" /><p>В эпоху чат-ботов и голосовых помощников ИИ всё чаще становится собеседником человека. Но чтобы стать по-настоящему полезным в коммуникации, он должен не только понимать слова — но и улавливать эмоции, интонации, паузы и даже жесты. Именно это и пытается решить задача <strong>Emotion Recognition in Conversations (ERC)</strong>.</p><p>В&nbsp;недавней работе <em>»</em><a href="https://arxiv.org/abs/2310.20494" rel="noopener noreferrer nofollow"><em>A Transformer‑Based Model With Self‑Distillation for Multimodal Emotion Recognition in Conversations</em></a><em>»</em> исследователи предложили архитектуру, которая объединяет мультимодальные сигналы (текст, аудио, видео) в&nbsp;единую модель, способную «читать между строк» в прямом смысле. Рассказываем, как это устроено и почему это важно.</p> <a href="https://habr.com/ru/articles/926240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926240#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -789,22 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125663</guid>
         <pubDate>Wed, 09 Jul 2025 07:54:00 -0000</pubDate>
         <description><![CDATA[Автомобиль компании Lucid Motors установил мировой рекорд по самому большому расстоянию, пройденному серийным электромобилем на одной зарядке, и попал в Книгу рекордов Гиннесса. Lucid Air Grand Touring проехал 1205 километров от Санкт-Морица (Швейцария) до Мюнхена (Германия) без остановок для подзарядки. Источник изображений: Lucid Motors]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[G.Skill начала продажи комплектов DDR5-6000 256 Гбайт и DDR5-6400 128 Гбайт с низкими задержками для платформ AMD и Intel]]></title>
-        <link>https://3dnews.ru/1125662</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125662</guid>
-        <pubDate>Wed, 09 Jul 2025 07:48:00 -0000</pubDate>
-        <description><![CDATA[Компания G.Skill сообщила о доступности комплектов разогнанной оперативной памяти большой ёмкости: DDR5-6000 объёмом 256 Гбайт (4 &times; 64 Гбайт) и DDR5-6400 объёмом 128 Гбайт (2 &times; 64 Гбайт). Новые комплекты разработаны для высокопроизводительных вычислений, создания контента, приложений искусственного интеллекта и профессиональных рабочих станций. Однако ничто не мешает использовать их и в составе мощных игровых ПК. Источник изображений: G.Skill]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Razer выпустила компактную механическую клавиатуру BlackWidow V4 Tenkeyless HyperSpeed с заменяемыми переключателями]]></title>
-        <link>https://3dnews.ru/1125661</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125661</guid>
-        <pubDate>Wed, 09 Jul 2025 07:43:00 -0000</pubDate>
-        <description><![CDATA[Компания Razer представила игровую механическую клавиатуру BlackWidow V4 Tenkeyless HyperSpeed. У неё нет отдельного цифрового блока, но есть стандартный блок курсорных клавиш: Insert, Delete, Home, End, PageUp, PageDown и четыре клавиши-стрелки. Новинка оснащена быстросъёмными переключателями, шумоизоляцией, а также дополнительными настраиваемыми кнопками и фирменной RGB-подсветкой Razer Chroma. Источник изображений: Razer]]></description>
     </item>
 
 </channel>
