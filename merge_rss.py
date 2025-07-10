@@ -6,9 +6,30 @@ from html import escape
 
 # Список ваших RSS-лент
 FEED_URLS = [
-    'https://habr.com/ru/rss/hubs/all/',
-    'https://www.opennet.ru/opennews/opennews_rss.rss',
-    'https://3dnews.ru/news/rss/',
+   'https://rss.datuan.dev/telegram/channel/casetapai',
+   'https://rss.datuan.dev/telegram/channel/HelloAlesha',
+   'https://rss.datuan.dev/telegram/channel/iSimplify',
+   'https://rss.datuan.dev/telegram/channel/solokumi',
+   'https://rss.datuan.dev/telegram/channel/erdman_ai',
+   'https://rss.datuan.dev/telegram/channel/the_ai_architect',
+   'https://rss.datuan.dev/telegram/channel/t2fmedia',
+   'https://rss.datuan.dev/telegram/channel/gscrm',
+   'https://rss.datuan.dev/telegram/channel/misha_davai_po_novoi',
+   'https://rss.datuan.dev/telegram/channel/shromarketing',
+   'https://rss.datuan.dev/telegram/channel/aihacki',
+   'https://rss.datuan.dev/telegram/channel/dzenopulse',
+   'https://rss.datuan.dev/telegram/channel/TochkiNadAI',
+   'https://rss.datuan.dev/telegram/channel/prompt_design',
+   'https://rss.datuan.dev/telegram/channel/gptdoit',
+   'https://rss.datuan.dev/telegram/channel/NeuralProfit',
+   'https://rss.datuan.dev/telegram/channel/neyroseti_dr',
+   'https://rss.datuan.dev/telegram/channel/neuron_media',
+   'https://rss.datuan.dev/telegram/channel/gptdoit',
+   'https://rss.datuan.dev/telegram/channel/neurogen_news',
+   'https://rss.datuan.dev/telegram/channel/denissexy',
+   'https://rss.datuan.dev/telegram/channel/neiroit_world',
+   'https://rss.datuan.dev/telegram/channel/v_neuro',
+   'https://rss.datuan.dev/telegram/channel/neurocry',
     # Добавьте сюда свои ленты
 ]
 
