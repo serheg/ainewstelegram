@@ -4,8 +4,24 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Thu, 10 Jul 2025 03:20:17 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 04:30:23 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[[Перевод] Permutation neuron или как решить MNIST на 77% с помощью 3 нейронов]]></title>
+        <link>https://habr.com/ru/articles/926426/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926426</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926426/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926426</guid>
+        <pubDate>Thu, 10 Jul 2025 04:08:47 -0000</pubDate>
+        <description><![CDATA[<p>Это одна из попыток решить mnist за минимальное количество операций умножения.</p><p>В качестве примера рассмотрим задачу MNIST, где permutation neuron с тремя классических нейронами и есть вся наша сеть.</p><p>Permutation neuron — это вычислительный блок, реализующий преобразование входных сигналов на основе перестановки. Нейрон поддерживает набор внутренних векторов, которые переупорядочиваются на основе их взаимодействия с входными данными. Этот процесс переупорядочения отображает входное пространство в дискретный набор выходных шаблонов, где каждый шаблон соответствует определенной перестановке внутренних векторов.</p><p>Для классификации 10 цифр датасета MNIST требуется не менее 10 различных состояний нейрона. Поскольку число перестановок определяется факториалом количества нейронов, минимально необходимо 4 нейрона (4! = 24 перестановки), чтобы покрыть 10 классов. Однако, вычитая значение одного нейрона из остальных (нормализация), можно ограничиться вычислением трёх нейронов, задавая четвёртый нейрон равным нулю, без нарушения порядка перестановок. Это позволяет сократить вычислительные затраты, сохраняя 24 уникальных состояния для классификации.</p><p>Для задачи классификации 10 цифр датасета MNIST permutation neuron работает следующим образом: три нейрона с линейной функцией активации вычисляют значения на основе входных данных изображения, а четвёртый нейрон фиксируется равным нулю. Эти четыре значения упорядочиваются, формируя одну из 24 возможных перестановок (4!), например, ACZB. С помощью кода Лемера каждая перестановка преобразуется в уникальное число от 0 до 23, которое затем отображается на один из 10 классов MNIST, определяя, например, цифру от 0 до 9.</p> <a href="https://habr.com/ru/articles/926426/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926426#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Типографика в дизайне: как текст может сделать ваш сайт эффективным]]></title>
+        <link>https://habr.com/ru/articles/926418/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926418</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926418/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926418</guid>
+        <pubDate>Thu, 10 Jul 2025 03:23:13 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/78d/8cc/988/78d8cc988671c69be32ab669316cf252.jpg" /><p>Текст — это не просто набор букв. Это мощный инструмент, который влияет на восприятие дизайна, удобство чтения и даже доверие пользователей. Хотите, чтобы ваш сайт или печатные материалы выглядели профессионально? Тогда давайте разберём основы типографики простыми словами.    </p><p><strong>В данной статье разберем:</strong></p><p>- Важность подбора правильного шрифта</p><p>- Как выбрать шрифты?</p><p>- Где искать шрифты?</p><p>- Размер и расстояние – основа удобства</p><p>- Контраст и цвет текста</p><p>- Ошибки, которые портят типографику и как их избежать</p> <a href="https://habr.com/ru/articles/926418/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926418#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Браузеры почти 1 млн пользователей превратились в скрытых ботов для скрапинга]]></title>
@@ -677,22 +693,6 @@
         <guid isPermaLink="true">https://habr.com/ru/articles/926240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926240</guid>
         <pubDate>Wed, 09 Jul 2025 10:24:52 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/ad6/f2f/ada/ad6f2fadaa2777db4f1b536e5cfe0f39.png" /><p>В эпоху чат-ботов и голосовых помощников ИИ всё чаще становится собеседником человека. Но чтобы стать по-настоящему полезным в коммуникации, он должен не только понимать слова — но и улавливать эмоции, интонации, паузы и даже жесты. Именно это и пытается решить задача <strong>Emotion Recognition in Conversations (ERC)</strong>.</p><p>В&nbsp;недавней работе <em>»</em><a href="https://arxiv.org/abs/2310.20494" rel="noopener noreferrer nofollow"><em>A Transformer‑Based Model With Self‑Distillation for Multimodal Emotion Recognition in Conversations</em></a><em>»</em> исследователи предложили архитектуру, которая объединяет мультимодальные сигналы (текст, аудио, видео) в&nbsp;единую модель, способную «читать между строк» в прямом смысле. Рассказываем, как это устроено и почему это важно.</p> <a href="https://habr.com/ru/articles/926240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926240#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[[Перевод] Как стать кем угодно: DIY маска с изменяющимися проекциями]]></title>
-        <link>https://habr.com/ru/companies/otus/articles/926236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926236</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/otus/articles/926236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926236</guid>
-        <pubDate>Wed, 09 Jul 2025 10:18:57 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/203/9ee/b23/2039eeb236acedf75753c47bb440fe8b.jpg" /><p>Подробный гайд по созданию маски с проекциями, которая использует Raspberry Pi и мини-проектор для отображения изображений на лице. Мы пройдем все этапы — от 3D-печати деталей до настройки системы для воспроизведения видео, включая пайку и работу с электроникой. Этот проект подойдет для разработчиков, заинтересованных в создании встраиваемых систем и экспериментировании с носимой техникой.</p> <a href="https://habr.com/ru/articles/926236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926236#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Умеет ли вы продавать код?]]></title>
-        <link>https://habr.com/ru/articles/926234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926234</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926234</guid>
-        <pubDate>Wed, 09 Jul 2025 10:09:01 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/c47/41c/5a8/c4741c5a8f1febd79dc91e03c3a92a15.png" /><p>В сфере IT есть сильное профессиональное искажение. Айтишникам кажется, что продукт, который они продают это код. Но в головах их клиентов мир выглядит иначе. Заказчики покупают у айтишников не репозиторий на гитхабе или докер-образ, поднятый на VPS-ке. Они покупают решение своих бизнес-задач. Причём, заметьте, что в этой покупке весь риск лежит на стороне того, кто платит за работу. Потому что гарантия айтишника, что он качественно справится со своей задачей вовсе не гарантирует клиенту, что его бюджет будет потрачен эффективно и его проблема будет решена. Решена именно как бизнес-задача, а не как какая-то другая. То есть, что на выходе от всех затеянных телодвижений будет получен ощутимый положительный финансовый результат.</p><p>И этот риск уменьшается только одним способом - коммуникацией. Поэтому я много лет повторяю мысль про то, что продажи и коммуникации это по сути одно и тоже. Продажа это коммуникация. Коммуникация это продажа. Даже, если вы просто разработчик в какой-то компании и общаетесь со вселенной через тикеты в джире и живёте в мире код-ревью и комитов. Возможно, вам кажется, что вы коммуницируете лишь с кодом и абстракциями... Нет, вы коммуницируете с людьми. Кто-то у вас покупает решение каких-то задач, даже, если эти задачи сформулированы техническим языком. </p><p>В мире IT-услуг, будь то фриланс или студийная разработка приложений, ключевым моментом является не только уровень технических навыков, но и коммуникационные способности. Как опытный менеджер по продажам SaaS-продуктов и разработки программного обеспечения, я хочу поделиться некоторыми рекомендациями о том, как успешно продавать свои услуги и становиться более запоминающимся и востребованным профессионалом.</p> <a href="https://habr.com/ru/articles/926234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926234#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
