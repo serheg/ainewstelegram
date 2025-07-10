@@ -4,8 +4,72 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Thu, 10 Jul 2025 12:37:39 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 13:32:57 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[Intel вылетела из десятки крупнейших производителей чипов и проиграла гонку ИИ, признал гендир Тан]]></title>
+        <link>https://3dnews.ru/1125765</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125765</guid>
+        <pubDate>Thu, 10 Jul 2025 13:30:00 -0000</pubDate>
+        <description><![CDATA[Новый гендиректор Intel Лип-Бу Тан (Lip-Bu Tan) не причисляет компанию к лидерам в области производства микросхем, заявил он на этой неделе своим подчинённым, пишет Oregon Live. Ранее также стало известно, что на фоне серьёзных технических и финансовых трудностей Intel запустила масштабную волну сокращений. Источник изображения: Rubaitul Azad / unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[ChatGPT заставили генерировать ключи для Windows, предложив сыграть в «угадайку»]]></title>
+        <link>https://3dnews.ru/1125763</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125763</guid>
+        <pubDate>Thu, 10 Jul 2025 13:27:00 -0000</pubDate>
+        <description><![CDATA[Технический менеджер по продукту GenAI Bug Bounty Марко Фигероа (Marco Figueroa) рассказал, как исследователю удалось обмануть ИИ-модель и выведать у неё ключи продуктов Windows под видом ответов в игре &laquo;угадайка&raquo;. Исследование было проведено в прошлом году, но его выводы актуальны и сейчас. Источник изображения: BoliviaInteligente/unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Создатель USDT припас 80 тонн золота в собственном швейцарском хранилище]]></title>
+        <link>https://3dnews.ru/1125764</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125764</guid>
+        <pubDate>Thu, 10 Jul 2025 13:27:00 -0000</pubDate>
+        <description><![CDATA[Выступающая эмитентом привязанной к доллару стабильной криптовалюты USDT компания Tether располагает собственным хранилищем в Швейцарии, где находятся около 80 тонн золота на сумму примерно $8 млрд, узнал Bloomberg. Источник изображения: Jingming Pan / unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Тайны сердца на ЭКГ]]></title>
+        <link>https://habr.com/ru/articles/926412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926412</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926412</guid>
+        <pubDate>Thu, 10 Jul 2025 13:20:42 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/7fe/8f5/8a5/7fe8f58a574888eddf32dcd90c263fa2.png" /><p>Электричество глубоко пронизывает жизнь человека. Порой даже сложно представить, насколько сильно мы зависим от этого удивительного физического явления.</p><p>Само функционирование человеческого организма является следствием биоэлектрических процессов. Наш организм — своеобразная электростанция, которая всегда с тобой (возможно, вам в детстве доводилось играть с маломощными светодиодами, которые начинали светиться от соприкосновения с кожей?). Основные источники электрического тока в нашем организме — нервная система и мышечная ткань. Нервная система представляет собой сложную электрическую сеть, по которой ежесекундно передаются тысячи импульсов. Эти импульсы генерируются нейронами в ответ на внешние раздражители. Фактически, именно благодаря им мы способны ощущать и осознавать окружающий мир. </p> <a href="https://habr.com/ru/articles/926412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926412#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Разработка программы для работы бильярдного зала]]></title>
+        <link>https://habr.com/ru/articles/926654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926654</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926654</guid>
+        <pubDate>Thu, 10 Jul 2025 13:10:59 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/bd9/132/4fc/bd91324fcc33cea1e61acc7aa750dad1.png" /><p>Так сложилось, что уже лет 10 назад я писал программу для автоматизации работы бильярдной на 1с версии 7.7. Программа (т.е. конфигурация) вышла удачаная, она до сих пор работает в нескольких залах, причем сама база расположена на удаленном сервере, а компьютеры залов подключаются через интернет по протоколу RDP. На самих компьютерах маркеров стоят кассовые аппараты, считыватели скидочных смарт-карт и главное - коммутаторы, которые включают / выключают освещение на столах. Все это работает через СОМ порты, которые RDP успешно прокидывает. Коммутаторы делал тоже я, это такая платка с микроконтроллером и симисторами с опторазвязкой, которая имеет свой протокол обмена и по командам от маркера включает или выключает какой надо стол.</p><p>Но время идет, первая программа уже давно морально устарела. А мне тут случайно перепали бесплатно два платежных терминала.</p> <a href="https://habr.com/ru/articles/926654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926654#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Децентрализованные хостинги/системы хранения данных]]></title>
+        <link>https://habr.com/ru/companies/ruvds/articles/925252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925252</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ruvds/articles/925252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925252</guid>
+        <pubDate>Thu, 10 Jul 2025 13:01:39 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d4f/cd8/0ed/d4fcd80ed481fa4a26ca04b89ec6c480.jpeg" /><p><em>Картинка&nbsp;</em><a href="https://www.freepik.com/free-ai-image/surreal-geometric-shapes-barren-desert_152377974.htm#fromView=search&amp;page=1&amp;position=5&amp;uuid=28a4cc5f-c317-4fb7-905b-c954caf11665&amp;query=decentalized" rel="noopener noreferrer nofollow"><em>Freepik</em></a> </p><p>Вряд ли настоящая «вечность» возможна в нашем переменчивом мире (ну, если только мы не говорим об элементарных частицах, но это уже «совсем другая история»), однако существуют варианты достаточно устойчивых систем, которые затруднительно обрушить или забанить — и речь сегодня пойдёт об интересном примере таких конструкций: децентрализованных сетях хранения сайтов/файлов.</p><p>Отсутствие центрального сервера, распределённая архитектура — всё это делает устойчивость сети достаточно высокой. Рассмотрим существующие идеи в этой области…  </p><p><strong>Заголовки разделов</strong>&nbsp;рассказа ниже являются активными ссылками, нажав на которые, можно перейти на сайты соответствующих проектов.</p> <a href="https://habr.com/ru/articles/925252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925252#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Экономика быстрых свиданий: как работают алгоритмы приложений знакомств и можно ли найти свою половинку онлайн]]></title>
+        <link>https://habr.com/ru/articles/926640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926640</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926640</guid>
+        <pubDate>Thu, 10 Jul 2025 13:00:37 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/88e/779/796/88e779796cf783a18f3f8a704fd68806.jpeg" /><p>Знакомства через приложения превратились в бесконечную рулетку с заведомо низкими шансами на успех. Пользователи тонут в потоке полупустых профилей, пролистывают большое количество анкет и разочаровываются в сервисе из-за неадеквата. Ощущают себя «товаром» на цифровой полке.&nbsp;</p><p>Это и есть главная проблема современных сервисов знакомств — бизнес-модель, построенная на удержании, а не на счастье пользователя. С каждым новым приложением у вас нет выбора — успешность каждого продукта измеряется вашими часами в аппе, а не будущей свадьбой.</p><p>Мы не задумывались, что у сервисов для знакомств под капотом, пока к нам не пришёл заказчик с идеей создать приложение для серьёзных отношений. Здесь–то мы и погрузились в специфику и разобрались, как работают алгоритмы приложений вроде Tinder или Pure и можно ли создать сервис без гостинга и встреч на одну ночь. Рассказываем.</p> <a href="https://habr.com/ru/articles/926640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926640#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[OpenIDE – профессиональные инструменты без ограничений]]></title>
+        <link>https://habr.com/ru/companies/spring_aio/articles/926568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926568</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/spring_aio/articles/926568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926568</guid>
+        <pubDate>Thu, 10 Jul 2025 12:40:30 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/aaf/48d/b39/aaf48db39abaf872c740b0cd24995ab7.jpg" /><p>31 июля состоится <a href="https://events.openide.ru/?utm_source=habr&amp;utm_medium=spring_aio&amp;utm_campaign=main_post" rel="noopener noreferrer nofollow">публичный запуск OpenIDE</a> — новой мультиязычной среды разработки, построенной на базе IntelliJ IDEA Platform. Вместе с ключевыми разработчиками, лидерами и представителями отрасли мы обсудим:</p><p>1) Зачем появилась OpenIDE<br />2) Как она уже сегодня может заменить IntelliJ Platform для Java и Spring<br />3) В чём её ценность для всей экосистемы<br />4) Как работать с проектами на Go, Python и TypeScript<br />5) И расскажем, как присоединиться к сообществу и развитию проекта</p><p>Мероприятие пройдет онлайн 31 июля, в 17:00 (МСК), на&nbsp;<a href="https://www.youtube.com/@spring_aio" rel="noopener noreferrer nofollow">YouTube</a>,&nbsp;<a href="https://vk.com/spring_aio" rel="noopener noreferrer nofollow">VK</a>&nbsp;и&nbsp;<a href="https://rutube.ru/channel/47285739/" rel="noopener noreferrer nofollow">RUTUBE</a>&nbsp;каналах Spring АйО. Участие абсолютно <strong><em>бесплатное</em></strong>. </p><p><strong><em>Главное – </em><a href="https://events.openide.ru/?utm_source=habr&amp;utm_medium=spring_aio&amp;utm_campaign=main_post" rel="noopener noreferrer nofollow"><em>зарегистрироваться</em></a><em>, чтобы получить на почту ссылки на трансляцию и файл .ics для добавления события в календарь.</em></strong></p> <a href="https://habr.com/ru/articles/926568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926568#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[В России разработали инструмент для оценки безопасности сетей 5G]]></title>
@@ -408,27 +472,11 @@
     </item>
 
     <item>
-        <title><![CDATA[[Перевод] BSSN: Лучшая простая система на сегодня]]></title>
-        <link>https://habr.com/ru/companies/haulmont/articles/926132/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926132</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/haulmont/articles/926132/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926132</guid>
-        <pubDate>Thu, 10 Jul 2025 09:00:17 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/665/e19/de3/665e19de3e3d4051bedd1d4447a559d8.png" /><p>Автор оригинальной <a href="https://dannorth.net/best-simple-system-for-now/" rel="noopener noreferrer nofollow">статьи</a>: Daniel Terhorst-North&nbsp;  </p><p><strong>Вы можете накормить волков и сохранить овец, если сделаете все правильно.</strong></p><p>Многие организации живут в постоянном напряжении между двумя путями разработки: быстрым, но «грязным», и надежным, но медленным. Одни торопятся, оправдывая технический долг «прагматизмом», другие осторожничают, опасаясь ошибок и занимаясь оверинженерингом. Я предлагаю третий путь — «лучшую простую систему на сегодня» (Best Simple System for Now, BSSN), которая сочетает преимущества обоих подходов и не заставляет идти на компромиссы.</p> <a href="https://habr.com/ru/articles/926132/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926132#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Snoop Dogg выпустил трек про Telegram — миллион его NFT-подарков разлетелся за считанные минуты]]></title>
         <link>https://3dnews.ru/1125745</link>
         <guid isPermaLink="true">https://3dnews.ru/1125745</guid>
         <pubDate>Thu, 10 Jul 2025 08:59:00 -0000</pubDate>
         <description><![CDATA[Популярный американский рэпер Snoop Dogg и Telegram провели совместную акцию, которая оказалась успешной. Исполнитель выпустил клип, посвящённый подаркам в мессенджере, а также сами цифровые подарки &mdash; некоторые из категорий раскупили за считанные минуты. Аудитория платформы отозвалась об инициативе положительно. Источник изображений: SnoopDoggTV / youtube.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[BPMN vs DMN: Как управлять бизнес-правилами в информационных системах без путаных инструкций?]]></title>
-        <link>https://habr.com/ru/articles/926538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926538</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926538</guid>
-        <pubDate>Thu, 10 Jul 2025 08:55:35 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3ad/1d9/220/3ad1d922021bff9cad74792ef277a54d.jpg" /><p><strong>Суворов Александр Васильевич сказал: «Каждый солдат должен знать свой маневр».</strong> Эти слова идеально подходят и для корпоративного управления. Чтобы побеждать в конкурентной борьбе, важно не просто следовать строгим приказам и схемам, а давать сотрудникам возможность действовать гибко и самостоятельно, понимая свои задачи и условия их выполнения.</p><p>В этом контексте традиционные инструменты, такие как BPMN, начинают терять свою привлекательность, уступая место более продвинутым технологиям, таким как DMN.</p> <a href="https://habr.com/ru/articles/926538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926538#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -448,35 +496,11 @@
     </item>
 
     <item>
-        <title><![CDATA[Так есть ли английский в 1С?]]></title>
-        <link>https://habr.com/ru/articles/926534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926534</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926534</guid>
-        <pubDate>Thu, 10 Jul 2025 08:51:17 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/b30/177/690/b3017769004e1cac56569ea51824f5e1.jpg" /><p>Мой бывший босс - замечательный человек. Пока одни кричат, что в 1С нет ни слова на английском, он запускает продажи в Африке. Пока другие жалуются, что технарям сложно изучать языки, ему покорился английский, испанский, а теперь в работе - французский. Загляните в это интервью с <a href="https://www.linkedin.com/in/ilia-shikhov-16088a13/" rel="noopener noreferrer nofollow">Ильей Шиховым</a>, CEO в компании <a href="https://risebiz.co.za/" rel="noopener noreferrer nofollow">Rise</a>, если вам интересно:</p><p>- Вывести IT-продукт на зарубежный рынок.</p><p>- Понять, какой уровень языка действительно для этого нужен.</p><p>- Узнать, как устроен IT-рынок ЮАР, и какие перспективы он даёт.</p> <a href="https://habr.com/ru/articles/926534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926534#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Эволюция видеокарт: от 3dfx Voodoo до RTX 5090 и почему современные GPU такие прожорливые]]></title>
-        <link>https://habr.com/ru/companies/x-com/articles/926532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926532</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/x-com/articles/926532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926532</guid>
-        <pubDate>Thu, 10 Jul 2025 08:51:14 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/17b/c67/904/17bc67904fbfa36bd753ddfd871a7a86.jpg" /><p>Если в середине 90-х вы уже знали, <strong>что такое ватты и киловатты</strong> и сами платили за электричество, то наверняка подтвердите, что ПК того времени потребляли куда меньше энергии, чем флагманские видеокарты современности. Весь <strong>системный блок</strong> - а это процессор, материнская плата, жесткий диск и видеокарта - укладывался максимум в 200 Вт. А сегодня одна только <strong>RTX 5090</strong> забирает из розетки в 2,5 раза больше. Конечно, на выходе мы получаем поистине завораживающую графику, но есть и издержки в виде большого количества тепла, шума и, конечно, рисков оплавления. В этой статье мы проследим путь эволюции видеокарт и разберемся в технических причинах их растущих аппетитов.&nbsp;</p> <a href="https://habr.com/ru/articles/926532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926532#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Украина первой в Европе подключит смартфоны к спутникам Starlink — уже в следующем году]]></title>
         <link>https://3dnews.ru/1125742</link>
         <guid isPermaLink="true">https://3dnews.ru/1125742</guid>
         <pubDate>Thu, 10 Jul 2025 08:46:00 -0000</pubDate>
         <description><![CDATA[На днях глава украинского сотового оператора &laquo;Киевстар&raquo; объявил о планах запустить в 2026 году услуги мобильной широкополосной спутниковой связи Starlink. Украина станет первой в Европе страной, которая подключит обычные смартфоны к спутникам Starlink. Следует отметить, что охлаждение отношений между США и ЕС заставило европейцев с подозрением отнестись к сервисам американской компании Starlink. В Европе ещё не решили, что выбрать &mdash; американские или китайские телекоммуникационные платформы, с чем ответственные лица США рекомендуют Брюсселю поторопиться и сделать правильный выбор.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Мотивационные триггеры: 30 рекламных крючков, которые используют на вас]]></title>
-        <link>https://habr.com/ru/articles/926524/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926524</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926524/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926524</guid>
-        <pubDate>Thu, 10 Jul 2025 08:44:49 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/72e/2d8/d30/72e2d8d302d5a2249c0a577f66c20854.png" /><p>Статья навеяна идей поделиться опытом, как маркетологи играют на чувствах и эмоциях читателей и заставляют совершать целевые действия в продающих текстах. Эта штука реально работает до сих пор, не смотря на все противорекламные фильтры в мозгах читателей. Ну и может кому-то поможет более трезво оценивать предложения компаний при чтении текстов.</p> <a href="https://habr.com/ru/articles/926524/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926524#habracut">Прочитать и замотивироваться! Или нет...</a>]]></description>
     </item>
 
     <item>
@@ -781,30 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125694</guid>
         <pubDate>Wed, 09 Jul 2025 15:37:00 -0000</pubDate>
         <description><![CDATA[GlobalFoundries накануне объявила о достижении договорённости по поводу поглощения компании MIPS &mdash; разработчика процессоров на архитектуре RISC-V. Теперь GlobalFoundries сможет предлагать собственные процессоры и другие продукты на архитектуре RISC-V; MIPS же продолжит работать как самостоятельная единица. Источник изображения: gf.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[BYD пообещала оплатить любой ущерб при автономной парковке её автомобилей с автопилотом]]></title>
-        <link>https://3dnews.ru/1125693</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125693</guid>
-        <pubDate>Wed, 09 Jul 2025 15:22:00 -0000</pubDate>
-        <description><![CDATA[Китайский автопроизводитель BYD, основной конкурент Tesla, заявил о готовности компенсировать любой ущерб, вызванный работой собственной системы автономной парковки. Речь идёт о технологии God's Eye, которая уже установлена на более чем миллионе электромобилей этой марки. Компания настолько уверена в её надёжности, что владельцам не придётся оформлять страховые случаи &mdash; все расходы возьмёт на себя производитель. Система God's Eye,Level 4. Источник изображения: BYD]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Представлен электромобиль Rivian R1 с четырьмя двигателями — от $115 990]]></title>
-        <link>https://3dnews.ru/1125692</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125692</guid>
-        <pubDate>Wed, 09 Jul 2025 15:16:00 -0000</pubDate>
-        <description><![CDATA[На этой неделе компания Rivian представила высокопроизводительную версию собственного электромобиля R1 второго поколения. Главная особенность новинки &mdash; высокая мощность, но назвать её разумной покупкой для человека, которому нужен внедорожник, вряд ли можно из-за высокой стоимости. Источник изображений: Rivian]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Зона расширяется: GSC Game World наконец подтвердила релиз S.T.A.L.K.E.R. 2: Heart of Chornobyl на PS5]]></title>
-        <link>https://3dnews.ru/1125695</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125695</guid>
-        <pubDate>Wed, 09 Jul 2025 14:31:00 -0000</pubDate>
-        <description><![CDATA[Вопреки прошлогодним опровержениям руководства студии GSC Game World, постапокалиптический шутер с открытым миром S.T.A.L.K.E.R. 2: Heart of Chornobyl всё-таки собирается на новую целевую платформу.   Источник изображений: GSC Game World]]></description>
     </item>
 
 </channel>
