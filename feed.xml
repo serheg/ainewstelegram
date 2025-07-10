@@ -4,8 +4,112 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Thu, 10 Jul 2025 09:20:52 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 10:19:56 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[[Перевод] Обходим CSP nonce через дисковый кеш браузера]]></title>
+        <link>https://habr.com/ru/articles/926582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926582</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926582</guid>
+        <pubDate>Thu, 10 Jul 2025 10:18:15 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d63/d8b/ebd/d63d8bebda18bf022297488ea828ada3.png" /><p>Эта статья описывает изощренную технику обхода Content Security Policy (CSP) на основе nonce-значений через эксплуатацию механизмов кеширования браузера. Автор демонстрирует, как комбинация CSS-инъекций, CSRF-атак и особенностей работы bfcache и дискового кеша может привести к выполнению произвольного JavaScript-кода даже при наличии строгой CSP.</p> <a href="https://habr.com/ru/articles/926582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926582#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как внедрить нейросети в бизнес: 10 шагов для руководителя, чтобы начать работу с искусственным интеллектом]]></title>
+        <link>https://habr.com/ru/articles/926580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926580</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926580</guid>
+        <pubDate>Thu, 10 Jul 2025 10:16:33 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/015/371/628/0153716287dc46643672ae0e094d13c2.png" /><p><em>Инструкция для директоров и владельцев бизнеса: подключение искусственного интеллекта в процессы вашей компании — от первых задач до масштабирования и автоматизации работы всей команды.</em></p><p>Внедрение нейросетей в бизнес — уже не прерогатива технологических корпораций, а эффективный инструмент для управления, оптимизации затрат и ускорения роста даже среднего и малого бизнеса. Если вы стоите на старте пути знакомства с искусственным интеллектом, этот гайд поможет вам разобраться в ключевых понятиях, технологиях и конкретных шагах.</p> <a href="https://habr.com/ru/articles/926580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926580#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Программируемая розетка на AVR]]></title>
+        <link>https://habr.com/ru/articles/926558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926558</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926558</guid>
+        <pubDate>Thu, 10 Jul 2025 10:15:08 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/80c/861/c13/80c861c130d24ffcf241011083df80aa.png" /><p>В статье описана разработка компактной розетки с программируемыми циклами включения и выключения нагрузки. Устройство построено на микроконтроллере Atmega48PA с индикацией на LCD-дисплей и питается от бестрансформаторного источника. Применимо для засветки фоторезиста, управления освещением и других бытовых задач. В статье приведены схемы, печатные платы, STL-файлы корпуса и прошивка.  </p> <a href="https://habr.com/ru/articles/926558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926558#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[«Пользователи не просили»: Samsung объяснила, почему Galaxy Z Fold7 не получил более ёмкую батарею]]></title>
+        <link>https://3dnews.ru/1125750</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125750</guid>
+        <pubDate>Thu, 10 Jul 2025 10:15:00 -0000</pubDate>
+        <description><![CDATA[Компания Samsung вчера официально представила новый складной смартфон Galaxy Z Fold7, который получил усовершенствованную конструкцию, улучшенную защиту от повреждений и более качественные экраны. Однако пользователи сразу обратили внимание, что ёмкость аккумулятора осталась практически такой же, как у предыдущей модели. В компании объяснили, почему флагман не получил более ёмкий аккумулятор. Источник изображений: sammobile.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Звуковой дизайн в рогалике]]></title>
+        <link>https://habr.com/ru/articles/925996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925996</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/925996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925996</guid>
+        <pubDate>Thu, 10 Jul 2025 10:13:51 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/2fa/13f/594/2fa13f594bf8806827769ebc39515f51.jpg" /><p>Когда я принялся записывать звуки, я понимал, что звук — это 50% атмосферы. Но у меня не было ни профессионального оборудования, ни опыта. Только микрофон, FL Studio и куча энтузиазма.</p><p>FMOD: первые шаги и важные фишки<br /> FMOD — это  аудиодвижок, который позволяет создавать  звуковые системы. Вот что я узнал:</p><p>Мульти-инструмент — спасение от монотонности<br /> Раньше звуки были примитивными:</p><p>Шаги → один и тот же звук, повторящийся.</p><p>Удары меча → однообразные</p><p>Решение: мульти-инструмент</p><p>Загружаешь 5–10 вариаций звука шагов (разные поверхности, интенсивность).</p><p>FMOD проигрывает их в случайном порядке.<br /> Результат: шаги звучат естественно, как у живого персонажа.</p><p>Параметрические события<br /> Если просто проигрывать звук при действии, он будет "пластиковым". Лучше привязывать к геймплею:</p><p>Удар по врагу → прошла полная дорожка звука</p><p>Меня оглушили во время удара → произвезлся отрезок дорожки</p><p>Как происходила запись звуков<br /> Я использовал два подхода:</p><p>Запись "на коленке" — искал, как извлечь нужный звук из бытовых предметов.</p><p>Бесплатные библиотеки (Freesound, Sonniss) — для сложных эффектов.</p><p>Звуки монстров и существ<br /> Щупальца=Размороженный фарш + влажные ладоши+реверберация, питч(уже в FL Studio)<br /> Рычание монстра с использованием способности=переливание воды+звук взрыва+использование собственного голоса, но с обработкой+Усиление низких частот<br /> Ходьба скелета=мятие пластиковых стаканов+ ломание сельдерея+питч<br /> Звуки оружия и доспехов<br /> Удар меча по мясу=Разделка курицы ножом + хлопок ладонью+компрессия, добавление "хлюпа"<br /> Звон доспехов=Бросить монеты,гвозди в металлическую миску+Reverb, небольшой питч<br /> Разрыв ткани=рвать бумагу+усиление средних частот</p> <a href="https://habr.com/ru/articles/925996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925996#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Мы пишем про печатные платы — и собираем десятки тысяч просмотров. Вот как]]></title>
+        <link>https://habr.com/ru/articles/926576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926576</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926576</guid>
+        <pubDate>Thu, 10 Jul 2025 10:11:08 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/096/5fe/68a/0965fe68a9af1064efdcd4c93766f8b4.png" /><p>Обычно в B2B сфере все пишут сухо и скучно. Мы с ГРАН Групп решили пойти другим путем — делать контент, который цепляет. О том, как нам удалось получить десятки тысяч просмотров на узкоспециализированные темы про печатные платы, расскажу в этом кейсе.</p> <a href="https://habr.com/ru/articles/926576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926576#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Копировальная и печатная техника в России: импортозамещение или возвращение к корням?]]></title>
+        <link>https://habr.com/ru/companies/fplus_tech/articles/925950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925950</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/fplus_tech/articles/925950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925950</guid>
+        <pubDate>Thu, 10 Jul 2025 10:00:29 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/e79/e05/a7c/e79e05a7c6cd7f0b522d4284541c4cef.png" /><p>Привет, Хабр! В одной из прошлых публикаций мы представили новые печатные устройства от компании Fplus – целую линейку цветных МФУ формата А3, ориентированных на потребителей из сегментов B2B и B2G. В комментариях к этой публикации наши читатели выразили довольно много сарказма. Они сомневались в том, что упомянутое оборудование действительно производится на российских предприятиях и может быть названо отечественным.&nbsp;</p><p>Формально «отечественность» изделия определяется на основании Постановления Правительства РФ №719 от 17.07.2015 «О подтверждении производства российской промышленной продукции». Многочисленные изменения, внесенные в документ за десять лет, делают его правильную интерпретацию уделом профессионалов. Давайте не будем считать условные баллы, на основании которых изделие попадает в реестр российской промышленной продукции, а поговорим о том, как производятся печатающие устройства и откуда берутся их составные части. А также решим главный вопрос – что мы, собственно, импортозамещаем – целиком технологию лазерной печати или отдельные узлы для принтеров и МФУ?&nbsp;</p> <a href="https://habr.com/ru/articles/925950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925950#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Управление выездными сотрудниками: как настроить в BPMS с интеграцией 1С, СКУД и джоббордов]]></title>
+        <link>https://habr.com/ru/companies/1forma/articles/926570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926570</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/1forma/articles/926570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926570</guid>
+        <pubDate>Thu, 10 Jul 2025 09:59:46 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/6f0/dc8/2f6/6f0dc82f64788e06e870706c7f58c0c2.png" /><p>Спрос на клининговые услуги в корпоративном секторе в 2025 году вырос на 20%, а дефицит сотрудников достиг 30%. Вручную управлять персоналом в таких условиях крайне сложно. Для эффективной работы даже с десятком объектов потребуется автоматизация.</p><p>На примере клининговой компании покажу, как решение на базе low-code BPM-платформы автоматизирует полный цикл работы с персоналом: поиск, приём, онбординг и увольнение, контроль смен и исполнительской дисциплины, начисление зарплат, учет больничных и отгулов. Оно также подойдёт для курьерских служб, доставки еды, управляющих компаний ЖКХ и других сервисных организаций. </p> <a href="https://habr.com/ru/articles/926570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926570#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[[Перевод] Как проектировать устойчивые событийно-ориентированные системы в больших масштабах]]></title>
+        <link>https://habr.com/ru/companies/otus/articles/926566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926566</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/otus/articles/926566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926566</guid>
+        <pubDate>Thu, 10 Jul 2025 09:52:41 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/fb9/ef5/301/fb9ef5301a3755d8e47357824f4559e9.jpg" /><p>Проектирование отказоустойчивых и масштабируемых систем — это всегда баланс между теоретическими концепциями и реальной практикой. В этой статье мы разберём, как проектировать событийно-ориентированные архитектуры, которые могут выдержать пиковые нагрузки, справляться с асинхронной обработкой и обеспечивать стабильную работу при любых условиях. Мы рассмотрим ключевые паттерны, такие как шардирование, методы мониторинга и асинхронную обработку данных, а также обсудим распространённые ошибки, которые могут привести к сбоям, и как их избежать.</p> <a href="https://habr.com/ru/articles/926566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926566#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Финансовый отчёт Arkane Studios раскрыл, когда выйдет боевик Marvel’s Blade от создателей Deathloop и Dishonored]]></title>
+        <link>https://3dnews.ru/1125749</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125749</guid>
+        <pubDate>Thu, 10 Jul 2025 09:45:00 -0000</pubDate>
+        <description><![CDATA[Анонсированный в декабре 2023 года сюжетный боевик Marvel&rsquo;s Blade от Arkane Studios (Deathloop, Dishonored) пережил чистку, сопровождавшую недавнюю волну массовых увольнений в составе Xbox, однако, похоже, выйдет ещё нескоро.   Источник изображений: Bethesda Softworks]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как зарегистрировать компанию в сфере GameDev в ОАЭ]]></title>
+        <link>https://habr.com/ru/articles/926562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926562</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926562</guid>
+        <pubDate>Thu, 10 Jul 2025 09:40:44 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/0aa/fa8/109/0aafa8109461babe1fd54dfb1c762394.jpg" /><p>Всё больше студий и независимых разработчиков рассматривают Эмираты как площадку для релокации и масштабирования. Тем не менее, процесс выхода на рынок сопровождается рядом определённых нюансов, про них и пойдет речь</p> <a href="https://habr.com/ru/articles/926562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926562#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Локальная разработка с Kubernetes. Немного танцев с бубном]]></title>
+        <link>https://habr.com/ru/articles/926556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926556</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926556</guid>
+        <pubDate>Thu, 10 Jul 2025 09:35:24 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/webt/gh/fy/8q/ghfy8q8e4wvupibcq-vjktho_p8.png" /><p>На нескольких проектах я сталкивался с ситуацией, когда есть Kubernetes с разными окружениями типа dev, stage, prod и т.д.<br />Код сервисов в эти самые окружения попадает в процессе CI/CD: то есть мы мержим какую-то ветку с разрабатываемой фичей или исправлением бага в ветку, которая “привязана” к окружению и дальше наш код деплоится в кластер. Думаю, для многих - это уже стандартная история.</p><p>Давайте представим, что нужно сделать задачу, относящуюся к какому-нибудь микросервису, эта задача подразумевает запрос по сети к другому микросервису, а тот, в свою очередь, посылает запрос к еще другим микросервисам. Как быть, когда мы хотим, чтобы нам были доступны данные из других микросервисов, чтобы протестировать то, что мы сделали не в тестах с моками, а в условиях, похожих на “боевые”. Тут самым очевидным, как мне кажется, является разворачивание локально микросервиса, код которого мы “ковыряем” и проброс портов до целевого микросервиса в dev кластере (или в другом кластере, предназначенным для тестирования), например:</p> <a href="https://habr.com/ru/articles/926556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926556#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как я перенёс задачи из Яндекс.Трекера в JIRA с сохранением всего — от чек-листов до ссылок в комментариях]]></title>
+        <link>https://habr.com/ru/articles/926554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926554</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926554</guid>
+        <pubDate>Thu, 10 Jul 2025 09:28:26 -0000</pubDate>
+        <description><![CDATA[<p>Когда руководстворешило перевести проектный трекинг с&nbsp;Яндекс.Трекера на&nbsp;JIRA, мы&nbsp;быстро поняли: простого «экспорта‑импорта» не&nbsp;будет. Ни одно из&nbsp;готовых решений не&nbsp;справлялось с&nbsp;задачей полноценно&nbsp;— а&nbsp;именно с&nbsp;сохранением всей истории, авторства, чек‑листов, вложений, связей, ссылок на&nbsp;другие задачи и пользователей, и даже оригинальной нумерации задач из&nbsp;Яндекс.Трекера.</p><p>Что&nbsp;ж, вызов принят. Ниже расскажу, как&nbsp;я за 3&nbsp;месяца написал систему, которая перенесла всё&nbsp;— до&nbsp;последней запятой в&nbsp;комментарии.</p> <a href="https://habr.com/ru/articles/926554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926554#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Проблема подглядывания и последовательное А/Б тестирование]]></title>
@@ -68,7 +172,7 @@
         <link>https://habr.com/ru/articles/926538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926538</link>
         <guid isPermaLink="true">https://habr.com/ru/articles/926538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926538</guid>
         <pubDate>Thu, 10 Jul 2025 08:55:35 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/6dd/04e/956/6dd04e9562a08fbd557560276c2c816e.jpg" /><p><strong>Михаил Илларионович Кутузов сказал: «Каждый солдат должен знать свой маневр».</strong> Эти слова идеально подходят и для корпоративного управления. Чтобы побеждать в конкурентной борьбе, важно не просто следовать строгим приказам и схемам, а давать сотрудникам возможность действовать гибко и самостоятельно, понимая свои задачи и условия их выполнения.</p><p>В этом контексте традиционные инструменты, такие как BPMN, начинают терять свою привлекательность, уступая место более продвинутым технологиям, таким как DMN.</p> <a href="https://habr.com/ru/articles/926538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926538#habracut">Читать далее</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3ad/1d9/220/3ad1d922021bff9cad74792ef277a54d.jpg" /><p><strong>Суворов Александр Васильевич сказал: «Каждый солдат должен знать свой маневр».</strong> Эти слова идеально подходят и для корпоративного управления. Чтобы побеждать в конкурентной борьбе, важно не просто следовать строгим приказам и схемам, а давать сотрудникам возможность действовать гибко и самостоятельно, понимая свои задачи и условия их выполнения.</p><p>В этом контексте традиционные инструменты, такие как BPMN, начинают терять свою привлекательность, уступая место более продвинутым технологиям, таким как DMN.</p> <a href="https://habr.com/ru/articles/926538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926538#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -260,7 +364,7 @@
         <link>https://habr.com/ru/companies/explyt/articles/926484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926484</link>
         <guid isPermaLink="true">https://habr.com/ru/companies/explyt/articles/926484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926484</guid>
         <pubDate>Thu, 10 Jul 2025 07:47:42 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/603/8e7/5b5/6038e75b58658af820cd1ba97858854a.png" /><p>Всем привет! На связи команда Explyt Spring. На этот раз как следует из названия будем говорить о поддержке <a href="https://quarkus.io/" rel="noopener noreferrer nofollow">Quarkus</a>. На первый взгляд может показаться странным, причем тут Spring плагин и Quarkus. Но если разобраться более детально, то Spring также имеет поддержку Java EE <a href="https://docs.spring.io/spring-framework/reference/core/beans/standard-annotations.html" rel="noopener noreferrer nofollow">аннотаций</a> и к тому же поддержка Dependency Injection является одной из сильной сторон нашего плагина. Да и логика DI в Quarkus сильно проще чем в Spring, можно убедиться в этом прочитав официальную <a href="https://quarkus.io/guides/cdi-reference#injecting-multiple-bean-instances-intuitively" rel="noopener noreferrer nofollow">документацию</a>, поэтому можно легко переиспользовать все наши текущие наработки и добавить поддержку Quarkus DI в наш плагин. И это также позволило переиспользовать для него многие другие наши “фичи”, о чем будет рассказано ниже.</p> <a href="https://habr.com/ru/articles/926484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926484#habracut">Читать далее</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/603/8e7/5b5/6038e75b58658af820cd1ba97858854a.png" /><p>Всем привет! На связи команда <a href="https://explyt.ai/docs/category/explyt-spring?utm_campaign=quarkus&amp;utm_source=habr" rel="noopener noreferrer nofollow">Explyt Spring</a>. На этот раз как следует из названия будем говорить о поддержке <a href="https://quarkus.io/" rel="noopener noreferrer nofollow">Quarkus</a>. На первый взгляд может показаться странным, причем тут Spring плагин и Quarkus. Но если разобраться более детально, то Spring также имеет поддержку Java EE <a href="https://docs.spring.io/spring-framework/reference/core/beans/standard-annotations.html" rel="noopener noreferrer nofollow">аннотаций</a> и к тому же поддержка Dependency Injection является одной из сильной сторон нашего плагина. Да и логика DI в Quarkus сильно проще чем в Spring, можно убедиться в этом прочитав официальную <a href="https://quarkus.io/guides/cdi-reference#injecting-multiple-bean-instances-intuitively" rel="noopener noreferrer nofollow">документацию</a>, поэтому можно легко переиспользовать все наши текущие наработки и добавить поддержку Quarkus DI в наш плагин. И это также позволило переиспользовать для него многие другие наши “фичи”, о чем будет рассказано ниже.</p> <a href="https://habr.com/ru/articles/926484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926484#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -344,51 +448,11 @@
     </item>
 
     <item>
-        <title><![CDATA[Генерация иллюстраций с ИИ – просто и легко?]]></title>
-        <link>https://habr.com/ru/articles/926440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926440</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926440</guid>
-        <pubDate>Thu, 10 Jul 2025 07:07:48 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/158/dbc/a47/158dbca47b512ffa90931b9726ba6bd8.png" /><p>Субъективный неэкспертный опыт создания достаточно сложной иллюстрации с помощью ИИ-сервисов для генерации изображений</p> <a href="https://habr.com/ru/articles/926440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926440#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Углеродные выбросы Google выросли на 1515 % за 14 лет, но компания уверяет, что экоактивисты перевирают факты]]></title>
         <link>https://3dnews.ru/1125666</link>
         <guid isPermaLink="true">https://3dnews.ru/1125666</guid>
         <pubDate>Thu, 10 Jul 2025 07:03:29 -0000</pubDate>
         <description><![CDATA[Google негативно отреагировала на доклад НКО Kairos Fellowship, где говорится о &laquo;пробелах&raquo; в данных Google о сокращении углеродных выбросов. В Google утверждают, что анализ, проведённый НКО, &laquo;искажает факты&raquo; из ежегодных отчётов об экоустойчивости, сообщает Computer Weekly. В докладе Kairos Fellowship утверждается, что Google использует отчёты об экоустойчивости, чтобы ввести в заблуждение общество относительно прогресса в деле сокращения углеродных выбросов. Kairos Fellowship заявила, что 2,5 года работала над освещением вклада техногигантов в климатический кризис. Были тщательно проанализированы публичные отчёты Google, связанные с охраной окружающей среды, и проведены подробные расчёты и анализ представленных экологических данных.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Управление командой в эпоху перемен]]></title>
-        <link>https://habr.com/ru/companies/ru_mts/articles/926058/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926058</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/ru_mts/articles/926058/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926058</guid>
-        <pubDate>Thu, 10 Jul 2025 07:01:20 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/eeb/d17/3da/eebd173da41f08316d63a36de4f510df.png" /><p>В реальном бизнесе команды редко живут «в домике», где ничего не меняется годами. Хочешь ты того или нет, извне постоянно поступают новые вводные. Это непрерывный конвейер: только адаптируешься к последним изменениям, переживешь их, как курс снова меняется. Начинается вынужденный переезд на другие сервисы, запускается масштабирование, глобально перестраивается рабочий процесс и т. п.</p><p>Задача руководителя в этих условиях — уменьшить стресс сотрудникам да и самому себе.</p><p>Меня зовут Екатерина, я руковожу саппортом в МТС Линк. Специфика поддержки — любые изменения увеличивают количество вопросов от пользователей. То есть нам надо не только самим не сойти с ума, но и снять негатив у клиентов, которые не всегда понимают ситуацию. В этом материале поделюсь своим опытом, как мы готовимся к изменениям и как нам это помогает их преодолевать. Перемены неизбежны, но простые действия и предварительная подготовка позволят чувствовать себя комфортно и сохранить команду.</p> <a href="https://habr.com/ru/articles/926058/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926058#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Разбираем на запчасти поисковый сервис в Яндекс Лавке]]></title>
-        <link>https://habr.com/ru/companies/yandex/articles/924198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924198</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/yandex/articles/924198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924198</guid>
-        <pubDate>Thu, 10 Jul 2025 07:00:10 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3dd/2f3/f61/3dd2f3f61dceac0a5d415818c37cab34.png" /><p>Привет! Меня зовут Николай Смирнов, я ML-инженер в команде поиска Яндекс Лавки. В этой статье я расскажу немного о закулисье:&nbsp;</p><p>— Как наша команда шаг за шагом строила поисковый сервис, начиная с алгоритма Ахо — Корасик, SaaS-решений и Маркета, и дошла до собственной архитектуры на C++ с userver и многослойным «бургером» из ML-моделей.&nbsp;</p><p>— Зачем поиску Лавки понадобилось сразу несколько технологий — BM25, DSSM, BERT и CatBoost — и чем полезна каждая из них.&nbsp;</p><p>— Как наш поиск собирает данные о вас и о товарах и почему ML-модели приходится дообучать.&nbsp;</p><p>А ещё вместе «сломаем» прод — посмотрим, что произойдёт, если выключить какую-нибудь из моделей, и почему даже самые продвинутые нейросети не являются серебряной пулей.</p><p>В общем, будет немного истории, самое интересное из архитектуры, инженерные находки и живые примеры того, как поиск в Лавке принимает решения. Если интересно, как на самом деле работает поиск, — погнали!</p> <a href="https://habr.com/ru/articles/924198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924198#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[90 лет нашей железной дороге, теперь ею управляют роботы]]></title>
-        <link>https://habr.com/ru/companies/nlmk/articles/919050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=919050</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/nlmk/articles/919050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=919050</guid>
-        <pubDate>Thu, 10 Jul 2025 07:00:08 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d75/9c8/33a/d759c833a860e644806fc4dd84ad2f10.png" /><p>Когда вам нужно доставлять сырьё на большое производство, сложно остановиться. </p><p>Как вы знаете из компьютерных игр, для этого нужна большая железная дорога. </p><p>У нас она своя. В 1933 году было 10 километров рельсов, 10 вагонов и два паровоза. </p><p>Сейчас — 136 локомотивов, 3 065 вагонов, 19 станций, 580 километров путей и 1 585 стрелочных переводов. 130 миллионов тонн грузов в год.</p><p>А машинистами у нас теперь становятся роботы. </p><p>Почему так? Потому что условия труда довольно суровые, а манёвры в цехах нужны очень точные, на грани человеческих способностей. Сначала это были ассистирующие устройства с алгоритмами машинного зрения, а потом мы пришли и к автоматизации. </p> <a href="https://habr.com/ru/articles/919050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=919050#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[А что если не «внедрять таск-трекер», а просто создать эти 7 досок]]></title>
-        <link>https://habr.com/ru/companies/yougile/articles/926304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926304</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/yougile/articles/926304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926304</guid>
-        <pubDate>Thu, 10 Jul 2025 07:00:07 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/8da/836/59a/8da83659a50b8b27b1a43878d8a943b0.jpg" /><p>Таск-трекер без бизнес-процессов ― деньги на ветер! Самая частая ошибка ― пытаться заводить задачи, не продумав сам процесс. В этом тексте показываем 7 универсальных процессов, которые можно внедрить буквально за 10 минут: от онбординга до работы с подрядчиками. </p> <a href="https://habr.com/ru/articles/926304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926304#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -400,22 +464,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Грабли для SEO-специалиста: 8 ситуаций, где легко ошибиться]]></title>
-        <link>https://habr.com/ru/articles/926456/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926456</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926456/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926456</guid>
-        <pubDate>Thu, 10 Jul 2025 06:53:39 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/ff1/620/c1b/ff1620c1be2c1d7ce97624f7ce6e482d.jpg" /><p>Собрал основные моменты, в которых иногда ошибаются даже матёрые сеошники. Проверьте себя.</p><p>Аптайм сервера, отложенная загрузка, базовые настройки аналитики. А что еще?</p> <a href="https://habr.com/ru/articles/926456/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926456#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Почему растёт спрос на гиперконвергентные системы]]></title>
-        <link>https://habr.com/ru/companies/sberbank/articles/926450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926450</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/sberbank/articles/926450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926450</guid>
-        <pubDate>Thu, 10 Jul 2025 06:42:30 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/fb1/b7f/67e/fb1b7f67ee1f7274d92b79e420c874bd.jpg" /><p>Спрос на локальное оборудование для центров обработки данных снижается по мере того, как организации переносят рабочие нагрузки в облако. Но локальные решения не исчезли, и одним из востребованных сегментов является гиперконвергентная инфраструктура (HCI).</p> <a href="https://habr.com/ru/articles/926450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926450#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Nvidia выпустит новый ИИ-ускоритель для Китая не раньше сентября]]></title>
         <link>https://3dnews.ru/1125731</link>
         <guid isPermaLink="true">https://3dnews.ru/1125731</guid>
@@ -424,43 +472,11 @@
     </item>
 
     <item>
-        <title><![CDATA[Методологии менеджмента качества в бизнес-анализе: процессный подход, LEAN, теория ограничения систем. Часть 2]]></title>
-        <link>https://habr.com/ru/companies/simbirsoft/articles/925942/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925942</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/simbirsoft/articles/925942/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925942</guid>
-        <pubDate>Thu, 10 Jul 2025 06:29:14 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/438/23c/ae2/43823cae2af53690bd986a6b51646639.png" /><p>Всем привет! Меня зовут Диана. Я ведущий аналитик в ИТ-компании Simbirsoft и работают в бизнес-анализе уже более 9 лет. Начинала как аналитик процессов (специалист процессного управления, специалист организационного развития — единого наименования этой должности не существует). У меня накопился опыт работы над проектами в разных отраслях и компаниях. Хочу поделиться, как применение методологий для улучшения процессов помогают компания достичь их конечной цели — масштабировать бизнес, оптимизировать деятельность и повышать результативность работы.&nbsp;</p><p>В <a href="https://habr.com/ru/companies/simbirsoft/articles/924960/" rel="noopener noreferrer nofollow">предыдущей части статьи</a> я рассказала, насколько актуально бизнес-аналитику понимать СМК (Система менеджмента качества) и, в частности, процессное управление, а также методологии LEAN (бережливое производство) и ТОС (теория ограничения систем). На практическом примере показала, как с помощью моделей и анализа процессов можно навести в них порядок, выстроить систему метрик и начать их отслеживать. И, если в первой части речь шла о фиксации и анализе процессов в их текущем состоянии, то в этой части я бы хотела акцентировать внимание на этапе их улучшения.</p><p>Существует большое количество методологий и концепций, направленных на улучшение деятельности. В своей статье хочу остановиться на двух самых известных:&nbsp;</p> <a href="https://habr.com/ru/articles/925942/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925942#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[72 рабочих часа в неделю, никаких пушей и «следующее действие»: формула на 100 млн ₽]]></title>
-        <link>https://habr.com/ru/articles/926444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926444</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926444</guid>
-        <pubDate>Thu, 10 Jul 2025 06:19:50 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/455/9f6/bd0/4559f6bd06f99dec0651e1a3410dec47.jpeg" /><p>Сейчас все топят быть продуктивным, эффективным. Я тоже адепт эффективности.</p><p>Как сделать еще больше, как иметь больше энергии?</p><p>Я пробовал Яндекс.Календарь, потому что я всегда пытаюсь пользоваться чем-то отечественным. Искренне хочу, чтобы у нас были классные вещи, но я не знаю, по какой причине Яндекс.Календарь — это пока что дно.</p> <a href="https://habr.com/ru/articles/926444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926444#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Перенос ценой $250 миллионов: Subnautica 2 не выйдет в 2025 году, зато получила первый геймплейный трейлер]]></title>
         <link>https://3dnews.ru/1125730</link>
         <guid isPermaLink="true">https://3dnews.ru/1125730</guid>
         <pubDate>Thu, 10 Jul 2025 06:19:33 -0000</pubDate>
         <description><![CDATA[Вслед за шокирующей сменой руководства в студии Unknown Worlds Entertainment южнокорейский издатель Krafton объявил о переносе старта раннего доступа подводного симулятора выживания Subnautica 2.   Источник изображений: Krafton]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[A practical guide to backing up Revit Server Models V2 или делаем по-человечески то, что делалось не для людей]]></title>
-        <link>https://habr.com/ru/articles/926442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926442</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926442</guid>
-        <pubDate>Thu, 10 Jul 2025 06:17:09 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/c93/afd/139/c93afd1395f88b1652c7b218350dfc78.png" /><p>A practical guide to backing up Revit Server&nbsp;Models V2</p><p>Практическое руководство и решение задачи бэкапа ревит-сервера на файловом уровне.</p> <a href="https://habr.com/ru/articles/926442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926442#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Обменники в RabbitMQ, которые не продают валюту]]></title>
-        <link>https://habr.com/ru/companies/otus/articles/926344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926344</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/otus/articles/926344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926344</guid>
-        <pubDate>Thu, 10 Jul 2025 05:43:01 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/27f/c9e/689/27fc9e689fc481f0d772a7736f0be397.jpg" /><p>Очень часто в&nbsp;проектах необходимо использовать передачу сообщений между компонентами распределенной системы по&nbsp;определенным правилам. И перед разработчиком встает вопрос&nbsp;— какой инструмент наиболее эффективно можно использовать для&nbsp;этого? И сегодня мы рассмотрим брокер сообщений, который позволяет это делать «прямо из&nbsp;коробки» и это будет RabbitMQ.</p><p>RabbitMQ&nbsp;— это популярный брокер сообщений, который реализует стандарт AMQP и который позволяет эффективно управлять коммуникацией между сервисами через очереди. И в&nbsp;этой статье мы разберем основные типы обменников (exchange): Direct, Topic, Headers и Fanout, которые напрямую участвуют в&nbsp;процессе маршрутизации, а&nbsp;также приведем примеры их настройки в&nbsp;Spring Boot. </p> <a href="https://habr.com/ru/articles/926344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926344#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -789,22 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125688</guid>
         <pubDate>Wed, 09 Jul 2025 13:01:00 -0000</pubDate>
         <description><![CDATA[С развитием генеративного искусственного интеллекта всё более очевидным становится вопрос о том, насколько современные компьютеры подходят для работы с передовыми и новейшими возможностями ИИ. Возможно, пришла пора сделать шаг вперёд, и человечество с радостью воспримет устройство принципиально нового типа, считает гендиректор OpenAI Сэм Альтман (Sam Altman). Источник изображения: Dima Solomin / unsplash.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Два американца ответят в суде за хищение $650 млн через криптовалютную пирамиду OmegaPro — они обещали доход до 300 %]]></title>
-        <link>https://3dnews.ru/1125687</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125687</guid>
-        <pubDate>Wed, 09 Jul 2025 12:50:00 -0000</pubDate>
-        <description><![CDATA[Власти США предъявили обвинения двум гражданам страны в использовании мошеннической схемы OmegaPro с обещанием доходов до 300 % на вложения в криптовалюте, в рамках которой они похитили у доверчивых граждан более $650 млн. Обвиняемым грозит наказание в виде тюремного заключения на 20 лет, пишет ресурс CNBC. Источник изображения: Kanchanara/unsplash.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[ИИ создал первое в мире лекарство от рака, которое испытают на живых людях]]></title>
-        <link>https://3dnews.ru/1125686</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125686</guid>
-        <pubDate>Wed, 09 Jul 2025 12:36:00 -0000</pubDate>
-        <description><![CDATA[Дочерняя по отношению к Alphabet компания Isomorphic Labs объявила о подготовке первых в мире клинических испытаний на людях лекарства от рака. Препарат разработан с использованием пакета DeepMind AlphaFold 3. Со временем эта разработка обещает превратиться в универсальное средство для поиска лекарств от всех болезней &laquo;одним нажатием кнопки&raquo;. Источник изображения: blog.google]]></description>
     </item>
 
 </channel>
