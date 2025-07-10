@@ -4,15 +4,127 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Thu, 10 Jul 2025 10:19:56 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 11:16:11 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
 
     <item>
-        <title><![CDATA[[Перевод] Обходим CSP nonce через дисковый кеш браузера]]></title>
-        <link>https://habr.com/ru/articles/926582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926582</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926582</guid>
-        <pubDate>Thu, 10 Jul 2025 10:18:15 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d63/d8b/ebd/d63d8bebda18bf022297488ea828ada3.png" /><p>Эта статья описывает изощренную технику обхода Content Security Policy (CSP) на основе nonce-значений через эксплуатацию механизмов кеширования браузера. Автор демонстрирует, как комбинация CSS-инъекций, CSRF-атак и особенностей работы bfcache и дискового кеша может привести к выполнению произвольного JavaScript-кода даже при наличии строгой CSP.</p> <a href="https://habr.com/ru/articles/926582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926582#habracut">Читать далее</a>]]></description>
+        <title><![CDATA[Hugging Face выпустила домашнего ИИ-робота Reachy Mini с открытым кодом за $449]]></title>
+        <link>https://3dnews.ru/1125759</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125759</guid>
+        <pubDate>Thu, 10 Jul 2025 11:14:00 -0000</pubDate>
+        <description><![CDATA[Компания Hugging Face начала принимать предварительные заказы на покупку робота Reachy Mini, который построен на базе платформы с открытым исходным кодом и нейросетей. Желающим приобрести миниатюрного настольного робота придётся заплатить $449. Источник изображения: Hugging Face]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как практикуются студенты онлайн-магистратуры по продакт-менеджменту в Яндексе: проект для Лавки]]></title>
+        <link>https://habr.com/ru/companies/yandex_praktikum/articles/924566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924566</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/yandex_praktikum/articles/924566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924566</guid>
+        <pubDate>Thu, 10 Jul 2025 11:07:48 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/6cb/13e/036/6cb13e03601767fafa425fe22583d802.png" /><p>Привет! Меня зовут Виктория Копаева, я менеджер программы <a href="https://practicum.yandex.ru/high-education/higher-it-product-mgmt/?utm_source=content&amp;utm_medium=media&amp;utm_campaign=habr_media_RF_HighEd_highItPrMg_b2c_Article_None_habr&amp;utm_content=article&amp;utm_term=10-07-2025" rel="noopener noreferrer nofollow">онлайн-магистратуры «Управление IT-продуктами»</a> от Яндекса и МФТИ, которая стартует в сентябре 2025&nbsp;года. В этой статье я расскажу про проект студентов магистратуры, который они делали для Яндекс Лавки.&nbsp; </p> <a href="https://habr.com/ru/articles/924566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924566#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[OpenAI заверила поглощение стартапа io Джони Айва]]></title>
+        <link>https://3dnews.ru/1125758</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125758</guid>
+        <pubDate>Thu, 10 Jul 2025 11:03:00 -0000</pubDate>
+        <description><![CDATA[Компания OpenAI официально закрыла сделку по поглощению io &mdash; стартапа, специализирующегося на разработке устройств, одним из учредителей которого является бывший главный дизайнер Apple Джони Айв (Jony Ive). Сумма сделки составила около $6,5 млрд. Глава io Джони Айв (слева) и гендиректор OpenAI Сэм Альтман (справа). Источник изображения: openai.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Изменения. Инструменты, которые работают]]></title>
+        <link>https://habr.com/ru/companies/sportmaster_lab/articles/926478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926478</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/sportmaster_lab/articles/926478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926478</guid>
+        <pubDate>Thu, 10 Jul 2025 11:02:37 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/f87/903/391/f879033919f0ce05824149aa8c629204.png" /><p>Привет! Меня зовут Сергей Господчиков, и в IT я, страшно подумать, с 1992 года. Именно тогда я начал работать программистом и писать свой первый код, за который мне платили деньги. Примерно в 2001 году я стал руководить людьми и прошел путь от главного инженера до генерального директора, попутно попробовав себя в ролях CIO, CTO, CEO и даже преподавая проектный менеджмент. И все эти годы я постоянно проводил различные изменения. <br /><br />Сейчас я работаю с командами разработки в качестве методолога продуктового подхода и практикую Канбан-метод. В этой статье поделюсь с вами своим опытом проведения изменений. А именно — практическими инструментами, которые сам использую почти ежедневно.<br /><br />Жизнь вокруг нас меняется очень динамично, и не все изменения нам нравятся. Точнее, давайте так — не каждое изменение <em>мы принимаем</em>. Так что эта статья для большинства из нас. Для тех, кто восемь часов в день, как минимум, проводит на своей (конечно же, любимой) работе. Инструменты, которые я опишу, также подходят для планирования и проведения изменений в семейном кругу. Однако в этом случае нужно быть очень аккуратным, чтобы не навредить вашим отношениям. Кстати, я в браке уже 28 лет. Ребята, оно реально работает. Но, как говорится, это уже совсем другая история.<br /><br />Так вот, про изменения. Задумывались ли вы когда-нибудь почему предложенные вами изменения не вызывают восторг у окружающих и остаются лишь мечтами, несмотря на то, что с вашей точки зрения они очень полезны? Но остальные, к вашему удивлению, почему-то так не думают и не спешат делать то, что вы задумали. Бывало?&nbsp;</p> <a href="https://habr.com/ru/articles/926478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926478#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Что было на выставке ЦИПР — парадная сторона и мрачная изнанка]]></title>
+        <link>https://habr.com/ru/companies/h3llo_cloud/articles/926480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926480</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/h3llo_cloud/articles/926480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926480</guid>
+        <pubDate>Thu, 10 Jul 2025 11:00:07 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d4c/3b7/259/d4c3b72594e034a46bf24cea528e9160.jpg" /><p>У меня очень странное впечатление. С одной стороны, круто, что конференция есть и всех удалось собрать. С другой — ужасный опыт участия, конские цены и пафосные заголовки пресс-релизов. </p><p>Удивительно, но многие узнавали нас по блогу на Хабре. </p><p>Участие стоит несколько десятков миллионов рублей за стенд (мы не взяли) — ну или 50 тысяч рублей за самый простой билет и 150 тысяч за VIP. Мы взяли за 150, но сразу скажу, подсыхающие канапе этого не стоили. Но тем не менее оказалось дичайше полезно. </p><p>Сейчас расскажу, зачем вообще ездить на такие конференции и какой профит с них можно получить. Потому что может показаться довольно странным ехать на конференцию «Цифровая индустрия промышленной России» не в онлайн. </p><p>Вообще-то изначальная задумка была как в анекдоте про то, что когда программисты придут к власти, целые министерства можно будет заменить на один скрипт. Это место, где собираются все ключевые люди, определяющие будущее ИТ России. Чтобы обсудить важные вещи, познакомиться лично и прибухнуть, конечно.</p><p>В этом году основной темой были LLM. Их теперь все называют ИИ. Ещё импортозамещение, ИБ, как и что автоматизировать, где брать и как обучать людей и всё такое. Но основной лейтмотив был — хайп на LLM и «внедряй, а то проиграешь». </p><p>Почему Нижний — потому что там крупный ИТ-кластер, наука и промышленность. Почти как Екатеринбург, где тоже промышленность и большое население дали отличный старт для роста ИТ в 90-х. </p><p>Начну с того, что, конечно, дико жалко денег. Жаба прям давит. </p> <a href="https://habr.com/ru/articles/926480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926480#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Многомерный анализ данных временных рядов]]></title>
+        <link>https://habr.com/ru/articles/926598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926598</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926598</guid>
+        <pubDate>Thu, 10 Jul 2025 10:59:21 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/654/6dc/20f/6546dc20ffb410e434942214df7fcbe8.png" /><p>Попробуем применить многомерный анализ к данным временных рядов с помощью интерактивной визуализации данных измерений и их взаимосвязей.</p> <a href="https://habr.com/ru/articles/926598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926598#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Когда в школу приходит ИИ | AI Academy: событие, которое хочется назвать поворотом]]></title>
+        <link>https://habr.com/ru/articles/926594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926594</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926594</guid>
+        <pubDate>Thu, 10 Jul 2025 10:54:36 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/db7/ee0/190/db7ee019055b61ffb8d45129e12c2217.png" /><p>Июль 2025.<br />Нью-Йорк.<br /><br /><strong>В рамках совместного партнёрства <a href="https://news.microsoft.com/source/2025/07/08/aft-to-launch-national-academy-for-ai-instruction-with-microsoft-openai-anthropic-and-united-federation-of-teachers/" rel="noopener noreferrer nofollow">Microsoft</a>, <a href="https://openai.com/global-affairs/aft/" rel="noopener noreferrer nofollow">OpenAI</a>, Anthropic и крупнейших учительских профсоюзов США запускается National Academy for AI Instruction. (<a href="https://www.youtube.com/watch?app=desktop&amp;v=s1WWs_fZwAc" rel="noopener noreferrer nofollow">Трансляция запуска</a>)</strong><br /><br />Пятигодичная программа обучения учителей работе с искусственным интеллектом.<br />Заявленная цель — подготовить 400 000 педагогов по всей стране.<br />Каждого десятого.<br />Не в теории, а в классе.</p><p>Проект выглядит как сдвиг.<br />Не стартап. Не эксперимент. Не вброс.</p><p>– Отдельный кампус в центре Манхэттена.<br />– Инфраструктура доступа: API, методическая поддержка, образовательные хабы.<br />– Интеграция с программами развития.<br />– Поддержка от профсоюзов, бизнеса и государства.<br />– Прямая трансляция запуска.<br />– Присутствие учителей не как объекта реформы, а как участников.</p><p>Слово "партнёрство" звучит не как фигура речи, а как позиция.</p> <a href="https://habr.com/ru/articles/926594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926594#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Китайцы превратили пчелу в киборга и заставили её летать по командам с пульта от телевизора]]></title>
+        <link>https://3dnews.ru/1125754</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125754</guid>
+        <pubDate>Thu, 10 Jul 2025 10:51:00 -0000</pubDate>
+        <description><![CDATA[Китайские учёные сообщили о создании самого лёгкого в мире мозгового контроллера, с помощью которого превратили обычную медоносную пчелу в киборга. По командам с инфракрасного пульта дистанционного управления пчела закладывала виражи и летела в заданном направлении. Разработка может изменить методы тактической разведки и помочь при обследовании зон бедствий. Источник изображения: Beijing Institute of Technology]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[«Перестроили многое с нуля»: новые подробности ролевой игры Warhammer 40,000: Dark Heresy от авторов Rogue Trader]]></title>
+        <link>https://3dnews.ru/1125755</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125755</guid>
+        <pubDate>Thu, 10 Jul 2025 10:49:00 -0000</pubDate>
+        <description><![CDATA[Продюсер Owlcat Games Анатолий Шестов и глава издательского отдела студии Андрей Цветков поделились с изданием Windows Central деталями партийной ролевой игры Warhammer 40,000: Dark Heresy во вселенной мрачного будущего.   Источник изображений: Owlcat Games]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Nvidia показала уникальную GeForce RTX 5090 с Суперменом и Крипто, которых нарисовал глава DC Comics]]></title>
+        <link>https://3dnews.ru/1125753</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125753</guid>
+        <pubDate>Thu, 10 Jul 2025 10:43:00 -0000</pubDate>
+        <description><![CDATA[В честь предстоящего выхода в прокат фильма &laquo;Супермен&raquo; от DC Studios 11 июля компания Nvidia разыграет уникальную флагманскую видеокарту GeForce RTX 5090 Founders Edition с авторской росписью от Джима Ли (Jim Lee) &mdash; президента, издателя и главного креативного директора издательского дома DC Comics. Источник изображения: Nvidia]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Психология тестировщика: почему критическое мышление — это суперсила]]></title>
+        <link>https://habr.com/ru/companies/ozontech/articles/924608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924608</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ozontech/articles/924608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924608</guid>
+        <pubDate>Thu, 10 Jul 2025 10:33:40 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/ab7/c20/853/ab7c20853ac36878c851b7091cce18e1.jpg" /><p><strong>Статья Галины Шайдуровой</strong></p><p><strong>Психология тестировщика: почему критическое мышление – это суперсила</strong></p><p>Привет, Хабр! Меня зовут Галина, я работаю QA-инженером в Ozon Tech. Если вы думаете, что тестировщики только ищут баги, то вы заблуждаетесь. Мы — не просто охотники за дефектами (хотя баги ловить умеем). Мы те, кто ежедневно выходит на поле боя против самого изощренного противника — нашего собственного мозга.</p><p>Вы обращали внимание на то, как легко не заметить очевидное? Например, когда вы ищете очки, а они у вас на голове. Теперь представьте, что тестировщик делает это на уровне сложных систем и интерфейсов, где каждая «потерянная пара очков» может обернуться тысячами разъяренных пользователей.</p><p>Сегодня хочу рассказать, почему критическое мышление — это суперсила любого тестировщика, ссылаясь на теории классиков, таких как Майерс Г. и Кейнер К. Мы разберем, как когнитивные искажения могут мешать находить баги, что помогает развивать аналитический подход, и как нестандартное мышление спасает проекты (и иногда ночной сон).</p> <a href="https://habr.com/ru/articles/924608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924608#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[«МегаФон» ввёл в эксплуатацию новые ЦОД в Твери и Екатеринбурге]]></title>
+        <link>https://3dnews.ru/1125757</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125757</guid>
+        <pubDate>Thu, 10 Jul 2025 10:32:00 -0000</pubDate>
+        <description><![CDATA[Новые дата-центры &laquo;МегаФона&raquo; заработали в Твери и Екатеринбурге. Оба ЦОД предназначены для хранения и резервного копирования информации. Предполагается, что это обеспечит сети компании дополнительные надёжность и устойчивость, сообщает пресс-служба &laquo;МегаФона&raquo;. К строительству новых площадок пришлось прибегнуть из-за стремительного роста трафика и &laquo;цифровизации&raquo; различных сфер деятельности &mdash; для этого было необходимо расширить инфраструктуру оператора. Новые ЦОД используют идентичные инженерные решения, компоненты, процессы и стандарты. По данным &laquo;МегаФона&raquo;, площадь каждого дата-центра составляет 800 м2, оба вмещают по 110 стоек, а IT-мощность составит 1 МВт (при размещении стандартных стоек на 7 кВт). При этом центры построены с учётом возможного использования стоек на 15 кВт с увеличением общей мощности до 1,5 МВт.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Amazon планирует инвестировать миллиарды долларов в ИИ-стартап Anthropic]]></title>
+        <link>https://3dnews.ru/1125752</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125752</guid>
+        <pubDate>Thu, 10 Jul 2025 10:29:00 -0000</pubDate>
+        <description><![CDATA[Amazon обдумывает вложить ещё нескольких миллиардов долларов в стартап Anthropic, чтобы укрепить стратегическое партнёрство. Оно, по мнению обеих компаний, даст им преимущество в мировой гонке за прибыль от искусственного интеллекта. Источник изображения: Marques Thomas / Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Границы мысли: Непротиворечивая математика и вопрос Бога]]></title>
+        <link>https://habr.com/ru/articles/926560/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926560</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926560/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926560</guid>
+        <pubDate>Thu, 10 Jul 2025 10:28:30 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/b22/a47/c60/b22a47c60fde32914824416d3bb22159.jpg" /><p>Существует глубокая и, по моему мнению, парадоксальная аналогия между двумя на первый взгляд несопоставимыми задачами: построением непротиворечивой математики и доказательством существования Бога. Обе они преследуют идеал абсолютной достоверности и завершенности знания. И обе наталкиваются на непреодолимые препятствия, вырастающие из самой природы человеческого разума. <br />Лично меня этот вопрос занимает уже много лет: является ли это совпадением, или же мы обнаруживаем здесь универсальный предел человеческого мышления?</p> <a href="https://habr.com/ru/articles/926560/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926560#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Степлер, который уничтожил десятки Nintendo Switch 2, выставили на аукцион]]></title>
+        <link>https://3dnews.ru/1125751</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125751</guid>
+        <pubDate>Thu, 10 Jul 2025 10:28:00 -0000</pubDate>
+        <description><![CDATA[Американская розничная сеть GameStop, специализирующаяся на продаже связанных с компьютерными играми товаров, любит общаться с потребителями в неформальной манере. Её новая инициатива продолжает эту добрую традицию: ретейлер выставил на аукцион степлер, которым его сотрудники бездумно наносили повреждения новеньким приставкам Nintendo Switch 2. Источник изображений: ebay.com]]></description>
     </item>
 
     <item>
@@ -168,7 +280,7 @@
     </item>
 
     <item>
-        <title><![CDATA[BPMN vs DMN: Как управлять бизнесом без путаных инструкций?]]></title>
+        <title><![CDATA[BPMN vs DMN: Как управлять бизнес-правилами в информационных системах без путаных инструкций?]]></title>
         <link>https://habr.com/ru/articles/926538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926538</link>
         <guid isPermaLink="true">https://habr.com/ru/articles/926538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926538</guid>
         <pubDate>Thu, 10 Jul 2025 08:55:35 -0000</pubDate>
@@ -397,54 +509,6 @@
         <guid isPermaLink="true">https://habr.com/ru/articles/887240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887240</guid>
         <pubDate>Thu, 10 Jul 2025 07:38:32 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/6d4/975/ea6/6d4975ea6ee5c833f49333990184c6c8.jpeg" /><p>В данной части из серии статей мы погрузимся чуть глубже в недра Swift Concurrency. Как определяется поток, на котором будет выполняться Task? Почему в рамках одной Task поток может меняться? Что такое Executor и на какие типы он делится? За что отвечает TaskExecutor, а за что SerialExecutor? Как определить текущий Executor по коду? Как использовать свой самописный Executor? В этой статье ответим на эти (и многие другие) вопросы.</p> <a href="https://habr.com/ru/articles/887240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887240#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Как Томас Кук туризм придумал]]></title>
-        <link>https://habr.com/ru/companies/gazprombank/articles/926222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926222</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/gazprombank/articles/926222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926222</guid>
-        <pubDate>Thu, 10 Jul 2025 07:30:29 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/8d3/554/a2b/8d3554a2ba1f9d4fb48fadf506286eb4.png" /><p>В июле 1841 года английский плотник и проповедник Томас Кук организовал первую в истории групповую туристическую поездку — на 228 лет позже Сусанина с его первой иммерсивной экскурсией. </p><p>За шиллинг с человека он договорился о железнодорожном маршруте из Лестера в Лафборо для участников собрания трезвенников: включил проезд, питание и развлекательную программу. </p><p>Ведь нужно же было чем-то занять трезвенников, чтобы они оставались трезвенниками.</p><p>Так появилась концепция пакетного тура, а сам Кук стал одним из первых профессиональных турагентов. </p> <a href="https://habr.com/ru/articles/926222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926222#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Out of the box: отчуждаемый механизм корреляции]]></title>
-        <link>https://habr.com/ru/companies/securityvison/articles/926436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926436</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/securityvison/articles/926436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926436</guid>
-        <pubDate>Thu, 10 Jul 2025 07:23:53 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/a13/fb3/bec/a13fb3bec65958a3315a0292a54ba0c1.jpg" /><p>В этой статье хотелось бы рассказать вам о том, как можно решить стандартную задачу информационной безопасности нестандартным способом, позаимствовав механизм из другого решения. </p><p>Наверное, у большинства специалистов по ИБ слова «правила корреляции» и «корреляционный движок» прочно ассоциируются с таким классом решений, как SIEM. Вероятно, так сложилось потому, что именно там они и задействованы. Здесь же хочется показать вам, что существуют такие задачи в ИБ, решить которые можно не только привычным способом, но и в том числе с применением логики правил корреляции.</p> <a href="https://habr.com/ru/articles/926436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926436#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Интерактивная карта Республики Коми с отображением социально-экономических показателей]]></title>
-        <link>https://habr.com/ru/articles/926466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926466</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926466</guid>
-        <pubDate>Thu, 10 Jul 2025 07:15:29 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/988/e81/6ba/988e816ba2e76b0c13c0c1d094945294.png" /><p>Делюсь опытом как&nbsp;я сделал интерактивную карту Республики Коми: от&nbsp;QGIS и D3.js до&nbsp;графиков и API Wikidata. Карта визуализирует социально‑экономические показатели районов и населённых пунктов, поддерживает масштабирование, позволяет переключать слои, выбирать тёмную и светлую темы, а&nbsp;также получать справочную информацию об&nbsp;объектах.</p> <a href="https://habr.com/ru/articles/926466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926466#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Как ИИ ломает систему авторских прав: технические детали и будущее творчества]]></title>
-        <link>https://habr.com/ru/articles/926384/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926384</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926384/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926384</guid>
-        <pubDate>Thu, 10 Jul 2025 07:15:25 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/031/c93/858/031c9385869c0747e84e03f91d854f37.png" /><p>В статье известного техноблогера Андреса Гуадамуза на сайте Technollama разбираются ключевые проблемы, связанные с тем, почему старая система авторского вознаграждения не работает в эпоху генеративного ИИ. По сути, затронутая тема, это не просто юридические тонкости - это будущее творчества и прав создателей.</p> <a href="https://habr.com/ru/articles/926384/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926384#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Страх и ненависть в CRM: как можно применить Process Mining на процессе продаж от лида до сделки]]></title>
-        <link>https://habr.com/ru/companies/pix_robotics/articles/926356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926356</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/pix_robotics/articles/926356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926356</guid>
-        <pubDate>Thu, 10 Jul 2025 07:11:45 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/39a/fef/872/39afef872d9501a02b086dccf449eded.jpg" /><p>Мы – компания PIX Robotics – помогаем сотням компаний повышать их операционную эффективность с помощью наших решений. Наша команда имеет большой опыт в роботизации бизнес-процессов, но в то время проекты по процессному анализу были для нас в новинку. И, хотя мы работаем с партнёрами-консультантами и интеграторами с многолетним опытом и глубокой экспертизой в Process Mining, нашей внутренней команде также было необходимо нарастить экспертизу, чтобы более эффективно проводить пресейл и развивать наш продукт.</p><p>&nbsp;А как быстрее всего научиться и получить обратную связь? Конечно,&nbsp; провести внутренний проект на одном из наших собственных процессов.</p> <a href="https://habr.com/ru/articles/926356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926356#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Пиксель VK Реклама — краткий обзор инструмента]]></title>
-        <link>https://habr.com/ru/articles/925566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925566</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925566</guid>
-        <pubDate>Thu, 10 Jul 2025 07:08:09 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/fba/bb0/90f/fbabb090f97d2604e95b7973db275105.png" /><p>Ведёте пользователей на сайт с помощью VK рекламы? Не забудьте установить пиксель VK Реклама, чтобы улучшить результаты и получать лиды и продажи.</p> <a href="https://habr.com/ru/articles/925566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925566#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -741,70 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125617</guid>
         <pubDate>Wed, 09 Jul 2025 14:00:04 -0000</pubDate>
         <description><![CDATA[Компания Samsung представила складной смартфон Galaxy Z Fold7, который стал самым тонким и лёгким устройством в истории серии. Новинка получила увеличенные по сравнению с предшественником дисплеи, современную аппаратную платформу и улучшенный набор камер.   Galaxy Z Fold7 отличается обновлённым дизайном: толщина корпуса в раскрытом виде составляет всего 4,2 мм &mdash; на 25 % меньше, чем у предшественника, а вес снизился до 215 граммов. Смартфон мог бы претендовать на звание самого тонкого в мире, но неделю назад инициативу перехватила компания Honor, представив модель Magic V5 с толщиной корпуса 4,1 мм. Корпус новинки Samsung выполнен из усиленного алюминиевого сплава и стекла Corning Gorilla Glass Victus 2.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Представлена похудевшая раскладушка Samsung Galaxy Z Flip7 с чипом Exynos 2500 и увеличенными экранами за 91 990 рублей]]></title>
-        <link>https://3dnews.ru/1125637</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125637</guid>
-        <pubDate>Wed, 09 Jul 2025 14:00:02 -0000</pubDate>
-        <description><![CDATA[Сегодня компания Samsung в рамках мероприятия Galaxy Unpacked представила не только складной смартфон-книжку Galaxy Z Fold7, но и раскладушку Galaxy Z Flip7. От прошлогоднего Flip6 новинка отличается в первую очередь более крупными дисплеями, а также более мощной аппаратной платформой и более тонким корпусом.   Главное обновление коснулось внешнего экрана: теперь это 4,1-дюймовый Super AMOLED-дисплей с разрешением 948 &times; 1048 пикселей, который покрывает почти всю площадь крышки верхней половины смартфона и обладает рамками толщиной всего 1,25 мм. С этого экрана можно управлять виджетами, быстро отвечать на уведомления, использовать его во время съёмки и запускать различные функции.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Samsung представила смарт-часы Galaxy Watch8 и Watch8 Classic с измерением антиоксидантов и ценой от 25 990 рублей]]></title>
-        <link>https://3dnews.ru/1125600</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125600</guid>
-        <pubDate>Wed, 09 Jul 2025 14:00:01 -0000</pubDate>
-        <description><![CDATA[На очередной презентации Galaxy Unpacked компания Samsung официально представила флагманские умные часы нового поколения: Galaxy Watch8 и Galaxy Watch8 Classic. Устройства работают на одной программной и аппаратной платформе, но имеют некоторые отличия и предлагают множество новых функций.   Смарт-часы Samsung Galaxy Watch8 и Watch8 Classic могут похвастаться интеграцией с пакетом функций искусственного интеллекта Galaxy AI+, основанных на интеллектуальном помощнике Google Gemini. Для быстрого запуска умного ассистента достаточно повернуть запястье или нажать кнопку на корпусе устройства. Чат-бот работает в режиме полноценного собеседника, позволяя вести диалог и получать рекомендации в реальном времени. ИИ также отвечает за голосовой ввод сообщений &mdash; они оформляются и отправляются адресатам. Учитывая контекст, система предлагает наиболее подходящие варианты ответов в переписке. Приложение &laquo;Яндекс Музыка&raquo; для Galaxy Watch позволяет сохранять любимые композиции прямо в памяти часов, чтобы потом слушать музыку, не подключаясь к сети или смартфону.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Samsung представила обновлённые смарт-часы Galaxy Watch Ultra с титановым корпусом за 44 990 рублей]]></title>
-        <link>https://3dnews.ru/1125602</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125602</guid>
-        <pubDate>Wed, 09 Jul 2025 14:00:00 -0000</pubDate>
-        <description><![CDATA[Вслед за основными моделями смарт-часов Galaxy Watch8 и Watch8 Classic компания Samsung на мероприятии Galaxy Unpacked представила обновлённую версию своих флагманских смарт-часов Galaxy Watch Ultra. Их отличает более крупный и более прочный титановый корпус.   Функционально Samsung Galaxy Watch Ultra минимально отличаются от двух других флагманских моделей умных часов восьмого поколения. Пакет Galaxy AI+ открывает доступ к помощнику с искусственным интеллектом &mdash; с ним можно вести полноценные беседы, задавать вопросы и в реальном времени получать на них ответы. Поддерживается голосовой ввод сообщений с помощью ИИ &mdash; он же их надлежащим образом оформит и предложит варианты ответов в контексте переписки. Приложение &laquo;Яндекс Музыка&raquo; поддерживает сохранение треков в память устройства и их последующее воспроизведение прямо со смарт-часов без подключения к смартфону и сети.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Новая статья: Первый взгляд на гибкие смартфоны Samsung Galaxy Z Fold7 и Samsung Galaxy Z Flip7]]></title>
-        <link>https://3dnews.ru/1125641</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125641</guid>
-        <pubDate>Wed, 09 Jul 2025 13:59:00 -0000</pubDate>
-        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/08/1125641.jpg" width="120" />Мы (да далеко не только мы) много сетовали на то, что Samsung в роли первопроходца и лидера рынка складных смартфонов чуть расслабилась, не обновляя должным образом свои Fold и Flip. Что ж, в 2025-м компания решительным образом это исправляет]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Mistral AI хочет привлечь $1 млрд для конкуренции с OpenAI]]></title>
-        <link>https://3dnews.ru/1125690</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125690</guid>
-        <pubDate>Wed, 09 Jul 2025 13:44:00 -0000</pubDate>
-        <description><![CDATA[Французский ИИ-стартап Mistral AI ведёт переговоры с базирующимся в Абу-Даби (ОАЭ) фондом MGX и другими структурами о привлечении до $1 млрд акционерного капитала, сообщает Bloomberg со ссылкой на осведомлённые источники. По информации источников, кроме акционерного финансирования Mistral пытается привлечь сотни миллионов евро в кредит &mdash; переговоры ведутся с французскими компаниями, включая Bpifrance SACA. На данный момент Bpifrance уже является инвестором Mistral AI. Пока переговоры носят предварительный характер и условия возможной сделки могут быть изменены. Нет точных данных, какой станет капитализация компании после привлечения инвестиций. В самих Mistral, MGX и Bpifrance информацию пока не комментируют.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[За год замедления YouTube в России Rutube нарастил просмотры в 7,5 раз]]></title>
-        <link>https://3dnews.ru/1125691</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125691</guid>
-        <pubDate>Wed, 09 Jul 2025 13:26:00 -0000</pubDate>
-        <description><![CDATA[По итогам первой половины 2025 года количество просмотров видео на Rutube составило более 26 млрд &mdash; за аналогичный период прошлого года этот показатель был 3,5 млрд, что соответствует годовому росту в 7,5 раза. Об этом сообщается в пресс-релизе &laquo;Газпром-Медиа Холдинга&raquo; со ссылкой на аналитический центр самой платформы. Источник изображения: rutube.ru]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Флеш-память подорожает на 8–13 % в текущем квартале и потянет за собой цены на SSD]]></title>
-        <link>https://3dnews.ru/1125689</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125689</guid>
-        <pubDate>Wed, 09 Jul 2025 13:20:00 -0000</pubDate>
-        <description><![CDATA[По прогнозам аналитиков TrendForce, контрактные цены на флеш-память NAND во второй половине 2025 года вырастут на 5&ndash;10 %. При этом из-за слабого спроса на смартфоны подорожание микросхем памяти eMMC и UFS будет менее выраженным. Источник изображения: Unsplash]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Глава OpenAI пообещал миру принципиально новый компьютер — современные не подходят для мира с ИИ]]></title>
-        <link>https://3dnews.ru/1125688</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125688</guid>
-        <pubDate>Wed, 09 Jul 2025 13:01:00 -0000</pubDate>
-        <description><![CDATA[С развитием генеративного искусственного интеллекта всё более очевидным становится вопрос о том, насколько современные компьютеры подходят для работы с передовыми и новейшими возможностями ИИ. Возможно, пришла пора сделать шаг вперёд, и человечество с радостью воспримет устройство принципиально нового типа, считает гендиректор OpenAI Сэм Альтман (Sam Altman). Источник изображения: Dima Solomin / unsplash.com]]></description>
     </item>
 
 </channel>
