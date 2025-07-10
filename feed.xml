@@ -4,8 +4,72 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Thu, 10 Jul 2025 05:20:52 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 06:27:35 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[72 рабочих часа в неделю, никаких пушей и «следующее действие»: формула на 100 млн ₽]]></title>
+        <link>https://habr.com/ru/articles/926444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926444</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926444</guid>
+        <pubDate>Thu, 10 Jul 2025 06:19:50 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/455/9f6/bd0/4559f6bd06f99dec0651e1a3410dec47.jpeg" /><p>Сейчас все топят быть продуктивным, эффективным. Я тоже адепт эффективности.</p><p>Как сделать еще больше, как иметь больше энергии?</p><p>Я пробовал Яндекс.Календарь, потому что я всегда пытаюсь пользоваться чем-то отечественным. Искренне хочу, чтобы у нас были классные вещи, но я не знаю, по какой причине Яндекс.Календарь — это пока что дно.</p> <a href="https://habr.com/ru/articles/926444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926444#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Перенос ценой $250 миллионов: Subnautica 2 не выйдет в 2025 году, зато получила первый геймплейный трейлер]]></title>
+        <link>https://3dnews.ru/1125730</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125730</guid>
+        <pubDate>Thu, 10 Jul 2025 06:19:33 -0000</pubDate>
+        <description><![CDATA[Вслед за шокирующей сменой руководства в студии Unknown Worlds Entertainment южнокорейский издатель Krafton объявил о переносе старта раннего доступа подводного симулятора выживания Subnautica 2.   Источник изображений: Krafton]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[A practical guide to backing up Revit Server Models V2 или делаем по-человечески то, что делалось не для людей]]></title>
+        <link>https://habr.com/ru/articles/926442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926442</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926442</guid>
+        <pubDate>Thu, 10 Jul 2025 06:17:09 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/c93/afd/139/c93afd1395f88b1652c7b218350dfc78.png" /><p>A practical guide to backing up Revit Server&nbsp;Models V2</p><p>Практическое руководство и решение задачи бэкапа ревит-сервера на файловом уровне.</p> <a href="https://habr.com/ru/articles/926442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926442#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Обменники в RabbitMQ, которые не продают валюту]]></title>
+        <link>https://habr.com/ru/companies/otus/articles/926344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926344</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/otus/articles/926344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926344</guid>
+        <pubDate>Thu, 10 Jul 2025 05:43:01 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/27f/c9e/689/27fc9e689fc481f0d772a7736f0be397.jpg" /><p>Очень часто в&nbsp;проектах необходимо использовать передачу сообщений между компонентами распределенной системы по&nbsp;определенным правилам. И перед разработчиком встает вопрос&nbsp;— какой инструмент наиболее эффективно можно использовать для&nbsp;этого? И сегодня мы рассмотрим брокер сообщений, который позволяет это делать «прямо из&nbsp;коробки» и это будет RabbitMQ.</p><p>RabbitMQ&nbsp;— это популярный брокер сообщений, который реализует стандарт AMQP и который позволяет эффективно управлять коммуникацией между сервисами через очереди. И в&nbsp;этой статье мы разберем основные типы обменников (exchange): Direct, Topic, Headers и Fanout, которые напрямую участвуют в&nbsp;процессе маршрутизации, а&nbsp;также приведем примеры их настройки в&nbsp;Spring Boot. </p> <a href="https://habr.com/ru/articles/926344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926344#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Суд: почта Великобритании и Fujitsu «должны были знать» о дефектах IT-системы Horizon, сломавших сотни жизней]]></title>
+        <link>https://3dnews.ru/1125684</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125684</guid>
+        <pubDate>Thu, 10 Jul 2025 05:42:46 -0000</pubDate>
+        <description><![CDATA[Предварительные результаты расследования сбоев системы Horizon почтовой службу Великобритании (Royal Mail), показали, что и руководство почты, и Fujitsu с ICL, которые и разработали Horizon, знали или должны были знать о дефектах и ошибках в ПО, сообщает The Register. Из-за сбоев в бухгалтерской отчётности Horizon пострадали сотни сотрудников почтовых отделений. Многие получили штрафы, некоторые отправились в тюрьму, а ещё 13 человек, по-видимому, совершили суицид из-за неправомерных обвинений. Королевская почта Великобритании начала внедрять IT-систему Horizon в 1990-е годы. Разработанное компанией ICL (позже поглощённой Fujitsu) программное обеспечение допускало ошибки, из-за которых в 1999&ndash;2015 гг. 736 сотрудников почтовых отделений были несправедливо обвинены в мошенничестве и осуждены. Причём с выпуском обновлений ПО ситуация лучше не становилась. В 2021 году было начато официальное расследование, а теперь опубликован первый отчёт, посвящённый пострадавшим и компенсациям.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Туториал: запускаем Hunyuan-A13B модель на vLLM и на llama.cpp]]></title>
+        <link>https://habr.com/ru/articles/926438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926438</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926438</guid>
+        <pubDate>Thu, 10 Jul 2025 05:29:48 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/480/1f7/26e/4801f726eef0b6ed3648ecee5c20b31e.png" /><p>Недавно вышла новая модель - Hunyuan-A13B:</p><p><a href="https://huggingface.co/tencent/Hunyuan-A13B-Instruct-GPTQ-Int4" rel="noopener noreferrer nofollow">https://huggingface.co/tencent/Hunyuan-A13B-Instruct-GPTQ-Int4</a> (это уже квант)</p> <a href="https://habr.com/ru/articles/926438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926438#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Пример создания патча для PostgreSQL]]></title>
+        <link>https://habr.com/ru/companies/tantor/articles/926386/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926386</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/tantor/articles/926386/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926386</guid>
+        <pubDate>Thu, 10 Jul 2025 05:25:58 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3d8/5dd/841/3d85dd8411e617b5193c54fc9680da05.png" /><p>На апрельской конференции&nbsp;<a href="https://pgbootcamp.ru/ru/2025-ekaterinburg" rel="noopener noreferrer nofollow">PG BootCamp 2025</a>&nbsp;в Екатеринбурге был представлен&nbsp;<a href="https://rutube.ru/video/fbf9aa3039e62c7ba11cc4162de338cc" rel="noopener noreferrer nofollow">доклад</a>&nbsp;Артёма Бугаенко о том, как сделать статистику Postgres более детализированной, не повышая DST. Однако если посмотреть на доклад под немного другим углом, то ему отлично подошло бы название «Пример создания патча для PostgreSQL». Примеры правки логики планировщика есть во многих патчах, но объяснение того, куда и какой код нужно вставлять в многочисленные файлы исходного кода PostgreSQL, встречается нечасто. Можно встретить примеры описания того, как добавить параметры конфигурации, а вот пример того, как добавить опцию в команду SQL, найти подчас затруднительно. Поэтому если вам требуется добавить в какую-либо команду свою опцию, то можно использовать статью, доклад и предложенный докладчиком патч как руководство.</p> <a href="https://habr.com/ru/articles/926386/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926386#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Tesla через пару месяцев намерена запустить свои роботакси в Сан-Франциско]]></title>
+        <link>https://3dnews.ru/1125729</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125729</guid>
+        <pubDate>Thu, 10 Jul 2025 05:22:00 -0000</pubDate>
+        <description><![CDATA[Долгое время штаб-квартира Tesla находилась в Калифорнии, но после конфликта Илона Маска (Elon Musk) с властями штата во время пандемии она переместилась вместе с ним в столицу Техаса. Именно в Остине компания в прошлом месяце формально запустила работу беспилотных такси, но Маск накануне пообещал, что через пару месяцев они появятся и в районе залива Сан-Франциско. Источник изображения: Tesla]]></description>
+    </item>
 
     <item>
         <title><![CDATA[В два раза лучше ChatGPT o3. Представлен Grok 4]]></title>
@@ -608,35 +672,11 @@
     </item>
 
     <item>
-        <title><![CDATA[Need for speed: оценка ошибок измерений в футбольной аналитике. Часть 1]]></title>
-        <link>https://habr.com/ru/articles/925792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925792</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925792</guid>
-        <pubDate>Wed, 09 Jul 2025 11:44:01 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/bb4/f3f/f00/bb4f3ff00526722188e3cb16e757b18d.jpeg" /><p>Привет! Меня зовут Артем, и я занимаюсь разработкой систем компьютерного зрения в сервисе Яндекс Спорттех. Среди основных задач нашей команды — футбольная аналитика и работа со статистическими данными.</p><p>Яндекс Спорттех обеспечил интеграцию технологических решений в РПЛ — все стадионы участников чемпионата были оборудованы камерами 6К, для клубов организована передача в режиме онлайн фитнес-данных и продвинутых данных на стыке технико-тактических действий. С помощью современных методов компьютерного зрения мы осуществляем детекцию игроков и мяча, ведём их трекинг, а также вычисляем различные ключевые спортивные метрики — пройденные дистанции, максимальные скорости, спринты и рывки, а также экстренные торможения и другие фитнес-показатели, важные как для аналитиков, так и для тренеров и поклонников игры.</p><p>В этих двух статьях мы подробно рассмотрим, почему точное измерение скорости движения и пройденной дистанции игроков критически важно для качественного анализа футбольных матчей. Расскажем, почему любые систематические ошибки и неточности могут весьма существенно исказить выводы и рекомендации для тренерского штаба и аналитиков.&nbsp;</p><p>А ещё поделимся нашим опытом, расскажем о типичных источниках ошибок, возникающих при расчёте скорости и пробега, и опишем подходы, которые позволяют уменьшить их влияние.&nbsp;</p> <a href="https://habr.com/ru/articles/925792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925792#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Flare-On 11: Task 7 (2024) – Анализ и криптовзлом]]></title>
-        <link>https://habr.com/ru/articles/926266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926266</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926266</guid>
-        <pubDate>Wed, 09 Jul 2025 11:39:35 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/71f/f12/e3d/71ff12e3d31b0eb34de762dcf5aa3e9e.png" /><p>В этом разборе подробно рассматривается решение седьмого задания, сочетающего  реверс-инжиниринг и анализ .NET Native AOT-приложения, создание FLIRT-сигнатур и криптоанализ эллиптической кривой.<br /> Порядок генераторной точки оказался составным, что позволило применить метод Полига–Хеллмана и восстановить приватные ключи. После расшифровки сетевого трафика был извлечён флаг.<br /> Эта задача удачно объединяет технический анализ исполняемого файла с практическим применением методов криптоанализа.</p> <a href="https://habr.com/ru/articles/926266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926266#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Arm похвалилась успехами в серверном сегменте — рост в 14 раз за четыре года]]></title>
         <link>https://3dnews.ru/1125685</link>
         <guid isPermaLink="true">https://3dnews.ru/1125685</guid>
         <pubDate>Wed, 09 Jul 2025 11:29:00 -0000</pubDate>
         <description><![CDATA[Долгое время архитектура Arm не могла получить существенного распространения за пределами мобильного рынка и сегмента встраиваемых решений, но в последние годы дело сдвинулось с мёртвой точки. Как отмечает руководство компании, с 2021 года количество использующих её архитектуру клиентов на серверном направлении выросло в 14 раз до 70 000 штук. Источник изображения: Microsoft]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Проектирование контроллера двигателей с GitHub Copilot]]></title>
-        <link>https://habr.com/ru/articles/925660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925660</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925660</guid>
-        <pubDate>Wed, 09 Jul 2025 11:28:46 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/38f/d5c/647/38fd5c64774ec3a630f196487b5539b3.png" /><p>В умном доме всегда найдётся место, где можно применить моторизованные системы. Это регулируемые столы, автоматические двери, окна, электронные замки, лестничные подъёмники, калитки, ворота, жалюзи, маркизы, антенные позиционеры, ротаторы солнечных панелей и т. д.</p> <a href="https://habr.com/ru/articles/925660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925660#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -669,22 +709,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125679</guid>
         <pubDate>Wed, 09 Jul 2025 11:04:00 -0000</pubDate>
         <description><![CDATA[Белорусский холдинг &laquo;Горизонт&raquo; готовится к запуску производства планшетов, сообщает &laquo;БелТА&raquo; со ссылкой на заявление представителя компании, сделанное на выставке &laquo;Иннопром&raquo; в Екатеринбурге. Источник изображения: belta.by]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Подключение Spring AI к локальным AI-моделям с помощью Foundry Local]]></title>
-        <link>https://habr.com/ru/companies/spring_aio/articles/925074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925074</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/spring_aio/articles/925074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925074</guid>
-        <pubDate>Wed, 09 Jul 2025 11:02:47 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/28b/246/3c1/28b2463c1b3547ff008d537b0dfefc63.png" /><p>Команда&nbsp;<a href="https://t.me/+QmrKn0wA8CdkNjAy" rel="noopener noreferrer nofollow">Spring АйО</a>&nbsp;перевела статью, которая покажет, как интегрировать Spring AI с Foundry Local — десктопным приложением от Microsoft, совместимым с OpenAI API. Вы узнаете, как настроить локальную AI-модель, подключить её к Spring Boot и создать REST-эндпоинты для чат-бота и суммаризации текста. Всё это — с акцентом на производительность, безопасность и автономность.</p> <a href="https://habr.com/ru/articles/925074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925074#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Как мы строили KidFolio — цифровую платформу для родителей и детских садов]]></title>
-        <link>https://habr.com/ru/articles/924782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924782</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/924782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924782</guid>
-        <pubDate>Wed, 09 Jul 2025 11:00:05 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/b0d/aac/9ef/b0daac9ef6aabcd05ecd46fd7feba5d1.png" /><p>Массовые фото из детского сада в родительских чатах редко бывают персональными: на десятках снимков сложно найти именно своего ребенка. Выпускники онлайн-магистратуры «Науки о данных» Центра «Пуск» МФТИ предложили решение — платформу KidFolio, которая с помощью технологий компьютерного зрения и мультимодальных моделей автоматически формирует и отправляет родителям персонализированные фото- и видеоотчеты. </p><p>В статье — подробности разработки: от сбора датасета детских лиц до создания собственного бенчмарка и дообучения моделей для генерации текстов.</p> <a href="https://habr.com/ru/articles/924782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924782#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -781,30 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125667</guid>
         <pubDate>Wed, 09 Jul 2025 09:17:00 -0000</pubDate>
         <description><![CDATA[На этой неделе компания OnePlus представила смартфоны Nord 5 и Nord CE5. Вместе с этим вендор анонсировал доступный планшетный компьютер OnePlus Pad Lite, который имеет те же характеристики, что и представленный недавно Oppo Pad SE. Источник изображений: OnePlus]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Выпущена обновлённая версия AMOS — распространённый вирус для macOS стал ещё опаснее]]></title>
-        <link>https://3dnews.ru/1125665</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125665</guid>
-        <pubDate>Wed, 09 Jul 2025 09:12:00 -0000</pubDate>
-        <description><![CDATA[Atomic Stealer (AMOS) &mdash; одна из самых опасных вредоносных программ для кражи информации с компьютеров под управлением Apple macOS &mdash; только что получила крупное обновление, сделавшее её ещё опаснее. Источник изображения: apple.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Не просто HD-версия: разработчики ремейка «Готики» рассказали об отличиях от классической игры Piranha Bytes]]></title>
-        <link>https://3dnews.ru/1125664</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125664</guid>
-        <pubDate>Wed, 09 Jul 2025 08:17:00 -0000</pubDate>
-        <description><![CDATA[Издательство THQ Nordic и барселонская студия Alkimia Interactive представили новый дневник разработки ремейка культовой ролевой игры &laquo;Готика&raquo; (Gothic) от Piranha Bytes. Выпуск посвящён художественному видению проекта.   Источник изображений: THQ Nordic]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Электромобиль Lucid Air проехал на одной зарядке 1205 км — это новый мировой рекорд]]></title>
-        <link>https://3dnews.ru/1125663</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125663</guid>
-        <pubDate>Wed, 09 Jul 2025 07:54:00 -0000</pubDate>
-        <description><![CDATA[Автомобиль компании Lucid Motors установил мировой рекорд по самому большому расстоянию, пройденному серийным электромобилем на одной зарядке, и попал в Книгу рекордов Гиннесса. Lucid Air Grand Touring проехал 1205 километров от Санкт-Морица (Швейцария) до Мюнхена (Германия) без остановок для подзарядки. Источник изображений: Lucid Motors]]></description>
     </item>
 
 </channel>
