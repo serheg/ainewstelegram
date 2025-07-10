@@ -4,8 +4,136 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Thu, 10 Jul 2025 14:18:18 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 15:19:38 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[Интернационализация Python-проектов modern-i18n]]></title>
+        <link>https://habr.com/ru/articles/926698/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926698</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926698/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926698</guid>
+        <pubDate>Thu, 10 Jul 2025 15:14:51 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/aaa/7f0/052/aaa7f0052387874dbed14d085697b537.jpg" /><p>modern-i18n — это легковесная библиотека для интернационализации Python-проектов. Она позволяет легко управлять переводами, использовать параметризованные строки для форматирования текста. Подходит для небольших и крупных проектов.</p> <a href="https://habr.com/ru/articles/926698/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926698#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[К приложению поддержки Apple подключат ИИ]]></title>
+        <link>https://3dnews.ru/1125771</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125771</guid>
+        <pubDate>Thu, 10 Jul 2025 15:09:00 -0000</pubDate>
+        <description><![CDATA[Apple намеревается подключить к приложению поддержки чат-бот с искусственным интеллектом вроде ChatGPT. Это поможет ей в автоматическом режиме обрабатывать обращения по описанным в документации вопросам; на человека клиент будет направляться только в самых сложных случаях. В приложении Apple Support есть функция онлайн-чата, позволяющая клиентам обращаться за помощью к специалистам Apple, но время ожидания ответа может варьироваться в зависимости от времени суток, сезона или состоявшегося недавно выпуска новых продуктов. Поэтому в приложении может появиться функция &laquo;Помощник поддержки&raquo; (Support Assistant) на основе ИИ &mdash; она упоминается в коде приложения, сообщает ресурс MacRumors.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Россияне массово пожаловались на сбои в работе Системы быстрых платежей]]></title>
+        <link>https://3dnews.ru/1125773</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125773</guid>
+        <pubDate>Thu, 10 Jul 2025 15:08:00 -0000</pubDate>
+        <description><![CDATA[Россияне столкнулись с широкомасштабным сбоем в работе Системы быстрых платежей (СБП). Проблемы в работе системы возникли после 15:00 по московскому времени 10 июля. На данный момент жалобы продолжают поступать, а значит проблема сохраняет актуальность. В Национальной системе платёжных карт (НСПК), которая отвечает за функционирование СБП, подтвердили наличие технических проблем. Как сообщили в организации, причиной стало происшествие на стороне провайдера, из-за чего увеличилось время обработки транзакций.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как быстро развернуть приложение в облаке и не потерять данные в S3: туториал]]></title>
+        <link>https://habr.com/ru/companies/cloud_ru/articles/926674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926674</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/cloud_ru/articles/926674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926674</guid>
+        <pubDate>Thu, 10 Jul 2025 15:06:49 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d9c/6c8/6b4/d9c6c86b4d9af653706a5437483d890d.png" /><p>Вы разработчик, проект растет, код пишется легко. И вот уже готово приложение, и вы хотите поскорее показать его заказчику, коллегам или пользователям. Но вместо этого приходится копаться в Kubernetes, настройках кластеров и балансировщиков. Знакомо?</p><p>Я Никита Корольков из <a href="http://Cloud.ru" rel="noopener noreferrer nofollow">Cloud.ru</a>, и сегодня покажу, как без лишних сложностей и запуска виртуальных машин развернуть проект в облаке с помощью Evolution Container Apps и при этом не потерять данные, даже если вы не DevOps.</p> <a href="https://habr.com/ru/articles/926674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926674#habracut">Узнать больше</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Верстаем своего ИИ CLI агента на… Go???]]></title>
+        <link>https://habr.com/ru/articles/926694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926694</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926694</guid>
+        <pubDate>Thu, 10 Jul 2025 14:57:33 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/f3f/d96/b30/f3fd96b307042271dc47c5188df9a9c9.jpg" /><p>Все уже слышали про <strong>Gemini CLI</strong>, который позволяет взаимодействовать с мощной gemini 2.5  прямо из командной строки. Это удобно, быстро и открывает массу возможностей. Но что, если мы захотим не просто использовать готовое решение, а понять, как оно работает изнутри? А если у нас вообще нету VPN для сервисов гугла? Или, что еще интереснее, создать свой собственный, пусть и экспериментальный, аналог? Чем мы хуже? Давайте сверстаем свой вариант на... <strong>GOLANG</strong>?</p> <a href="https://habr.com/ru/articles/926694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926694#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[[Перевод] В решение этой математической задачи с укладкой блоков сложно поверить]]></title>
+        <link>https://habr.com/ru/articles/926692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926692</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926692</guid>
+        <pubDate>Thu, 10 Jul 2025 14:56:24 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/cf7/6ec/0f2/cf76ec0f238e4a0952ced9b61f7b8d97.jpg" /><p>Вот удивительный эксперимент, который вы можете попробовать провести у себя дома: соберите несколько игрушечных блоков и положите их на стол. Возьмите один блок и медленно, сантиметр за сантиметром, продвигайте его за край стола, пока он не окажется на грани падения. Если у вас есть терпение и твёрдая рука, у вас должно получиться сбалансировать его так, чтобы ровно половина свисала с края. Стоит сдвинуть его ещё дальше, и гравитация победит. Теперь возьмите два блока и начните сначала. Укладывая один блок на другой, как далеко вы сможете завести конец верхнего блока, чтобы он высунулся за край стола?</p> <a href="https://habr.com/ru/articles/926692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926692#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Duit: как создать эффективный BDUI фреймворк, не привлекая внимания санитаров]]></title>
+        <link>https://habr.com/ru/companies/friflex/articles/926690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926690</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/friflex/articles/926690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926690</guid>
+        <pubDate>Thu, 10 Jul 2025 14:53:39 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/fd8/fdf/e51/fd8fdfe515df4b86b71f8f0fb12bcaf5.jpg" /><p>Привет, Хабр! Меня зовут Никита Синявин, я ведущий Flutter-разработчик в компании BetBoom, а сегодня еще и гостевой автор Friflex. В этой статье я расскажу о своем Opus Magnum — создании эффективного Backend-Driven UI под названием <a href="https://duit.pro/" rel="noopener noreferrer nofollow">Duit</a>. </p> <a href="https://habr.com/ru/articles/926690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926690#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[ИИ-помощник Google Gemini появился на Pixel Watch и других смарт-часах с Wear OS]]></title>
+        <link>https://3dnews.ru/1125769</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125769</guid>
+        <pubDate>Thu, 10 Jul 2025 14:50:00 -0000</pubDate>
+        <description><![CDATA[На конференции Google I/O в мае компания пообещала в скором будущем выпустить приложение помощника с искусственным интеллектом Gemini для умных часов под управлением Wear OS. Накануне сервис действительно дебютировал на устройствах этого типа &mdash; первыми его получили модели серии Samsung Galaxy Watch8. Источник изображения: Google]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Великий блеф маркетинга: создание потребности. Секрет Стива Джобса]]></title>
+        <link>https://habr.com/ru/articles/926688/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926688</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926688/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926688</guid>
+        <pubDate>Thu, 10 Jul 2025 14:41:21 -0000</pubDate>
+        <description><![CDATA[<p>Маркетинг  так далеко ушел от своего изначального значения – помогать Продавать, что превратился даже не в искусство, что было бы неплохо, а чаще всего в Колдовство-Шарлатанство.  </p><p>И если в обыденной жизни мы не верим в чудеса, то когда вопрос касается бизнеса, начинаем Верить, что маркетологи могут совершить Чудо и Наш Товар будут покупать, если над ним «опытный специалист-маркетолог» сделает пасы руками. </p><p>Странно? Да, нет пожалуй.  Нам же хочется верить в Чудо, при том, что именно его нам и Обещают. </p><p>Давайте же вместе попытаемся определить, что Могут, а что НЕ Могут сделать маркетологи и маркетинг и почему. </p><p>Итак, самый главный блеф-миф маркетинга последних лет (десятилетий) – Маркетинг может создать новую потребность у Клиентов. </p><p>Как это не обидно, это  невозможно в принципе, так как лежит за пределами возможностей человеческих и относится к возможностям Божественным. Если ваш маркетолог Бог, тогда все Ок у вас это получиться, ну а если не повезло и маркетолог – человек, то нет. </p><p>Потребность, а точнее Главная Основная Потребность у каждого человека только одна и на всю жизнь. Изменить ее никто не может, и с этим надо смириться. </p><p>Несомненно, в течение жизни мы путешествуем по Пирамиде Маслоу снизу вверх, но только до Определенного уровня, который и будет для нас Главной Основной Потребностью. </p><p>Для кого-то это будет даже только первый уровень – удовлетворение физиологических потребностей – желание как можно больше захапать. </p><p>Для кого-то желание социального принадлежности. И так далее, но Это будет наша основная потребность. </p> <a href="https://habr.com/ru/articles/926688/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926688#habracut">Как создать реальный продукт</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Electronic Arts скоро оставит Need for Speed Rivals без мультиплеера, но есть и хорошая новость]]></title>
+        <link>https://3dnews.ru/1125770</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125770</guid>
+        <pubDate>Thu, 10 Jul 2025 14:40:00 -0000</pubDate>
+        <description><![CDATA[Американский издатель и разработчик Electronic Arts обновил список игр на скорое отключение серверов. В перечень попала гоночная аркада с открытым миром Need for Speed Rivals от студий Ghost Games и Criterion Games.   Источник изображений: Electronic Arts]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[В Дубае откроется ресторан Woohoo с меню и концепцией от ИИ-шеф-повара]]></title>
+        <link>https://3dnews.ru/1125768</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125768</guid>
+        <pubDate>Thu, 10 Jul 2025 14:39:00 -0000</pubDate>
+        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/10/1125768.jpg" width="120" />Дубай готовится представить публике первый в мире ресторан, где ИИ выступает не в роли помощника, а в качестве полноценного креативного участника кулинарного процесса. Ресторан Woohoo, открытие которого запланировано на сентябрь, разместится в центральной части мегаполиса &mdash; буквально в 300 метрах от небоскрёба &laquo;Бурдж-Халифа&raquo;. Заведение позиционирует себя как &laquo;ужин из будущего&raquo;: по замыслу авторов, всё &mdash; от меню и оформления зала до формата обслуживания &mdash; будет разрабатывать ИИ, предлагающий новый взгляд на кулинарию как на инженерную дисциплину. Источник изображений: woohoo.restaurant]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Своевольный ИИ-бот Grok появится в электромобилях Tesla «не позднее следующей недели»]]></title>
+        <link>https://3dnews.ru/1125766</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125766</guid>
+        <pubDate>Thu, 10 Jul 2025 14:35:00 -0000</pubDate>
+        <description><![CDATA[Илон Маск (Elon Musk) заявил, что Grok, чат-бот, созданный его компанией xAI, скоро будет доступен в автомобилях Tesla. Это заявление последовало после насыщенной недели, когда ИИ-модель публиковала на платформе X ряд провокационных сообщений. Источник изображения: Bram Van Oost / Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[IT-пузырь лопнул? Что реально происходит на рынке: мнение Head of Recruitment]]></title>
+        <link>https://habr.com/ru/companies/profi_ru/articles/926668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926668</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/profi_ru/articles/926668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926668</guid>
+        <pubDate>Thu, 10 Jul 2025 14:30:51 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/448/04c/865/44804c86510f57e9a64778ca2738d90c.png" /><p>Все привыкли, что IT-специалистов в России не хватает. Спасибо СМИ, которые говорят о дефиците в <a href="https://tass.ru/ekonomika/23002135" rel="noopener noreferrer nofollow">100 тысяч</a>, <a href="https://iz.ru/1867428/lubov-lezneva/kadrovyi-holod-do-2030-goda-v-rf-trebuetsa-dopolnitelno-600-tys-it-specialistov" rel="noopener noreferrer nofollow">600 тысяч</a> и даже <a href="https://www.forbes.ru/tekhnologii/496957-gref-ocenil-deficit-it-specialistov-v-rossii-bolee-cem-v-1-mln-celovek" rel="noopener noreferrer nofollow">миллион</a> айтишников. А ещё — мемам про зарплаты «300 тысяч в секунду» и вездесущей рекламе курсов.&nbsp;</p><p>Но при этом специалистов массово <a href="https://www.vedomosti.ru/business/articles/2025/01/22/1087585-sber-nachal-optimizatsiyu-it-personala" rel="noopener noreferrer nofollow">сокращают</a>, а количество вакансий падает. Кажется, что IT-пузырь лопнул, но просто не все это осознали и продолжают жить в нём по инерции.</p><p>Привет, Хабр. Меня зовут Лена Пыхалова, я Head of Recruitment в Профи.ру. Рассказываю, как вся эта ситуация выглядит со стороны работодателя, как сейчас, в 2025 году, поживает рынок IT в России и кто в найме сильнее — соискатели или работодатели.&nbsp;</p> <a href="https://habr.com/ru/articles/926668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926668#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Bloomberg: Китай строит в пустыне гигантский комплекс ИИ ЦОД для 115 тыс. ускорителей NVIDIA, поставки которых запрещены США]]></title>
+        <link>https://3dnews.ru/1125727</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125727</guid>
+        <pubDate>Thu, 10 Jul 2025 14:30:00 -0000</pubDate>
+        <description><![CDATA[На окраине пустыни Гоби в Синьцзяне (автономный район на северо-западе Китая), по сообщению Bloomberg News, ведутся активные работы по строительству кампуса ЦОД для ИИ-задач. Согласно имеющейся информации, в этих дата-центрах будут применяться серверы с ускорителями NVIDIA, поставки которых запрещены в КНР в соответствии с американскими санкциями. Специалисты Bloomberg News проанализировали сведения, содержащиеся в инвестиционных одобрениях, тендерных документах и заявках китайских компаний. Утверждается, что масштабные планы Китая в отношении развития ИИ прямо предусматривают использование &laquo;запрещённых&raquo; продуктов NVIDIA, а не только местный решений вроде Huawei Ascend.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Отмену мобильного роуминга в ЕАЭС отложили до 2028 год, чтобы не навредить операторам]]></title>
+        <link>https://3dnews.ru/1125767</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125767</guid>
+        <pubDate>Thu, 10 Jul 2025 14:29:00 -0000</pubDate>
+        <description><![CDATA[Запланированную на 2025 год отмену мобильного роуминга на территории стран Евразийского экономического союза (ЕАЭС) отложили до 1 января 2028 года из-за необходимости дополнительной проработки вопросов, связанных с устранением финансовых потерь операторов связи. Об этом сообщает ТАСС со ссылкой на пресс-службу Евразийской экономической комиссии (ЕЭК). Источник изображения: Yura Fresh/unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Тайлер Коуэн: экономист, которого обожает Кремниевая долина]]></title>
+        <link>https://habr.com/ru/companies/onlinepatent/articles/926686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926686</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/onlinepatent/articles/926686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926686</guid>
+        <pubDate>Thu, 10 Jul 2025 14:26:03 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/9da/e30/b69/9dae30b69345811022d8b0f964ce4b99.png" /><p>Тайлер Коуэн — один из самых необычных экономистов современности. Он не просто анализирует цифры и тренды, а предсказывает глобальные изменения, связывает технологии с культурой и философией, а его книги и блог Marginal Revolution стали настольными пособиями для предпринимателей, инвесторов и интеллектуалов по всему миру.</p><p>Но почему именно Коуэн, а не Нобелевские лауреаты или гуру менеджмента, оказался таким влиятельным в Кремниевой долине? Почему его идеи вдохновляют Илона Маска, Пола Грэма и других визионеров технологической индустрии? Разбираемся в феномене Тайлера Коуэна.</p> <a href="https://habr.com/ru/articles/926686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926686#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Как повысить удовлетворенность разработчиков и других сотрудников в Agile — объясняем в пазлах]]></title>
@@ -241,10 +369,10 @@
 
     <item>
         <title><![CDATA[Как превратить набор кубиков в ресурсно-сервисную модель для аналитики и алертинга приложений]]></title>
-        <link>https://habr.com/ru/companies/vk/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248</guid>
+        <link>https://habr.com/ru/companies/vktech/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/vktech/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248</guid>
         <pubDate>Thu, 10 Jul 2025 11:19:16 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/181/0f0/217/1810f02174b375332b302a945a8b1d77.jpg" /><p>Привет, Хабр! На связи Олег Оболенский, СТО бизнес-сегмента VK Tech. В компании я отвечаю за разработку корпоративного ПО, а мои команды также оказывают комплекс профессиональных услуг по адаптации наших решений к бизнес-требованиям заказчиков. Мы реализуем облачные и гибридные проекты любой сложности и масштаба, переносим данные, поддерживаем наши сервисы, помогаем оптимизировать затраты на ИТ, управлять виртуальной инфраструктурой. Из каждого сложного внедрения мы стараемся выносить пользу, чтобы обогащать продукты новыми возможностями. Кейс, про который мы сегодня расскажем, будет на стыке работ сразу нескольких подразделений.  </p> <a href="https://habr.com/ru/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248#habracut">Читать далее</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/181/0f0/217/1810f02174b375332b302a945a8b1d77.jpg" /><p>Привет, Хабр! На связи Олег Оболенский, я руководитель направления проектирования и разработки VK Tech. В компании я отвечаю за разработку корпоративного ПО, а мои команды также оказывают комплекс профессиональных услуг по адаптации наших решений к бизнес-требованиям заказчиков. Мы реализуем облачные и гибридные проекты любой сложности и масштаба, переносим данные, поддерживаем наши сервисы, помогаем оптимизировать затраты на ИТ, управлять виртуальной инфраструктурой. Из каждого сложного внедрения мы стараемся выносить пользу, чтобы обогащать продукты новыми возможностями. Кейс, про который мы сегодня расскажем, будет на стыке работ сразу нескольких подразделений.  </p> <a href="https://habr.com/ru/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -308,7 +436,7 @@
         <link>https://habr.com/ru/articles/926594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926594</link>
         <guid isPermaLink="true">https://habr.com/ru/articles/926594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926594</guid>
         <pubDate>Thu, 10 Jul 2025 10:54:36 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/db7/ee0/190/db7ee019055b61ffb8d45129e12c2217.png" /><p>Июль 2025.<br />Нью-Йорк.<br /><br /><strong>В рамках совместного партнёрства <a href="https://news.microsoft.com/source/2025/07/08/aft-to-launch-national-academy-for-ai-instruction-with-microsoft-openai-anthropic-and-united-federation-of-teachers/" rel="noopener noreferrer nofollow">Microsoft</a>, <a href="https://openai.com/global-affairs/aft/" rel="noopener noreferrer nofollow">OpenAI</a>, Anthropic и крупнейших учительских профсоюзов США запускается National Academy for AI Instruction. (<a href="https://www.youtube.com/watch?app=desktop&amp;v=s1WWs_fZwAc" rel="noopener noreferrer nofollow">Трансляция запуска</a>)</strong><br /><br />Пятигодичная программа обучения учителей работе с искусственным интеллектом.<br />Заявленная цель — подготовить 400 000 педагогов по всей стране.<br />Каждого десятого.<br />Не в теории, а в классе.</p><p>Проект выглядит как сдвиг.<br />Не стартап. Не эксперимент. Не вброс.</p><p>– Отдельный кампус в центре Манхэттена.<br />– Инфраструктура доступа: API, методическая поддержка, образовательные хабы.<br />– Интеграция с программами развития.<br />– Поддержка от профсоюзов, бизнеса и государства.<br />– Прямая трансляция запуска.<br />– Присутствие учителей не как объекта реформы, а как участников.</p><p>Слово "партнёрство" звучит не как фигура речи, а как позиция.</p> <a href="https://habr.com/ru/articles/926594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926594#habracut">Читать далее</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/db7/ee0/190/db7ee019055b61ffb8d45129e12c2217.png" /><p>Июль 2025.<br />Нью-Йорк.<br /><br /><strong>В рамках совместного партнёрства <a href="https://news.microsoft.com/source/2025/07/08/aft-to-launch-national-academy-for-ai-instruction-with-microsoft-openai-anthropic-and-united-federation-of-teachers/" rel="noopener noreferrer nofollow">Microsoft</a>, <a href="https://openai.com/global-affairs/aft/" rel="noopener noreferrer nofollow">OpenAI</a>, Anthropic и крупнейших учительских профсоюзов США запускается National Academy for AI Instruction. (<a href="https://www.youtube.com/watch?app=desktop&amp;v=s1WWs_fZwAc" rel="noopener noreferrer nofollow">Трансляция запуска</a>)</strong><br /><br />Пятигодичная программа обучения учителей работе с искусственным интеллектом.<br />Заявленная цель — подготовить 400 000 педагогов по всей стране.<br />Каждого десятого.<br />Не в теории, а в классе.</p><p>Проект выглядит как сдвиг.<br />Не стартап. Не эксперимент. Не вброс.</p><p>– Отдельный кампус в центре Манхэттена.<br />– Инфраструктура доступа: API, методическая поддержка, образовательные хабы.<br />– Интеграция с программами развития.<br />– Поддержка от профсоюзов, бизнеса и государства.<br />– Присутствие учителей не как объекта реформы, а как участников.</p><p>Слово "партнёрство" звучит не как фигура речи, а как позиция.</p> <a href="https://habr.com/ru/articles/926594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926594#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -368,22 +496,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Как внедрить нейросети в бизнес: 10 шагов для руководителя, чтобы начать работу с искусственным интеллектом]]></title>
-        <link>https://habr.com/ru/articles/926580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926580</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926580</guid>
-        <pubDate>Thu, 10 Jul 2025 10:16:33 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/015/371/628/0153716287dc46643672ae0e094d13c2.png" /><p><em>Инструкция для директоров и владельцев бизнеса: подключение искусственного интеллекта в процессы вашей компании — от первых задач до масштабирования и автоматизации работы всей команды.</em></p><p>Внедрение нейросетей в бизнес — уже не прерогатива технологических корпораций, а эффективный инструмент для управления, оптимизации затрат и ускорения роста даже среднего и малого бизнеса. Если вы стоите на старте пути знакомства с искусственным интеллектом, этот гайд поможет вам разобраться в ключевых понятиях, технологиях и конкретных шагах.</p> <a href="https://habr.com/ru/articles/926580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926580#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Программируемая розетка на AVR]]></title>
-        <link>https://habr.com/ru/articles/926558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926558</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926558</guid>
-        <pubDate>Thu, 10 Jul 2025 10:15:08 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/80c/861/c13/80c861c130d24ffcf241011083df80aa.png" /><p>В статье описана разработка компактной розетки с программируемыми циклами включения и выключения нагрузки. Устройство построено на микроконтроллере Atmega48PA с индикацией на LCD-дисплей и питается от бестрансформаторного источника. Применимо для засветки фоторезиста, управления освещением и других бытовых задач. В статье приведены схемы, печатные платы, STL-файлы корпуса и прошивка.  </p> <a href="https://habr.com/ru/articles/926558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926558#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[«Пользователи не просили»: Samsung объяснила, почему Galaxy Z Fold7 не получил более ёмкую батарею]]></title>
         <link>https://3dnews.ru/1125750</link>
         <guid isPermaLink="true">https://3dnews.ru/1125750</guid>
@@ -392,59 +504,11 @@
     </item>
 
     <item>
-        <title><![CDATA[Звуковой дизайн в рогалике]]></title>
-        <link>https://habr.com/ru/articles/925996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925996</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/925996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925996</guid>
-        <pubDate>Thu, 10 Jul 2025 10:13:51 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/2fa/13f/594/2fa13f594bf8806827769ebc39515f51.jpg" /><p>Всем привет, меня зовут Иван. Я один из участников небольшой команды разработчиков игр. В данный момент у нас идет активная разработка игры в жанре roguelike. В какой-то момент возникла потребность во внедрении звуков в игру. А, так как команда небольшая, мы набираем задачи не по принципу кто что умеет, а по принципу кому что больше нравится. И вот меня заинтересовало создание звуков для нашей игры.  </p><p>Когда я принялся записывать звуки, я понимал, что звук — это 50% атмосферы. Но у меня не было ни профессионального оборудования, ни опыта. Только микрофон, FL Studio и куча энтузиазма.</p><p>FMOD: первые шаги и важные фишки<br /> FMOD — это  аудиодвижок, который позволяет создавать  звуковые системы. Вот что я узнал:</p><p>Мульти-инструмент — спасение от монотонности<br /> Раньше звуки были примитивными:</p><p>Шаги → один и тот же звук, повторящийся.</p><p>Удары меча → однообразные</p><p>Решение: мульти-инструмент</p><p>Загружаешь 5–10 вариаций звука шагов (разные поверхности, интенсивность).</p><p>FMOD проигрывает их в случайном порядке.<br /> Результат: шаги звучат естественно, как у живого персонажа.</p><p>Параметрические события<br /> Если просто проигрывать звук при действии, он будет "пластиковым". Лучше привязывать к геймплею:</p><p>Удар по врагу → прошла полная дорожка звука</p><p>Меня оглушили во время удара → произвезлся отрезок дорожки</p><p>Как происходила запись звуков<br /> Я использовал два подхода:</p><p>Запись "на коленке" — искал, как извлечь нужный звук из бытовых предметов.</p><p>Бесплатные библиотеки (Freesound, Sonniss) — для сложных эффектов.</p><p>Звуки монстров и существ<br /> Щупальца=Размороженный фарш + влажные ладоши+реверберация, питч(уже в FL Studio)<br /> Рычание монстра с использованием способности=переливание воды+звук взрыва+использование собственного голоса, но с обработкой+Усиление низких частот<br /> Ходьба скелета=мятие пластиковых стаканов+ ломание сельдерея+питч<br /> Звуки оружия и доспехов<br /> Удар меча по мясу=Разделка курицы ножом + хлопок ладонью+компрессия, добавление "хлюпа"<br /> Звон доспехов=Бросить монеты,гвозди в металлическую миску+Reverb, небольшой питч<br /> Разрыв ткани=рвать бумагу+усиление средних частот</p> <a href="https://habr.com/ru/articles/925996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925996#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Мы пишем про печатные платы — и собираем десятки тысяч просмотров. Вот как]]></title>
-        <link>https://habr.com/ru/articles/926576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926576</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926576</guid>
-        <pubDate>Thu, 10 Jul 2025 10:11:08 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/096/5fe/68a/0965fe68a9af1064efdcd4c93766f8b4.png" /><p>Обычно в B2B сфере все пишут сухо и скучно. Мы с ГРАН Групп решили пойти другим путем — делать контент, который цепляет. О том, как нам удалось получить десятки тысяч просмотров на узкоспециализированные темы про печатные платы, расскажу в этом кейсе.</p> <a href="https://habr.com/ru/articles/926576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926576#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Копировальная и печатная техника в России: импортозамещение или возвращение к корням?]]></title>
-        <link>https://habr.com/ru/companies/fplus_tech/articles/925950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925950</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/fplus_tech/articles/925950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925950</guid>
-        <pubDate>Thu, 10 Jul 2025 10:00:29 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/e79/e05/a7c/e79e05a7c6cd7f0b522d4284541c4cef.png" /><p>Привет, Хабр! В одной из прошлых публикаций мы представили новые печатные устройства от компании Fplus – целую линейку цветных МФУ формата А3, ориентированных на потребителей из сегментов B2B и B2G. В комментариях к этой публикации наши читатели выразили довольно много сарказма. Они сомневались в том, что упомянутое оборудование действительно производится на российских предприятиях и может быть названо отечественным.&nbsp;</p><p>Формально «отечественность» изделия определяется на основании Постановления Правительства РФ №719 от 17.07.2015 «О подтверждении производства российской промышленной продукции». Многочисленные изменения, внесенные в документ за десять лет, делают его правильную интерпретацию уделом профессионалов. Давайте не будем считать условные баллы, на основании которых изделие попадает в реестр российской промышленной продукции, а поговорим о том, как производятся печатающие устройства и откуда берутся их составные части. А также решим главный вопрос – что мы, собственно, импортозамещаем – целиком технологию лазерной печати или отдельные узлы для принтеров и МФУ?&nbsp;</p> <a href="https://habr.com/ru/articles/925950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925950#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Управление выездными сотрудниками: как настроить в BPMS с интеграцией 1С, СКУД и джоббордов]]></title>
-        <link>https://habr.com/ru/companies/1forma/articles/926570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926570</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/1forma/articles/926570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926570</guid>
-        <pubDate>Thu, 10 Jul 2025 09:59:46 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/6f0/dc8/2f6/6f0dc82f64788e06e870706c7f58c0c2.png" /><p>Спрос на клининговые услуги в корпоративном секторе в 2025 году вырос на 20%, а дефицит сотрудников достиг 30%. Вручную управлять персоналом в таких условиях крайне сложно. Для эффективной работы даже с десятком объектов потребуется автоматизация.</p><p>На примере клининговой компании покажу, как решение на базе low-code BPM-платформы автоматизирует полный цикл работы с персоналом: поиск, приём, онбординг и увольнение, контроль смен и исполнительской дисциплины, начисление зарплат, учет больничных и отгулов. Оно также подойдёт для курьерских служб, доставки еды, управляющих компаний ЖКХ и других сервисных организаций. </p> <a href="https://habr.com/ru/articles/926570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926570#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[[Перевод] Как проектировать устойчивые событийно-ориентированные системы в больших масштабах]]></title>
-        <link>https://habr.com/ru/companies/otus/articles/926566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926566</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/otus/articles/926566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926566</guid>
-        <pubDate>Thu, 10 Jul 2025 09:52:41 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/fb9/ef5/301/fb9ef5301a3755d8e47357824f4559e9.jpg" /><p>Проектирование отказоустойчивых и масштабируемых систем — это всегда баланс между теоретическими концепциями и реальной практикой. В этой статье мы разберём, как проектировать событийно-ориентированные архитектуры, которые могут выдержать пиковые нагрузки, справляться с асинхронной обработкой и обеспечивать стабильную работу при любых условиях. Мы рассмотрим ключевые паттерны, такие как шардирование, методы мониторинга и асинхронную обработку данных, а также обсудим распространённые ошибки, которые могут привести к сбоям, и как их избежать.</p> <a href="https://habr.com/ru/articles/926566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926566#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Финансовый отчёт Arkane Studios раскрыл, когда выйдет боевик Marvel’s Blade от создателей Deathloop и Dishonored]]></title>
         <link>https://3dnews.ru/1125749</link>
         <guid isPermaLink="true">https://3dnews.ru/1125749</guid>
         <pubDate>Thu, 10 Jul 2025 09:45:00 -0000</pubDate>
         <description><![CDATA[Анонсированный в декабре 2023 года сюжетный боевик Marvel&rsquo;s Blade от Arkane Studios (Deathloop, Dishonored) пережил чистку, сопровождавшую недавнюю волну массовых увольнений в составе Xbox, однако, похоже, выйдет ещё нескоро.   Источник изображений: Bethesda Softworks]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Как зарегистрировать компанию в сфере GameDev в ОАЭ]]></title>
-        <link>https://habr.com/ru/articles/926562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926562</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926562</guid>
-        <pubDate>Thu, 10 Jul 2025 09:40:44 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/0aa/fa8/109/0aafa8109461babe1fd54dfb1c762394.jpg" /><p>Всё больше студий и независимых разработчиков рассматривают Эмираты как площадку для релокации и масштабирования. Тем не менее, процесс выхода на рынок сопровождается рядом определённых нюансов, про них и пойдет речь</p> <a href="https://habr.com/ru/articles/926562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926562#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -741,70 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125707</guid>
         <pubDate>Wed, 09 Jul 2025 18:23:00 -0000</pubDate>
         <description><![CDATA[Компания SilverStone выпустила компьютерный корпус Seta H2 формата Full Tower, отсылающий к решениям конца 1990-х годов, когда приоритетом для корпусов подобного типа было наличие большого количества посадочных мест под жёсткие диски. Новинка Seta H2 с внутренним объёмом 70 литров позволяет установить до 15 HDD благодаря семи съёмным корзинам за фронтальной панелью, предназначенным как для 2,5-дюймовых, так и для 3,5-дюймовых накопителей. Источник изображений: SilverStone]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[X осталась без генерального директора — Линда Яккарино уходит в отставку после двух лет руководства соцсетью]]></title>
-        <link>https://3dnews.ru/1125705</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125705</guid>
-        <pubDate>Wed, 09 Jul 2025 17:57:00 -0000</pubDate>
-        <description><![CDATA[Линда Яккарино (Linda Yaccarino) покинет пост генерального директора X после двух лет руководства компанией &mdash; об этом она объявила сегодня на своей странице в социальной сети. Яккарино была назначена на должность через год после того, как Илон Маск (Elon Musk) приобрёл Twitter и переименовал его в X. Пока неизвестно, кто займёт её место. Источник изображения: Линда Яккарино]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Samsung объяснила, почему до сих пор не выпустила трёхстворчатый складной смартфон]]></title>
-        <link>https://3dnews.ru/1125704</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125704</guid>
-        <pubDate>Wed, 09 Jul 2025 17:25:00 -0000</pubDate>
-        <description><![CDATA[Компания Samsung уже некоторое время работает над созданием смартфона с экраном, который может складываться втрое. В ряде публикаций его называют Galaxy G Fold. Производитель намекал на такое устройство при анонсе серии смартфонов Galaxy S25 в январе этого года, однако не сообщил никаких новых подробностей о нём в рамках презентации складных смартфонов Galaxy Z Fold7 и Flip7. Портал Android Authority выяснил, что мешает Samsung выпустить такой смартфон. Источник изображения: Android Authority]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[JEDEC утвердила стандарт LPDDR6 — быстрее, эффективнее и с улучшениями для ИИ]]></title>
-        <link>https://3dnews.ru/1125703</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125703</guid>
-        <pubDate>Wed, 09 Jul 2025 16:57:00 -0000</pubDate>
-        <description><![CDATA[Ассоциация JEDEC Solid State Technology объявила о публикации стандарта памяти LPDDR6 (JESD209-6). По словам представителей ассоциации, стандарт JESD209-6 LPDDR6 представляет собой значительный шаг вперёд в технологиях памяти, обеспечивая повышенную производительность, энергоэффективность и безопасность. Источник изображения: VideoCardz / JEDEC]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Samsung не будет взимать плату за ИИ-функции Galaxy AI — как минимум до конца 2025 года]]></title>
-        <link>https://3dnews.ru/1125702</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125702</guid>
-        <pubDate>Wed, 09 Jul 2025 16:50:00 -0000</pubDate>
-        <description><![CDATA[Компания Samsung в ходе мероприятия Galaxy Unpacked опровергла слухи о переводе пакета ИИ-инструментов Galaxy AI на подписную модель с платной основой. По словам руководства Samsung, таких планов нет &mdash; по крайней мере до конца 2025 года. То, что Samsung когда-нибудь начнёт взимать плату за использование функций Galaxy AI, сомнений не вызывает, поскольку для работы ИИ-моделей требуются значительные затраты энергии и средств. Другие компании уже давно предлагают платные тарифы на использование нейросетей, поэтому это лишь вопрос времени, когда Samsung последует их примеру, пишет ресурс 9to5Google.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Конец эпохи стилусов: Samsung Galaxy Z Fold7 оказался лишён поддержки S Pen]]></title>
-        <link>https://3dnews.ru/1125701</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125701</guid>
-        <pubDate>Wed, 09 Jul 2025 15:51:00 -0000</pubDate>
-        <description><![CDATA[Сегодня компания Samsung провела мероприятие Galaxy Unpacked, в рамках которого были представлены новые складные смартфоны Galaxy Z Fold7 и Galaxy Z Flip7. Оказалось, что Galaxy Z Fold7, в отличие от моделей предыдущих поколений, не поддерживает стилус S Pen &mdash; от этой функции решили отказаться, чтобы сделать смартфон более тонким и долговечным. Стилус S Pen дебютировал в серии Galaxy Note и успел вписать своё имя в историю мобильных устройств Samsung. Смартфоны Galaxy Fold первых поколений не поддерживали его, но с момента выхода Galaxy Z Fold3 в 2021 году поддержка S Pen присутствовала почти во всех моделях. В данном случае &laquo;почти во всех&raquo; означает, что поддержки стилуса не было в прошлогоднем Galaxy Z Fold Special Edition, который во многом послужил образцом для Galaxy Z Fold7.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[ИИ-функция Circle to Search получила AI Mode и теперь может помочь в прохождении игр]]></title>
-        <link>https://3dnews.ru/1125700</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125700</guid>
-        <pubDate>Wed, 09 Jul 2025 15:49:00 -0000</pubDate>
-        <description><![CDATA[Google расширила функциональность ИИ-инструментов Circle to Search (&laquo;Обвести и найти&raquo;) и Gemini Live для Android. Обновление было анонсировано сегодня, одновременно с запуском складных устройств Samsung Galaxy нового поколения. Оно включает новые возможности Gemini Live для устройств Samsung и интеграцию чат-бота Google AI Mode, ориентированного на поиск, непосредственно в Circle to Search. Источник изображений: Google]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Samsung разрабатывает Auto DeX — альтернативу автомобильной платформе Android Auto]]></title>
-        <link>https://3dnews.ru/1125698</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125698</guid>
-        <pubDate>Wed, 09 Jul 2025 15:39:00 -0000</pubDate>
-        <description><![CDATA[Samsung, вероятно, ведёт разработку новой альтернативы Android Auto. Проект получил название Auto DeX &mdash; это оптимизированный для автомобилей пользовательский интерфейс, с которым можно будет работать даже в том случае, если сам автомобиль не поддерживает экосистему программного обеспечения от Samsung. Источник изображения: x.com/GalaxyTechie]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[GlobalFoundries поглотит MIPS — разработчика процессоров на архитектуре RISC-V]]></title>
-        <link>https://3dnews.ru/1125694</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125694</guid>
-        <pubDate>Wed, 09 Jul 2025 15:37:00 -0000</pubDate>
-        <description><![CDATA[GlobalFoundries накануне объявила о достижении договорённости по поводу поглощения компании MIPS &mdash; разработчика процессоров на архитектуре RISC-V. Теперь GlobalFoundries сможет предлагать собственные процессоры и другие продукты на архитектуре RISC-V; MIPS же продолжит работать как самостоятельная единица. Источник изображения: gf.com]]></description>
     </item>
 
 </channel>
