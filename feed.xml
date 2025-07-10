@@ -4,8 +4,80 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Thu, 10 Jul 2025 15:19:38 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 16:22:44 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[Создаём DSL для моделирования данных]]></title>
+        <link>https://habr.com/ru/companies/architeezy/articles/923586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923586</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/architeezy/articles/923586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923586</guid>
+        <pubDate>Thu, 10 Jul 2025 16:07:43 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/133/580/3b7/1335803b78e8099d18cbd02e302d38a4.jpg" /><p>Всем привет! Продолжаем делиться тем как&nbsp;мы разрабатываем <a href="https://architeezy.com/" rel="noopener noreferrer nofollow">наш инструмент моделирования</a>. К <a href="https://habr.com/ru/companies/architeezy/articles/899324/" rel="noopener noreferrer nofollow">предыдущей статье</a>&nbsp;было много вопросов о&nbsp;том можно&nbsp;ли модели хранить и редактировать в&nbsp;текстовом виде, как&nbsp;насчёт architecture as code, code first и&nbsp;т.&nbsp;д. Мне хотелось&nbsp;бы написать, что&nbsp;мы добавили эту фичу в&nbsp;текущем релизе, но&nbsp;нет, пока есть только <a href="https://aresekb.github.io/langium-monaco-demo/" rel="noopener noreferrer nofollow">такая демка</a> с <a href="https://github.com/AresEkb/langium-monaco-demo" rel="noopener noreferrer nofollow">исходниками</a>. И в&nbsp;этой статье я расскажу как&nbsp;она сделана, как&nbsp;запилить свой предметно‑ориентированный язык (DSL) и текстовый редактор для&nbsp;него.</p> <a href="https://habr.com/ru/articles/923586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923586#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[ЭКСПЕРТЫ ШОКИРОВАНЫ: язык программирования на основе кликбейтных заголовков]]></title>
+        <link>https://habr.com/ru/companies/beget/articles/923724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923724</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/beget/articles/923724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923724</guid>
+        <pubDate>Thu, 10 Jul 2025 16:07:06 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/bc5/943/380/bc59433802ec72ee6b21d509e926f8d9.png" /><p>Кликбейтные заголовки, давайте признаемся, надоели всем. Сейчас они встречаются даже на&nbsp;Хабре. Программист&nbsp;Линус&nbsp;Ли, судя по&nbsp;всему, испытывал те&nbsp;же чувства и решил действовать по&nbsp;принципу «не можешь победить&nbsp;— доведи до&nbsp;крайности». В&nbsp;результате он создал Tabloid&nbsp;— полноценный язык программирования, где весь код пишется в&nbsp;стиле сенсационных заголовков. </p><p>Представьте язык, где вместо привычного function hello() вы пишете DISCOVER HOW TO HELLO WITH (англ. «узнайте, как&nbsp;сделать... с&nbsp;помощью»), а&nbsp;вместо return используете SHOCKING DEVELOPMENT! (англ. «шокирующее развитие событий»). А&nbsp;еще каждый&nbsp;листинг должен заканчиваться фразой PLEASE LIKE AND SUBSCRIBE.<br /><br />Звучит как&nbsp;странная шутка? Да, но&nbsp;этот язык реально работает, имеет собственный интерпретатор и позволяет писать полноценные программы.</p> <a href="https://habr.com/ru/articles/923724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923724#habracut">СЕНЬОРЫ СКРЫВАЛИ ЭТОТ ЯЗЫК&hellip;.</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[ИБП Systeme Electric vs. «китайцы»: в чем наследники APC выигрывают у новых брендов бесперебойников из Поднебесной]]></title>
+        <link>https://habr.com/ru/companies/habr_korp_systeme/articles/926718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926718</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/habr_korp_systeme/articles/926718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926718</guid>
+        <pubDate>Thu, 10 Jul 2025 16:06:54 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/9d7/9f0/7d8/9d79f07d895987143f2010602e89a990.jpg" /><p>Снова приветствую уважаемых хабралюдей!</p><p>На связи Игорь Холопов, директор по маркетингу компании Systeme Electric, официального наследника и продолжателя дел Schneider Electric в России. Это уже второй мой пост в блоге. Первый находится по <a href="https://habr.com/ru/companies/habr_korp_systeme/articles/919604/" rel="noopener noreferrer nofollow">этой</a> ссылке. Как и обещал в том самом первом посте, сегодня расскажу о ситуации на российском рынке источников бесперебойного питания (ИБП), который сейчас активно пытаются осваивать китайские бренды. Ну и, разумеется, о том, что мы в Systeme Electric готовы им противопоставить. </p><p>Но для начала дам короткую выжимку из предыдущей публикации. В ней я раскрыл следующие темы: </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Компания Systeme Electric – единственный официальный наследник Schneider Electric в России.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Сравнение новых современных ИБП Systeme Electric, которые сегодня официально продаются в РФ, с устаревшими моделями классических линеек под брендом APC by Schneider Electric, которые также поставляются к нам, но уже неофициально, по каналам параллельного импорта. </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Особенности нашего RnD: как мы разрабатываем продукты (в том числе и ИБП) в России – как с нуля, так и на основе доставшегося нам интеллектуально-инженерного багажа APC by Schneider Electric. </p><p>В общем, рекомендую ознакомиться с <a href="https://habr.com/ru/companies/habr_korp_systeme/articles/919604/" rel="noopener noreferrer nofollow">первым</a> постом – и перехожу к сегодняшней теме. </p><p>Для начала стоит сказать, что до 2022 года Schneider Electric в лице ее подразделения APC by Schneider Electric являлась безусловным лидером российского рынка ИБП – как в цифрах (доля существенно превышала 50%), так и в технологиях. После 2022 года ситуация выглядит следующим образом: лидер этого рынка остался де-факто прежним, просто теперь он называется уже не APC by Schneider Electric, а Systeme Electric. При этом уровень технологий и в целом продуктов остался прежним – а именно мировым. </p> <a href="https://habr.com/ru/articles/926718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926718#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Конечный автомат, машина Тьюринга, порождающая грамматика и компьютер: в чём разница]]></title>
+        <link>https://habr.com/ru/articles/926394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926394</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926394</guid>
+        <pubDate>Thu, 10 Jul 2025 15:54:31 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/043/469/500/0434695008a358e674f9393ead044417.png" /><p>В данной статье мы разъясним вопрос, который, находясь в самой основе теоретического программирования, при этом парадоксальным образом очень часто объясняется неправильно или неполно, причём эти неправильные объяснения даже иногда входят в учебные пособия (по крайней мере, известный китайский чатбот не смог мне правильно ответить на вопрос об отличии машины Тьюринга от конечного автомата, хотя, казалось бы, они приходятся чатботу ближайшими родственниками, и он мог бы изучить область деятельности своих создателей в обучающей выборке).</p><p>А в конце мы немного пофилософствуем на тему, что же такое программа и что такое семантика.</p> <a href="https://habr.com/ru/articles/926394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926394#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Elden Ring Nightreign возглавила рейтинг самых продаваемых игр в США за май — в первой пятёрке оказалось четыре игры от Microsoft]]></title>
+        <link>https://3dnews.ru/1125775</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125775</guid>
+        <pubDate>Thu, 10 Jul 2025 15:52:00 -0000</pubDate>
+        <description><![CDATA[Аналитик компании Circana Мэт Пискателла (Mat Piscatella) поделился информацией о самых продаваемых видеоиграх в США за май. В первой пятёрке доминируют проекты Microsoft, но лидером оказался дерзкий новичок от Bandai Namco.   Источник изображения: Steam (IndIvIduum)]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Huawei представила глобальную версию Pura 80 Ultra — с «жужжащей» камерой и самым мощным оптическим зумом в мире]]></title>
+        <link>https://3dnews.ru/1125719</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125719</guid>
+        <pubDate>Thu, 10 Jul 2025 15:30:00 -0000</pubDate>
+        <description><![CDATA[Компания Huawei представила на мероприятии в Дубае глобальную версию флагманского смартфона Pura 80 Ultra, который призван вновь поднять планку в мобильной фотографии. Новинка стала кульминацией стремления Huawei внедрять инновации в камеры смартфонов &mdash; устройство оснащено уникальной камерой с двойным объективом.   В дизайне Pura 80 Ultra компания продолжила концепцию, заложенную в прошлогодней серии Pura 70. Смартфон построен на алюминиевой раме, а спереди и сзади защищён закалённым стеклом Kunlun Glass второго поколения. Устройство выпускается в чёрном и золотом цветах. Вес смартфона внушительный &mdash; 234 грамма, что объясняется не только габаритами, но и серьёзной камерной начинкой. Смартфон защищён от воды и пыли по стандартам IP68 и IP69, а также, по заявлениям Huawei, отличается повышенной ударопрочностью.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Новая статья: Первый взгляд на смартфон HUAWEI Pura 80 Ultra]]></title>
+        <link>https://3dnews.ru/1125706</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125706</guid>
+        <pubDate>Thu, 10 Jul 2025 15:29:00 -0000</pubDate>
+        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/09/1125706.jpg" width="120" />Вслед за весенним возвращением на российский рынок серии Mate мы, естественно, ждали и смартфона серии Pura (ранее известной как P-серия), в которой компания обычно максимально «отрывается» в плане камеры. И с особенным нетерпением ждали после того, как Mate 70 Pro практически выиграл в нашем сравнительном тесте смартфонных камер]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Мета-ориентирование, баланс между классическим документированием и автодокументированием]]></title>
+        <link>https://habr.com/ru/companies/pgk/articles/919566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=919566</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/pgk/articles/919566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=919566</guid>
+        <pubDate>Thu, 10 Jul 2025 15:26:58 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/866/909/e38/866909e38975c8de7962fd060e1c228d.jpg" /><p>Добрый день! Меня зовут Воронин Николай, я занимаюсь автоматизацией систем отчётности и анализа в ПГКДиджитал.</p><p>Моя статья является структурированием личного опыта, полученного в конкретных условиях, он не претендует на статус best-practice, допускает ситуации, в которых могут существовать более эффективные решения или проблема не стоит в целом.</p><p>Мета-ориентирование – это общее название, в рамках статьи, для совокупности навыков и подходов, облегчающих понимание частных алгоритмов и потоков данных в большой системе со сложными связями между множеством объектов.</p><p>В моём случае речь пойдёт о комплексе нескольких BI систем, существующих параллельно, но сложности вполне могут возникать и в рамках одной, достаточно массивной системы отчётности.</p> <a href="https://habr.com/ru/articles/919566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=919566#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[«Криптонит» представил российский инструмент для оценки безопасности 5G-сетей]]></title>
+        <link>https://3dnews.ru/1125774</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125774</guid>
+        <pubDate>Thu, 10 Jul 2025 15:26:00 -0000</pubDate>
+        <description><![CDATA[Российская компания &laquo;Криптонит&raquo; (входит в &laquo;ИКС Холдинг&raquo;) представила модель sigmaAuth (&sigma;Auth), предназначенную для анализа безопасности протоколов анонимной аутентификации, применяемых в 5G-сетях. Новая разработка позволит повысить устойчивость мобильных сетей к кибератакам наряду с обеспечением защиты цифровой идентичности пользователей. Сообщается, что &sigma;Auth уже можно применять для анализа отечественных решений 5G-AKA-GOST и S3G-5G, которые сейчас проходят этап стандартизации в техническом комитете ТК26. В частности, с помощью &sigma;Auth можно выявлять уязвимости в протоколах связи и подтверждать их стойкость с помощью строгих математических доказательств. Модель опирается на парадигму &laquo;доказуемой стойкости&raquo;, использующую математические методы для подтверждения безопасности протоколов, что делает её универсальным и перспективным решением для создания новых стандартов киберзащиты, а также проектирования и анализа протоколов безопасности в других цифровых инфраструктурах.]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Интернационализация Python-проектов modern-i18n]]></title>
@@ -369,8 +441,8 @@
 
     <item>
         <title><![CDATA[Как превратить набор кубиков в ресурсно-сервисную модель для аналитики и алертинга приложений]]></title>
-        <link>https://habr.com/ru/companies/vktech/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/vktech/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248</guid>
+        <link>https://habr.com/ru/companies/vk/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248</guid>
         <pubDate>Thu, 10 Jul 2025 11:19:16 -0000</pubDate>
         <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/181/0f0/217/1810f02174b375332b302a945a8b1d77.jpg" /><p>Привет, Хабр! На связи Олег Оболенский, я руководитель направления проектирования и разработки VK Tech. В компании я отвечаю за разработку корпоративного ПО, а мои команды также оказывают комплекс профессиональных услуг по адаптации наших решений к бизнес-требованиям заказчиков. Мы реализуем облачные и гибридные проекты любой сложности и масштаба, переносим данные, поддерживаем наши сервисы, помогаем оптимизировать затраты на ИТ, управлять виртуальной инфраструктурой. Из каждого сложного внедрения мы стараемся выносить пользу, чтобы обогащать продукты новыми возможностями. Кейс, про который мы сегодня расскажем, будет на стыке работ сразу нескольких подразделений.  </p> <a href="https://habr.com/ru/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248#habracut">Читать далее</a>]]></description>
     </item>
@@ -416,30 +488,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Что было на выставке ЦИПР — парадная сторона и мрачная изнанка]]></title>
-        <link>https://habr.com/ru/companies/h3llo_cloud/articles/926480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926480</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/h3llo_cloud/articles/926480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926480</guid>
-        <pubDate>Thu, 10 Jul 2025 11:00:07 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d4c/3b7/259/d4c3b72594e034a46bf24cea528e9160.jpg" /><p>У меня очень странное впечатление. С одной стороны, круто, что конференция есть и всех удалось собрать. С другой — ужасный опыт участия, конские цены и пафосные заголовки пресс-релизов. </p><p>Удивительно, но многие узнавали нас по блогу на Хабре. </p><p>Участие стоит несколько десятков миллионов рублей за стенд (мы не взяли) — ну или 50 тысяч рублей за самый простой билет и 150 тысяч за VIP. Мы взяли за 150, но сразу скажу, подсыхающие канапе этого не стоили. Но тем не менее оказалось дичайше полезно. </p><p>Сейчас расскажу, зачем вообще ездить на такие конференции и какой профит с них можно получить. Потому что может показаться довольно странным ехать на конференцию «Цифровая индустрия промышленной России» не в онлайн. </p><p>Вообще-то изначальная задумка была как в анекдоте про то, что когда программисты придут к власти, целые министерства можно будет заменить на один скрипт. Это место, где собираются все ключевые люди, определяющие будущее ИТ России. Чтобы обсудить важные вещи, познакомиться лично и прибухнуть, конечно.</p><p>В этом году основной темой были LLM. Их теперь все называют ИИ. Ещё импортозамещение, ИБ, как и что автоматизировать, где брать и как обучать людей и всё такое. Но основной лейтмотив был — хайп на LLM и «внедряй, а то проиграешь». </p><p>Почему Нижний — потому что там крупный ИТ-кластер, наука и промышленность. Почти как Екатеринбург, где тоже промышленность и большое население дали отличный старт для роста ИТ в 90-х. </p><p>Начну с того, что, конечно, дико жалко денег. Жаба прям давит. </p> <a href="https://habr.com/ru/articles/926480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926480#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Многомерный анализ данных временных рядов]]></title>
-        <link>https://habr.com/ru/articles/926598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926598</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926598</guid>
-        <pubDate>Thu, 10 Jul 2025 10:59:21 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/654/6dc/20f/6546dc20ffb410e434942214df7fcbe8.png" /><p>Попробуем применить многомерный анализ к данным временных рядов с помощью интерактивной визуализации данных измерений и их взаимосвязей.</p> <a href="https://habr.com/ru/articles/926598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926598#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Когда в школу приходит ИИ | AI Academy: событие, которое хочется назвать поворотом]]></title>
-        <link>https://habr.com/ru/articles/926594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926594</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926594</guid>
-        <pubDate>Thu, 10 Jul 2025 10:54:36 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/db7/ee0/190/db7ee019055b61ffb8d45129e12c2217.png" /><p>Июль 2025.<br />Нью-Йорк.<br /><br /><strong>В рамках совместного партнёрства <a href="https://news.microsoft.com/source/2025/07/08/aft-to-launch-national-academy-for-ai-instruction-with-microsoft-openai-anthropic-and-united-federation-of-teachers/" rel="noopener noreferrer nofollow">Microsoft</a>, <a href="https://openai.com/global-affairs/aft/" rel="noopener noreferrer nofollow">OpenAI</a>, Anthropic и крупнейших учительских профсоюзов США запускается National Academy for AI Instruction. (<a href="https://www.youtube.com/watch?app=desktop&amp;v=s1WWs_fZwAc" rel="noopener noreferrer nofollow">Трансляция запуска</a>)</strong><br /><br />Пятигодичная программа обучения учителей работе с искусственным интеллектом.<br />Заявленная цель — подготовить 400 000 педагогов по всей стране.<br />Каждого десятого.<br />Не в теории, а в классе.</p><p>Проект выглядит как сдвиг.<br />Не стартап. Не эксперимент. Не вброс.</p><p>– Отдельный кампус в центре Манхэттена.<br />– Инфраструктура доступа: API, методическая поддержка, образовательные хабы.<br />– Интеграция с программами развития.<br />– Поддержка от профсоюзов, бизнеса и государства.<br />– Присутствие учителей не как объекта реформы, а как участников.</p><p>Слово "партнёрство" звучит не как фигура речи, а как позиция.</p> <a href="https://habr.com/ru/articles/926594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926594#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Китайцы превратили пчелу в киборга и заставили её летать по командам с пульта от телевизора]]></title>
         <link>https://3dnews.ru/1125754</link>
         <guid isPermaLink="true">https://3dnews.ru/1125754</guid>
@@ -464,14 +512,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Психология тестировщика: почему критическое мышление — это суперсила]]></title>
-        <link>https://habr.com/ru/companies/ozontech/articles/924608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924608</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/ozontech/articles/924608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924608</guid>
-        <pubDate>Thu, 10 Jul 2025 10:33:40 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/ab7/c20/853/ab7c20853ac36878c851b7091cce18e1.jpg" /><p><strong>Статья Галины Шайдуровой</strong></p><p><strong>Психология тестировщика: почему критическое мышление – это суперсила</strong></p><p>Привет, Хабр! Меня зовут Галина, я работаю QA-инженером в Ozon Tech. Если вы думаете, что тестировщики только ищут баги, то вы заблуждаетесь. Мы — не просто охотники за дефектами (хотя баги ловить умеем). Мы те, кто ежедневно выходит на поле боя против самого изощренного противника — нашего собственного мозга.</p><p>Вы обращали внимание на то, как легко не заметить очевидное? Например, когда вы ищете очки, а они у вас на голове. Теперь представьте, что тестировщик делает это на уровне сложных систем и интерфейсов, где каждая «потерянная пара очков» может обернуться тысячами разъяренных пользователей.</p><p>Сегодня хочу рассказать, почему критическое мышление — это суперсила любого тестировщика, ссылаясь на теории классиков, таких как Майерс Г. и Кейнер К. Мы разберем, как когнитивные искажения могут мешать находить баги, что помогает развивать аналитический подход, и как нестандартное мышление спасает проекты (и иногда ночной сон).</p> <a href="https://habr.com/ru/articles/924608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924608#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[«МегаФон» ввёл в эксплуатацию новые ЦОД в Твери и Екатеринбурге]]></title>
         <link>https://3dnews.ru/1125757</link>
         <guid isPermaLink="true">https://3dnews.ru/1125757</guid>
@@ -485,14 +525,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125752</guid>
         <pubDate>Thu, 10 Jul 2025 10:29:00 -0000</pubDate>
         <description><![CDATA[Amazon обдумывает вложить ещё нескольких миллиардов долларов в стартап Anthropic, чтобы укрепить стратегическое партнёрство. Оно, по мнению обеих компаний, даст им преимущество в мировой гонке за прибыль от искусственного интеллекта. Источник изображения: Marques Thomas / Unsplash]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Границы мысли: Непротиворечивая математика и вопрос Бога]]></title>
-        <link>https://habr.com/ru/articles/926560/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926560</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926560/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926560</guid>
-        <pubDate>Thu, 10 Jul 2025 10:28:30 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/b22/a47/c60/b22a47c60fde32914824416d3bb22159.jpg" /><p>Существует глубокая и, по моему мнению, парадоксальная аналогия между двумя на первый взгляд несопоставимыми задачами: построением непротиворечивой математики и доказательством существования Бога. Обе они преследуют идеал абсолютной достоверности и завершенности знания. И обе наталкиваются на непреодолимые препятствия, вырастающие из самой природы человеческого разума. <br />Лично меня этот вопрос занимает уже много лет: является ли это совпадением, или же мы обнаруживаем здесь универсальный предел человеческого мышления?</p> <a href="https://habr.com/ru/articles/926560/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926560#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -773,38 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125716</guid>
         <pubDate>Wed, 09 Jul 2025 20:17:00 -0000</pubDate>
         <description><![CDATA[Разработчики из российской студии Battlestate Games сообщили об установке обновления 0.16.8, которое принесло в популярный эвакуационный шутер Escape from Tarkov самый хардкорный вайп за всю историю игры.   Источник изображений: Battlestate Games]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Apple выпустит AR-гарнитуру Vision Pro 2 в этом году — она станет комфортнее и получит процессор M4]]></title>
-        <link>https://3dnews.ru/1125710</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125710</guid>
-        <pubDate>Wed, 09 Jul 2025 18:40:00 -0000</pubDate>
-        <description><![CDATA[Компания Apple готовится к запуску обновлённой гарнитуры смешанной реальности Vision Pro 2, которая будет более производительной по сравнению с оригинальной моделью, а также получит слегка изменённый дизайн ремешка. Об этом сообщил журналист Bloomberg Марк Гурман (Mark Gurman) со ссылкой на собственные источники. По его данным, разработчики оснастят Vision Pro 2 фирменным процессором Apple M4, что значительно повысит производительность устройства &mdash; в оригинальной Vision Pro используется чип M2. Не менее важно, что гарнитура получит крепление с обновлённым дизайном, благодаря которому её будет удобнее носить в течение длительного времени.]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[В MIT создали робота-лаборанта с навыками эксперта в материаловедении]]></title>
-        <link>https://3dnews.ru/1125708</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125708</guid>
-        <pubDate>Wed, 09 Jul 2025 18:34:00 -0000</pubDate>
-        <description><![CDATA[В процессе поиска новых материалов для определённых задач приходится производить множество замеров. Автоматизация этого процесса значительно ускорила бы исследования, а внедрение ИИ помогло бы с выбором наилучших точек измерения. Всё вместе обещает привести к созданию полностью автоматических лабораторий любого профиля. В Массачусетском технологическом институте сделали выбор в пользу исследования материалов для солнечных панелей. Источник изображения: MIT]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Найт-Сити встречает новых гостей: Sony без предупреждения добавила Cyberpunk 2077 в каталог PS Plus]]></title>
-        <link>https://3dnews.ru/1125709</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125709</guid>
-        <pubDate>Wed, 09 Jul 2025 18:26:00 -0000</pubDate>
-        <description><![CDATA[Разработчики из польской студии CD Projekt Red сообщили, что киберпанковый ролевой боевик от первого лица Cyberpunk 2077 стал частью премиального каталога сервиса PlayStation Plus.   Источник изображения: Steam]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[SilverStone выпустила олдскульный корпус Seta H2 с поддержкой 15 жестких дисков]]></title>
-        <link>https://3dnews.ru/1125707</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125707</guid>
-        <pubDate>Wed, 09 Jul 2025 18:23:00 -0000</pubDate>
-        <description><![CDATA[Компания SilverStone выпустила компьютерный корпус Seta H2 формата Full Tower, отсылающий к решениям конца 1990-х годов, когда приоритетом для корпусов подобного типа было наличие большого количества посадочных мест под жёсткие диски. Новинка Seta H2 с внутренним объёмом 70 литров позволяет установить до 15 HDD благодаря семи съёмным корзинам за фронтальной панелью, предназначенным как для 2,5-дюймовых, так и для 3,5-дюймовых накопителей. Источник изображений: SilverStone]]></description>
     </item>
 
 </channel>
