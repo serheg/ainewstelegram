@@ -4,8 +4,152 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Thu, 10 Jul 2025 11:16:11 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 12:37:39 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[В России разработали инструмент для оценки безопасности сетей 5G]]></title>
+        <link>https://habr.com/ru/companies/kryptonite/articles/926346/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926346</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/kryptonite/articles/926346/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926346</guid>
+        <pubDate>Thu, 10 Jul 2025 12:30:33 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/ee9/b2d/286/ee9b2d286764eab6e51c30f00947c691.png" /><p>В российской ИТ-компании «Криптонит» (входит в «ИКС Холдинг») криптографы представили модель для анализа безопасности протоколов анонимной аутентификации, применяемых в сетях 5G. Разработка, получившая название sigmaAuth (σAuth), направлена на повышение устойчивости мобильных сетей к кибератакам и защиту цифровой идентичности пользователей. </p><p>Предложенная модель позволяет выявлять уязвимости в протоколах связи и подтверждать их стойкость с помощью строгих математических доказательств. σAuth уже может применяться для анализа отечественных решений 5G-AKA-GOST и S3G-5G, которые сейчас проходят этап стандартизации в техническом комитете ТК26. Ожидается, что модель станет основой для дальнейшего совершенствования протоколов, обеспечивающих защиту от атак на анонимность, повторное использование сообщений и компрометацию ключей. </p><p>Согласно <a href="https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:%D0%A0%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5_%D1%81%D0%B5%D1%82%D0%B5%D0%B9_5G_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5#:~:text=%D0%A0%D0%BE%D1%81%D1%82%20%D1%87%D0%B8%D1%81%D0%BB%D0%B0%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D1%81%205G%2D%D1%81%D0%B5%D1%82%D1%8F%D0%BC%D0%B8%20%D0%B4%D0%BE%20305,%D0%BA%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%" rel="noopener noreferrer nofollow">отчёту</a> GSMA Intelligence, в конце 2024 года число подключений в сетях 5G по всему миру достигло 2 миллиардов. При этом 5G обеспечивает подключение не только смартфонов, но и промышленных систем, транспорта, датчиков, что создаёт широкую поверхность атаки. Одним из уязвимых элементов является процесс аутентификации: злоумышленники могут перехватывать сообщения, отслеживать пользователей или подделывать цифровые идентификаторы. </p><p>«<em>Модель σAuth формализует понятие анонимности и учитывает сценарии, при которых нарушитель, например, может получить доступ к IoT-оборудованию. Это особенно важно сегодня, когда защита постоянных идентификаторов, таких как IMSI и SUPI, играет ключевую роль в обеспечении безопасности</em>», — комментирует <strong>Владимир Бельский, заместитель руководителя лаборатории криптографии компании «Криптонит».</strong></p> <a href="https://habr.com/ru/articles/926346/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926346#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Когда не хватает смысла, а не кода: как UX-редактор и аналитик довели продукт до релиза]]></title>
+        <link>https://habr.com/ru/articles/926638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926638</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926638</guid>
+        <pubDate>Thu, 10 Jul 2025 12:23:25 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/36c/ffd/254/36cffd25402c11b6a008a774062c2d37.png" /><p>Когда говорят про аутстаффинг, в большинстве случаев речь идет о разработке: фронтенд, бэкенд, DevOps, тестирование. Это то, что легко измерить в часах и тасках. Но в работе над цифровым продуктом бывают моменты, когда задача не в том, чтобы «написать код», а в том, чтобы разобраться, <strong>что именно нужно писать и зачем</strong>. И вот тогда на первый план выходят не программисты.</p> <a href="https://habr.com/ru/articles/926638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926638#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Новые квантовые материалы обещают в 1000 раз ускорить работу электроники]]></title>
+        <link>https://3dnews.ru/1125761</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125761</guid>
+        <pubDate>Thu, 10 Jul 2025 12:18:00 -0000</pubDate>
+        <description><![CDATA[Постепенно учёные открывают новые квантовые материалы с перспективными свойствами, которые обещают привести к прорыву в микроэлектронике. Путь к этому лежит в обуздании фотонов &mdash; самых быстрых частиц в нашей Вселенной. Новая работа показала возможность с помощью света управлять состоянием электронной проводимости одного из таких материалов, что найдёт множество применений, включая невероятно быстрые процессоры для смартфонов и компьютеров. Источник изображения: Northeastern University]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как мы приземлились лицом об асфальт, пока проектировали интерфейс касс самообслуживания]]></title>
+        <link>https://habr.com/ru/articles/924916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924916</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/924916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924916</guid>
+        <pubDate>Thu, 10 Jul 2025 12:13:44 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/af3/5ad/17f/af35ad17f289352450dff57eeb71e30f.jpg" /><p>Всем привет! Я Женя Белодед, ex-арт-директор в Студии Райт. К нам пришел клиент — CSI, разработчик IT-решений для автоматизации ритейла. Его запрос — обновить интерфейс касс самообслуживания CSI K, которыми будут пользоваться покупатели в 90 торговых сетях России и СНГ.</p><p>Сегодня о важности проектирования в контексте и о том, как окружение интерфейса и его эргономика все меняют. Спойлер: без факапов не обошлось, но они сделали нас сильнее! Погнали!</p> <a href="https://habr.com/ru/articles/924916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924916#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Google проложит свой второй трансатлантический интернет-кабель — Sol]]></title>
+        <link>https://3dnews.ru/1125733</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125733</guid>
+        <pubDate>Thu, 10 Jul 2025 12:10:00 -0000</pubDate>
+        <description><![CDATA[Компания Google анонсировала новую трансатлантическую кабельную систему Sol, которая соединит Испанию, Флориду (США), Бермудские и Азорские острова. Кабель станет единственным действующим оптоволоконным соединением между Флоридой и Европой. Sol, включающий 16 оптоволоконных пар, дополнит и подстрахует ВОЛС Nuvem между Южной Каролиной (США) и Португалией. Посадочная станция для Sol будет построена в городе Палм-Кост (Palm Coast) во Флориде при участии DC BLOX. Также будет проложен наземный кабельный маршрут, соединяющий Палм-Кост с облачным регионом компании в Южной Каролине. С испанской стороны за необходимую инфраструктуру в Сантандере (Santander) будет отвечать Telxsius. Sol поможет интегрировать регион Google Cloud в Мадриде в глобальную сеть IT-гиганта.]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Книга: «Разработчик ПО: Путеводитель по карьерной лестнице для будущих сеньоров, техлидов и стаффов»]]></title>
+        <link>https://habr.com/ru/companies/piter/articles/925958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925958</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/piter/articles/925958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925958</guid>
+        <pubDate>Thu, 10 Jul 2025 12:04:14 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/46b/0ff/997/46b0ff997dfaf726450dfcb375bd40e0.jpg" /><p>Привет, Хаброжители!  </p><p>Издательство «Питер» представляет книгу-гид в мире профессионального роста. Автор Гергели Орош, прошедший путь от джуниора до принципал-разработчика в Uber, делится ценными инсайтами о том, как прокачать карьеру в IT. В этой статье мы немного больше расскажем о книге, которая представляет собой структурированное руководство, основанное на реальном опыте работы в крупных технологических компаниях. Как она называется? Разработчик ПО: Путеводитель по карьерной лестнице для будущих сеньоров, техлидов и стаффов.</p> <a href="https://habr.com/ru/articles/925958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925958#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Еврокомиссия представила инструкцию по соблюдению «Закона об ИИ»]]></title>
+        <link>https://3dnews.ru/1125760</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125760</guid>
+        <pubDate>Thu, 10 Jul 2025 12:02:00 -0000</pubDate>
+        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/10/1125760.jpg" width="120" />Европейская комиссия обнародовала свод правил, призванный облегчить компаниям выполнение положений &laquo;Закона об ИИ&raquo; (AI Act). Документ содержит рекомендации по ведению деятельности в рамках правового поля Европейского союза (ЕС) и направлен на то, чтобы организации могли адаптировать свои процессы к требованиям закона ещё до его полного вступления в силу. Свод правил носит рекомендательный характер, но, по заявлению комиссии, он даёт разработчикам и поставщикам ИИ-решений дополнительную юридическую определённость. Источник изображения: ALEXANDRE LALLEMAND / Unsplash]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[8 проверенных способов быстро разобраться в любой теме при помощи нейросети]]></title>
+        <link>https://habr.com/ru/articles/926632/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926632</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926632/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926632</guid>
+        <pubDate>Thu, 10 Jul 2025 12:01:59 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/f7a/891/301/f7a891301bc9bddddaa802482955d415.png" /><p>Мне постоянно приходится погружаться в темы, в которых я не разбираюсь. За последний год накопилась экспертиза о том, как быстро погружаться в любую тему с помощью нейросетей.</p><p>Покажу 8 способов, которыми пользуюсь. Разберу на конкретных примерах — как изучала российский рынок автозапчастей, какие промты использовала и что из этого получилось. После статьи сможете за пару часов стать "экспертом" в любой области.</p> <a href="https://habr.com/ru/articles/926632/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926632#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[GPU за рубль, 1 000 000 для стартапов и не только: продуктовые апдейты в Selectel за июнь]]></title>
+        <link>https://habr.com/ru/companies/selectel/articles/926348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926348</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/selectel/articles/926348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926348</guid>
+        <pubDate>Thu, 10 Jul 2025 12:00:28 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/fb2/373/aa7/fb2373aa75e12ec9b0a65cf73cbd6081.png" /><p>Привет, Хабр! В этом месяце мы запустили акцию <a href="https://selectel.ru/services/dedicated/?tab=configuratorGpu&amp;c=109%3A1&amp;simpleRamMode=true/?utm_source=habr.com&amp;utm_medium=referral&amp;utm_campaign=dedicated_article_digest_090725" rel="noopener noreferrer nofollow">с GPU за рубль</a>, предложили кешбэк до 1 000 000 бонусов для стартапов, добавили посуточную аренду видеокарт для ML и не только.&nbsp; В тексте делимся подробностями, а еще — приглашаем 27 июля на Selectel Day Off. </p> <a href="https://habr.com/ru/articles/926348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926348#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Язык программирования Cangjie: китайский вызов Java и Swift]]></title>
+        <link>https://habr.com/ru/companies/ru_mts/articles/926494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926494</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/ru_mts/articles/926494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926494</guid>
+        <pubDate>Thu, 10 Jul 2025 12:00:26 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/383/1cf/4d0/3831cf4d062783be68c72ad6867c4766.jpg" /><p>Несколько лет назад Huawei решила зайти на территорию языков программирования (ЯП) со своим проектом Cangjie. Сказано — сделано. Новый ЯП впервые <a href="https://habr.com/ru/companies/ru_mts/articles/826782/" rel="noopener noreferrer nofollow">показали</a> на HDC 2024. 30 июля 2025 года компания <a href="https://kr-asia.com/pulses/155316" rel="noopener noreferrer nofollow">обещает</a> открыть исходный код. Язык заявлен как кроссплатформенный: уже сейчас он поддерживает HarmonyOS и Android, а в перспективе может получить совместимость с iOS. Что в нем интересного и что даст открытие кода, сегодня и разберем.</p> <a href="https://habr.com/ru/articles/926494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926494#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Печатные платы HighSpeed: материалы, производство и важность проектирования]]></title>
+        <link>https://habr.com/ru/companies/grangroup/articles/924620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924620</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/grangroup/articles/924620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924620</guid>
+        <pubDate>Thu, 10 Jul 2025 12:00:25 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/351/27f/d7e/35127fd7e0ca7d3536fa8c8d82c77f28.png" /><p>Привет, Хабр! Все мы замечаем, как с каждым годом наши электронные устройства работают все быстрее и быстрее, передают все бо́льшие объемы данных от микросхемы к микросхеме. Это приводит к необходимости рассматривать волновые процессы при прохождении сигналов и вынуждает нас использовать высокоскоростные материалы при изготовлении печатных плат для такой электроники.&nbsp;</p><p>Сегодня мы немного разберемся, как организовано производство и контроль заданных волновых параметров, а также поговорим о том, какие материалы предлагаются для изготовления таких печатных плат.</p> <a href="https://habr.com/ru/articles/924620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=924620#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как создать презентацию с помощью нейросети: обзор ИИ-инструментов для презентаций]]></title>
+        <link>https://habr.com/ru/articles/926628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926628</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926628</guid>
+        <pubDate>Thu, 10 Jul 2025 11:51:18 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d8a/dab/cba/d8adabcba8b280c2869fcb8929621fb1.jpeg" /><p>Нейросети продолжают стремительно развиваться, и, если ещё пару лет назад генерация изображений по текстовому описанию вызывала у людей восторг и удивление, то сегодня ИИ-инструменты применяются для большинства повседневных задач, включая задачи по созданию презентаций.</p><p>Если нужно быстро и качественно подготовить презентацию, не имея навыков дизайнера, этот материал будет полезен: здесь мы собрали подборку сервисов с использованием искусственного интеллекта, которые облегчают работу и экономят время при создании слайдов. В статье подробно рассмотрим как платные, так и бесплатные инструменты, оценим, насколько хорошо они справляются с поставленными задачами, выясним, какие из них поддерживают русский язык, и поможем выбрать сервис, который подойдет именно под вашу конкретную задачу.</p> <a href="https://habr.com/ru/articles/926628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926628#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[[Перевод] MCP: новая игра на рынке искусственного интеллекта]]></title>
+        <link>https://habr.com/ru/articles/923650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923650</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/923650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923650</guid>
+        <pubDate>Thu, 10 Jul 2025 11:30:21 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/382/52e/ef0/38252eef01996f23667ff4a9b42a04ac.jpg" /><p><strong>Всё, что нужно знать о Model Context Protocol (MCP)</strong></p><p>«Даже самые продвинутые модели ограничены своей изоляцией от данных — они заперты в информационных силосах и легаси-системах».<br /> — <em>Anthropic о важности интеграции контекста</em></p><p>Сегодняшние большие языковые модели (LLM) невероятно умны, но находятся в вакууме. Как только им требуется информация вне их «замороженных» обучающих данных, начинаются проблемы. Чтобы AI-агенты действительно были полезны, им нужно получать актуальный контекст в нужный момент — будь то файлы, базы знаний, инструменты — и даже уметь совершать действия: обновлять документы, отправлять письма, запускать пайплайны.</p><p>Так сложилось, что подключение модели ко всем этим внешним источникам данных было хаотичным и нестабильным: разработчикам приходилось писать кастомные интеграции или использовать узкоспециализированные плагины под каждый API или хранилище. Такие «сделанные на коленке» решения были хрупкими и плохо масштабировались.</p><p>Чтобы упростить это, Anthropic представила Model Context Protocol (MCP) — открытый стандарт, предназначенный для того, чтобы связать AI-ассистентов с данными и инструментами, подключая любые источники контекста. MCP был анонсирован в ноябре 2024 года. Тогда реакция была сдержанной. Но сегодня MCP — на волне: он уже обогнал LangChain по популярности и, по прогнозам, скоро обойдёт OpenAPI и CrewAI.</p><p>Крупные игроки AI-индустрии и open source-сообщества начали активно поддерживать MCP, видя в нем потенциально революционный инструмент для построения агентных систем на базе LLM.</p> <a href="https://habr.com/ru/articles/923650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=923650#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Мой долгий путь до GPIO в QEMU]]></title>
+        <link>https://habr.com/ru/companies/yadro/articles/925860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925860</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/yadro/articles/925860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925860</guid>
+        <pubDate>Thu, 10 Jul 2025 11:24:52 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/6b1/f74/ad0/6b1f74ad0acdfb2c3a6b65af8904d1fe.jpg" /><p>Тема этой статьи преследует меня, как статуя командора из известной сказки. Почти десять лет назад я сделал возможность чтения и записи GPIO для виртуальной машины QEMU. GPIO был нужен для тестирования алгоритмов контроллера взвешивания в движении (Weigh In Motion, WIM). С тех пор проект получил некоторое количество упоминаний, а я — несколько писем. И вот к десятилетнему юбилею я решил поставить точку в этой работе.</p> <a href="https://habr.com/ru/articles/925860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925860#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[[Перевод] Обходим CSP nonce через дисковый кеш браузера]]></title>
+        <link>https://habr.com/ru/articles/926614/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926614</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926614/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926614</guid>
+        <pubDate>Thu, 10 Jul 2025 11:22:45 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/c42/e21/d19/c42e21d192c8c492e8259dfa421bc9ea.png" /><p>Эта статья описывает изощренную технику обхода Content Security Policy (CSP) на основе nonce-значений через эксплуатацию механизмов кеширования браузера. Автор демонстрирует, как комбинация CSS-инъекций, CSRF-атак и особенностей работы bfcache и дискового кеша может привести к выполнению произвольного JavaScript-кода даже при наличии строгой CSP.</p> <a href="https://habr.com/ru/articles/926614/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926614#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Роль облачной инфраструктуры в развитии искусственного интеллекта]]></title>
+        <link>https://habr.com/ru/companies/itglobalcom/articles/926616/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926616</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/itglobalcom/articles/926616/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926616</guid>
+        <pubDate>Thu, 10 Jul 2025 11:22:39 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/f41/3b2/b20/f413b2b209738d50b58e36a4f179abd7.jpg" /><p>Активное внедрение решений на базе ИИ влияет на трансформацию различных областей. С одной стороны, бизнес получает новые возможности для развития и масштабирования. Но, вместе с тем, появляются определенные вызовы.</p> <a href="https://habr.com/ru/articles/926616/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926616#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Как превратить набор кубиков в ресурсно-сервисную модель для аналитики и алертинга приложений]]></title>
+        <link>https://habr.com/ru/companies/vk/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248</guid>
+        <pubDate>Thu, 10 Jul 2025 11:19:16 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/181/0f0/217/1810f02174b375332b302a945a8b1d77.jpg" /><p>Привет, Хабр! На связи Олег Оболенский, СТО бизнес-сегмента VK Tech. В компании я отвечаю за разработку корпоративного ПО, а мои команды также оказывают комплекс профессиональных услуг по адаптации наших решений к бизнес-требованиям заказчиков. Мы реализуем облачные и гибридные проекты любой сложности и масштаба, переносим данные, поддерживаем наши сервисы, помогаем оптимизировать затраты на ИТ, управлять виртуальной инфраструктурой. Из каждого сложного внедрения мы стараемся выносить пользу, чтобы обогащать продукты новыми возможностями. Кейс, про который мы сегодня расскажем, будет на стыке работ сразу нескольких подразделений.  </p> <a href="https://habr.com/ru/articles/926248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926248#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Универсальные подсказки по промптам (введение и простые советы) (Ч.1)]]></title>
+        <link>https://habr.com/ru/articles/926610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926610</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926610</guid>
+        <pubDate>Thu, 10 Jul 2025 11:16:19 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/81a/dd6/45a/81add645a8d143f1cd83e8ee12169f18.png" /><p>Привет всем. В интернетах расплодились уже сотни и даже тысячи статей по промпт инжинирингу. Почему бы не написать 1001? Собственно, никто не просил, но вот и она.</p> <a href="https://habr.com/ru/articles/926610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926610#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Hugging Face выпустила домашнего ИИ-робота Reachy Mini с открытым кодом за $449]]></title>
@@ -24,7 +168,7 @@
     </item>
 
     <item>
-        <title><![CDATA[OpenAI заверила поглощение стартапа io Джони Айва]]></title>
+        <title><![CDATA[OpenAI завершила поглощение стартапа io Джони Айва]]></title>
         <link>https://3dnews.ru/1125758</link>
         <guid isPermaLink="true">https://3dnews.ru/1125758</guid>
         <pubDate>Thu, 10 Jul 2025 11:03:00 -0000</pubDate>
@@ -212,7 +356,7 @@
         <link>https://habr.com/ru/articles/926556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926556</link>
         <guid isPermaLink="true">https://habr.com/ru/articles/926556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926556</guid>
         <pubDate>Thu, 10 Jul 2025 09:35:24 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/webt/gh/fy/8q/ghfy8q8e4wvupibcq-vjktho_p8.png" /><p>На нескольких проектах я сталкивался с ситуацией, когда есть Kubernetes с разными окружениями типа dev, stage, prod и т.д.<br />Код сервисов в эти самые окружения попадает в процессе CI/CD: то есть мы мержим какую-то ветку с разрабатываемой фичей или исправлением бага в ветку, которая “привязана” к окружению и дальше наш код деплоится в кластер. Думаю, для многих - это уже стандартная история.</p><p>Давайте представим, что нужно сделать задачу, относящуюся к какому-нибудь микросервису, эта задача подразумевает запрос по сети к другому микросервису, а тот, в свою очередь, посылает запрос к еще другим микросервисам. Как быть, когда мы хотим, чтобы нам были доступны данные из других микросервисов, чтобы протестировать то, что мы сделали не в тестах с моками, а в условиях, похожих на “боевые”. Тут самым очевидным, как мне кажется, является разворачивание локально микросервиса, код которого мы “ковыряем” и проброс портов до целевого микросервиса в dev кластере (или в другом кластере, предназначенным для тестирования), например:</p> <a href="https://habr.com/ru/articles/926556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926556#habracut">Читать далее</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/a8d/615/47c/a8d61547c72941220ac62b8699235d77.jpg" /><p>На нескольких проектах я сталкивался с ситуацией, когда есть Kubernetes с разными окружениями типа dev, stage, prod и т.д.<br />Код сервисов в эти самые окружения попадает в процессе CI/CD: то есть мы мержим какую-то ветку с разрабатываемой фичей или исправлением бага в ветку, которая “привязана” к окружению и дальше наш код деплоится в кластер. Думаю, для многих - это уже стандартная история.</p><p>Давайте представим, что нужно сделать задачу, относящуюся к какому-нибудь микросервису, эта задача подразумевает запрос по сети к другому микросервису, а тот, в свою очередь, посылает запрос к еще другим микросервисам. Как быть, когда мы хотим, чтобы нам были доступны данные из других микросервисов, чтобы протестировать то, что мы сделали не в тестах с моками, а в условиях, похожих на “боевые”. Тут самым очевидным, как мне кажется, является разворачивание локально микросервиса, код которого мы “ковыряем” и проброс портов до целевого микросервиса в dev кластере (или в другом кластере, предназначенным для тестирования), например:</p> <a href="https://habr.com/ru/articles/926556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926556#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -336,14 +480,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Введение в GraphQL]]></title>
-        <link>https://habr.com/ru/articles/926472/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926472</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926472/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926472</guid>
-        <pubDate>Thu, 10 Jul 2025 08:44:38 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/ad8/670/bb4/ad8670bb411c4678dbd3797ce112b3ec.webp" /><p>В&nbsp;этой статье мы&nbsp;рассмотрим, что такое GraphQL и&nbsp;для чего он&nbsp;был создан. Разберёмся, какие задачи сложно решить в&nbsp;REST API, и&nbsp;какую альтернативу предлагает GraphQL.</p> <a href="https://habr.com/ru/articles/926472/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926472#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Microsoft похвасталась, что сэкономила $500 млн с помощью ИИ в прошлом году, — а в этом уволила 15 000 сотрудников]]></title>
         <link>https://3dnews.ru/1125739</link>
         <guid isPermaLink="true">https://3dnews.ru/1125739</guid>
@@ -360,22 +496,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Вайб-чек для разработчиков на Хабр Карьере]]></title>
-        <link>https://habr.com/ru/companies/habr_career/articles/926520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926520</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/habr_career/articles/926520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926520</guid>
-        <pubDate>Thu, 10 Jul 2025 08:32:35 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/2a8/f44/3e3/2a8f443e3b76e45e93fa96f37fbdab30.jpeg" /><p>Мы на Хабр Карьере запускаем Вайб-чек для разработчиков, вообще для всех. Обычно в этом спецпроекте мы делили участников по специализациям — например, <a href="https://habr.com/ru/companies/habr_career/news/858434/" rel="noopener noreferrer nofollow">в последний раз</a> он был для бэкендеров. Но в этом году решили без разделений, потому что хочется собрать в одном проекте сразу всех новичков и опытных разработчиков, которые в поиске работы. И помочь найти им самую подходящую!</p><p>В этой статье объясняем, что вообще такое этот вайб-чек, почему проект называется так и как он уже второй год помогает специалистам находить подходящую команду с классной атмосферой и хорошей зарплатой.</p><p>Ну а если вы уже все знаете, и вам не терпится участвовать,</p><p>→ <a href="https://vibe.habr.com/?utm_source=vibe_check_dev_25_habrapost" rel="noopener noreferrer nofollow">скорее регистрируйтесь на лендинге</a> — стартуем уже 14 июля!&nbsp;</p> <a href="https://habr.com/ru/articles/926520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926520#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[[Перевод] Растянутый кластер Ceph: две локации + Tie-breaker. Часть 2]]></title>
-        <link>https://habr.com/ru/companies/runity/articles/926040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926040</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/runity/articles/926040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926040</guid>
-        <pubDate>Thu, 10 Jul 2025 08:29:46 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/7b0/302/c70/7b0302c703bbc10cf2d4d705644424cb.png" /><p>Продолжаем серию статей о растянутом кластере Ceph. В <a href="https://habr.com/ru/companies/runity/articles/921288/" rel="noopener noreferrer nofollow">первой части</a> мы представили концепции, лежащие в основе стратегий репликации Ceph и подчеркнули преимущества растянутого кластера для достижения нулевой потери данных (RPO=0). <br /><br />Во второй части мы сосредоточимся на практических шагах — развертывании растянутого кластера на двух локациях + монитора в качестве tie-breaker с использованием <code>cephadm</code><em>.</em></p> <a href="https://habr.com/ru/articles/926040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926040#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Дополнение к «Смуте» превратилось в отдельную игру — дата выхода и скриншоты приключенческого боевика «Земский собор»]]></title>
         <link>https://3dnews.ru/1125741</link>
         <guid isPermaLink="true">https://3dnews.ru/1125741</guid>
@@ -384,59 +504,11 @@
     </item>
 
     <item>
-        <title><![CDATA[Мой первый VPS: Чек-лист по превращению «голой» машины в маленькую крепость (Часть 1)]]></title>
-        <link>https://habr.com/ru/articles/926406/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926406</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926406/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926406</guid>
-        <pubDate>Thu, 10 Jul 2025 08:25:10 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/252/689/08f/25268908f967e9b648c917c3defb44f6.png" /><p>Привет, Хабр! У каждого из нас бывает этот момент. Ты нажимаешь кнопку "Заказать", и вот он — твой первый, сияющий, свежеустановленный VPS. Ощущение, как будто получил ключи от собственной цифровой квартиры. Можно ставить что угодно, экспериментировать, запускать свои пет-проекты... <strong>Но есть один нюанс.</strong></p><p>Эта "квартира" сейчас стоит с дверью нараспашку посреди самого темного и опасного района интернета. И пока ты радуешься, к этой двери уже тянутся сотни автоматизированных ботов, чтобы проверить, не забыл ли ты закрыть замок.</p><p>Я сам прошел через это. Мой первый сервер прожил в "диком" виде около часа, прежде чем я заглянул в логи и увидел непрекращающийся поток попыток входа по SSH. Это было мое "приключение" — превратить уязвимый кусок железа в безопасное убежище. Я наступил на пару <strong>граблей</strong>, но в итоге собрал <strong>"сокровище"</strong> — этот чек-лист, которым хочу поделиться с вами.</p><p>Это не исчерпывающее руководство по пентесту, а <strong>набор первых, самых важных шагов</strong>, которые отсекут 99% автоматических атак и дадут вам спокойно спать по ночам.</p> <a href="https://habr.com/ru/articles/926406/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926406#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Автоматизация тестирования мобильного приложения КриптоАРМ Mobile на Android]]></title>
-        <link>https://habr.com/ru/articles/926508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926508</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926508</guid>
-        <pubDate>Thu, 10 Jul 2025 08:16:07 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/5ab/1eb/56e/5ab1eb56e7ab7224a725f165e5a490d4.jpeg" /><p>В этой статье мы проведем обзор современных инструментов и подходов для тестирования мобильных приложений на примере приложения КриптоАРМ Mobile под Android. Подробно расскажем о настройке окружения для создания тестов, а также разработаем Docker-контейнер, который обеспечит удобный запуск тестов. Кроме того, мы рассмотрим процесс автоматизации тестирования и его интеграцию в CI/CD, что позволит упростить и ускорить процесс разработки и тестирования приложений.</p> <a href="https://habr.com/ru/articles/926508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926508#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Миграция с Firebird на PostgreSQL. Что может пойти не так? Часть 3]]></title>
-        <link>https://habr.com/ru/articles/926116/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926116</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926116/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926116</guid>
-        <pubDate>Thu, 10 Jul 2025 08:13:02 -0000</pubDate>
-        <description><![CDATA[<p>Третья часть статьи посвященной трудностям миграции с Firebird на PostgreSQL. (<a href="https://habr.com/ru/articles/926094/" rel="noopener noreferrer nofollow">1ая часть</a>, 2я часть).</p> <a href="https://habr.com/ru/articles/926116/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926116#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Космотекст: запускаем лучшие статьи в космос]]></title>
-        <link>https://habr.com/ru/specials/926358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926358</link>
-        <guid isPermaLink="true">https://habr.com/ru/specials/926358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926358</guid>
-        <pubDate>Thu, 10 Jul 2025 08:10:55 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/e05/5cb/8c2/e055cb8c23a1ef74a2ec50fe615c7fac.png" /><p>Привет, это Хабр с буквально космической новостью — у нас стартует конкурс по написанию статей, где 20 лучших мы отправим в... <strong>🛸КОСМОС🛸. </strong>Да, прямо в космос-космос. Да, в самый настоящий!&nbsp;</p><p>Мы делаем такое впервые, поэтому сами в большом предвкушении от процесса и результата. Как мы уже сказали, по итогам конкурса мы выберем 20 статей, а вместе с ними на орбиту улетит еще 60 лучших технических публикаций, которые авторы написали за все почти 20 лет существования Хабра. И для лучшего автора из этих 80 статей у нас с RUVDS есть ☄️<strong>супер приз — экскурсия на Байконур☄️</strong>.&nbsp;</p><p>Сразу скажем, что участвовать могут только статьи от самостоятельных авторов, а не от компаний. Ну а остальные космические подробности космического конкурса рассказываем ниже. </p> <a href="https://habr.com/ru/articles/926358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926358#habracut">Читать про космотекст</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Менторство в дизайне: как я перешла от спонтанных советов к осознанной передаче знаний]]></title>
-        <link>https://habr.com/ru/companies/clevertec/articles/926460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926460</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/clevertec/articles/926460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926460</guid>
-        <pubDate>Thu, 10 Jul 2025 08:07:57 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/789/f29/56a/789f2956af18d34fdca2917eb35811a7.jpg" /><p>Как превратить спонтанные советы в настоящее менторство? Рассказываю, как педагогический опыт помогает строить доверительный диалог, давать полезный фидбек и создавать пространство, где можно учиться без страха ошибиться.</p> <a href="https://habr.com/ru/articles/926460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926460#habracut">Начать стажировку</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Безинтернетный мессенджер Bitchat от основателя Twitter провалил  первую проверку безопасности]]></title>
         <link>https://3dnews.ru/1125738</link>
         <guid isPermaLink="true">https://3dnews.ru/1125738</guid>
         <pubDate>Thu, 10 Jul 2025 08:07:00 -0000</pubDate>
         <description><![CDATA[Недавно запущенный мессенджер Bitchat, созданный генеральным директором Block и соучредителем Twitter Джеком Дорси (Jack Dorsey), позиционируется как средство безопасного общения без использования интернета. Но исследователи заявили, что приложение содержит критические уязвимости, которые ставят под угрозу конфиденциальность данных. Источник изображения: GitHub]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Нейро-дайджест: ключевые события мира AI за 1-ю неделю июля 2025]]></title>
-        <link>https://habr.com/ru/companies/timeweb/articles/926220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926220</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/timeweb/articles/926220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926220</guid>
-        <pubDate>Thu, 10 Jul 2025 08:05:00 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/d9b/e7d/5b3/d9be7d5b352f6eb8160c80420b7b98de.jpeg" /><p>Привет! Это новый выпуск «Нейро-дайджеста» — коротких и полезных обзоров ключевых событий в мире искусственного интеллекта и технологий.</p><p>Неделя выдалась насыщенной: <strong>HuggingFace</strong> выпустили<strong> SmolLM 3</strong> — лучшую 3B модель, Apple рассматривает <strong>Claude</strong> и <strong>GPT</strong> <strong>вместо</strong> <strong>Siri</strong>, а <strong>Suno</strong> всерьёз зашёл в продакшн и <strong>купил DAW</strong>. Нейро-GTA теперь можно пощупать, а <strong>Дания </strong>первой в ЕС вводит <strong>авторское право на внешность и голос</strong> для борьбы с дипфейками.</p><p>Всё самое важное — в одном месте. Поехали!</p> <a href="https://habr.com/ru/articles/926220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926220#habracut">Читать дайджест</a>]]></description>
     </item>
 
     <item>
@@ -456,59 +528,11 @@
     </item>
 
     <item>
-        <title><![CDATA[И снова испанская барахолка: оптический нивелир, измеритель поля и… утюги]]></title>
-        <link>https://habr.com/ru/companies/selectel/articles/925790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925790</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/selectel/articles/925790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925790</guid>
-        <pubDate>Thu, 10 Jul 2025 08:01:23 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/a61/9c3/2e9/a619c32e9706972aebdde8cbceaf4743.jpg" /><p>Привет, Хабр! Давно я не был на барахолке - просто у нас жарко. Но в этот раз решил выбраться, о чем не пожелал. Продавцов, к слову, стало немного меньше, но товаров все еще полно, так что есть на что посмотреть. Я и посмотрел, и, конечно, теперь делюсь увиденным с вами. Все как обычно. Поехали оценивать все эти сокровища!</p> <a href="https://habr.com/ru/articles/925790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925790#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[M**a купила главу разработки ИИ Apple за $200 млн — даже Тим Кук получает меньше]]></title>
         <link>https://3dnews.ru/1125737</link>
         <guid isPermaLink="true">https://3dnews.ru/1125737</guid>
         <pubDate>Thu, 10 Jul 2025 07:56:00 -0000</pubDate>
         <description><![CDATA[На этой неделе стало известно, что M**a удалось переманить к себе ранее возглавлявшего отдел Apple по разработке моделей искусственного интеллекта Жомина Пана (Ruoming Pang). Агентству Bloomberg удалось выяснить, в какую сумму подразделению M**a Superintelligence Labs (MSL) обошёлся этот уникальный специалист. Источник изображения: Pepi Stojanovski / unsplash.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Explyt Spring Plugin: поддержка Quarkus]]></title>
-        <link>https://habr.com/ru/companies/explyt/articles/926484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926484</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/explyt/articles/926484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926484</guid>
-        <pubDate>Thu, 10 Jul 2025 07:47:42 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/603/8e7/5b5/6038e75b58658af820cd1ba97858854a.png" /><p>Всем привет! На связи команда <a href="https://explyt.ai/docs/category/explyt-spring?utm_campaign=quarkus&amp;utm_source=habr" rel="noopener noreferrer nofollow">Explyt Spring</a>. На этот раз как следует из названия будем говорить о поддержке <a href="https://quarkus.io/" rel="noopener noreferrer nofollow">Quarkus</a>. На первый взгляд может показаться странным, причем тут Spring плагин и Quarkus. Но если разобраться более детально, то Spring также имеет поддержку Java EE <a href="https://docs.spring.io/spring-framework/reference/core/beans/standard-annotations.html" rel="noopener noreferrer nofollow">аннотаций</a> и к тому же поддержка Dependency Injection является одной из сильной сторон нашего плагина. Да и логика DI в Quarkus сильно проще чем в Spring, можно убедиться в этом прочитав официальную <a href="https://quarkus.io/guides/cdi-reference#injecting-multiple-bean-instances-intuitively" rel="noopener noreferrer nofollow">документацию</a>, поэтому можно легко переиспользовать все наши текущие наработки и добавить поддержку Quarkus DI в наш плагин. И это также позволило переиспользовать для него многие другие наши “фичи”, о чем будет рассказано ниже.</p> <a href="https://habr.com/ru/articles/926484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926484#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Мобильный Vivaldi 7.5: Летние радости]]></title>
-        <link>https://habr.com/ru/companies/vivaldi/articles/926490/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926490</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/vivaldi/articles/926490/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926490</guid>
-        <pubDate>Thu, 10 Jul 2025 07:45:37 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/c7b/a2f/e98/c7ba2fe9891e0a5c62d586080e2ae15c.png" /><p>Лето - традиционное время для отпусков и отдыха на природе. Но даже вдали от дома хочется быть в курсе последних новостей и оставаться на связи со своими друзьями и близкими в социальных сетях. Мы подготовили летний релиз новых версий браузера Vivaldi 7.5 для Android и iOS - возьмите их с собой в дорогу.</p> <a href="https://habr.com/ru/articles/926490/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926490#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Показываю юзкейсы MCP серверов внутри Claude Desktop]]></title>
-        <link>https://habr.com/ru/articles/926488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926488</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926488</guid>
-        <pubDate>Thu, 10 Jul 2025 07:42:58 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/fbd/523/ee8/fbd523ee80d5d4984dce0e1747c54507.png" /><p><strong>Для кого статья</strong></p><p>Кому интересно узнать, как через Claude можно управлять практически любым сервисом, общаясь с LLM как с обычным сотрудником</p><p>В статье пойдет речь только о Claude Desktop. Но если у вас его нет, то это не повод не прочитать статью, чтобы понять "А че так можно было?"</p> <a href="https://habr.com/ru/articles/926488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926488#habracut">Вот что можно делать через MCP сервера 🔥</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[# Гиперперсонализация в маркетинге: взгляд изнутри производственно-логистического бизнеса]]></title>
-        <link>https://habr.com/ru/articles/926486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926486</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926486</guid>
-        <pubDate>Thu, 10 Jul 2025 07:40:01 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/661/adc/781/661adc781a03035e15a302cbba31b74d.jpg" /><p>Как маркетинг стал частью производственного процесса.<br /> В этой статье я рассказываю, как гиперперсонализация меняет подход к B2B-коммуникациям в сфере логистики и промышленности.<br /> ИИ-подходы позволяют предсказывать потребности клиентов, адаптировать предложения в реальном времени и выстраивать точечный маркетинг даже в сложных закупочных цепочках.<br /> Разбираем реальные сценарии, риски, инфраструктуру и то, почему маркетинг больше не работает "по интуиции".</p> <a href="https://habr.com/ru/articles/926486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926486#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Swift concurrency. Executors, Actors и их связь с потоками]]></title>
-        <link>https://habr.com/ru/articles/887240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887240</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/887240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887240</guid>
-        <pubDate>Thu, 10 Jul 2025 07:38:32 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/6d4/975/ea6/6d4975ea6ee5c833f49333990184c6c8.jpeg" /><p>В данной части из серии статей мы погрузимся чуть глубже в недра Swift Concurrency. Как определяется поток, на котором будет выполняться Task? Почему в рамках одной Task поток может меняться? Что такое Executor и на какие типы он делится? За что отвечает TaskExecutor, а за что SerialExecutor? Как определить текущий Executor по коду? Как использовать свой самописный Executor? В этой статье ответим на эти (и многие другие) вопросы.</p> <a href="https://habr.com/ru/articles/887240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887240#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -781,30 +805,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125695</guid>
         <pubDate>Wed, 09 Jul 2025 14:31:00 -0000</pubDate>
         <description><![CDATA[Вопреки прошлогодним опровержениям руководства студии GSC Game World, постапокалиптический шутер с открытым миром S.T.A.L.K.E.R. 2: Heart of Chornobyl всё-таки собирается на новую целевую платформу.   Источник изображений: GSC Game World]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Nvidia стала первой компанией в истории с капитализацией $4 триллиона]]></title>
-        <link>https://3dnews.ru/1125697</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125697</guid>
-        <pubDate>Wed, 09 Jul 2025 14:16:00 -0000</pubDate>
-        <description><![CDATA[Сегодня Nvidia поставила очередной рекорд рыночной капитализации &mdash; причём не только собственный, но и абсолютный. Впервые в истории компании удалось преодолеть планку в $4 трлн, опередив Microsoft и Apple. Источник изображения: BoliviaInteligente / unsplash.com]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Samsung представила первую «бюджетную» раскладушку — Galaxy Z Flip7 FE по цене от 69 990 рублей]]></title>
-        <link>https://3dnews.ru/1125642</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125642</guid>
-        <pubDate>Wed, 09 Jul 2025 14:08:00 -0000</pubDate>
-        <description><![CDATA[Вместе со старшей моделью Galaxy Z Flip7 компания Samsung представила и более доступную версию раскладушки &mdash; Galaxy Z Flip7 FE. Это первая попытка Samsung предложить смартфон со складным дисплеем по сравнительно низкой цене, хотя при стоимости от &euro;999 новинку сложно назвать даже среднебюджетной. Источник изображений: Samsung]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Samsung представила Galaxy Z Fold7 — тонкий складной смартфон с 200-Мп камерой и ценой от 148 990 рублей]]></title>
-        <link>https://3dnews.ru/1125617</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125617</guid>
-        <pubDate>Wed, 09 Jul 2025 14:00:04 -0000</pubDate>
-        <description><![CDATA[Компания Samsung представила складной смартфон Galaxy Z Fold7, который стал самым тонким и лёгким устройством в истории серии. Новинка получила увеличенные по сравнению с предшественником дисплеи, современную аппаратную платформу и улучшенный набор камер.   Galaxy Z Fold7 отличается обновлённым дизайном: толщина корпуса в раскрытом виде составляет всего 4,2 мм &mdash; на 25 % меньше, чем у предшественника, а вес снизился до 215 граммов. Смартфон мог бы претендовать на звание самого тонкого в мире, но неделю назад инициативу перехватила компания Honor, представив модель Magic V5 с толщиной корпуса 4,1 мм. Корпус новинки Samsung выполнен из усиленного алюминиевого сплава и стекла Corning Gorilla Glass Victus 2.]]></description>
     </item>
 
 </channel>
