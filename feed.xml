@@ -4,8 +4,48 @@
     <title>Моя объединенная RSS-лента</title>
     <link>https://serheg.github.io/ainewstelegram/</link>
     <description>Все лучшие новости в одном месте</description>
-    <lastBuildDate>Thu, 10 Jul 2025 13:32:57 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 14:18:18 -0000</lastBuildDate>
     <atom:link href="https://serheg.github.io/ainewstelegram/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title><![CDATA[Как повысить удовлетворенность разработчиков и других сотрудников в Agile — объясняем в пазлах]]></title>
+        <link>https://habr.com/ru/companies/kaiten/articles/926676/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926676</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/kaiten/articles/926676/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926676</guid>
+        <pubDate>Thu, 10 Jul 2025 14:07:04 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/a15/b9e/c96/a15b9ec96124c062c500de59f27aeb86.png" /><p>Разработчики делают задания ради галочки, в их глазах больше не горит огонь,&nbsp;а число инновационных идей от девелоперов уменьшилось? Нет, сотрудники не обленились. Им просто не хватает мотивации для эффективной работы. Разбираемся вместе с командой системы управления проектами <a href="https://kaiten.ru/features/" rel="noopener noreferrer nofollow">Kaiten</a> и консультантом по современному менеджменту <a href="https://neogenda.com/" rel="noopener noreferrer nofollow">Neogenda</a> Марией Савельевой, как вернуть мотивацию IT-команде.&nbsp;</p> <a href="https://habr.com/ru/articles/926676/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926676#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Капсула времени Olivetti, калькуляторы 1950-х и фильм ‭«Дюна‭». Что у них общего?]]></title>
+        <link>https://habr.com/ru/companies/timeweb/articles/921362/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=921362</link>
+        <guid isPermaLink="true">https://habr.com/ru/companies/timeweb/articles/921362/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=921362</guid>
+        <pubDate>Thu, 10 Jul 2025 14:05:47 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/a83/f91/1bb/a83f911bb7fd9241e0a19622551b791a.png" /><p>Где в мире можно увидеть старые компьютеры, калькуляторы и пишущие машинки? В музеях и частных коллекциях. Но есть одно исключение: в Венеции, в самом центре города располагается музей, где ничего не менялось с 1958 года. Изначально это был шоу-рум —   передовая по тем временам технологическая компания Olivetti показывала там свои лучшие устройства: пишущие машинки и калькуляторы. И как только я узнал, что есть возможность вживую посмотреть шоу-рум «европейской» IBM, то помчался в Венецию. А по дороге начал изучать историю итальянских инженеров. Думаю, вы поймете мой энтузиазм, ведь большинство хабровчан любят технологии и истории про них (так мне кажется :))</p> <a href="https://habr.com/ru/articles/921362/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=921362#habracut">Погружаемся в 1958 год и потом в 10191 год</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[CoreBus: Часть 5 — попытка использования Native AOT]]></title>
+        <link>https://habr.com/ru/articles/922944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922944</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/922944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922944</guid>
+        <pubDate>Thu, 10 Jul 2025 14:04:31 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/3b3/dd9/711/3b3dd9711052209d05a2fb3fb93a1aeb.png" /><p><strong>CoreBus</strong> (старое название «Терминальная программа») — кроссплатформенный терминал для работы с COM-портами и TCP-сокетами с поддержкой протоколов Modbus TCP / RTU / ASCII.  </p><p>Ребрендинг, новые фичи и Native AOT (+ боль и разочарование).</p> <a href="https://habr.com/ru/articles/922944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=922944#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Галактика без тёмной материи]]></title>
+        <link>https://habr.com/ru/articles/926672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926672</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926672</guid>
+        <pubDate>Thu, 10 Jul 2025 13:52:37 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/60f/4a6/7d6/60f4a67d695befbb29ffadaaf6889015.png" /><p> Орбитальные системы обычно рассматриваются в виде системы двух тел. Одно тело большой массы центральное. Тело малой массы находится на орбите. Такие системы хорошо описываются законами Кеплера. В частности на круговой орбите орбитальная скорость малого объекта описывается формулой:</p><p><img alt="V_{orb}= C_0\sqrt{\frac{Z}{2R}}=\sqrt{\frac{ZC^2}{2R}}=\sqrt{\frac{\mu}{R}}" class="formula inline" height="54" src="https://habrastorage.org/getpro/habr/upload_files/aa6/aa0/556/aa6aa0556d475c6b1a0799634d0d3324.svg" width="292" /></p><p> Z — гравитационный радиус центрального тела.</p><p>R — радиус орбиты малого тела.</p><p>C<sub>0</sub>— скорость света.</p><p> Привлекая теорию гравитации Эйнштейна или теорию гравитации ФИР, которая для наблюдаемых явлений даёт аналогичные результаты, можно получить уточнённую формулу:</p><p><img alt="V_{orb}= C_0\sqrt{\frac{Z}{2R}}\sqrt{1-\frac{Z}{R}}" class="formula inline" height="51" src="https://habrastorage.org/getpro/habr/upload_files/3fa/e0d/a2e/3fae0da2ea4b59b861a6dd8db1717e60.svg" width="208" />.</p><p> Теперь вблизи объекта подобного «чёрной дыре» орбитальная скорость снижается, доходя до нуля с приближением к гравитационному радиусу центрального объекта.</p><p><strong>Для сложных орбитальных объектов типа галактик наблюдения не подтверждают эту зависимость. Скорости орбитальных объектов начиная с некоторого радиуса остаются постоянными.</strong></p><p>Обычно это объясняют наличием невидимой тёмной материи.</p><p>Но давайте посмотрим на орбитальные системы несколько иначе.</p><p>Геометрически вокруг массивного объекта существует множество траекторий отличающихся эксцентриситетами и радиусами.</p><p>Если на любую из орбит поместить малое материальное тело, то это тело станет с ней единым целым. При этом орбита не будет геометрической безразмерной тонкой линией, а приобретёт толщину (такое представление позволяет сделать правильные вычисления).</p><p>Если вокруг сверхмассивного объекта вращается звезда по круговой орбите, то за толщину её орбиты можно принять диаметр звезды.</p><p>В таком случае формула для орбитальной скорости изменится:</p> <a href="https://habr.com/ru/articles/926672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926672#habracut">Читать далее</a>]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Яндекс.Полуразврат или при чём тут Crypt?]]></title>
+        <link>https://habr.com/ru/articles/926670/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926670</link>
+        <guid isPermaLink="true">https://habr.com/ru/articles/926670/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926670</guid>
+        <pubDate>Thu, 10 Jul 2025 13:50:27 -0000</pubDate>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/13d/65b/6b0/13d65b6b095e209aa2686ee23c2e795b.jpeg" /><p>Яндекс выпустил новую модель для Шедеврума, которая попыталась прикрыть уязвимости, которые эксплуатировались для создания «небезопасного контента» категории 18+. Тем не менее, не всё так радужно и с «детским» режимом они очень торопятся. Некоторые уязвимости в промпте остались, а некоторые добавились. Но самое интересное – попытка спастись от «небезопасного контента» путём целенаправленной порчи датасета. Обо всём этом подробно в тексте.</p> <a href="https://habr.com/ru/articles/926670/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926670#habracut">Читать далее</a>]]></description>
+    </item>
 
     <item>
         <title><![CDATA[Intel вылетела из десятки крупнейших производителей чипов и проиграла гонку ИИ, признал гендир Тан]]></title>
@@ -328,14 +368,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Степлер, который уничтожил десятки Nintendo Switch 2, выставили на аукцион]]></title>
-        <link>https://3dnews.ru/1125751</link>
-        <guid isPermaLink="true">https://3dnews.ru/1125751</guid>
-        <pubDate>Thu, 10 Jul 2025 10:28:00 -0000</pubDate>
-        <description><![CDATA[Американская розничная сеть GameStop, специализирующаяся на продаже связанных с компьютерными играми товаров, любит общаться с потребителями в неформальной манере. Её новая инициатива продолжает эту добрую традицию: ретейлер выставил на аукцион степлер, которым его сотрудники бездумно наносили повреждения новеньким приставкам Nintendo Switch 2. Источник изображений: ebay.com]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Как внедрить нейросети в бизнес: 10 шагов для руководителя, чтобы начать работу с искусственным интеллектом]]></title>
         <link>https://habr.com/ru/articles/926580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926580</link>
         <guid isPermaLink="true">https://habr.com/ru/articles/926580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926580</guid>
@@ -364,7 +396,7 @@
         <link>https://habr.com/ru/articles/925996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925996</link>
         <guid isPermaLink="true">https://habr.com/ru/articles/925996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925996</guid>
         <pubDate>Thu, 10 Jul 2025 10:13:51 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/2fa/13f/594/2fa13f594bf8806827769ebc39515f51.jpg" /><p>Когда я принялся записывать звуки, я понимал, что звук — это 50% атмосферы. Но у меня не было ни профессионального оборудования, ни опыта. Только микрофон, FL Studio и куча энтузиазма.</p><p>FMOD: первые шаги и важные фишки<br /> FMOD — это  аудиодвижок, который позволяет создавать  звуковые системы. Вот что я узнал:</p><p>Мульти-инструмент — спасение от монотонности<br /> Раньше звуки были примитивными:</p><p>Шаги → один и тот же звук, повторящийся.</p><p>Удары меча → однообразные</p><p>Решение: мульти-инструмент</p><p>Загружаешь 5–10 вариаций звука шагов (разные поверхности, интенсивность).</p><p>FMOD проигрывает их в случайном порядке.<br /> Результат: шаги звучат естественно, как у живого персонажа.</p><p>Параметрические события<br /> Если просто проигрывать звук при действии, он будет "пластиковым". Лучше привязывать к геймплею:</p><p>Удар по врагу → прошла полная дорожка звука</p><p>Меня оглушили во время удара → произвезлся отрезок дорожки</p><p>Как происходила запись звуков<br /> Я использовал два подхода:</p><p>Запись "на коленке" — искал, как извлечь нужный звук из бытовых предметов.</p><p>Бесплатные библиотеки (Freesound, Sonniss) — для сложных эффектов.</p><p>Звуки монстров и существ<br /> Щупальца=Размороженный фарш + влажные ладоши+реверберация, питч(уже в FL Studio)<br /> Рычание монстра с использованием способности=переливание воды+звук взрыва+использование собственного голоса, но с обработкой+Усиление низких частот<br /> Ходьба скелета=мятие пластиковых стаканов+ ломание сельдерея+питч<br /> Звуки оружия и доспехов<br /> Удар меча по мясу=Разделка курицы ножом + хлопок ладонью+компрессия, добавление "хлюпа"<br /> Звон доспехов=Бросить монеты,гвозди в металлическую миску+Reverb, небольшой питч<br /> Разрыв ткани=рвать бумагу+усиление средних частот</p> <a href="https://habr.com/ru/articles/925996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925996#habracut">Читать далее</a>]]></description>
+        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/2fa/13f/594/2fa13f594bf8806827769ebc39515f51.jpg" /><p>Всем привет, меня зовут Иван. Я один из участников небольшой команды разработчиков игр. В данный момент у нас идет активная разработка игры в жанре roguelike. В какой-то момент возникла потребность во внедрении звуков в игру. А, так как команда небольшая, мы набираем задачи не по принципу кто что умеет, а по принципу кому что больше нравится. И вот меня заинтересовало создание звуков для нашей игры.  </p><p>Когда я принялся записывать звуки, я понимал, что звук — это 50% атмосферы. Но у меня не было ни профессионального оборудования, ни опыта. Только микрофон, FL Studio и куча энтузиазма.</p><p>FMOD: первые шаги и важные фишки<br /> FMOD — это  аудиодвижок, который позволяет создавать  звуковые системы. Вот что я узнал:</p><p>Мульти-инструмент — спасение от монотонности<br /> Раньше звуки были примитивными:</p><p>Шаги → один и тот же звук, повторящийся.</p><p>Удары меча → однообразные</p><p>Решение: мульти-инструмент</p><p>Загружаешь 5–10 вариаций звука шагов (разные поверхности, интенсивность).</p><p>FMOD проигрывает их в случайном порядке.<br /> Результат: шаги звучат естественно, как у живого персонажа.</p><p>Параметрические события<br /> Если просто проигрывать звук при действии, он будет "пластиковым". Лучше привязывать к геймплею:</p><p>Удар по врагу → прошла полная дорожка звука</p><p>Меня оглушили во время удара → произвезлся отрезок дорожки</p><p>Как происходила запись звуков<br /> Я использовал два подхода:</p><p>Запись "на коленке" — искал, как извлечь нужный звук из бытовых предметов.</p><p>Бесплатные библиотеки (Freesound, Sonniss) — для сложных эффектов.</p><p>Звуки монстров и существ<br /> Щупальца=Размороженный фарш + влажные ладоши+реверберация, питч(уже в FL Studio)<br /> Рычание монстра с использованием способности=переливание воды+звук взрыва+использование собственного голоса, но с обработкой+Усиление низких частот<br /> Ходьба скелета=мятие пластиковых стаканов+ ломание сельдерея+питч<br /> Звуки оружия и доспехов<br /> Удар меча по мясу=Разделка курицы ножом + хлопок ладонью+компрессия, добавление "хлюпа"<br /> Звон доспехов=Бросить монеты,гвозди в металлическую миску+Reverb, небольшой питч<br /> Разрыв ткани=рвать бумагу+усиление средних частот</p> <a href="https://habr.com/ru/articles/925996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=925996#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -416,38 +448,6 @@
     </item>
 
     <item>
-        <title><![CDATA[Локальная разработка с Kubernetes. Немного танцев с бубном]]></title>
-        <link>https://habr.com/ru/articles/926556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926556</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926556</guid>
-        <pubDate>Thu, 10 Jul 2025 09:35:24 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/a8d/615/47c/a8d61547c72941220ac62b8699235d77.jpg" /><p>На нескольких проектах я сталкивался с ситуацией, когда есть Kubernetes с разными окружениями типа dev, stage, prod и т.д.<br />Код сервисов в эти самые окружения попадает в процессе CI/CD: то есть мы мержим какую-то ветку с разрабатываемой фичей или исправлением бага в ветку, которая “привязана” к окружению и дальше наш код деплоится в кластер. Думаю, для многих - это уже стандартная история.</p><p>Давайте представим, что нужно сделать задачу, относящуюся к какому-нибудь микросервису, эта задача подразумевает запрос по сети к другому микросервису, а тот, в свою очередь, посылает запрос к еще другим микросервисам. Как быть, когда мы хотим, чтобы нам были доступны данные из других микросервисов, чтобы протестировать то, что мы сделали не в тестах с моками, а в условиях, похожих на “боевые”. Тут самым очевидным, как мне кажется, является разворачивание локально микросервиса, код которого мы “ковыряем” и проброс портов до целевого микросервиса в dev кластере (или в другом кластере, предназначенным для тестирования), например:</p> <a href="https://habr.com/ru/articles/926556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926556#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Как я перенёс задачи из Яндекс.Трекера в JIRA с сохранением всего — от чек-листов до ссылок в комментариях]]></title>
-        <link>https://habr.com/ru/articles/926554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926554</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926554</guid>
-        <pubDate>Thu, 10 Jul 2025 09:28:26 -0000</pubDate>
-        <description><![CDATA[<p>Когда руководстворешило перевести проектный трекинг с&nbsp;Яндекс.Трекера на&nbsp;JIRA, мы&nbsp;быстро поняли: простого «экспорта‑импорта» не&nbsp;будет. Ни одно из&nbsp;готовых решений не&nbsp;справлялось с&nbsp;задачей полноценно&nbsp;— а&nbsp;именно с&nbsp;сохранением всей истории, авторства, чек‑листов, вложений, связей, ссылок на&nbsp;другие задачи и пользователей, и даже оригинальной нумерации задач из&nbsp;Яндекс.Трекера.</p><p>Что&nbsp;ж, вызов принят. Ниже расскажу, как&nbsp;я за 3&nbsp;месяца написал систему, которая перенесла всё&nbsp;— до&nbsp;последней запятой в&nbsp;комментарии.</p> <a href="https://habr.com/ru/articles/926554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926554#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Проблема подглядывания и последовательное А/Б тестирование]]></title>
-        <link>https://habr.com/ru/companies/X5Tech/articles/926546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926546</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/X5Tech/articles/926546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926546</guid>
-        <pubDate>Thu, 10 Jul 2025 09:12:09 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/2cd/1c9/602/2cd1c960245093334e933da57eb0a28b.png" /><p>Хабр, привет! Сегодня узнаем, что такое проблема подглядывания и почему она появляется. Реализуем аналог метода Покока и критерий Вальда для последовательного тестирования. Посмотрим, можно ли одновременно подглядывать и контролировать вероятности ошибок при том же размере групп. Обсудим границы применимости последовательного тестирования.</p> <a href="https://habr.com/ru/articles/926546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926546#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[[Перевод] Мониторинг и управление воркфлоу между взаимодействующими микросервисами]]></title>
-        <link>https://habr.com/ru/articles/926542/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926542</link>
-        <guid isPermaLink="true">https://habr.com/ru/articles/926542/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926542</guid>
-        <pubDate>Thu, 10 Jul 2025 09:08:49 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/bfe/0f5/519/bfe0f55199810265bff3721154cb924b.png" /><p>Как получить прозрачность в бизнес-процессах, если архитектура строится на микросервисах и событийных потоках? В своей статье Бернд Рюкер, сооснователь Camunda, делится практическими подходами к отслеживанию и управлению процессами в распределённых системах. Он объясняет, как переход от простого мониторинга событий к полноценной оркестрации помогает лучше понимать происходящее, своевременно реагировать на инциденты и сохранять контроль над сложными бизнес-операциями. В статье разбираются плюсы и минусы различных подходов — от Elastic-подобного мониторинга до использования движков рабочих процессов, а также рассматривается важность баланса между оркестрацией и хореографией.</p> <a href="https://habr.com/ru/articles/926542/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=926542#habracut">Читать далее</a>]]></description>
-    </item>
-
-    <item>
         <title><![CDATA[Выше всех ожиданий: квартальная выручка TSMC взлетела на 38,6 % благодаря ИИ]]></title>
         <link>https://3dnews.ru/1125748</link>
         <guid isPermaLink="true">https://3dnews.ru/1125748</guid>
@@ -461,14 +461,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1125746</guid>
         <pubDate>Thu, 10 Jul 2025 09:02:00 -0000</pubDate>
         <description><![CDATA[Российский бренд эксклюзивной электроники Caviar представил новую коллекцию смартфонов Cabubu. В неё вошли новейшие складные модели Samsung Galaxy Z Fold7 и Galaxy Z Flip7 с отделкой, объединяющей космическую тематику и популярную игрушку Labubu. Источник изображений: Caviar]]></description>
-    </item>
-
-    <item>
-        <title><![CDATA[Китайский экстремальный фузз-дисторшн для металла]]></title>
-        <link>https://habr.com/ru/companies/ruvds/articles/917408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=917408</link>
-        <guid isPermaLink="true">https://habr.com/ru/companies/ruvds/articles/917408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=917408</guid>
-        <pubDate>Thu, 10 Jul 2025 09:01:19 -0000</pubDate>
-        <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/upload_files/664/98c/96e/66498c96e6301d68eb6dbff0557b522c.jpg" /><p>Привет, Хабр! Сегодня мы изучим весьма занятную педаль перегруза, которая наверняка заинтересует любителей «тяжёлых» жанров гитарной музыки. Хотя и в контексте блюз-рока она, как это ни странно, вполне применима.</p><p><strong>❒</strong> Удивительное устройство выпускается компаниями <em>Twinote</em> и <em>Nux-Cherub</em> под названиями, соответственно, <strong>Pπ Fuzz</strong> и <strong>HG6</strong> <em>Modern High Gain Distortion</em>.</p><p>Его звучание нравится многим, но никто не может ответить, по какой схеме собрано данное чудо. Сегодня мы это исправим.</p> <a href="https://habr.com/ru/articles/917408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=917408#habracut">Читать далее</a>]]></description>
     </item>
 
     <item>
@@ -557,6 +549,14 @@
         <guid isPermaLink="true">https://3dnews.ru/1125737</guid>
         <pubDate>Thu, 10 Jul 2025 07:56:00 -0000</pubDate>
         <description><![CDATA[На этой неделе стало известно, что M**a удалось переманить к себе ранее возглавлявшего отдел Apple по разработке моделей искусственного интеллекта Жомина Пана (Ruoming Pang). Агентству Bloomberg удалось выяснить, в какую сумму подразделению M**a Superintelligence Labs (MSL) обошёлся этот уникальный специалист. Источник изображения: Pepi Stojanovski / unsplash.com]]></description>
+    </item>
+
+    <item>
+        <title><![CDATA[Илон Маск представил мощнейшую ИИ-модель Grok 4 и подписку SuperGrok Heavy за $300 в месяц]]></title>
+        <link>https://3dnews.ru/1125732</link>
+        <guid isPermaLink="true">https://3dnews.ru/1125732</guid>
+        <pubDate>Thu, 10 Jul 2025 07:31:00 -0000</pubDate>
+        <description><![CDATA[<img align="left" border="0" height="85" hspace="10" src="https://3dnews.ruhttps://cdn.3dnews.ru/assets/external/icons/2025/07/10/1125732.jpg" width="120" />Компания xAI, основанная Илоном Маском (Elon Musk), представила новую версию своего ИИ-чат-бота &mdash; Grok 4. Анонс состоялся спустя всего несколько месяцев после выхода предыдущей версии и всего через сутки после скандала с Grok 3. Поспешный выпуск Grok 4 демонстрирует скорость инноваций в генеративном ИИ и одновременно обнажает острую потребность в надёжных механизмах этического контроля. Источник изображения: xAI]]></description>
     </item>
 
     <item>
